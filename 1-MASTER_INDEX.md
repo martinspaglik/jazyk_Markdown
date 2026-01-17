@@ -16,6 +16,7 @@ Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.
 ### Roland Žemlička – do Záznamu o podaní vysvetlenia zo dňa 13. 12. 2024 okrem iného uviedol:
 
 
+< Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach.
 
 
 
