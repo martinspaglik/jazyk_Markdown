@@ -21,8 +21,7 @@ Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.
 ```TEXT
 Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach, kde sa ľavý pruh zbieha do pravého jazdného pruhu, tak v ľavom jazdnom pruhu ho predchádzalo vozidlo značky Kia. Ako sa pred neho zaradilo, tak vodič toho vozidla prudko pribrzdil, nakoľko sa tvorila kolóna vozidiel, ktorú podľa neho vodič vozidla nevidel. Ako vošlo vozidlo pred neho tak na autobuse sa spustila automatická brzda a tak tiež začal prudko brzdiť, pričom nedokázal zabrániť zrážke a narazil do pravej zadnej časti vozidla s ľavou prednou časťou autobusu. Po náraze vozidlo ostalo stáť šikmo pred autobusom a po chvíli ho premiestnil o kúsok ďalej a následne na pravú krajnicu. Po náraze vystúpil z autobusu a išiel za vodičom toho vozidla sa opýtať či je v poriadku na čo si od neho opýtal vodu načo mu ju dal.
 ```
-
-
+< Býbam v Rakúsku
 
 
 
