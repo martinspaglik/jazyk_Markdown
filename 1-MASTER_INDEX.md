@@ -23,3 +23,4 @@ Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.
 
 
 
+
