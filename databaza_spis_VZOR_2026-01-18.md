@@ -1,7 +1,7 @@
 ## Z čoho je obvinený (popis skutku / nehody)
 [Sem vložte text popisu nehody / skutku v plnom znení.]
 
----
+ ---
 
 ## Výpoveď 1
 - **Osoba:** [svedok / poškodený / obvinený / iné]
@@ -67,10 +67,7 @@
 ```text
 [Sem vložte text]
 ```
-
-
-
-
+   
 
 
 
