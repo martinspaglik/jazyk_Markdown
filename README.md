@@ -1,2 +1,74 @@
-# jazyk_Markdown
-Tréning
+## Z čoho je obvinený (popis skutku / nehody)
+[Sem vložte text popisu nehody / skutku v plnom znení.]
+
+ ---
+
+## Výpoveď 1
+- **Osoba:** [svedok / poškodený / obvinený / iné]
+- **Dátum výpovede:** [YYYY-MM-DD]
+- **Zdroj (spis/č. l.):** [..]
+
+Text
+
+Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach, kde sa ľavý pruh zbieha do pravého jazdného pruhu, tak v ľavom jazdnom pruhu ho predchádzalo vozidlo značky Kia. Ako sa pred neho zaradilo, tak vodič toho vozidla prudko pribrzdil, nakoľko sa tvorila kolóna vozidiel, ktorú podľa neho vodič vozidla nevidel.
+
+Ako vošlo vozidlo pred neho tak na autobuse sa spustila automatická brzda a tak tiež začal prudko brzdiť, pričom nedokázal zabrániť zrážke a narazil do pravej zadnej časti vozidla s ľavou prednou časťou autobusu. Po náraze vozidlo ostalo stáť šikmo pred autobusom a po chvíli ho premiestnil o kúsok ďalej a následne na pravú krajnicu. Po náraze vystúpil z autobusu a išiel za vodičom toho vozidla sa opýtať či je v poriadku na čo si od neho opýtal vodu načo mu ju dal.
+
+## Výpoveď 2
+- **Osoba:** [SVEDOK_2] (chodec – poškodený)
+- **Dátum výpovede:** 2026-01-12
+- **Zdroj (spis/č. l.):** [č. l. 15–18]
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## ÚRADNÝ ZÁZNAM HLIADKY PZ
+- **Dátum vyhotovenia** 2026-01-12
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## § Paragrafové znenia (výber)
+- **Zákon o cestnej premávke_8/2009 Z.z.:** § 15 ods. 1
+- **Zákon o priestupkoch_372/1990 Zb.:** § 22 ods. 1 písm. g)
+
+## Znalecký posudok z dopravy (doprava/cestná doprava)
+- **Posudok 1**
+- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
+- **Odbor / odvetvie:** [doprava / cestná doprava / bezpečnosť cestnej premávky / technická analýza nehôd]
+- **Číslo posudku:** [..]
+- **Zdroj (spis/č. l.):** [č. l. ..]
+- **Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
+- **Podklady posudku:** [zoznam podkladov – fotodokumentácia, nákres, zápisnica, merania, EDR, výpovede, mapové podklady…]
+### Závery posudku z dopravy 
+```text
+[Sem vložte text]
+```
+## Znalecký posudok zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
+- **Posudok 2**
+- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
+- **Odbor / odvetvie:** [zdravotníctvo a farmácia / súdnolekárstvo / traumatológia / toxikológia / iné]
+- **Číslo posudku:** [..]
+- **Posudzovaná osoba:** [poškodený / obvinený / iné + identifikácia podľa spisu]
+- **Zdroj (spis/č. l.):** [č. l. ..]
+-**Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
+- **Podklady posudku:** [lekárske správy, RTG/CT/MR nálezy, prepúšťacie správy, toxikologické vyšetrenia, fotodokumentácia, výpovede, dokumentácia ZZS…]
+### Závery posudku zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
+```text
+[Sem vložte text]
+```
+## Lekárska správa (ambulancia / urgent / hospitalizácia / ZZS)
+- **Lekárska správa 1**
+- **Zdravotnícke zariadenie:** [názov]
+- **Oddelenie / ambulancia:** [urgentný príjem / chirurgia / traumatológia / neurológia / všeobecný lekár / ZZS…]
+- **Dátum a čas vyšetrenia / príjmu:** [YYYY-MM-DD HH:MM]
+- **Dátum prepustenia (ak relevantné):** [YYYY-MM-DD]
+- **Pacient:** [poškodený / obvinený / iné + identifikácia podľa spisu]
+- **Dôvod vyšetrenia (anamnéza):** [stručne]
+- **Objektívny nález:** [stručne]
+- **Vyšetrenia:** [RTG/CT/MR/USG/lab/toxikológia…]
+- **Odporúčanie / liečba:** [..]
+- **PN / obmedzenia:** [..]
+- **Záver / diagnóza:** [..]
+```text
+[Sem vložte text]
+```
+## Kamerový záznam na CD nosiči
