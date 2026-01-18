@@ -1,28 +1,72 @@
-# popis dopravnej nehody
+## Z čoho je obvinený (popis skutku / nehody)
+[Sem vložte text popisu nehody / skutku v plnom znení.]
 
-## Nevenovanie  
+---
 
-Tvojou úlohou je skontrolovať, opraviť a vylepšiť právnické dokumenty alebo odborné texty poskytnuté používateľom.   
-Tvoj výstup musí spĺňať úroveň profesionálneho právneho podania – vhodného na predloženie súdu, správnemu orgánu alebo odbornému fóru.  
-
-### Pavol Bednár – do Záznamu o podaní vysvetlenia zo dňa 07. 11. 2024 okrem iného uviedol:
-<div align="justify"> Dňa 18. 10. 2024 v čase o 15:15 h v Bratislave po Bratskej ulici v smere na diaľnicu D2. To v ktorom jazdnom pruhu za križovatkou s Kopčianskou ulicou nevie uviesť. Ako sa nachádzal s vozidlom pred kopcom, tak pred ním sa začínala vznikať kolóna vozidiel na čo začal zastavovať vozidlo, pričom započul silný náraz zozadu a prebral sa až na volanie SOS vozidla. Po náraze k nemu prišiel nejaký pán, ktorý sa ho opýtal, či je v poriadku na čo on vozidlo preparkoval na pravú krajnicu.  
-Ako zaparkoval, tak k nemu prišiel nejaký nižší pán, ktorý sa ho tiež opýtal, či je v poriadku a ospravedlňoval sa mu a povedal mu, že ho nevidel, nakoľko ho oslepilo slnko. Po chvíli na miesto prišla RZP, kde ho ošetrili a previezli ho do nemocnice na Antolskej ulici, kde ho vyšetrili a následne nato ho poslali domov. Pri dopravnej nehode utrpel pomliaždenie hrudníka a brušnej steny a niečo s krčnou chrbticou. Po nehode bol od 21. 10. 2024 do 27. 10. 2024 práceneschopný, v súčasnej dobe absolvujem rehabilitácie chrbtice. Vozidlo bolo pred a počas jazdy v dobrom technickom stave a neprejavovali sa na ňom žiadne poruchy. Pred a počas jazdy nepožil žiadne lieky a ani iné látky, ktoré by znižovali schopnosť viesť motorové vozidlá. Čo sa týka zavinenia dopravnej nehody, podľa neho nehodu zavinil vodič autobusu, ktorý mu narazil do zadnej časti vozidla. Bol poučený o možnosti náhrady škody cestou správneho orgánu, ale túto možnosť odmieta, nakoľko vzniknutú škodu si uplatní cestou PZP vozidla, ktoré DN zavinilo.</div>
-
-### Miroslav Kurtý – do Záznamu o podaní vysvetlenia zo dňa 14. 11. 2024 okrem iného uviedol:
-
-Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach, kde sa ľavý pruh zbieha do pravého jazdného pruhu, tak v ľavom jazdnom pruhu ho predchádzalo vozidlo značky Kia. Ako sa pred neho zaradilo, tak vodič toho vozidla prudko pribrzdil, nakoľko sa tvorila kolóna vozidiel, ktorú podľa neho vodič vozidla nevidel. Ako vošlo vozidlo pred neho tak na autobuse sa spustila automatická brzda a tak tiež začal prudko brzdiť, pričom nedokázal zabrániť zrážke a narazil do pravej zadnej časti vozidla s ľavou prednou časťou autobusu. Po náraze vozidlo ostalo stáť šikmo pred autobusom a po chvíli ho premiestnil o kúsok ďalej a následne na pravú krajnicu. Po náraze vystúpil z autobusu a išiel za vodičom toho vozidla sa opýtať či je v poriadku na čo si od neho opýtal vodu načo mu ju dal. Po chvíli na miesto došla RZP a polícia, pričom toho vodiča vozidla Kia previezla RZP. Pri dopravnej nehode mu nevznikla žiadna škoda, a tak mu tiež neutrpel žiadne zranenia. Pred a počas jazdy nepožil žiadne lieky a ani inú návykovú látku, ktorá by znižovala schopnosť viesť motorové vozidlá. Autobus bol v dobrom technickom stave. V čase dopravnej nehody bol prázdny autobus. Autobus je vybavený odstupovým radarom, ktorý slúži na jazdu v kolóne, aby nenarazil do zadnej časti vozidla, ktoré sa nachádza pred ním. Čo sa týka zavinenia dopravnej nehody uviedol, že vodič vozidla Kia mu vytvoril náhlu prekážku, na ktorú nedokázal včas zareagovať a preto mu narazil do pravej zadnej časti vozidla svojou ľavou prednou časťou autobusu. Po dopravnej nehode s autobusom ostal stáť na mieste. 
-
-### Roland Žemlička – do Záznamu o podaní vysvetlenia zo dňa 13. 12. 2024 okrem iného uviedol:
-
-
-< Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach.  
-22ˇˇˇ^^^^^^^^^^^˘˘˘°°°˛˛˛
-```TEXT
-Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach, kde sa ľavý pruh zbieha do pravého jazdného pruhu, tak v ľavom jazdnom pruhu ho predchádzalo vozidlo značky Kia. Ako sa pred neho zaradilo, tak vodič toho vozidla prudko pribrzdil, nakoľko sa tvorila kolóna vozidiel, ktorú podľa neho vodič vozidla nevidel. Ako vošlo vozidlo pred neho tak na autobuse sa spustila automatická brzda a tak tiež začal prudko brzdiť, pričom nedokázal zabrániť zrážke a narazil do pravej zadnej časti vozidla s ľavou prednou časťou autobusu. Po náraze vozidlo ostalo stáť šikmo pred autobusom a po chvíli ho premiestnil o kúsok ďalej a následne na pravú krajnicu. Po náraze vystúpil z autobusu a išiel za vodičom toho vozidla sa opýtať či je v poriadku na čo si od neho opýtal vodu načo mu ju dal.
+## Výpoveď 1
+- **Osoba:** [svedok / poškodený / obvinený / iné]
+- **Dátum výpovede:** [YYYY-MM-DD]
+- **Zdroj (spis/č. l.):** [..]
+```text
+[Sem vložte plné znenie výpovede 1.]
 ```
-< Býbam v Rakúsku
+## Výpoveď 2
+- **Osoba:** [SVEDOK_2] (chodec – poškodený)
+- **Dátum výpovede:** 2026-01-12
+- **Zdroj (spis/č. l.):** [č. l. 15–18]
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## ÚRADNÝ ZÁZNAM HLIADKY PZ
+- **Dátum vyhotovenia** 2026-01-12
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## § Paragrafové znenia (výber)
+- **Zákon o cestnej premávke_8/2009 Z.z.:** § 15 ods. 1
+- **Zákon o priestupkoch_372/1990 Zb.:** § 22 ods. 1 písm. g)
 
+## Znalecký posudok z dopravy (doprava/cestná doprava)
+- **Posudok 1**
+- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
+- **Odbor / odvetvie:** [doprava / cestná doprava / bezpečnosť cestnej premávky / technická analýza nehôd]
+- **Číslo posudku:** [..]
+- **Zdroj (spis/č. l.):** [č. l. ..]
+- **Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
+- **Podklady posudku:** [zoznam podkladov – fotodokumentácia, nákres, zápisnica, merania, EDR, výpovede, mapové podklady…]
+- **Závery posudku:** 
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## Znalecký posudok zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
+- **Posudok 2**
+- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
+- **Odbor / odvetvie:** [zdravotníctvo a farmácia / súdnolekárstvo / traumatológia / toxikológia / iné]
+- **Číslo posudku:** [..]
+- **Posudzovaná osoba:** [poškodený / obvinený / iné + identifikácia podľa spisu]
+- **Zdroj (spis/č. l.):** [č. l. ..]
+-**Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
+- **Podklady posudku:** [lekárske správy, RTG/CT/MR nálezy, prepúšťacie správy, toxikologické vyšetrenia, fotodokumentácia, výpovede, dokumentácia ZZS…]
+- **Závery posudku:** 
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
+## Lekárska správa (ambulancia / urgent / hospitalizácia / ZZS)
+- **Lekárska správa 1**
+- **Zdravotnícke zariadenie:** [názov]
+- **Oddelenie / ambulancia:** [urgentný príjem / chirurgia / traumatológia / neurológia / všeobecný lekár / ZZS…]
+- **Dátum a čas vyšetrenia / príjmu:** [YYYY-MM-DD HH:MM]
+- **Dátum prepustenia (ak relevantné):** [YYYY-MM-DD]
+- **Pacient:** [poškodený / obvinený / iné + identifikácia podľa spisu]
+- **Dôvod vyšetrenia (anamnéza):** [stručne]
+- **Objektívny nález:** [stručne]
+- **Vyšetrenia:** [RTG/CT/MR/USG/lab/toxikológia…]
+- **Odporúčanie / liečba:** [..]
+- **PN / obmedzenia:** [..]
+- **Záver / diagnóza:** [..]
+```text
+[Sem vložte plné znenie výpovede 2.]
+```
 
 
 
