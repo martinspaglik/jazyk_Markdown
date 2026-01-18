@@ -1,74 +1,78 @@
-## Z čoho je obvinený (popis skutku / nehody)
-[Sem vložte text popisu nehody / skutku v plnom znení.]
+# Databáza súdnych rozhodnutí – ŠABLÓNA
+_Verzia: 1.0 | Aktualizované: [2026-01-18]_
 
- ---
+---
 
-## Výpoveď 1
-- **Osoba:** [svedok / poškodený / obvinený / iné]
-- **Dátum výpovede:** [YYYY-MM-DD]
-- **Zdroj (spis/č. l.):** [..]
+<!-- DECISION:BEGIN spis=3T/12/2021 -->
 
-Text
+# Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
+## Identifikácia
+- **ID:** R1
+- **Súd:** [napr. Okresný súd ... / Krajský súd ...]
+- **Spisová značka:** [napr. 12C/34/2024]
+- **Dátum rozhodnutia:** [YYYY-MM-DD]
+- **Typ rozhodnutia:** [rozsudok / uznesenie / iné]
+- **Stupeň:** [prvostupňové / odvolacie / dovolacie]
+- **Strany (anonymizované):** [Žalobca/odporca alebo navrhovateľ/odporca – stručne]
+- **Zdroj / poznámka:** [napr. interný spis / link / databáza]
 
-Pracuje ako vodič autobusu zájazdovej linky v spoločnosti Blaguss Slovakia s.r.o., so sídlom Pribylinská 10, Bratislava. Dňa 18. 10. 2024 v čase o 15:15 h viedol autobus značky Setra evidenčné číslo BL058ZV v Bratislave po Bratskej ulici v smere na diaľnicu D2 v pravom jazdnom pruhu v miestach, kde sa ľavý pruh zbieha do pravého jazdného pruhu, tak v ľavom jazdnom pruhu ho predchádzalo vozidlo značky Kia. Ako sa pred neho zaradilo, tak vodič toho vozidla prudko pribrzdil, nakoľko sa tvorila kolóna vozidiel, ktorú podľa neho vodič vozidla nevidel.
+## Kontext prípadu (1–3 vety)
+[Stručne: o čo išlo, čo bolo jadrom sporu, čo súd riešil.]
 
-Ako vošlo vozidlo pred neho tak na autobuse sa spustila automatická brzda a tak tiež začal prudko brzdiť, pričom nedokázal zabrániť zrážke a narazil do pravej zadnej časti vozidla s ľavou prednou časťou autobusu. Po náraze vozidlo ostalo stáť šikmo pred autobusom a po chvíli ho premiestnil o kúsok ďalej a následne na pravú krajnicu. Po náraze vystúpil z autobusu a išiel za vodičom toho vozidla sa opýtať či je v poriadku na čo si od neho opýtal vodu načo mu ju dal.
+## Téma a kategorizácia
+- **Téma:** [napr. náhrada škody / priestupky / procesné otázky / rodinné právo ...]
+- **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
+- **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
 
-## Výpoveď 2
-- **Osoba:** [SVEDOK_2] (chodec – poškodený)
-- **Dátum výpovede:** 2026-01-12
-- **Zdroj (spis/č. l.):** [č. l. 15–18]
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) [Najdôležitejší právny záver jednou vetou.]
+- (2) [Druhý záver.]
+- (3) [Tretí záver, ak treba.]
+
+## Použité ustanovenia
+- **Hmotné právo:** [názov predpisu] – § [..], § [..]
+- **Proces:** [CSP/OSP/SSP/Trestný poriadok a pod.] – § [..], § [..]
+- **Iné zdroje:** [judikatúra, stanoviská, metodika – ak relevantné]
+
+## Skutkový stav (stručne, vecne)
+- [Kľúčové skutkové tvrdenia.]
+- [Rozhodujúce skutkové zistenia súdu.]
+- [Podstatné dôkazy – iba výber.]
+
+## Procesný priebeh (stručne)
+- **Návrh/žaloba:** [čo sa žiadalo]
+- **Obrana:** [čo namietala druhá strana / orgán]
+- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
+- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. [Otázka č. 1]
+2. [Otázka č. 2]
+3. [Otázka č. 3 – voliteľné]
+
+### Argumentácia súdu (výber)
+- [Argument 1 – prečo súd rozhodol takto.]
+- [Argument 2.]
+- [Argument 3 – voliteľné.]
+
+### Praktické implikácie (pre prax)
+- [Čo z toho plynie pre podobné prípady / ako to využiť.]
+
+## Výrok (zhrnutie)
+- **Výrok I:** [stručne]
+- **Výrok II:** [stručne]
+- **Trovy:** [stručne]
+
+## Plné znenie (vložiť celý text)
 ```text
-[Sem vložte plné znenie výpovede 2.]
+[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
 ```
-## ÚRADNÝ ZÁZNAM HLIADKY PZ
-- **Dátum vyhotovenia** 2026-01-12
-```text
-[Sem vložte plné znenie výpovede 2.]
-```
-## § Paragrafové znenia (výber)
-- **Zákon o cestnej premávke_8/2009 Z.z.:** § 15 ods. 1
-- **Zákon o priestupkoch_372/1990 Zb.:** § 22 ods. 1 písm. g)
 
-## Znalecký posudok z dopravy (doprava/cestná doprava)
-- **Posudok 1**
-- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
-- **Odbor / odvetvie:** [doprava / cestná doprava / bezpečnosť cestnej premávky / technická analýza nehôd]
-- **Číslo posudku:** [..]
-- **Zdroj (spis/č. l.):** [č. l. ..]
-- **Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
-- **Podklady posudku:** [zoznam podkladov – fotodokumentácia, nákres, zápisnica, merania, EDR, výpovede, mapové podklady…]
-### Závery posudku z dopravy 
+## Odôvodnenie (vložiť celý text)
 ```text
-[Sem vložte text]
+[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
 ```
-## Znalecký posudok zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
-- **Posudok 2**
-- **Znalec / organizácia:** [meno, priezvisko / znalecká organizácia]
-- **Odbor / odvetvie:** [zdravotníctvo a farmácia / súdnolekárstvo / traumatológia / toxikológia / iné]
-- **Číslo posudku:** [..]
-- **Posudzovaná osoba:** [poškodený / obvinený / iné + identifikácia podľa spisu]
-- **Zdroj (spis/č. l.):** [č. l. ..]
--**Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
-- **Podklady posudku:** [lekárske správy, RTG/CT/MR nálezy, prepúšťacie správy, toxikologické vyšetrenia, fotodokumentácia, výpovede, dokumentácia ZZS…]
-### Závery posudku zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
-```text
-[Sem vložte text]
-```
-## Lekárska správa (ambulancia / urgent / hospitalizácia / ZZS)
-- **Lekárska správa 1**
-- **Zdravotnícke zariadenie:** [názov]
-- **Oddelenie / ambulancia:** [urgentný príjem / chirurgia / traumatológia / neurológia / všeobecný lekár / ZZS…]
-- **Dátum a čas vyšetrenia / príjmu:** [YYYY-MM-DD HH:MM]
-- **Dátum prepustenia (ak relevantné):** [YYYY-MM-DD]
-- **Pacient:** [poškodený / obvinený / iné + identifikácia podľa spisu]
-- **Dôvod vyšetrenia (anamnéza):** [stručne]
-- **Objektívny nález:** [stručne]
-- **Vyšetrenia:** [RTG/CT/MR/USG/lab/toxikológia…]
-- **Odporúčanie / liečba:** [..]
-- **PN / obmedzenia:** [..]
-- **Záver / diagnóza:** [..]
-```text
-[Sem vložte text]
-```
-## Kamerový záznam na CD nosiči
+
+
+<!-- DECISION:END -->
