@@ -67,7 +67,10 @@
 ```text
 [Sem vložte text]
 ```
-   
+## Kamerový záznam na CD nosiči
+
+
+
 
 
 
