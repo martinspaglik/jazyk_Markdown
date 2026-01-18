@@ -34,7 +34,7 @@
 - **Zdroj (spis/č. l.):** [č. l. ..]
 - **Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
 - **Podklady posudku:** [zoznam podkladov – fotodokumentácia, nákres, zápisnica, merania, EDR, výpovede, mapové podklady…]
-- **Závery posudku:** 
+### Závery posudku z dopravy 
 ```text
 [Sem vložte plné znenie výpovede 2.]
 ```
@@ -47,7 +47,7 @@
 - **Zdroj (spis/č. l.):** [č. l. ..]
 -**Predmet skúmania:** [napr. dopravná nehoda zo dňa …, miesto …, účastníci …]
 - **Podklady posudku:** [lekárske správy, RTG/CT/MR nálezy, prepúšťacie správy, toxikologické vyšetrenia, fotodokumentácia, výpovede, dokumentácia ZZS…]
-- **Závery posudku:** 
+### Závery posudku zo zdravotníctva (medicína / súdnolekárstvo / traumatológia / toxikológia a pod.)
 ```text
 [Sem vložte plné znenie výpovede 2.]
 ```
@@ -67,6 +67,7 @@
 ```text
 [Sem vložte plné znenie výpovede 2.]
 ```
+
 
 
 
