@@ -30,14 +30,8 @@
 > - j) križovatkou miesto, v ktorom sa cesty pretínajú alebo spájajú,
 > - k) križovatkou s riadenou premávkou križovatka, na ktorej je premávka riadená dopravnými zariadeniami alebo príslušníkom Policajného zboru (ďalej len „policajt“), prípadne inou oprávnenou osobou,
 > - l) motorovým vozidlom nekoľajové vozidlo poháňané vlastným motorom s výnimkou prípadu podľa písmena f) a trolejbus,
-
-> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm<sup>3</sup> s konštrukčnou rýchlosťou neprevyšujúcou 25 km·h<sup>-1</sup> alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25&nbsp;kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h<sup>-1</sup> alebo keď vodič prestane šliapať do pedálov,
-
-
-
-> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm<sup>3</sup> s konštrukčnou rýchlosťou neprevyšujúcou 25 km·h<sup>-1</sup> alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0\.25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h<sup>-1</sup> alebo keď vodič prestane šliapať do pedálov,
-
-
+> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm^3^ s konštrukčnou rýchlosťou neprevyšujúcou 25 km·h^-1^ alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kw, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h^1-^ alebo keď vodič prestane šliapať do pedálov,
+> - nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm³ s konštrukčnou rýchlosťou neprevyšujúcou 25 km·h⁻¹ alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h⁻¹ alebo keď vodič prestane šliapať do pedálov,
 > - n) neobmedzením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky neprekážal,
 > - o) neohrozením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky nevzniklo nijaké nebezpečenstvo,
 > - p) orgánom Policajného zboru útvar Policajného zboru zriadený podľa osobitného predpisu,
@@ -55,4 +49,24 @@
 > ab) zníženou viditeľnosťou viditeľnosť, pri ktorej sa účastníci cestnej premávky dostatočne zreteľne navzájom nevidia, ani keď nevidia predmety na ceste, najmä od súmraku do svitania, za hmly, sneženia, dažďa a v tuneli,
 > ac) zvláštnym motorovým vozidlom motorové vozidlo vyrobené na iné účely než na prevádzku na cestách, ktoré po splnení ustanovených podmienok možno prevádzkovať v cestnej premávke; ide najmä o poľnohospodárske traktory a lesné traktory, samohybné pracovné, poľnohospodárske, lesné alebo stavebné stroje.
 
+> DRUHÁ ČASŤ
 
+> PRAVIDLÁ CESTNEJ PREMÁVKY
+
+> PRVÁ HLAVA
+
+> ZÁKLADNÉ POVINNOSTI
+
+## § 3 – Všeobecné povinnosti účastníka cestnej premávky
+
+> (1) Účastník cestnej premávky je povinný dodržiavať pravidlá cestnej premávky ustanovené v tomto zákone.
+>
+> (2) Účastník cestnej premávky je ďalej povinný
+>
+> - a) správať sa disciplinovane a ohľaduplne tak, aby neohrozil bezpečnosť alebo plynulosť cestnej premávky, pritom je povinný prispôsobiť svoje správanie najmä stavebnému, dopravno-technickému stavu cesty, situácii v cestnej premávke, poveternostným podmienkam a svojim schopnostiam,
+> - b) poslúchnuť pokyn vyplývajúci z dopravnej značky alebo dopravného zariadenia,
+> - c) poslúchnuť pokyn, výzvu alebo príkaz policajta súvisiaci s výkonom jeho oprávnení pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky, strpieť výkon jeho oprávnení, ako aj pokyny iných osôb, ktoré na to oprávňuje tento zákon alebo osobitný predpis.
+>   
+> (3) Používanie technických prostriedkov a zariadení, ktorých činnosť umožňuje odhalenie alebo ovplyvňovanie funkcií technických prostriedkov používaných pri plnení úloh na úseku výkonu dohľadu nad bezpečnosťou a plynulosťou cestnej premávky alebo ich umiestnenie vo vozidle spôsobom, ktorý umožňuje ich použitie, je zakázané.
+
+> (4) Každé pohybujúce sa vozidlo a každá pohybujúca sa jazdná súprava musí mať vodiča.
