@@ -198,7 +198,7 @@
 
 > (1) Mimo obce na ceste s dvoma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy sa jazdí v pravom jazdnom pruhu. V ostatných jazdných pruhoch sa smie jazdiť, ak je to potrebné na obchádzanie, predchádzanie, otáčanie alebo na odbočovanie.
 >
-> (2) Mimo obce na ceste s troma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy smie vodič nákladného automobilu s najväčšou prípustnou celkovou hmotnosťou presahujúcou 3 500 kg, vodič jazdnej súpravy, ktorej celková dĺžka presahuje 7 m, vodič zvláštneho motorového vozidla a vodič motocykla s najväčšou konštrukčnou rýchlosťou do 45 km/h<sup>-1</sup> použiť na predchádzanie výhradne druhý jazdný pruh od pravého okraja vozovky; v ostatných jazdných pruhoch smie jazdiť, ak je to potrebné na obchádzanie, otáčanie alebo na odbočovanie.
+> (2) Mimo obce na ceste s troma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy smie vodič nákladného automobilu s najväčšou prípustnou celkovou hmotnosťou presahujúcou 3 500 kg, vodič jazdnej súpravy, ktorej celková dĺžka presahuje 7 m, vodič zvláštneho motorového vozidla a vodič motocykla s najväčšou konštrukčnou rýchlosťou do 45 km/h použiť na predchádzanie výhradne druhý jazdný pruh od pravého okraja vozovky; v ostatných jazdných pruhoch smie jazdiť, ak je to potrebné na obchádzanie, otáčanie alebo na odbočovanie.
 >
 > (3) V obci na ceste s dvoma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy smie vodič vozidla použiť na jazdu ktorýkoľvek jazdný pruh; to neplatí pre vodiča uvedeného v odseku 2, na ktorého sa vzťahujú pri jazde v obci odseky 1 a 2.
 >
@@ -260,7 +260,7 @@
 >
 > (2) Vodič, ktorý pri predchádzaní vybočuje zo smeru svojej jazdy, je povinný dávať znamenie o zmene smeru jazdy, pričom nesmie ohroziť vodičov jazdiacich za ním.  
 >
-> (3) Vodič nesmie pri predchádzaní ohroziť ani obmedziť vodiča vozidla, pred ktoré sa po predídení zaraďuje; pritom je povinný dávať znamenie o zmene smeru jazdy. Pri predchádzaní musí vodič zachovávať dostatočný bočný odstup od predchádzaného vozidla; pritom je povinný prihliadať najmä na rýchlosť, druh svojho i predchádzaného vozidla, poveternostné podmienky a stav a povahu vozovky. Dostatočný bočný odstup pri predchádzaní vodiča malého motocykla, cyklistu alebo chodca je spravidla najmenej 1 m pri najvyššej dovolenej rýchlosti do 50 km/h<sup>-1</sup> a 1,5 m v ostatných prípadoch.  
+> (3) Vodič nesmie pri predchádzaní ohroziť ani obmedziť vodiča vozidla, pred ktoré sa po predídení zaraďuje; pritom je povinný dávať znamenie o zmene smeru jazdy. Pri predchádzaní musí vodič zachovávať dostatočný bočný odstup od predchádzaného vozidla; pritom je povinný prihliadať najmä na rýchlosť, druh svojho i predchádzaného vozidla, poveternostné podmienky a stav a povahu vozovky. Dostatočný bočný odstup pri predchádzaní vodiča malého motocykla, cyklistu alebo chodca je spravidla najmenej 1 m pri najvyššej dovolenej rýchlosti do 50 km/h a 1,5 m v ostatných prípadoch.  
 >
 > (4) Vodič predchádzaného vozidla nesmie zvyšovať rýchlosť jazdy ani inak brániť predchádzaniu.  
 >
@@ -424,7 +424,7 @@
 >
 > (2) Vozidlá pred železničným priecestím sa radia za sebou v poradí, v ktorom prišli. Ak nejde o súbežnú jazdu, smú vozidlá prechádzať cez železničné priecestie len v jednom jazdnom prúde.  
 >
-> (3) Vo vzdialenosti 50 m pred železničným priecestím a pri jeho prechádzaní vodič je povinný jazdiť rýchlosťou najviac 30 km/h<sup>-1</sup>; ak na priecestnom zabezpečovacom zariadení svieti prerušované biele svetlo, vodič je povinný 50 m pred železničným priecestím a pri jeho prechádzaní jazdiť rýchlosťou najviac 50 km/h<sup>-1</sup>. Vodič pritom nesmie zbytočne predlžovať čas prechádzania železničného priecestia.  
+> (3) Vo vzdialenosti 50 m pred železničným priecestím a pri jeho prechádzaní vodič je povinný jazdiť rýchlosťou najviac 30 km/h; ak na priecestnom zabezpečovacom zariadení svieti prerušované biele svetlo, vodič je povinný 50 m pred železničným priecestím a pri jeho prechádzaní jazdiť rýchlosťou najviac 50 km/h. Vodič pritom nesmie zbytočne predlžovať čas prechádzania železničného priecestia.  
 >
 > (4) Ak dôjde k zastaveniu vozidla na železničnom priecestí, vodič je povinný odstrániť vozidlo zo železničnej trate; ak tak nemôže urobiť, musí bezodkladne vykonať také opatrenia, aby bol vodič koľajového vozidla pred nebezpečenstvom včas varovaný.  
 >
@@ -802,4 +802,218 @@
 > (4) Organizovaný útvar chodcov idúci najviac v dvojstupe smie ísť po chodníku, a to vpravo; pritom nemusí byť označený podľa odseku (2).  
 >
 > (5) Pre organizovanú skupinu detí, ktoré nepodliehajú povinnej školskej dochádzke, platia ustanovenia o chodcoch.
+
+## § 55 – Osobitné ustanovenia o cyklistoch
+
+> (1) Na bicykli sa jazdí predovšetkým po cestičke pre cyklistov. Po cestičke pre cyklistov sa jazdí vpravo. Kde cestička pre cyklistov nie je alebo nie je zjazdná, jazdí sa pri pravom okraji vozovky. Ak sa tým neohrozujú ani neobmedzujú chodci, smie sa jazdiť po pravej krajnici. Osoby mladšie ako desať rokov, osoby, ktoré ich sprevádzajú, a osoby, ktoré ich vezú podľa odseku (3), smú jazdiť po pravej strane chodníka, ak tým neohrozujú ani neobmedzujú chodcov a dodržiavajú rýchlosť chôdze.  
+>
+> (2) Cyklisti smú jazdiť len jednotlivo za sebou; to neplatí pri jazde po cestičke pre cyklistov, poľnej ceste, lesnej ceste a v obytnej zóne, kde smú jazdiť dvaja cyklisti vedľa seba, ak tým neobmedzujú a neohrozujú ostatných účastníkov cestnej premávky. V skupine najmenej šiestich cyklistov môžu jazdiť dvaja cyklisti vedľa seba. Cyklista nesmie jazdiť bez držania riadidiel, držať sa iného vozidla, viesť počas jazdy druhý bicykel, ručný vozík, psa ani iné zviera a voziť predmety, ktoré by sťažovali vedenie bicykla alebo ohrozovali iných účastníkov cestnej premávky. Pri jazde musí mať cyklista nohy na pedáloch; to neplatí, ak ide o bicykel, ktorého pohon nezabezpečujú pedále.  
+>
+> (3) Na jednomiestnom bicykli nie je dovolená jazda viacerým osobám. Osoba staršia ako 15 rokov môže viezť osobu mladšiu ako 10 rokov  
+> - a) na pomocnom sedadle na prepravu dieťaťa s pevnými opierkami na nohy,  
+> - b) v prívesnom vozíku určenom na prepravu detí,  
+> - c) na detskom bicykli pevne spojenom tyčou s vodiacim bicyklom.  
+>
+> (4) Osoba mladšia ako 10 rokov smie na ceste (okrem cestičky pre cyklistov, poľnej cesty, lesnej cesty a obytnej zóny) jazdiť na bicykli len pod dohľadom osoby staršej ako 15 rokov, ktorá je dostatočne spôsobilá, aby na ňu riadne dozerala, a ktorá zodpovedá za dodržiavanie povinností podľa tohto zákona touto osobou.  
+>
+> (5) Pomaly idúce alebo stojace vozidlo môže cyklista idúci rovnakým smerom predchádzať aj po pravej strane vozovky alebo krajnici, pritom je povinný dbať na zvýšenú opatrnosť; to neplatí, ak vodič takého vozidla dáva znamenie o zmene smeru jazdy doprava.  
+>
+> (6) Ak je zriadená cestička pre chodcov a cyklistov označená príslušnou dopravnou značkou, cyklista nesmie ohroziť chodca. Ak cestička pre chodcov a cyklistov má oddelené pruhy pre chodcov a cyklistov, sú chodci a cyklisti povinní použiť len pruh pre nich určený; to neplatí pri obchádzaní, predchádzaní, odbočovaní, otáčaní, pri vchádzaní na cestičku pre chodcov a cyklistov a vychádzaní z nej, pričom sa nesmú vzájomne ohroziť. Ak dopravná značka umožňuje cyklistom použiť cestičku pre chodcov, cyklista nesmie obmedziť ani ohroziť chodcov a musí dodržiavať rýchlosť chôdze.  
+>
+> (7) Cestičku pre cyklistov môže použiť aj osoba pohybujúca sa na lyžiach, korčuliach, kolobežke, skejtborde alebo na obdobnom športovom vybavení, ak tým neobmedzí ani neohrozí cyklistov.  
+>
+> (8) Pred vjazdom na priechod pre cyklistov, ktorý je vyznačený mimo križovatky, sa cyklista musí presvedčiť, či tak môže urobiť bez nebezpečenstva. Cyklista môže prechádzať cez vozovku, len ak s ohľadom na vzdialenosť a rýchlosť jazdy prichádzajúcich vozidiel nedonúti ich vodičov k zmene smeru alebo rýchlosti jazdy. Na priechode pre cyklistov sa jazdí vpravo.  
+>
+> (9) Cyklista mladší ako 15 rokov je povinný počas jazdy na bicykli chrániť si hlavu riadne upevnenou ochrannou prilbou; táto povinnosť sa vzťahuje aj na prepravované osoby podľa odseku (3) písm. a) a c).
+
+## § 55a – Jazda na samovyvažovacom vozidle a na kolobežke s pomocným motorčekom
+
+> (1) Samovyvažovacie vozidlo smie na ceste s výnimkou cestičky pre cyklistov, poľnej cesty, lesnej cesty a obytnej zóny viesť len osoba staršia ako 15 rokov.  
+>
+> (2) Vodič samovyvažovacieho vozidla smie jazdiť po pravej strane chodníka, cestičky pre chodcov alebo priechodu pre chodcov, len ak neohrozí a neobmedzí chodcov, pričom nesmie prekročiť rýchlosť chôdze.  
+>
+> (3) Vodič samovyvažovacieho vozidla smie jazdiť po pravej strane vyhradeného jazdného pruhu pre cyklistov, cestičky pre cyklistov alebo priechodu pre cyklistov, len ak neohrozí a neobmedzí cyklistov.  
+>
+> (4) Vodiči samovyvažovacích vozidiel smú jazdiť len jednotlivo za sebou. Vodič samovyvažovacieho vozidla je povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona; nesmie viesť počas jazdy psa ani iné zviera a voziť predmety, ktoré by sťažovali vedenie vozidla alebo ohrozovali iných účastníkov cestnej premávky. Na jednomiestnom samovyvažovacom vozidle nie je dovolená jazda viacerým osobám.  
+>
+> (5) Na prechádzanie vodiča samovyvažovacieho vozidla cez cestu alebo cez vozovku sa primerane vzťahuje § 53 alebo § 55 ods. 8. Povinnosti vodiča voči chodcovi alebo cyklistovi platia aj voči vodičovi samovyvažovacieho vozidla a vodičovi kolobežky s pomocným motorčekom.  
+>
+> (6) Ustanovenia o jazde na samovyvažovacom vozidle platia aj na jazdu na kolobežke s pomocným motorčekom.
+
+## § 55b – Jazda automatizovaného doručovacieho vozidla
+
+> (1) Vodičom automatizovaného doručovacieho vozidla smie byť len osoba staršia ako 18 rokov.  
+>
+> (2) Automatizované doručovacie vozidlo môže jazdiť aj po chodníku a iných miestach, po ktorých môžu chodiť chodci; v takom prípade smie jazdiť rýchlosťou najviac 6 km/h a musí dodržiavať pravidlá týkajúce sa chodcov. Automatizované doručovacie vozidlo môže jazdiť aj po komunikáciách, po ktorých môžu jazdiť cyklisti; v takom prípade smie jazdiť rýchlosťou najviac 20 km/h a musí dodržiavať pravidlá týkajúce sa cyklistov. Pri jazde po vozovke smie automatizované doručovacie vozidlo jazdiť rýchlosťou najviac 45 km/h.
+> 
+> (3) Povinnosti vodiča voči chodcovi alebo cyklistovi platia rovnako voči automatizovanému doručovaciemu vozidlu.  
+>
+> (4) Automatizované doručovacie vozidlo smie prepravovať náklad len v uzavretom prepravnom priestore. Automatizované doručovacie vozidlo nesmie prepravovať osoby ani zvieratá.
+
+## § 56 – Jazda so záprahovým vozidlom a ručným vozíkom
+
+> (1) Pohoničom záprahového vozidla nesmie byť osoba mladšia ako 15 rokov. Ak pohonič ide vedľa záprahového vozidla, je povinný ísť po pravej strane; pred opustením záprahového vozidla je povinný vozidlo zabrzdiť a na svahu podložiť kolesá.  
+>
+> (2) Osoba, ktorá tlačí alebo ťahá ručný vozík s celkovou šírkou väčšou ako 600 mm, je povinná ísť pri pravom okraji vozovky; ak sa tým neohrozujú ani neobmedzujú chodci, smie ísť po pravej krajnici. Za zníženej viditeľnosti musí byť táto osoba alebo vozík označený na ľavej aj pravej strane zapnutým neoslňujúcim bielym svetlom viditeľným ostatnými účastníkmi cestnej premávky.
+
+## § 57 – Jazda na zvieratách, vedenie a hnanie zvierat
+
+> (1) Pre jazdca na zvierati a pre sprievodcu vedených a hnaných zvierat primerane platia práva a povinnosti vodiča podľa tohto zákona.  
+>
+> (2) Na ceste s výnimkou poľnej cesty a lesnej cesty nesmie ísť na zvierati osoba mladšia ako 15 rokov. Jazdec je povinný ísť pri pravom okraji vozovky. Ak sa tým neohrozujú ani neobmedzujú chodci, jazdec smie ísť po pravej krajnici. Jazdci na zvieratách smú ísť len jednotlivo za sebou. Jazdec smie viesť len jedno zviera. Ak je dopravnou značkou určená cesta pre jazdcov pohybujúcich sa na zvierati, sú povinní prednostne použiť takúto cestu.  
+>
+> (3) Sprievodca smie viesť najviac dve zvieratá, ktoré musia byť navzájom priviazané. Zvieratá sa smú viesť a hnať len tak, aby premávka na ceste nebola ohrozovaná a aby bola čo najmenej obmedzovaná. Hnané zvieratá sa pritom musia rozdeliť na vhodne dlhé skupiny a oddeliť od seba dostatočne veľkými medzerami. Hnané zvieratá nesmú sprevádzať osoby mladšie ako 15 rokov. Počet sprevádzajúcich osôb musí byť dostatočný na zabezpečenie usmerneného pohybu zvierat. Za zníženej viditeľnosti sprievodca musí mať na sebe viditeľne umiestnené reflexné prvky alebo oblečený reflexný bezpečnostný odev.  
+>
+> (4) Za zníženej viditeľnosti jazdec na zvierati musí mať na sebe viditeľne umiestnené reflexné prvky alebo oblečený reflexný bezpečnostný odev. Ak ide o útvar jazdcov, prvý jazdec musí byť označený aj neoslňujúcim bielym svetlom a posledný jazdec červeným svetlom.  
+>
+> (5) Na jazdu na zvierati, vedenie a hnanie zvierat sa vzťahuje zákaz podľa § 39 ods. 8.  
+>
+> (6) Voľný pohyb domácich zvierat je na ceste zakázaný. Majiteľ domáceho zvieraťa, jeho chovateľ alebo nimi poverená osoba zodpovedá za zabezpečenie domáceho zvieraťa proti voľnému pohybu po ceste.
+
+## § 58 – Osoba vykonávajúca prácu na ceste
+
+> (1) Osoba, ktorá vykonáva na ceste prácu spojenú s jej údržbou, opravou alebo výstavbou, alebo inú pracovnú činnosť, na ktorú je oprávnená, musí byť zreteľne označená. Takáto osoba nemusí dodržiavať tie ustanovenia pravidiel cestnej premávky, pri ktorých to povaha vykonávanej práce vylučuje; pritom musí dbať na potrebnú opatrnosť.  
+>
+> (2) Označenie osoby podľa odseku (1) ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+## § 59 Osobitné ustanovenia o cestnej premávke v obytnej zóne, pešej zóne a školskej zóne
+
+> (1) V obytnej zóne, pešej zóne a školskej zóne chodci smú používať cestu v celej jej šírke, pričom sa na nich nevzťahuje § 52. Hry detí na ceste sú dovolené len v obytnej zóne.
+>
+> (2) Do pešej zóny je povolený vjazd len vozidlám, ktorým to umožňuje dopravná značka.
+>
+> (3) V obytnej zóne, pešej zóne a školskej zóne vodič smie jazdiť rýchlosťou najviac 20 km/h. Pritom je povinný dbať na zvýšenú ohľaduplnosť voči chodcom, ktorých nesmie ohroziť. Ak je to nevyhnutné, vodič je povinný zastaviť vozidlo. V obytnej zóne a pešej zóne je státie motorových vozidiel zakázané, ak dopravnou značkou nie je určené inak. V školskej zóne možno stáť, ak tým nie je obmedzený pohyb chodcov.
+>
+> (4) V obytnej zóne, pešej zóne a školskej zóne chodci sú povinní umožniť vozidlám jazdu. To platí aj pre deti, ktoré sa hrajú v obytnej zóne.
+>
+> (5) Ak v tejto hlave nie je ustanovené inak, platia pre premávku v obytnej zóne, pešej zóne a školskej zóne ostatné ustanovenia tohto zákona.
+
+## § 59a Osobitné ustanovenia o cestnej premávke na bicyklovej ceste
+
+> (1) Bicyklovú cestu môžu cyklisti používať v celej šírke určenej pre ich smer jazdy.
+>
+> (2) Na bicyklovej ceste vodič smie jazdiť rýchlosťou najviac 30 km/h.
+>
+> (3) Motorovým vozidlám je jazda na bicyklovej ceste zakázaná, ak dopravnou značkou nie je určené inak.
+>
+> (4) Ak je dopravnou značkou umožnená jazda na bicyklovej ceste vodičom vozidiel, cyklisti majú pred nimi prednosť, pričom tí ich nesmú ohroziť a predchádzať ich môžu iba pri dodržaní bočného odstupu najmenej 1,5 m. Zastavenie a státie motorových vozidiel okrem motocyklov je na bicyklovej ceste povolené len na vyznačených miestach.
+>
+> (5) Ak v odsekoch 1 až 4 nie je ustanovené inak, platia pre premávku na bicyklovej ceste ostatné ustanovenia tohto zákona.
+
+> PIATA HLAVA
+
+> ÚPRAVA A RIADENIE CESTNEJ PREMÁVKY
+
+## Dopravné značky a dopravné zariadenia
+
+## § 60
+
+> (1) V cestnej premávke sa používajú  
+> - a) zvislé dopravné značky,  
+> - b) vodorovné dopravné značky,  
+> - c) dopravné zariadenia.  
+>
+> (2) Úprava cestnej premávky vykonaná dopravnými značkami a dopravnými zariadeniami je nadradená všeobecnej úprave cestnej premávky.  
+>
+> (3) Pokyny policajta a pokyny inej oprávnenej osoby sú nadradené pokynom vyplývajúcim z dopravných značiek a dopravných zariadení.  
+>
+> (4) Vlastník nehnuteľnosti je povinný za primeranú náhradu strpieť umiestnenie dopravnej značky alebo dopravného zariadenia a ich nosnej konštrukcie na svojej nehnuteľnosti.  
+>
+> (5) Na dopravných značkách alebo na dopravných zariadeniach a ich nosnej konštrukcii je zakázané umiestňovať čokoľvek, čo nesúvisí s dopravnou značkou alebo s dopravným zariadením.  
+>
+> (6) Na ceste a na mieste pri ceste sa nesmú umiestňovať veci, ktoré by mohli viesť k zámene s dopravnou značkou alebo s dopravným zariadením, alebo by ich zakrývali, alebo ktoré by rozptyľovali a upútavali pozornosť účastníka cestnej premávky, alebo ho oslňovali.  
+>
+> (7) Miestom pri ceste sa rozumie priestor, v ktorom je umiestnená dopravná značka alebo dopravné zariadenie; takýmto miestom je aj priestor, v ktorom sa dopravné značky alebo dopravné zariadenia spravidla umiestňujú.  
+>
+> (8) Svetelné signalizačné zariadenia udržiava správca cesty. V blízkosti svetelných signalizačných zariadení sa nesmú umiestňovať svetelné zdroje, ktorých svetlá by mohli viesť k zámene so svetlami svetelných signalizačných zariadení.  
+>
+> (9) Podrobnosti o dopravných značkách a dopravných zariadeniach, ich vyobrazenie, význam a umiestňovanie na ceste a na mieste pri ceste ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+## § 61
+
+> (1) Dopravné značky a dopravné zariadenia sa smú používať len v takom rozsahu a takým spôsobom, ako to nevyhnutne vyžaduje bezpečnosť a plynulosť cestnej premávky.  
+>
+> (2) Použitie dopravných značiek a dopravných zariadení v jednotlivých prípadoch určuje  
+> - a) orgán podľa osobitného predpisu použitie dopravných značiek, ktoré označujú železničné priecestie, dopravných značiek, ktoré upozorňujú na železničné priecestie, a dopravnej značky, ktorá prikazuje vodičovi dať prednosť v jazde, ak sa má umiestniť pred železničným priecestím, tento orgán prerokuje aj s Dopravným úradom,  
+> - b) Vojenská polícia vo vojenských objektoch a priestoroch.  
+>
+> (3) Policajt alebo vojenský policajt môže použiť dočasné zvislé dopravné značky a dočasné dopravné zariadenia aj bez predchádzajúceho určenia ich použitia príslušným orgánom, ak je to potrebné na zaistenie bezpečnosti a plynulosti cestnej premávky pri plnení svojich úloh.  
+>
+> (4) Správca tunela môže použiť dočasné zvislé dopravné značky a dočasné dopravné zariadenia aj bez predchádzajúceho určenia ich použitia príslušným orgánom, ak je to potrebné na zaistenie bezpečnosti a plynulosti cestnej premávky v súvislosti s prevádzkou tunela; o tomto použití je povinný bezodkladne informovať príslušný cestný správny orgán a orgán Policajného zboru.
+
+## § 62 – Riadenie cestnej premávky
+
+> (1) Cestná premávka je riadená dopravnými značkami, dopravnými zariadeniami alebo pokynmi policajta.  
+>
+> (2) V rozsahu ustanovenom osobitným predpisom je oprávnený riadiť cestnú premávku aj vojak povolaný na plnenie úloh Policajného zboru alebo vojenský policajt; riadiť cestnú premávku je oprávnený aj vojak pri plnení úloh ozbrojených síl a žandár pri plnení úloh Žandárskeho zboru.  
+>
+> (3) Podrobnosti o svetelných signáloch a pokynoch policajta, vojenského policajta, žandára, vojaka pri plnení úloh ozbrojených síl a vojaka povolaného na plnenie úloh Policajného zboru pri riadení cestnej premávky a ich význam ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+## § 63 – Oprávnenie na zastavovanie vozidiel
+
+> (1) Dávať pokyny na zastavenie vozidla je oprávnený policajt, vojenský policajt v rovnošate, profesionálny vojak, vojak mimoriadnej služby v rovnošate s vonkajším označením „POLÍCIA“ a inšpektor práce v služobnej rovnošate pri výkone cestnej kontroly; dávať pokyny na zastavenie vozidla je oprávnená aj iná osoba, ak to ustanovuje osobitný predpis.
+>
+> (2) Dávať pokyny na zastavenie vozidla sú ďalej oprávnení  
+> - a) sprievodca vedených alebo hnaných zvierat, ak to vyžaduje bezpečnosť cestnej premávky,  
+> - b) vedúci organizovaného útvaru školskej mládeže alebo organizovanej skupiny detí, ktoré nepodliehajú povinnej školskej dochádzke, alebo sprievodca osôb so zdravotným postihnutím pri prechádzaní cez vozovku,  
+> - c) osoba vykonávajúca prácu na ceste spojenú s jej údržbou, opravou alebo s výstavbou, ak to vyžaduje bezpečnosť cestnej premávky,  
+> - d) osoba pribratá na zaistenie bezpečnej prevádzky železničného priecestia,  
+> - e) dostatočne spôsobilá osoba staršia ako 18 rokov, ktorú na to písomne poveril orgán Policajného zboru s určením prípadov, v ktorých môže taká osoba zastavovať vozidlá,  
+> - f) iné osoby, ak je to nevyhnutné na zaistenie bezpečnosti a plynulosti cestnej premávky alebo na zaistenie ochrany života, zdravia alebo majetku osôb.  
+>
+> (3) Podrobnosti o zastavovaní vozidiel ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+> TRETIA ČASŤ
+
+> DOPRAVNÉ NEHODY A EVIDENCIA DOPRAVNÝCH NEHÔD
+
+> PRVÁ HLAVA
+
+> DOPRAVNÉ NEHODY
+
+## § 64 – Dopravná nehoda
+
+> (1) Dopravná nehoda je udalosť v cestnej premávke, ktorá sa stane v priamej súvislosti s premávkou vozidla a pri ktorej  
+> - a) sa usmrtí alebo zraní osoba,  
+> - b) sa znefunkční cesta alebo všeobecne prospešné zariadenie alebo  
+> - c) uniknú nebezpečné veci. 
+>
+> (2) Za dopravnú nehodu sa považuje aj škodová udalosť podľa odseku (3), ak  
+> - a) nie je splnená niektorá z povinností podľa § 66 ods. 6,  
+> - b) je vodič zúčastneného vozidla pod vplyvom alkoholu alebo inej návykovej látky alebo sa odmietol podrobiť vyšetreniu na zistenie ich požitia, alebo  
+> - c) sa účastníci škodovej udalosti nedohodli na jej zavinení.  
+>
+> (3) Ostatné udalosti v cestnej premávke, pri ktorých vznikla škoda v priamej súvislosti s premávkou vozidla, sa na účely tohto zákona nepovažujú za dopravnú nehodu. Takéto udalosti sú škodovou udalosťou.
+
+## § 65 – Povinnosti vodiča pri dopravnej nehode
+
+> Vodič, ktorý sa zúčastnil na dopravnej nehode, je povinný  
+> - a) bezodkladne zastaviť vozidlo,  
+> - b) zdržať sa požitia alkoholu alebo inej návykovej látky po nehode v čase, keď by to bolo na ujmu zistenia, či pred jazdou alebo počas jazdy požil alkohol alebo inú návykovú látku.
+
+## § 66 – Povinnosti účastníka dopravnej nehody a škodovej udalosti
+
+> (1) Účastník dopravnej nehody je osoba, ktorá sa priamo aktívne alebo pasívne zúčastnila na dopravnej nehode.  
+>
+> (2) Účastník dopravnej nehody je povinný  
+> - a) ohlásiť dopravnú nehodu policajtovi,  
+> - b) poskytnúť podľa svojich schopností a možností zranenej osobe prvú pomoc a bezodkladne privolať záchrannú zdravotnú službu,  
+> - c) urobiť potrebné opatrenia na záchranu osoby alebo majetku ohrozeného dopravnou nehodou,  
+> - d) zotrvať na mieste dopravnej nehody až do príchodu policajta alebo sa na toto miesto bezodkladne vrátiť po poskytnutí alebo privolaní pomoci, alebo po ohlásení dopravnej nehody,  
+> - e) zdržať sa konania, ktoré by bolo na ujmu vyšetrenia dopravnej nehody, najmä premiestnenia vozidiel,  
+> - f) urobiť vhodné opatrenia, aby nebola ohrozená bezpečnosť cestnej premávky na mieste dopravnej nehody,  
+> - g) umožniť obnovenie cestnej premávky, najmä premávky vozidiel pravidelnej verejnej dopravy osôb,  
+> - h) preukázať svoju totožnosť na požiadanie iného účastníka dopravnej nehody,  
+> - i) bezodkladne upovedomiť osobu, ktorá nie je účastníkom dopravnej nehody, o hmotnej škode, ktorá jej bola spôsobená dopravnou nehodou, a oznámiť jej svoje osobné údaje; ak to nie je možné, upovedomenie a oznámenie zabezpečí prostredníctvom Policajného zboru.  
+>
+> (3) Ak je to nevyhnutné na uvoľnenie alebo na ošetrenie zranenej osoby alebo na obnovenie cestnej premávky, účastník dopravnej nehody môže premiestniť vozidlá; pritom je však povinný vyznačiť postavenie vozidiel po dopravnej nehode, situáciu a stopy.  
+>
+> (4) Účastník dopravnej nehody je povinný poskytnúť orgánu Policajného zboru potrebnú súčinnosť pri objasňovaní dopravnej nehody vrátane predloženia dokladov, ktoré s tým súvisia.  
+>
+> (5) Účastník škodovej udalosti je osoba, ktorá sa priamo aktívne alebo pasívne zúčastnila na škodovej udalosti.  
+>
+> (6) Účastník škodovej udalosti je povinný bezodkladne zastaviť vozidlo, preukázať svoju totožnosť inému účastníkovi škodovej udalosti, poskytnúť údaje o poistení vozidla, vyplniť a podpísať tlačivo zavedené na zabezpečenie náhrady vzniknutej škody podľa osobitného predpisu, zdržať sa požitia alkoholu alebo inej návykovej látky a urobiť vhodné opatrenia, aby nebola ohrozená bezpečnosť alebo plynulosť cestnej premávky. Ak účastník škodovej udalosti spôsobil hmotnú škodu osobe, ktorá nie je účastníkom škodovej udalosti, je povinný o tom túto osobu bezodkladne upovedomiť a vyplniť s ňou a podpísať tlačivo zavedené na zabezpečenie náhrady vzniknutej škody podľa osobitného predpisu.
+
+
+
 
