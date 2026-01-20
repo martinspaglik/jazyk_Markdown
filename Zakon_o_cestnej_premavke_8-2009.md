@@ -67,6 +67,52 @@
 > - c) poslúchnuť pokyn, výzvu alebo príkaz policajta súvisiaci s výkonom jeho oprávnení pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky, strpieť výkon jeho oprávnení, ako aj pokyny iných osôb, ktoré na to oprávňuje tento zákon alebo osobitný predpis.
 >   
 > (3) Používanie technických prostriedkov a zariadení, ktorých činnosť umožňuje odhalenie alebo ovplyvňovanie funkcií technických prostriedkov používaných pri plnení úloh na úseku výkonu dohľadu nad bezpečnosťou a plynulosťou cestnej premávky alebo ich umiestnenie vo vozidle spôsobom, ktorý umožňuje ich použitie, je zakázané.
-
+>
 > (4) Každé pohybujúce sa vozidlo a každá pohybujúca sa jazdná súprava musí mať vodiča.
+
+## § 4 Povinnosti vodiča
+
+> (1) Vodič je povinný
+> - a) použiť na jazdu len vozidlo, ktoré možno prevádzkovať v cestnej premávke,
+> - b) mať pri sebe platné doklady predpísané týmto zákonom alebo osobitným predpisom,
+> - c) venovať sa plne vedeniu vozidla a sledovať situáciu v cestnej premávke,
+> - d) brať ohľad na vozidlo označené osobitným označením a na označené výcvikové vozidlo autoškoly,
+> - e) dbať na zvýšenú opatrnosť voči cyklistom a chodcom, najmä deťom, osobám so zdravotným postihnutím, osobitne voči osobám, ktoré používajú bielu palicu, a starým osobám,
+> - f) dať prednosť chodcovi, ktorý vstúpil na vozovku a prechádza cez priechod pre chodcov, pritom ho nesmie ohroziť; to neplatí pre vodiča električky,
+> - g) pribrať potrebný počet spôsobilých osôb, ak to vyžaduje bezpečnosť cestnej premávky, a na ten účel ich náležite poučiť,
+> - h) zabezpečiť vozidlo a prepravované veci proti odcudzeniu prostriedkami montovanými do vozidla jeho výrobcom, ak sa vzdiali od vozidla mimo jeho dohľadu,
+> - i) zabezpečiť pred jazdou a počas jazdy, aby sa vo výhľadovom poli vodiča nenachádzali predmety, ktoré môžu odvádzať pozornosť od bezpečného vedenia vozidla.
+>
+> (2) Vodič nesmie
+> - a) viesť motorové vozidlo bez príslušného vodičského oprávnenia, v čase jeho odobratia alebo počas zadržania vodičského preukazu; to neplatí, ak vedie motorové vozidlo autoškoly v kurze podľa osobitného predpisu, vedie motorové vozidlo v kurze základnej kvalifikácie, podrobuje sa skúške z vedenia motorového vozidla, preskúšaniu odbornej spôsobilosti z vedenia motorového vozidla alebo má povolenú jazdu podľa § 70 ods. 4 a § 71 ods. 2,
+> - b) viesť motorové vozidlo akejkoľvek skupiny počas trvania trestu zákazu činnosti spočívajúceho v zákaze vedenia motorových vozidiel alebo počas trvania sankcie zákazu činnosti spočívajúcej v zákaze vedenia motorových vozidiel,
+> - c) požiť počas vedenia vozidla alkohol alebo inú návykovú látku,
+> - d) viesť vozidlo v takom čase po požití alkoholu alebo inej návykovej látky, keď sa alkohol alebo iná návyková látka ešte môžu nachádzať v jeho organizme; toto neplatí pre cyklistu, vodiča kolobežky s pomocným motorčekom a vodiča samovyvažovacieho vozidla jazdiaceho v obci a pre cyklistu, vodiča kolobežky s pomocným motorčekom a vodiča samovyvažovacieho vozidla jazdiaceho po cestičke pre cyklistov, ak množstvo alkoholu v jeho organizme nepresiahne hodnotu 0,24 miligramu etanolu na liter vydýchnutého vzduchu pri vyšetrení dychovou skúškou prístrojom alebo 0,5 gramu etanolu na kilogram hmotnosti vyšetrovanej osoby pri lekárskom vyšetrení zo vzorky krvi plynovou chromatografiou,
+> - e) viesť vozidlo po požití lieku v čase, keď liek môže znížiť jeho schopnosť viesť vozidlo,
+> - f) viesť vozidlo, ak jeho schopnosť viesť vozidlo je znížená najmä úrazom, chorobou, nevoľnosťou alebo únavou,
+> - g) odovzdať vedenie vozidla osobe, ktorá nespĺňa podmienky na vedenie vozidla ustanovené týmto zákonom, osobe, ktorá je pod vplyvom alkoholu alebo inej návykovej látky, alebo osobe, ktorej schopnosť viesť vozidlo je inak znížená,
+> - h) ohroziť chodcov na chodníku, cyklistov na cestičke pre cyklistov, chodcov a cyklistov pri odbočovaní, pri vchádzaní na cestu a pri otáčaní alebo pri cúvaní,
+> - i) ohroziť cyklistov prechádzajúcich cez priechod pre cyklistov,
+> - j) poškodzovať životné prostredie, najmä jazdou po verejnej zeleni alebo cestnej zeleni,
+> - k) prekážať v jazde rýchlejšie idúcim vozidlám a obmedzovať plynulosť cestnej premávky,
+> - l) znížiť náhle rýchlosť jazdy alebo náhle zastaviť, ak to nevyžaduje bezpečnosť cestnej premávky,
+> - m) počas vedenia vozidla držať v ruke alebo iným spôsobom obsluhovať telefónny prístroj alebo iné telekomunikačné, audiovizuálne alebo obdobné zariadenie okrem použitia systému „voľné ruky“ alebo vykonávať inú obdobnú činnosť, ktorá nesúvisí s vedením vozidla; to neplatí pre vodiča vozidla ozbrojených síl Slovenskej republiky (ďalej len „ozbrojené sily“), ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, obecnej polície, Hasičského a záchranného zboru, ostatných hasičských jednotiek, Horskej záchrannej služby, záchrannej zdravotnej služby, banskej záchrannej služby, Vojenského spravodajstva a Slovenskej informačnej služby pri plnení svojich úloh,
+> - n) používať hanlivé gestá voči ostatným účastníkom cestnej premávky, vyhadzovať z vozidla predmety a obťažovať ostatných účastníkov cestnej premávky ani iné osoby najmä nadmerným hlukom, prachom, znečisťovaním ovzdušia, rozstrekovaním kaluží, blata alebo zbytočným ponechaním motora stojaceho vozidla v chode,
+> - o) použiť na jazdu vozidlo, ktoré svojím farebným vyhotovením a označením sa dá zameniť s vozidlom Policajného zboru, Vojenskej polície, Žandárskeho zboru, Zboru väzenskej a justičnej stráže, obecnej polície, Hasičského a záchranného zboru alebo ostatných hasičských jednotiek,
+> - p) zastaviť vozidlo na priechode pre chodcov, mieste na prechádzanie alebo na priechode pre cyklistov, ak to nevyžaduje bezpečnosť cestnej premávky.
+>
+> (3) Vodič smie motorové vozidlo použiť len na cestách; to neplatí, ak sa motorové vozidlo v súlade s osobitnými predpismi použije
+> - a) v súvislosti s organizovaným športovým, spoločenským alebo iným verejným podujatím,
+> - b) na pôdohospodárske, lesné, údržbárske, stavebné alebo priemyselné práce,
+> - c) v súvislosti s výkonom poľovníckeho práva a rybárskeho práva alebo ich kontrolou,
+> - d) na záchranné práce,
+> - e) na práce vo verejnom záujme,
+> - f) na plnenie úloh spojených s ochranou životného prostredia, železničnej dopravy, verejného poriadku, bezpečnosťou štátu a obranou štátu,
+> - g) na prepravu do obytného alebo rekreačného zariadenia,
+> - h) v súvislosti s kontrolnou, inšpekčnou alebo prieskumnou činnosťou alebo
+> - i) v priestore, ktorý nie je verejne prístupný, so súhlasom jeho vlastníka alebo inej oprávnenej osoby.
+>   
+> (4) Ak vodič zníži rýchlosť jazdy alebo ak zastaví vozidlo pred priechodom pre chodcov alebo pred priechodom pre cyklistov, aby umožnil prejsť cez cestu chodcom alebo cyklistom, vodiči ostatných vozidiel idúcich rovnakým smerom sú takisto povinní znížiť rýchlosť jazdy alebo zastaviť vozidlo; to neplatí pre vodiča električky.
+> 
+> (5) Ak vodič počas jazdy zistí, že vozidlo, náklad alebo upevnenie nákladu nespĺňajú ustanovené podmienky, je povinný chybu odstrániť na mieste. Ak to nemôže urobiť, smie v jazde pokračovať primeranou rýchlosťou len do najbližšieho miesta, kde možno chybu odstrániť; pritom musí urobiť také opatrenia, aby sa počas jazdy na takéto miesto neohrozila bezpečnosť a plynulosť cestnej premávky a aby sa nepoškodila cesta.
 
