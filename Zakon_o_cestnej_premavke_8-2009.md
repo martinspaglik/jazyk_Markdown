@@ -164,6 +164,18 @@
 > - j) povinnosť umožniť vozidlu, ktoré používa typické zvukové znamenie doplnené zvláštnym výstražným modrým svetlom alebo červeným svetlom, prípadne ich kombináciou (ďalej len „zvláštne výstražné znamenie“) pri plnení špeciálnych úloh (ďalej len „vozidlo s právom prednostnej jazdy“), a vozidlu, ktoré sprevádza, bezpečný a plynulý prejazd podľa § 40 ods. 8,
 > - k) povinnosť vytvoriť voľný priestor na prejazd vozidiel (ďalej len „záchranárska ulička“) podľa § 10 ods. 11 alebo zákaz jazdy v záchranárskej uličke podľa § 10 ods. 11.
 
+## § 7 Povinnosti inštruktora autoškoly
+
+> (1) Inštruktor autoškoly má povinnosti vodiča pri vykonávaní
+> - a) výcviku na vedenie vozidla v kurze podľa osobitného predpisu,
+> - b) skúšky z odbornej spôsobilosti na vedenie motorového vozidla (ďalej len „odborná spôsobilosť“),
+> - c) osobitnej skúšky z vedenia motorového vozidla,
+> - d) preskúšania odbornej spôsobilosti alebo
+> - e) základnej kvalifikácie, ak vodič nie je držiteľom príslušného vodičského oprávnenia.
+>   
+> (2) Na inštruktora autoškoly sa nevzťahujú povinnosti podľa odseku 1, ak vodič vedie vozidlo bez prítomnosti inštruktora autoškoly.
+
+
 
 
 
