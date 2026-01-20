@@ -741,7 +741,7 @@
 
 > (1) Prepravovať osoby v ložnom priestore nákladného prívesu traktora je možné len za podmienok podľa § 48 ods. 1. Traktor s nákladným prívesom, v ktorého ložnom priestore sa prepravujú osoby, smie viesť len vodič starší ako 21 rokov, ktorý má vo vedení traktora najmenej dvojročnú prax.  
 >
-> (2) Počet prepravovaných osôb v ložnom priestore nákladného prívesu traktora nesmie byť vyšší ako 15; rýchlosť jazdy traktora nesmie prekročiť 20 km·h^-1^.  
+> (2) Počet prepravovaných osôb v ložnom priestore nákladného prívesu traktora nesmie byť vyšší ako 15; rýchlosť jazdy traktora nesmie prekročiť 20 km/h.  
 >
 > (3) Osoby prepravované v ložnom priestore nákladného prívesu traktora musia počas jazdy sedieť na podlahe alebo na sedadlách pripevnených o podlahu; steny prívesu musia byť dostatočne vysoké, aby osoby počas jazdy nevypadli. Prepravované osoby sa nesmú počas jazdy vykláňať, nesmú nechať vyčnievať predmety z prívesu ani inak ohrozovať bezpečnosť cestnej premávky.
 
@@ -749,5 +749,57 @@
 
 > Osoby mladšie ako 15 rokov sa smú prepravovať v ložnom priestore nákladného automobilu a nákladného prívesu traktora len v sprievode osoby staršej ako 18 rokov.
 
+## § 51 – Preprava nákladu
 
+> (1) Pri preprave nákladu sa nesmie prekročiť najväčšia prípustná celková hmotnosť vozidla, najväčšia prípustná hmotnosť jazdnej súpravy, najväčšia prípustná celková hmotnosť prípojného vozidla ani najväčšia prípustná hmotnosť pripadajúca na nápravy vozidla.  
+>
+> (2) Náklad musí byť na vozidle riadne umiestnený, rozložený a upevnený, aby neohrozoval bezpečnosť a plynulosť cestnej premávky, neznečisťoval ani nepoškodzoval cestu ani jej okolie, nespôsoboval nadmerný hluk, neznečisťoval ovzdušie a nezakrýval svetlomety a svietidlá vozidla, odrazové sklá, tabuľku s evidenčným číslom a vyznačenie najvyššej povolenej rýchlosti. Náklad musí byť zabezpečený tak, aby pri zmene rýchlosti jazdy alebo zmene smeru jazdy vozidla sa nezošmykol, neprevrátil, nespadol alebo sa inak voľne nepohyboval. Predmety, ktoré možno ľahko prehliadnuť, nesmú prečnievať po strane vozidla. Sypký materiál musí byť vždy zakrytý tak, aby sa zabránilo jeho vysypávaniu na cestu počas jazdy. Upevnenie nákladu na vozidle kategórie N, O2, O3 a O4 musí spĺňať základné zásady upevnenia nákladu, ktoré sa kontrolujú pri kontrole prepravy nákladu v rámci cestnej technickej kontroly podľa osobitného predpisu.  
+>
+> (3) Pri preprave živých zvierat nesmie byť ohrozená bezpečnosť vodiča a prepravovaných osôb, bezpečnosť prepravovaných zvierat ani bezpečnosť cestnej premávky.  
+>
+> (4) Nakladanie a skladanie nákladu na ceste je dovolené len vtedy, ak to nemožno urobiť mimo cesty. Náklad sa musí zložiť a naložiť čo najrýchlejšie a tak, aby nebola ohrozená bezpečnosť cestnej premávky.  
+>
+> (5) Podmienky a spôsob označovania nákladu prečnievajúceho vozidlo ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+> ŠTVRTÁ HLAVA
+
+> OSOBITNÉ USTANOVENIA O NIEKTORÝCH ÚČASTNÍKOCH CESTNEJ PREMÁVKY
+
+## Osobitné ustanovenia o chodcoch
+
+## § 52
+
+> (1) Chodec je povinný používať predovšetkým chodník. Po chodníku sa chodí vpravo. Tam, kde chodník nie je alebo kde je neschodný, chodí sa po ľavej krajnici; tam, kde nie je krajnica alebo kde je krajnica neschodná, chodí sa čo najbližšie pri ľavom okraji vozovky. To platí aj pre chodca, ktorý nesie predmet, ktorým by mohol ohroziť premávku na chodníku alebo na krajnici.  
+>
+> (2) Iní účastníci cestnej premávky než chodci nesmú chodník používať; to neplatí pre cyklistov podľa § 55 ods. 1, pre vodičov samovyvažovacieho vozidla podľa § 55a ods. 2, pre automatizované doručovacie vozidlo, ak dopravnou značkou alebo dopravným zariadením je určené inak, alebo ak ide o zastavenie či státie bicykla, kolobežky s pomocným motorčekom alebo motocykla, pri ktorom ostane súvislá voľná šírka chodníka najmenej 1,5 m.  
+>
+> (3) Chodci smú ísť po krajnici alebo po okraji vozovky najviac dvaja vedľa seba, ak tým najmä za zníženej viditeľnosti alebo za zvýšenej premávky neohrozia či neobmedzia cestnú premávku; to neplatí pre osoby, ktoré sa pohybujú po krajnici alebo po okraji vozovky na lyžiach, korčuliach, kolobežke, skejtborde alebo na obdobnom športovom vybavení, ktoré sa môžu pohybovať len v rade za sebou. Za zníženej viditeľnosti musí mať chodec idúci po krajnici alebo po okraji vozovky na sebe viditeľne umiestnené reflexné prvky alebo oblečený reflexný bezpečnostný odev.  
+>
+> (4) Osoba so zdravotným postihnutím, ktorá sa pohybuje pomocou ručného alebo motorového vozíka určeného pre ňu, smie používať ktorúkoľvek krajnicu alebo ktorýkoľvek okraj vozovky; ak použije chodník, nesmie prekročiť rýchlosť chôdze.  
+>
+> (5) Osoba, ktorá sa pohybuje po chodníku na lyžiach, korčuliach, kolobežke, skejtborde alebo na obdobnom športovom vybavení, smie používať pravú stranu chodníka, pričom nesmie ohroziť ani obmedziť ostatné osoby používajúce chodník a nesmie prekročiť rýchlosť chôdze. Osoba, ktorá tlačí bicykel alebo motocykel, smie použiť chodník len vtedy, ak neohrozí ani neobmedzí chodcov; inak musí použiť pravú krajnicu alebo pravý okraj vozovky.  
+>
+> (6) Osoba pohybujúca sa po chodníku na lyžiach, korčuliach, kolobežke, skejtborde alebo na obdobnom športovom vybavení je povinná sledovať situáciu v cestnej premávke a nesmie ohrozovať alebo obmedzovať iných účastníkov cestnej premávky. Ak je dopravnou značkou určená cestička pre osoby pohybujúce sa na športovom vybavení, tieto osoby sú povinné takúto cestičku použiť.
+
+## § 53
+
+> (1) Pri prechádzaní cez cestu je chodec povinný prednostne použiť priechod pre chodcov, miesto na prechádzanie, nadchod alebo podchod. Na priechode pre chodcov a na mieste na prechádzanie sa chodí vpravo. Chodec nesmie vstupovať na vozovku, ak prichádza vozidlo s právom prednostnej jazdy; ak sa chodec nachádza na vozovke, musí takémuto vozidlu bez meškania uvoľniť priestor na prejazd. Chodec je povinný umožniť električke plynulý prejazd.  
+>
+> (2) Chodci, ktorí prechádzajú cez priechod pre chodcov, musia brať ohľad na vodičov prichádzajúcich vozidiel najmä tým, že neprechádzajú jednotlivo, ale v skupinách. To platí aj voči vodičom odbočujúcim na cestu, cez ktorú chodci prechádzajú. Chodec nesmie vstupovať na vozovku, ani pri použití priechodu pre chodcov, ak vzhľadom na rýchlosť a vzdialenosť prichádzajúcich vozidiel nemôže cez vozovku bezpečne prejsť. Iným účastníkom cestnej premávky ako chodcom je používanie priechodu pre chodcov zakázané, ak v § 55a ods. 2 nie je ustanovené inak.  
+>
+> (3) Mimo priechodu pre chodcov sa smie cez vozovku prechádzať len kolmo na jej os. Chodci smú prechádzať cez vozovku mimo priechodu pre chodcov, len ak s ohľadom na vzdialenosť a rýchlosť jazdy prichádzajúcich vozidiel nedonútia ich vodičov na zmenu smeru alebo rýchlosti jazdy.  
+>
+> (4) Pred vstupom na vozovku sa chodec musí presvedčiť, či tak môže urobiť bez nebezpečenstva, a len čo vstúpi na vozovku, nesmie sa tam bezdôvodne zdržiavať ani zastavovať. To platí na priechode pre chodcov i mimo neho. Chodec nesmie prekonávať zábradlie ani iné zábrany.
+
+## § 54
+
+> (1) Pre organizovaný útvar chodcov, najmä útvar ozbrojených síl, útvar školskej mládeže alebo pre sprievod, primerane platia práva a povinnosti vodičov podľa tohto zákona.  
+>
+> (2) Za zníženej viditeľnosti musí byť organizovaný útvar chodcov označený vpredu po oboch stranách neoslňujúcim bielym svetlom a vzadu takisto po oboch stranách červeným svetlom. Vedúci útvaru chodcov a chodci idúci v poslednom rade v smere chôdze musia mať mimo obce za zníženej viditeľnosti oblečený reflexný bezpečnostný odev.  
+>
+> (3) Za dodržiavanie ustanovení odsekov (1) a (2) zodpovedá vedúci útvaru, ktorým môže byť len osoba staršia ako 18 rokov, ktorá je na to dostatočne spôsobilá.  
+>
+> (4) Organizovaný útvar chodcov idúci najviac v dvojstupe smie ísť po chodníku, a to vpravo; pritom nemusí byť označený podľa odseku (2).  
+>
+> (5) Pre organizovanú skupinu detí, ktoré nepodliehajú povinnej školskej dochádzke, platia ustanovenia o chodcoch.
 
