@@ -36,7 +36,7 @@
 > - p) orgánom Policajného zboru útvar Policajného zboru zriadený podľa osobitného predpisu,
 > - q) pobytom trvalý pobyt občana Slovenskej republiky, prechodný pobyt občana Slovenskej republiky trvalo žijúceho v zahraničí, trvalý pobyt cudzinca alebo prechodný pobyt cudzinca na území Slovenskej republiky, alebo zdržiavanie sa na území Slovenskej republiky na základe národného víza,
 > - r) prekážkou cestnej premávky všetko, čo môže ohroziť alebo obmedziť jazdu vozidiel a pohyb chodcov,
-> - s) rýchlosťou chôdze rýchlosť neprevyšujúca 6 km·h<sup>-1</sup>,
+> - s) rýchlosťou chôdze rýchlosť neprevyšujúca 6 km/h,
 > - t) samovyvažovacím vozidlom vozidlo založené na vnútornej nestabilnej rovnováhe, ktoré na zachovanie svojej rovnováhy potrebuje pomocný riadiaci systém,
 > - u) státím uvedenie vozidla do pokoja na dlhšie, ako je čas dovolený na zastavenie,
 > - v) účastníkom cestnej premávky osoba, ktorá sa priamo zúčastňuje cestnej premávky,
@@ -118,9 +118,9 @@
 
 ## § 5 Povinnosti niektorých vodičov a spolujazdcov
 
-> (1) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L12) je počas jazdy povinný vhodným spôsobom chrániť si zrak najmä okuliarmi alebo ochranným štítom, ak sa tým nezníži bezpečnosť jazdy, najmä v hmle, pri snežení alebo v daždi; je tiež povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona. Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L a jeho spolujazdec sú tiež povinní počas jazdy používať na hlave riadne upevnenú ochrannú prilbu určenú pre motocyklistov; to neplatí pre vodiča vozidla vybaveného bezpečnostnou kabínou alebo ochranným bezpečnostným rámom, ktoré je vybavené bezpečnostnými pásmi, a jeho spolujazdca.
+> (1) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h a vodič motorového vozidla kategórie L12) je počas jazdy povinný vhodným spôsobom chrániť si zrak najmä okuliarmi alebo ochranným štítom, ak sa tým nezníži bezpečnosť jazdy, najmä v hmle, pri snežení alebo v daždi; je tiež povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona. Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h a vodič motorového vozidla kategórie L a jeho spolujazdec sú tiež povinní počas jazdy používať na hlave riadne upevnenú ochrannú prilbu určenú pre motocyklistov; to neplatí pre vodiča vozidla vybaveného bezpečnostnou kabínou alebo ochranným bezpečnostným rámom, ktoré je vybavené bezpečnostnými pásmi, a jeho spolujazdca.
 >
-> (2) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L nesmú počas jazdy jesť, piť ani fajčiť; táto povinnosť sa vzťahuje aj na ich spolujazdca.
+> (2) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h a vodič motorového vozidla kategórie L nesmú počas jazdy jesť, piť ani fajčiť; táto povinnosť sa vzťahuje aj na ich spolujazdca.
 >
 > (3) Vodič motorového vozidla, ktoré je povinne vybavené bezpečnostným odevom, je povinný mať bezpečnostný odev oblečený, ak sa zdržiava na vozovke mimo vozidla počas núdzového státia, najmä pri prerušení jazdy pre chybu na vozidle alebo v dôsledku dopravnej nehody; pritom nemožno použiť taký bezpečnostný odev, ktorý je zameniteľný s bezpečnostnými odevmi používanými ozbrojenými silami alebo ozbrojenými bezpečnostnými zbormi.
 >
@@ -280,11 +280,11 @@
 
 > (1) Vodič je povinný rýchlosť jazdy prispôsobiť najmä svojim schopnostiam, vlastnostiam vozidla a nákladu, poveternostným podmienkam, stavu a povahe vozovky a iným okolnostiam, ktoré možno predvídať. Vodič smie jazdiť len primeranou rýchlosťou, aby bol schopný zastaviť vozidlo na vzdialenosť, na ktorú má rozhľad.  
 >
-> (2) Vodič autobusu a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg smie jazdiť rýchlosťou najviac 90 km/h<sup>-1</sup>. Na diaľnici vodič autobusu smie jazdiť rýchlosťou najviac 100 km/h<sup>-1</sup> a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg rýchlosťou najviac 130 km/h<sup>-1</sup>.  
+> (2) Vodič autobusu a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg smie jazdiť rýchlosťou najviac 90 km/h. Na diaľnici vodič autobusu smie jazdiť rýchlosťou najviac 100 km/h a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg rýchlosťou najviac 130 km/h.  
 >
-> (3) Vodič iného motorového vozidla, ako sa uvádza v odseku (2), ako aj vodič autobusu s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, smú jazdiť rýchlosťou najviac 90 km/h<sup>-1</sup>.  
+> (3) Vodič iného motorového vozidla, ako sa uvádza v odseku (2), ako aj vodič autobusu s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, smú jazdiť rýchlosťou najviac 90 km/h.  
 >
-> (4) Vodič smie v obci jazdiť rýchlosťou najviac 50 km/h^-1^.  
+> (4) Vodič smie v obci jazdiť rýchlosťou najviac 50 km/h.  
 >
 > (5) Vodič nesmie prekročiť najvyššiu dovolenú rýchlosť jazdy vozidiel určenú dopravnou značkou alebo dopravným zariadením.  
 >
@@ -466,7 +466,9 @@
 >
 > (4) Výstražné znamenie sa smie použiť len v nevyhnutne potrebnom čase.
 
-## § 32 - Osvetlenie vozidla
+## Osvetlenie vozidla
+
+## § 32 
 
 > (1) Vozidlo musí mať okrem prípadu uvedeného v § 34 ods. 4 počas jazdy rozsvietené stretávacie svetlomety alebo im na roveň postavené osvetlenie; to neplatí pre nemotorové vozidlo, ktoré musí mať rozsvietené svietidlá počas zníženej viditeľnosti. Za nezníženej viditeľnosti môžu byť na vozidle namiesto stretávacích svetlometov rozsvietené denné prevádzkové svietidlá, ak je nimi vozidlo vybavené.  
 >
@@ -496,7 +498,9 @@
 >
 > (6) Označenie spojnice a jej dĺžku pri vlečení motorových vozidiel ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“).
 
-## § 35 - Osobitosti premávky na diaľnici a ceste pre motorové vozidlá
+## Osobitosti premávky na diaľnici a ceste pre motorové vozidlá
+
+## § 35 
 
 > (1) Diaľnicu môžu používať len vodiči motorových vozidiel; iným účastníkom cestnej premávky je používanie diaľnice zakázané. Na diaľnici smie vodič motorového vozidla jazdiť rýchlosťou najmenej 80 km/h.  
 >
@@ -587,7 +591,9 @@
 > - a) v čase od 06.00 do 09.00 hodín, od 15.00 do 20.00 hodín a od 23.00 do 04.00 hodín,  
 > - b) v čase zákazu jazdy niektorých druhov vozidiel podľa odsekov (1) a (2), ak tento čas nie je rovnaký s časmi podľa písmena a).
 
-## § 40 - Vozidlá so zvláštnymi výstražnými zvukovými znameniami alebo svetlami
+## Vozidlá so zvláštnymi výstražnými zvukovými znameniami alebo svetlami
+
+## § 40 
 
 > (1) Vodič vozidla s právom prednostnej jazdy nie je povinný dodržiavať povinnosti a zákazy ustanovené týmto zákonom okrem povinností podľa § 3 ods. 2 písm. c) a § 4 ods. 2 písm. a) až f), pričom je povinný dbať na potrebnú opatrnosť tak, aby iných účastníkov cestnej premávky neohrozil.  
 >
@@ -696,6 +702,52 @@
 > TRETIA HLAVA
 
 > PODMIENKY PREPRAVY OSÔB A NÁKLADU
+
+## Preprava osôb
+
+## § 45
+
+> (1) Vodič nesmie dovoliť, aby sa prekročil povolený počet prepravovaných osôb, a podľa svojich možností nesmie pripustiť ani porušenie povinností ustanovených týmto osobám. Každá prepravovaná osoba zodpovedá za dodržiavanie svojich povinností podľa tohto zákona. Za prepravu detí alebo osôb, ktoré pre poruchu zdravia nezodpovedajú za svoje konanie, zodpovedá osoba, ktorá ich sprevádza. Ak také osoby nemajú sprievod, za ich prepravu zodpovedá vodič alebo ním poverená spôsobilá a náležite poučená osoba; to neplatí, ak ide o pravidelnú verejnú dopravu osôb.  
+>
+> (2) Prepravované osoby nesmú svojím správaním ohrozovať bezpečnosť cestnej premávky najmä obmedzovaním vodiča v bezpečnom ovládaní vozidla, zotrvaním na miestach, kde by boli ohrozené, a vyhadzovaním predmetov z vozidla.
+
+## § 46
+
+> (1) V motorovom vozidle alebo jeho prípojnom vozidle, ktoré je určené na prepravu osôb, smú sa na miestach na to vyhradených prepravovať osoby len do prípustnej užitočnej hmotnosti vozidla; pritom počet prepravovaných osôb nesmie byť vyšší, ako je počet miest uvedených v osvedčení o evidencii časť I a časť II alebo v technickom osvedčení vozidla.  
+>
+> (2) Osoba mladšia ako 12 rokov sa nesmie prepravovať vo zvláštnom motorovom vozidle a na motorovom vozidle kategórie L.  
+>
+> (3) V inom prípojnom vozidle ako vo vozidle, ktoré je určené na prepravu osôb, je preprava osôb s výnimkou prípadov podľa § 49 zakázaná.  
+>
+> (4) Bočné sedenie osôb prepravovaných na motocykli je zakázané.
+
+## § 47 – Preprava osôb vozidlom pravidelnej verejnej dopravy osôb
+
+> (1) Cestujúci vozidlom pravidelnej verejnej dopravy osôb je povinný správať sa pri čakaní, nastupovaní, počas jazdy a pri vystupovaní tak, aby neohrozoval bezpečnosť ani plynulosť cestnej premávky. Najmä nesmie vstupovať na vozovku, okraj nástupišťa alebo do bezpečnostného priestoru nástupišťa zastávky vyznačeného dopravnou značkou, a to až do zastavenia vozidla; pritom je povinný poslúchnuť pokyny zamestnanca prevádzkovateľa takého vozidla.  
+>
+> (2) Vodič autobusu prepravujúceho deti alebo osoby so zdravotným postihnutím je povinný počas ich nastupovania a vystupovania použiť osobitné zariadenie umožňujúce výstražnú funkciu smerových svietidiel.
+
+## Preprava osôb v ložnom priestore nákladného automobilu a v ložnom priestore nákladného prívesu traktora
+
+## § 48
+
+> (1) Prepravovať osoby v ložnom priestore nákladného automobilu možno len pri preprave príslušníkov ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, obecnej polície, Horskej záchrannej služby, členov stráže prírody a zamestnancov organizácie ochrany prírody pri plnení ich úloh a iných osôb pri plnení úloh civilnej ochrany obyvateľstva alebo pri živelnej pohrome.  
+>
+> (2) Nákladný automobil, v ktorého ložnom priestore sa prepravujú osoby podľa odseku (1), smie viesť len vodič starší ako 21 rokov, ktorý má vo vedení nákladného automobilu najmenej dvojročnú prax. Počet prepravovaných osôb nesmie byť vyšší ako 30. Preprava osôb v prípojnom vozidle nákladného automobilu je zakázaná.  
+>
+> (3) Osoby prepravované v ložnom priestore nákladného automobilu nesmú počas jazdy stáť, vykláňať sa, nechať vyčnievať predmety z vozidla ani inak ohrozovať bezpečnosť cestnej premávky; dbá na to osoba, ktorú z prepravovaných osôb určí prevádzkovateľ vozidla alebo vodič.
+
+## § 49
+
+> (1) Prepravovať osoby v ložnom priestore nákladného prívesu traktora je možné len za podmienok podľa § 48 ods. 1. Traktor s nákladným prívesom, v ktorého ložnom priestore sa prepravujú osoby, smie viesť len vodič starší ako 21 rokov, ktorý má vo vedení traktora najmenej dvojročnú prax.  
+>
+> (2) Počet prepravovaných osôb v ložnom priestore nákladného prívesu traktora nesmie byť vyšší ako 15; rýchlosť jazdy traktora nesmie prekročiť 20 km·h^-1^.  
+>
+> (3) Osoby prepravované v ložnom priestore nákladného prívesu traktora musia počas jazdy sedieť na podlahe alebo na sedadlách pripevnených o podlahu; steny prívesu musia byť dostatočne vysoké, aby osoby počas jazdy nevypadli. Prepravované osoby sa nesmú počas jazdy vykláňať, nesmú nechať vyčnievať predmety z prívesu ani inak ohrozovať bezpečnosť cestnej premávky.
+
+## § 50
+
+> Osoby mladšie ako 15 rokov sa smú prepravovať v ložnom priestore nákladného automobilu a nákladného prívesu traktora len v sprievode osoby staršej ako 18 rokov.
 
 
 
