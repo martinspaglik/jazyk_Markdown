@@ -446,4 +446,67 @@
 >
 > (2) Ustanovenia odseku (1) a § 27 a 28 sa primerane vzťahujú aj na chodca.
 
+## § 30 – Znamenie o zmene smeru jazdy
+
+> (1) Znamenie o zmene smeru jazdy vodič je povinný dávať okrem prípadov uvedených v tomto zákone vždy aj pri zmene smeru jazdy, vybočovaní z neho alebo ak to vyžaduje bezpečnosť alebo plynulosť cestnej premávky. >
+> (2) Vodič je povinný dávať znamenie o zmene smeru jazdy včas pred začatím jazdného úkonu podľa odseku (1), a to s ohľadom na okolnosti cestnej premávky, najmä na vozidlá idúce za ním a na povahu jazdy. >
+> (3) Znamenie o zmene smeru jazdy sa dáva smerovými svietidlami. Ak nimi vozidlo nie je vybavené alebo ak majú poruchu, dáva sa znamenie upažením. Rukou ohnutou v lakti hore sa dáva znamenie o zmene smeru jazdy na opačnú stranu. Ak to vyžadujú okolnosti, najmä ak znamenie dávané smerovými svietidlami alebo rukou nie je dostatočne viditeľné najmä pre šírku nákladu alebo za zníženej viditeľnosti, musí dávať znamenie spôsobilá a náležite poučená osoba alebo sa musí použiť iný zreteľný spôsob. Inak vodič smie zamýšľaný jazdný úkon uskutočniť len vtedy a takým spôsobom, aby neboli ohrození ani obmedzení iní účastníci cestnej premávky.  
+>
+> (4) Znamenie o zmene smeru jazdy dávané smerovými svietidlami vodič ponechá len v čase, kým mení smer jazdy, vybočuje z neho alebo kým vozidlo nezaujme miesto v jazdnom pruhu, do ktorého prechádza. Znamenie o zmene smeru jazdy rukou sa dáva len pred začatím jazdného úkonu.  
+>
+> (5) Znamenie o zmene smeru jazdy vodič nedáva pri vjazde do kruhového objazdu. Pri jazde po kruhovom objazde vodič dáva znamenie o zmene smeru jazdy, ak z takej križovatky vychádza, a v prípadoch podľa § 10 ods. 6.
+
+## § 31 – Výstražné znamenie
+
+> (1) Vodič smie dávať zvukové výstražné znamenie len vtedy, ak je to potrebné na odvrátenie hroziaceho nebezpečenstva, a mimo obce aj na upozornenie vodiča predchádzaného vozidla.  
+>
+> (2) Vodič smie namiesto zvukového výstražného znamenia dávať svetelné výstražné znamenie prerušovaným zapínaním stretávacích svetlometov alebo diaľkových svetlometov; na upozornenie vodiča predchádzajúceho vozidla ho smie dávať aj v obci.  
+>
+> (3) Ak je nevyhnutné upozorniť ostatných účastníkov cestnej premávky na hroziace nebezpečenstvo, najmä v prípadoch, keď je potrebné náhle znížiť rýchlosť jazdy alebo zastaviť vozidlo, vodič dáva svetelné výstražné znamenie zapnutím výstražnej funkcie smerových svietidiel. Funkciu výstražných smerových svietidiel možno v iných prípadoch použiť len za podmienok podľa odseku (1).  
+>
+> (4) Výstražné znamenie sa smie použiť len v nevyhnutne potrebnom čase.
+
+## § 32 - Osvetlenie vozidla
+
+> (1) Vozidlo musí mať okrem prípadu uvedeného v § 34 ods. 4 počas jazdy rozsvietené stretávacie svetlomety alebo im na roveň postavené osvetlenie; to neplatí pre nemotorové vozidlo, ktoré musí mať rozsvietené svietidlá počas zníženej viditeľnosti. Za nezníženej viditeľnosti môžu byť na vozidle namiesto stretávacích svetlometov rozsvietené denné prevádzkové svietidlá, ak je nimi vozidlo vybavené.  
+>
+> (2) Vodič nesmie použiť diaľkové svetlomety, ak je vozovka dostatočne a súvisle osvetlená alebo ak by mohol byť oslnený vodič protiidúceho vozidla, vodič vozidla idúceho pred ním alebo iný účastník cestnej premávky, strojvedúci vlaku alebo vodič iného dráhového vozidla, alebo vodič plavidla. Pri zastavení vozidla pred železničným priecestím vodič nesmie použiť ani stretávacie svetlomety, ak by nimi mohol oslniť vodiča vozidla v protismere.  
+>
+> (3) Predné svetlomety do hmly a zadné svietidlá do hmly vodič smie použiť len za hmly, sneženia alebo za dažďa.  
+>
+> (4) Vodič smie jazdiť aj s parkovacími alebo obrysovými svietidlami, ak má súčasne rozsvietené stretávacie svetlomety alebo diaľkové svetlomety, alebo predné svetlomety do hmly, ak je nimi vozidlo vybavené.  
+>
+> (5) Činná plocha svetlometov a svietidiel nesmie byť zakrytá alebo nadmerne znečistená s výnimkou svetlometov a svietidiel, ktoré nie sú predpísané.
+
+## § 33
+
+> Vozidlo stojace za zníženej viditeľnosti v obci na mieste, kde tvorí prekážku cestnej premávky, alebo na ceste mimo obce musí mať aspoň na strane privrátenej k stredu cesty rozsvietené parkovacie alebo obrysové svietidlá, prípadne musí byť osvetlené na strane privrátenej k stredu cesty aspoň jedným svietidlom viditeľným spredu i zozadu, pričom toto svietidlo nesmie byť umiestnené ďalej ako 400 mm od bočného obrysu vozidla; to neplatí na parkovisku.
+
+## § 34 – Vlečenie motorového vozidla
+
+> (1) Pri vlečení motorového vozidla sa smie jazdiť rýchlosťou najviac 60 km/h.  
+>
+> (2) Motorové vozidlo sa smie vliecť len vtedy, ak má účinné riadenie a brzdy; povinnosti podľa § 4 ods. 1 a 2 sa vzťahujú aj na vodiča vlečeného motorového vozidla. Vodiči vlečeného a vlečného motorového vozidla sú povinní vopred sa dohodnúť na spôsobe dorozumievania počas jazdy.  
+>
+> (3) Ustanovenie odseku (2) neplatí, ak je motorové vozidlo vlečené pomocou osobitného zariadenia, najmä pomocou vyslobodzovacieho podvozka alebo žeriava; v takom prípade musí byť vlečené motorové vozidlo vybavené vzadu prenosným osvetlením vozidla s napojením na vlečné vozidlo.  
+>
+> (4) Pri poruche osvetlenia alebo inej poruche nedovoľujúcej použitie osvetlenia musia byť na vlečenom motorovom vozidle za zníženej viditeľnosti rozsvietené svietidlá na strane k stredu vozovky vpredu bielym neoslňujúcim svetlom a vzadu aspoň jedným červeným svetlom. Tieto svietidlá musia byť dobre viditeľné a nesmú byť umiestnené ďalej ako 400 mm od bočného obrysu motorového vozidla.  
+>
+> (5) Vlečenie viacerých motorových vozidiel alebo vlečenie motorového vozidla s prívesom je zakázané; smie sa však vliecť motorové vozidlo s návesom. Za motorovým vozidlom s prívesom sa nesmie vliecť iné motorové vozidlo. Motorové vozidlo vlečené pomocou osobitného zariadenia, autobus a trolejbus sa smú vliecť len bez prepravovaných osôb; nákladný automobil sa smie vliecť len bez osôb prepravovaných v jeho ložnom priestore. Motocykel bez postranného vozíka sa nesmie vliecť ani použiť ako vlečné vozidlo.  
+>
+> (6) Označenie spojnice a jej dĺžku pri vlečení motorových vozidiel ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“).
+
+## § 35 - Osobitosti premávky na diaľnici a ceste pre motorové vozidlá
+
+> (1) Diaľnicu môžu používať len vodiči motorových vozidiel; iným účastníkom cestnej premávky je používanie diaľnice zakázané. Na diaľnici smie vodič motorového vozidla jazdiť rýchlosťou najmenej 80 km/h.  
+>
+> (2) Vodič motorového vozidla smie na diaľnicu vchádzať a z diaľnice vychádzať len na miestach na to určených. Pred vjazdom do priebežných jazdných pruhov na diaľnici je vodič povinný použiť pripájací jazdný pruh. Tam, kde pripájací jazdný pruh nie je, vodič je povinný dať prednosť v jazde vozidlám idúcim v priebežných jazdných pruhoch.  
+>
+> (3) Vodič motorového vozidla kategórie N, ktorého najväčšia prípustná celková hmotnosť presahuje 7 500 kg, alebo vodič jazdnej súpravy, ktorej najväčšia prípustná hmotnosť presahuje 7 500 kg, nesmie pri jazde po diaľnici predchádzať iné motorové vozidlo.  
+>
+> (4) Rýchlosť jazdy podľa odseku (1) sa nevzťahuje na vodiča motorového vozidla vchádzajúceho na diaľnicu, vychádzajúceho z diaľnice, pri súbežnej jazde a v iných prípadoch, ak je to potrebné z hľadiska bezpečnosti a plynulej dopravy. Rýchlosť jazdy podľa odseku (1) sa nevzťahuje ani na vodiča motorového vozidla použitého pri vykonávaní činností spojených so správou a údržbou diaľnice, s odťahovaním vozidiel a činností spojených so záchranou života, zdravia a majetku a na vodičov kolóny vozidiel ozbrojených síl, ozbrojených bezpečnostných zborov a ozbrojených zborov.  
+>
+> (5) Vodič motorového vozidla je na diaľnici povinný za vozidlom idúcim pred ním dodržiavať bezpečnú vzdialenosť. Bezpečná vzdialenosť je minimálne taká vzdialenosť, ktorú motorové vozidlo prejde za tri sekundy, ak ide o motorové vozidlo kategórie M3, N2 alebo N3 a vzdialenosť, ktorú motorové vozidlo prejde za dve sekundy, ak ide o motorové vozidlo inej kategórie; to neplatí pre motorové vozidlo, ktoré využíva systém riadenia pre jazdu vozidiel v konvoji.
+
+
 
