@@ -294,7 +294,86 @@
 >
 > (8) Najvyššie dovolené rýchlosti ustanovené v odsekoch (2) až (6) nie sú povinní dodržiavať vodiči vozidiel ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Vojenského spravodajstva a Slovenskej informačnej služby, ak to vyžaduje plnenie osobitných úloh, ktorých okruh určí príslušný minister a riaditeľ Slovenskej informačnej služby.
 
+## § 17 – Vzdialenosť medzi vozidlami
 
+> (1) Vodič je povinný za vozidlom idúcim pred ním dodržiavať takú vzdialenosť, aby mohol včas znížiť rýchlosť jazdy, prípadne zastaviť vozidlo, ak vodič vozidla jazdiaceho pred ním zníži rýchlosť jazdy alebo zastaví.  
+>
+> (2) Vodič motorového vozidla je povinný dodržiavať za vozidlom idúcim pred ním takú vzdialenosť, aby sa predchádzajúce vozidlo mohlo pred neho bezpečne zaradiť.  
+>
+> (3) Vodič, ktorý nechce alebo nemôže prejsť pozdĺž električky vpravo, je povinný jazdiť za ňou v takej vzdialenosti, aby umožnil prejazd pozdĺž električky ostatným vodičom.
 
+## § 18 – Vyhýbanie
 
+> Vodiči protiidúcich vozidiel sa vyhýbajú vpravo, včas a v dostatočnej miere. Ak sa nemôžu bezpečne vyhnúť, prednosť v jazde je povinný dať ten vodič, na ktorého strane jazdy je prekážka alebo zúžená vozovka. Ak jeden z nich musí cúvať, urobí to ten, pre ktorého je to ľahšie alebo menej nebezpečné. Ak sa vodič nemôže vyhnúť protiidúcej električke vpravo, vyhýba sa jej vľavo.
+
+## § 19 – Odbočovanie
+
+> (1) Pred odbočovaním a počas odbočovania je vodič povinný dávať znamenie o zmene smeru jazdy. Vodič pri odbočovaní nesmie ohroziť vodiča idúceho za ním. Vodič je povinný pri odbočovaní dbať na zvýšenú opatrnosť. Vodič vozidla idúceho za vozidlom, ktoré odbočuje, musí dbať na zvýšenú opatrnosť a svojou jazdou nesmie ohroziť vodiča odbočujúceho vozidla.  
+>
+> (2) Ak to vyžadujú okolnosti, najmä pri preprave dlhého nákladu, vodič musí zaistiť bezpečné odbočenie pomocou spôsobilej a náležite poučenej osoby.  
+>
+> (3) Pred odbočovaním vpravo vodič je povinný zaradiť sa čo najbližšie k pravému okraju vozovky. Ak pritom musí s ohľadom na rozmery vozidla alebo nákladu vybočiť zo smeru svojej jazdy vľavo, vždy dáva len znamenie o zmene smeru jazdy vpravo. Pred odbočovaním vľavo vodič je povinný zaradiť sa čo najďalej vľavo v časti vozovky určenej pre jeho smer jazdy s ohľadom na rozmery vozidla alebo nákladu a šírku vozovky; to neplatí pre cyklistu. Ak vodiči protiidúcich vozidiel odbočujú vľavo, vyhýbajú sa vľavo.  
+>
+> (4) Vodič odbočujúci vľavo je povinný dať prednosť v jazde protiidúcim motorovým vozidlám i nemotorovým vozidlám, električkám idúcim v oboch smeroch, vozidlám idúcim vo vyhradenom jazdnom pruhu po jeho ľavej strane, cyklistom idúcim súbežne s cestou a chodcom prechádzajúcim cez vozovku. Vodič motorového vozidla i nemotorového vozidla odbočujúci vpravo je povinný dať prednosť v jazde električke, ak je povolená jazda pozdĺž električky vľavo, a vozidlu idúcemu vo vyhradenom jazdnom pruhu po jeho pravej strane.  
+>
+> (5) Električka, ktorá križuje smer jazdy vozidla idúceho po jej pravej alebo po jej ľavej strane a dáva znamenie o zmene smeru jazdy, má prednosť v jazde.  
+>
+> (6) Vodič odbočujúci vpravo je povinný dať prednosť v jazde cyklistovi idúcemu rovno vrátane cyklistu idúceho súbežne s cestou; to neplatí pre vodiča električky. Pri odbočovaní doľava vodič motorového vozidla nesmie ohroziť cyklistu odbočujúceho vľavo.
+
+## § 20 – Jazda cez križovatku
+
+> (1) Vodič, ktorý prichádza do križovatky po vedľajšej ceste označenej dopravnou značkou „Daj prednosť v jazde“ alebo „Stoj, daj prednosť v jazde“, je povinný dať prednosť v jazde vozidlám a ostatným účastníkom cestnej premávky prichádzajúcim po hlavnej ceste vrátane cyklistov idúcich súbežne s hlavnou cestou.  
+>
+> (2) Ak prednosť v jazde nevyplýva z odseku (1), vodič je povinný dať prednosť v jazde vozidlu prichádzajúcemu sprava.  
+>
+> (3) Vodič nesmie vojsť na križovatku, ak mu situácia nedovoľuje pokračovať za križovatkou v jazde, takže by bol nútený zastaviť vozidlo na križovatke; to neplatí, ak vodič musí zastaviť vozidlo v križovatke z dôvodu dávania prednosti chodcom prechádzajúcim cez vozovku alebo pri odbočovaní doľava podľa § 19 ods. 4.  
+>
+> (4) Na príkaz dopravnej značky „Stoj, daj prednosť v jazde!“ vodič je povinný zastaviť vozidlo na takom mieste, odkiaľ má na križovatku náležitý rozhľad.  
+>
+> (5) Ak je kruhový objazd označený dopravnou značkou „Kruhový objazd“ spolu s dopravnou značkou „Daj prednosť v jazde!“ alebo „Stoj, daj prednosť v jazde!“, vodič v kruhovom objazde má prednosť.
+
+## § 21 Vchádzanie na cestu
+
+> (1) Pri vchádzaní na cestu z pozemku ležiaceho vedľa cesty, areálu s obmedzeným prístupom, oploteného objektu, garáže, parkoviska, obratiska električiek a podobných miest, z poľnej cesty, z lesnej cesty, z cestičky pre cyklistov, z obytnej zóny alebo z pešej zóny vodič je povinný dať prednosť v jazde vozidlu idúcemu po ceste.
+>
+> (2) Ak to vyžadujú okolnosti, najmä nedostatočný rozhľad, vodič je povinný zaistiť bezpečný vjazd na cestu pomocou spôsobilej a náležite poučenej osoby.
+>
+> (3) Vozidlo vchádzajúce na cestu musí byť vopred očistené, aby neznečisťovalo cestu.
+
+## § 22 – Otáčanie a cúvanie
+
+> (1) Pri otáčaní platí obdobne § 19; pri otáčaní na križovatke aj § 20.  
+>
+> (2) Vodič nesmie pri cúvaní ohroziť ostatných účastníkov cestnej premávky.  
+>
+> (3) Ak to vyžadujú okolnosti, najmä nedostatočný rozhľad, vodič je povinný zaistiť bezpečné otáčanie alebo cúvanie pomocou spôsobilej a náležite poučenej osoby.  
+>
+> (4) Vodič sa nesmie otáčať a nesmie cúvať  
+> - a) na neprehľadných alebo na inak nebezpečných miestach, najmä v neprehľadnej zákrute a v jej tesnej blízkosti, pred neprehľadným vrcholom stúpania cesty, na ňom a za ním,  
+> - b) na križovatke s riadenou premávkou; otáčať sa smie, ak to dovoľuje dopravná značka alebo dopravné zariadenie,  
+> - c) na priechode pre chodcov, na mieste na prechádzanie alebo na priechode pre cyklistov,  
+> - d) na železničnom priecestí a v jeho tesnej blízkosti,  
+> - e) v tuneli a v jeho tesnej blízkosti,  
+> - f) na jednosmernej ceste; vodič však smie cúvať, ak je to nevyhnutne potrebné najmä na zaradenie do radu stojacich vozidiel alebo na vyjdenie z neho,  
+> - g) na moste.
+
+## § 23 - Zastavenie a státi
+
+> (1) Vodič smie zastaviť a stáť len vpravo v smere jazdy v jednom rade a rovnobežne s okrajom cesty, čo najbližšie k okraju cesty a na jednosmernej ceste vpravo i vľavo. Ak nie je ohrozená bezpečnosť a plynulosť cestnej premávky, vodič smie v obci zastaviť a stáť kolmo, prípadne šikmo na okraj cesty alebo zastaviť v druhom rade. Pri státí musí zostať voľný aspoň jeden jazdný pruh široký najmenej 3 m pre každý smer jazdy. Pri zastavení musí zostať voľný aspoň jeden jazdný pruh široký najmenej 3 m pre oba smery jazdy.  
+>
+> (2) Pri zastavení a státí je vodič povinný prednostne použiť parkovisko tak, aby neobmedzoval ostatných účastníkov cestnej premávky. Pri zastavení a státí vodič je povinný čo najlepšie využiť parkovacie miesto a nesmie znemožniť ostatným vodičom vyjdenie z parkovacieho miesta. Rovnako nesmie zastaviť a stáť na mieste, kde by znemožnil vjazd a výjazd vozidiel. Ak sú na parkovisku vyznačené parkovacie miesta, vodič smie stáť len na nich.  
+>
+> (3) Pri zastavení a státí vedľa vozidla s parkovacím preukazom pre fyzickú osobu so zdravotným postihnutím (ďalej len „parkovací preukaz“) podľa § 44 ods. 4 vodič je povinný ponechať bočný odstup najmenej 1,2 m.  
+>
+> (4) Ak vodič, ktorý chce zastaviť alebo stáť, zachádza na okraj cesty alebo chodníka, je povinný dávať znamenie o zmene smeru jazdy.  
+>
+> (5) Vodič vozidla, ktoré zastavilo alebo stálo a opäť vychádza od okraja cesty alebo od chodníka, nesmie ohroziť ostatných účastníkov cestnej premávky; pritom je povinný dávať znamenie o zmene smeru jazdy. Vodičovi vozidla pravidelnej verejnej dopravy osôb sú v obci vodiči ostatných vozidiel povinní umožniť vyjdenie zo zastávky alebo zo zastávkového pruhu, a to znížením rýchlosti jazdy, prípadne i zastavením vozidla; vodič takéhoto vozidla pritom nesmie ohroziť najmä vodičov vozidiel idúcich rovnakým smerom.
+
+## § 24
+
+> (1) Otvárať dvere alebo bočné steny vozidla, ako aj nastupovať do vozidla alebo vystupovať z neho sa smie len vtedy, ak tým nie je ohrozená bezpečnosť nastupujúcich osôb alebo vystupujúcich osôb ani iných účastníkov cestnej premávky.  
+>
+> (2) Vodič, ktorý sa chce vzdialiť od vozidla tak, že nebude môcť okamžite zasiahnuť, je povinný urobiť také opatrenia, aby vozidlo nemohlo ohroziť bezpečnosť a plynulosť cestnej premávky a aby ho nemohla neoprávnene použiť iná osoba. Ak je vozidlo povinne vybavené zariadením proti neoprávnenému použitiu, vodič je povinný ho použiť. Vodič motorového vozidla alebo jazdnej súpravy povinne vybavených zakladacími klinmi je povinný ich použiť, ak treba zabezpečiť vozidlo alebo súpravu proti pohybu.  
+>
+> (3) Vodič vozidla, ktoré je povinne vybavené prenosným výstražným trojuholníkom, je povinný tento trojuholník použiť počas núdzového státia, najmä pri prerušení jazdy pre chybu na vozidle alebo na náklade alebo v dôsledku dopravnej nehody, ak také vozidlo tvorí prekážku cestnej premávky. Vodič je povinný trojuholník umiestniť na okraji vozovky tak, aby ho prichádzajúci vodiči včas a zreteľne videli, a to vo vzdialenosti najmenej 50 m za vozidlom a na diaľnici najmenej 100 m za vozidlom. V obci môže byť táto vzdialenosť, ak to vyžadujú okolnosti, kratšia. Ak je vozidlo vybavené osobitným zariadením, ktoré umožňuje výstražnú funkciu smerových svietidiel, vodič je povinný ho použiť aspoň v čase, kým umiestni trojuholník na vozovke.
 
