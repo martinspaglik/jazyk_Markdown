@@ -1014,6 +1014,9 @@
 >
 > (6) Účastník škodovej udalosti je povinný bezodkladne zastaviť vozidlo, preukázať svoju totožnosť inému účastníkovi škodovej udalosti, poskytnúť údaje o poistení vozidla, vyplniť a podpísať tlačivo zavedené na zabezpečenie náhrady vzniknutej škody podľa osobitného predpisu, zdržať sa požitia alkoholu alebo inej návykovej látky a urobiť vhodné opatrenia, aby nebola ohrozená bezpečnosť alebo plynulosť cestnej premávky. Ak účastník škodovej udalosti spôsobil hmotnú škodu osobe, ktorá nie je účastníkom škodovej udalosti, je povinný o tom túto osobu bezodkladne upovedomiť a vyplniť s ňou a podpísať tlačivo zavedené na zabezpečenie náhrady vzniknutej škody podľa osobitného predpisu.
 
+> DRUHÁ HLAVA
+
+> EVIDENCIA DOPRAVNÝCH NEHÔD
 
 
 
