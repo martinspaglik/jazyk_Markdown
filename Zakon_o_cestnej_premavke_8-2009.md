@@ -578,14 +578,15 @@
 > (7) Používanie zvláštnych motorových vozidiel na cestách je s výnimkou ciest III. triedy, miestnych komunikácií a účelových komunikácií zakázané; to neplatí  
 > - a) pre traktory a pracovné stroje samohybné povinne opatrené tabuľkou s evidenčným číslom pri ich presune na vykonávanie pôdohospodárskych prác,  
 > - b) pre traktory a pracovné stroje samohybné povinne opatrené tabuľkou s evidenčným číslom iné, ako sú uvedené v písmene a), ktoré môžu používať aj cesty I. a II. triedy s tým, že cesty I. triedy nemôžu používať
->> - 1. v pondelok až piatok v čase od 07.00 do 09.00 hodín a
->>   2. v piatok a v dňoch pracovného pokoja v čase od 16.00 do 20.00 hodín,  
+>   1. v pondelok až piatok v čase od 07.00 do 09.00 hodín a
+>   2. v piatok a v dňoch pracovného pokoja v čase od 16.00 do 20.00 hodín,  
 > - c) pre zvláštne motorové vozidlá ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Vojenského spravodajstva a Slovenskej informačnej služby a zvláštne motorové vozidlá použité na odstraňovanie havárií a ich následkov, pri živelných pohromách, pri výkone činnosti spojenej s údržbou, opravami a výstavbou ciest,  
 > - d) ak je používanie zvláštnych motorových vozidiel dovolené na základe povolenia na zvláštne užívanie ciest.  
 >
 > (8) Na ceste I. triedy je zakázaná jazda záprahovým vozidlám a ručným vozíkom s celkovou šírkou väčšou ako 600 mm. Na ceste II. triedy je takýmto vozidlám zakázaná jazda  
 > - a) v čase od 06.00 do 09.00 hodín, od 15.00 do 20.00 hodín a od 23.00 do 04.00 hodín,  
 > - b) v čase zákazu jazdy niektorých druhov vozidiel podľa odsekov (1) a (2), ak tento čas nie je rovnaký s časmi podľa písmena a).
+
 
 
 
