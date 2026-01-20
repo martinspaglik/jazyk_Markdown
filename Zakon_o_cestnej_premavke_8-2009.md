@@ -508,5 +508,84 @@
 >
 > (5) Vodič motorového vozidla je na diaľnici povinný za vozidlom idúcim pred ním dodržiavať bezpečnú vzdialenosť. Bezpečná vzdialenosť je minimálne taká vzdialenosť, ktorú motorové vozidlo prejde za tri sekundy, ak ide o motorové vozidlo kategórie M3, N2 alebo N3 a vzdialenosť, ktorú motorové vozidlo prejde za dve sekundy, ak ide o motorové vozidlo inej kategórie; to neplatí pre motorové vozidlo, ktoré využíva systém riadenia pre jazdu vozidiel v konvoji.
 
+## § 36
+
+> (1) Vodičovi motorového vozidla je na diaľnici zakázané  
+> - a) zastavenie a státie na inom mieste než na mieste označenom ako parkovisko s výnimkou núdzového státia, keď vozidlo musí stáť na krajnici, a ak to nie je možné, na vozovke, pričom také vozidlo musí vodič vždy označiť ako prekážku cestnej premávky,  
+> - b) otáčanie, cúvanie a vchádzanie na stredný deliaci pás vrátane miest, kde je pás prerušený.  
+>
+> (2) Ak vodič motorového vozidla počas jazdy zistí na vozidle alebo na náklade chybu, pre ktorú nemožno dosiahnuť na rovine rýchlosť podľa § 35 ods. 1, musí diaľnicu opustiť na najbližšom výjazde; to neplatí, ak sa pred výjazdom z diaľnice nachádza parkovisko, kde musí vozidlo odstaviť.  
+>
+> (3) Vlečenie motorového vozidla je dovolené len vtedy, ak je to nevyhnutné na jeho odstránenie z diaľnice. Vozidlo sa smie vliecť len k najbližšiemu parkovisku alebo výjazdu, kde musí diaľnicu opustiť.
+> 
+> (4) Vodič motorového vozidla nesmie predchádzať iné motorové vozidlo, ak by pri predchádzaní svojou výrazne nižšou rýchlosťou obmedzil iné motorové vozidlo idúce po diaľnici.
+
+## § 37
+
+> (1) Cestu pre motorové vozidlá môžu používať len vodiči motorových vozidiel s najväčšou konštrukčnou rýchlosťou najmenej 60 km/h. Iným účastníkom cestnej premávky je používanie cesty pre motorové vozidlá zakázané okrem prechádzania alebo prejazdu iných účastníkov cestnej premávky v križovatke alebo na inom mieste na to určenom.  
+>
+> (2) Ak vodič motorového vozidla počas jazdy zistí na vozidle alebo na náklade chybu, pre ktorú nemožno dosiahnuť na rovine rýchlosť najmenej 60 km/h, musí cestu pre motorové vozidlá opustiť na najbližšom možnom mieste.  
+>
+> (3) Ustanovenia o premávke na diaľnici uvedené v § 35 ods. 2 až 5 a § 36 ods. 1, 3 a 4 platia aj na ceste pre motorové vozidlá.  
+>
+> (4) Ak nie je v odsekoch (1) až (3) a § 35 a 36 uvedené inak, platia pre premávku na diaľnici a na ceste pre motorové vozidlá ostatné ustanovenia tohto zákona.
+
+## § 38 – Osobitosti premávky v zimnom období
+
+> (1) Ak sa na vozovke nachádza súvislá snehová vrstva, ľad alebo námraza, vodič motorového vozidla kategórie M1 a N1 môže také vozidlo použiť v cestnej premávke, len ak je toto vozidlo na všetkých nápravách vybavené pneumatikami na jazdu na snehu označené horským symbolom alebo pneumatikami s označením „M+S“, „M.S“ alebo „M&S“; motorové vozidlá kategórie M2, M3, N2 a N3 musia byť vybavené takými pneumatikami aspoň na jednej z hnacích náprav v čase od 15. novembra do 31. marca a v prípadoch, ktoré sú uvedené v časti vety pred bodkočiarkou.  
+>
+> (2) Ustanovenie odseku (1) neplatí  
+> - a) pri núdzovom dojazde, ak je na náprave namontovaná náhradná pneumatika alebo pneumatika na núdzový dojazd,  
+> - b) pre terénne motorové vozidlo,  
+> - c) pre motorové vozidlo používané v obci v súvislosti s plnením úloh na základe zmluvy o výkone vo verejnom záujme podľa osobitného predpisu.  
+>
+> (3) Vodič motorového vozidla je povinný zabezpečiť splnenie podmienky podľa odseku (1), ak vzhľadom na ročné obdobie možno predpokladať, že na trase, ktorou bude s motorovým vozidlom prechádzať, bude sa na vozovke nachádzať súvislá snehová vrstva, ľad alebo námraza.  
+>
+> (4) Vodič vozidla je pred jazdou povinný odstrániť z vozidla a z nákladu kusy ľadu a snehu, ktoré by sa počas jazdy mohli uvoľniť.
+
+## § 39 – Obmedzenie jazdy niektorých druhov vozidiel
+
+> (1) Na diaľnici, na ceste pre motorové vozidlá a na ceste I. triedy je zakázaná jazda motorovým vozidlám s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 7 500 kg a motorovým vozidlám s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 3 500 kg s prípojným vozidlom  
+> - a) v prvý deň pracovného pokoja a v sobotu, ak táto nasleduje po pracovnom dni v období od 1. júla do 31. augusta v čase od 07.00 do 19.00 hodín,  
+> - b) v nedeľu a v posledný deň pracovného pokoja v čase od 00.00 do 22.00 hodín.  
+>
+> (2) Ak ide o jeden deň pracovného pokoja, ktorý nasleduje po pracovnom dni, zákaz jazdy podľa odseku (1) platí v tento deň v čase od 00.00 do 22.00 hodín.  
+>
+> (3) Zákaz jazdy podľa odsekov (1) a (2) neplatí pre  
+> - a) autobusy, obytné automobily, vozidlá ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Hasičského a záchranného zboru, ostatných hasičských jednotiek, Vojenského spravodajstva a Slovenskej informačnej služby,  
+> - b) vozidlá použité na prepravu zdravotníckeho materiálu, liečiv a biologického materiálu do zdravotníckeho zariadenia alebo na zabezpečenie prevádzky zdravotníckych prístrojov v zdravotníckych zariadeniach,  
+> - c) vozidlá použité v kombinovanej doprave, na nakládku a vykládku lodí, železničných vagónov alebo lietadiel,  
+> - d) vozidlá použité na zásobovanie čerpacích staníc pohonnými látkami,  
+> - e) vozidlá prepravujúce nebezpečné veci,  
+> - f) vozidlá použité na zabezpečovanie športových a kultúrnych podujatí,  
+> - g) vozidlá použité na prepravu humanitárnej pomoci,  
+> - h) vozidlá použité na odstraňovanie havárií a ich následkov, ako aj pri živelných pohromách,  
+> - i) vozidlá použité pri výkone činnosti spojenej s údržbou, opravami a výstavbou ciest,  
+> - j) vozidlá použité na nevyhnutnú poľnohospodársku sezónnu prepravu,  
+> - k) vozidlá použité na prepravu potravín alebo na prepravu živých zvierat,  
+> - l) prepravu, ktorá súvisí s použitím vozidiel podľa písmen b) až k).  
+>
+> (4) Na ceste III. triedy je zakázaná jazda nákladným motorovým vozidlám s najväčšou prípustnou celkovou hmotnosťou presahujúcou 12 000 kg alebo jazdným súpravám s najväčšou prípustnou hmotnosťou presahujúcou 12 000 kg, okrem nákladných motorových vozidiel a jazdných súprav,  
+> - a) ktoré zabezpečujú nakládku alebo vykládku tovaru alebo iného nákladu, opravárenské, údržbárske služby alebo komunálne a podobné služby na ceste III. triedy alebo na mieste, ku ktorému je prístup len po ceste III. triedy,  
+> - b) ktorých vodiči, prípadne prevádzkovatelia, majú na ceste III. triedy alebo na mieste, ku ktorému je prístup len po ceste III. triedy, sídlo, garáž alebo prevádzku,  
+> - c) ktorých jazda alebo preprava po ceste III. triedy alebo na miesto, ku ktorému je prístup len po ceste III. triedy je vykonávaná z dôvodu opravy, servisu, technickej kontroly, emisnej kontroly, kontroly originality predmetného vozidla alebo odovzdania palubnej jednotky,  
+> - d) ktoré sa na ceste III. triedy alebo na mieste, ku ktorému je prístup len po ceste III. triedy používajú ako výcvikové vozidlá autoškoly alebo na ktorých sa vykonáva skúška z odbornej spôsobilosti.  
+>
+> (5) Zákaz jazdy podľa odseku (4) neplatí ani pre vozidlá uvedené v odseku (3) písm. a), b), d) a f) až k) a prepravu, ktorá súvisí s použitím týchto vozidiel.  
+>
+> (6) Vodič je povinný na výzvu policajta hodnoverným spôsobom preukázať použitie vozidla na účely uvedené v odsekoch (3) až (5).  
+>
+> (7) Používanie zvláštnych motorových vozidiel na cestách je s výnimkou ciest III. triedy, miestnych komunikácií a účelových komunikácií zakázané; to neplatí  
+> - a) pre traktory a pracovné stroje samohybné povinne opatrené tabuľkou s evidenčným číslom pri ich presune na vykonávanie pôdohospodárskych prác,  
+> - b) pre traktory a pracovné stroje samohybné povinne opatrené tabuľkou s evidenčným číslom iné, ako sú uvedené v písmene a), ktoré môžu používať aj cesty I. a II. triedy s tým, že cesty I. triedy nemôžu používať
+>> - 1. v pondelok až piatok v čase od 07.00 do 09.00 hodín a
+>>   2. v piatok a v dňoch pracovného pokoja v čase od 16.00 do 20.00 hodín,  
+> - c) pre zvláštne motorové vozidlá ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Vojenského spravodajstva a Slovenskej informačnej služby a zvláštne motorové vozidlá použité na odstraňovanie havárií a ich následkov, pri živelných pohromách, pri výkone činnosti spojenej s údržbou, opravami a výstavbou ciest,  
+> - d) ak je používanie zvláštnych motorových vozidiel dovolené na základe povolenia na zvláštne užívanie ciest.  
+>
+> (8) Na ceste I. triedy je zakázaná jazda záprahovým vozidlám a ručným vozíkom s celkovou šírkou väčšou ako 600 mm. Na ceste II. triedy je takýmto vozidlám zakázaná jazda  
+> - a) v čase od 06.00 do 09.00 hodín, od 15.00 do 20.00 hodín a od 23.00 do 04.00 hodín,  
+> - b) v čase zákazu jazdy niektorých druhov vozidiel podľa odsekov (1) a (2), ak tento čas nie je rovnaký s časmi podľa písmena a).
+
 
 
