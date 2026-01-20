@@ -587,6 +587,114 @@
 > - a) v čase od 06.00 do 09.00 hodín, od 15.00 do 20.00 hodín a od 23.00 do 04.00 hodín,  
 > - b) v čase zákazu jazdy niektorých druhov vozidiel podľa odsekov (1) a (2), ak tento čas nie je rovnaký s časmi podľa písmena a).
 
+## § 40 - Vozidlá so zvláštnymi výstražnými zvukovými znameniami alebo svetlami
 
+> (1) Vodič vozidla s právom prednostnej jazdy nie je povinný dodržiavať povinnosti a zákazy ustanovené týmto zákonom okrem povinností podľa § 3 ods. 2 písm. c) a § 4 ods. 2 písm. a) až f), pričom je povinný dbať na potrebnú opatrnosť tak, aby iných účastníkov cestnej premávky neohrozil.  
+>
+> (2) Vozidlá s právom prednostnej jazdy sú vozidlá  
+> - a) ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Žandárskeho zboru, Vojenského spravodajstva a civilnej ochrany obyvateľstva, ktoré určí príslušný minister,  
+> - b) Hasičského a záchranného zboru, ostatných hasičských jednotiek, Horskej záchrannej služby, záchrannej zdravotnej služby a banskej záchrannej služby pri plnení úloh spojených so záchranou života a zdravia osôb alebo materiálnych hodnôt,  
+> - c) Slovenskej informačnej služby, ktoré určí riaditeľ Slovenskej informačnej služby,  
+> - d) Národnej rady Slovenskej republiky pri preprave ústavných činiteľov alebo členov zahraničných delegácií a pri plnení úloh spojených s takou prepravou,  
+> - e) vlády Slovenskej republiky pri preprave ústavných činiteľov alebo členov zahraničných delegácií a pri plnení úloh spojených s takou prepravou,  
+> - f) Kancelárie prezidenta Slovenskej republiky pri preprave ústavných činiteľov alebo členov zahraničných delegácií a pri plnení úloh spojených s takou prepravou,  
+> - g) Ústavného súdu Slovenskej republiky pri preprave jeho predsedu,  
+> - h) Najvyššieho súdu Slovenskej republiky pri preprave jeho predsedu,  
+> - i) Najvyššieho správneho súdu Slovenskej republiky pri preprave jeho predsedu,  
+> - j) Najvyššieho kontrolného úradu Slovenskej republiky pri preprave jeho predsedu,  
+> - k) Národného bezpečnostného úradu pri preprave jeho riaditeľa,  
+> - l) Generálnej prokuratúry Slovenskej republiky pri preprave generálneho prokurátora,  
+> - m) obecnej polície, ktoré určí obec,  
+> - n) správcu diaľnice pri zabezpečovaní miesta dopravnej nehody alebo škodovej udalosti alebo pri označovaní prekážky cestnej premávky, ktoré sú na tieto účely určené, vybavené a ktoré sú označené neodnímateľným označením správcu.  
+>
+> (3) Ministerstvo vnútra môže v osobitných prípadoch, najmä ak je to potrebné na ochranu života, zdravia alebo majetku, na základe písomnej žiadosti vydať povolenie na používanie zvláštnych výstražných znamení aj na iných vozidlách, ako sú uvedené v odseku (2); v takom prípade môže byť zvláštne výstražné svetlo modrej farby umiestnené na vozidle len pomocou prenosného zariadenia.  
+>
+> (4) Žiadosť podľa odseku (3) musí obsahovať  
+> - a) názov a sídlo právnickej osoby, ktorá o povolenie žiada,  
+> - b) účel a zdôvodnenie nevyhnutnosti používania zvláštnych výstražných znamení,  
+> - c) zoznam vozidiel, ktoré budú zvláštne výstražné znamenie používať,  
+> - d) územný a časový rozsah používania zvláštnych výstražných znamení.  
+>
+> (5) Rozsah a podmienky používania zvláštnych výstražných znamení podľa odseku (3) určí ministerstvo vnútra vo vydanom povolení. Ministerstvo vnútra môže povolenie kedykoľvek zrušiť, a to i bez udania dôvodu, o čom vyrozumie jeho držiteľa.  
+>
+> (6) Vozidlo s právom prednostnej jazdy smie viesť len vodič starší ako 21 rokov, ktorý má vo vedení motorového vozidla príslušnej skupiny najmenej dvojročnú prax, ak v druhej vete nie je ustanovené inak. Vozidlo s právom prednostnej jazdy skupiny C1 smie viesť aj vodič starší ako 21 rokov, ktorý má vo vedení motorového vozidla skupiny C1 najmenej ročnú prax, ak má vo vedení vozidla s právom prednostnej jazdy skupiny B najmenej dvojročnú prax; vozidlo s právom prednostnej jazdy skupiny C1, ktorého najväčšia prípustná celková hmotnosť nepresahuje 4 250 kg, smie viesť aj vodič starší ako 21 rokov, ktorý má vo vedení vozidla s právom prednostnej jazdy skupiny B najmenej dvojročnú prax.  
+>
+> (7) Ustanovenia odsekov (1) a (6) platia obdobne aj pre vodičov vozidiel sprevádzaných vpredu, a ak ide o viac ako tri vozidlá, aj vzadu vozidlami ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Vojenského spravodajstva a Slovenskej informačnej služby s právom prednostnej jazdy. Na sprevádzanom vozidle musí byť použité aj zvláštne výstražné svetlo modrej alebo červenej farby, prípadne ich kombinácia alebo osobitné zariadenie umožňujúce výstražnú funkciu smerových svietidiel, ak je nimi vozidlo vybavené.  
+>
+> (8) Vodič iného vozidla je povinný vozidlu s právom prednostnej jazdy a vozidlu, ktoré sprevádza, umožniť bezpečný a plynulý prejazd, a ak je to potrebné, aj zastaviť vozidlo na takom mieste, aby im neprekážalo. Do skupiny vozidiel tvorenej vozidlami s právom prednostnej jazdy a vozidlami, ktoré sprevádzajú, sa vodič iného vozidla nesmie zaraďovať.  
+>
+> (9) Ak hustota cestnej premávky v jednom smere jazdy vyvolá vznik kolóny stojacich vozidiel, vodič vozidla s právom prednostnej jazdy môže použiť krajnicu alebo inú časť cesty, ktorá nie je určená na jazdu vozidiel; pritom je povinný dbať na zvýšenú opatrnosť tak, aby neohrozil iných účastníkov cestnej premávky.  
+>
+> (10) Ak na stojacom vozidle svieti zvláštne výstražné svetlo modrej alebo červenej farby, prípadne ich kombinácia, musí vodič iného vozidla zvýšiť opatrnosť, znížiť rýchlosť jazdy, prípadne zastaviť vozidlo.  
+>
+> (11) Vozidlo s právom prednostnej jazdy a vozidlo, ktoré sprevádza, majú pri čerpaní pohonných látok prednosť; pritom nemusia používať zvláštne výstražné znamenie.  
+>
+> (12) Len vozidlo Policajného zboru, vozidlo Vojenskej polície alebo vozidlo Žandárskeho zboru môže používať zvláštne výstražné svetlo červenej farby a kombináciu zvláštneho výstražného svetla červenej a modrej farby.  
+>
+> (13) Iné vozidlo, ako je uvedené v odsekoch (2), (3) a (7), nesmie byť vybavené zariadením umožňujúcim používanie typického zvukového znamenia alebo zvláštneho výstražného svetla ustanovených pre vozidlá s právom prednostnej jazdy.  
+>
+> (14) Prevádzkovatelia vozidiel podľa odseku (2) určia podmienky na používanie zvláštnych výstražných znamení.
+
+## § 41
+
+> (1) Vodič vozidla vybaveného zvláštnym výstražným svetlom oranžovej farby je povinný toto svetlo používať, ak by mohol svojou jazdou alebo pracovnou činnosťou ohroziť bezpečnosť alebo plynulosť cestnej premávky alebo na označenie prekážky cestnej premávky.  
+>
+> (2) Vodič vozidla podľa odseku (1) nie je povinný dodržiavať tie pravidlá cestnej premávky okrem § 3 ods. 2 písm. c), pri ktorých to povaha jeho jazdy alebo činnosti vyžaduje; pritom musí dbať na potrebnú opatrnosť.  
+>
+> (3) Vodič iného vozidla je povinný podľa okolností znížiť rýchlosť jazdy alebo aj zastaviť vozidlo, ak vozidlo uvedené v odseku (1) používa zvláštne výstražné svetlo oranžovej farby.  
+>
+> (4) Ustanovenie odseku (2) platí obdobne aj pre vodičov kolóny vozidiel ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov alebo Slovenskej informačnej služby vpredu i vzadu sprevádzanej vozidlami používajúcimi zvláštne výstražné svetlo oranžovej farby.
+
+## § 42
+
+> Okruh vozidiel používajúcich zvláštne výstražné svietidlo oranžovej farby a požiadavky na zvláštne výstražné svietidlá a zvláštne zvukové výstražné znamenia upravuje osobitný predpis.
+
+## § 43 – Prekážka cestnej premávky
+
+> (1) Kto spôsobil prekážku cestnej premávky, je povinný ju bezodkladne odstrániť. Ak to neurobí, je povinný ju bezodkladne odstrániť na jeho náklady správca cesty. Ten, kto odstráni prekážku cestnej premávky, je povinný bezodkladne zabezpečiť aj odstránenie predmetov a odpadov prekážajúcich v zjazdnosti na ceste, ktoré s prekážkou cestnej premávky súvisia.  
+>
+> (2) Ak ten, kto prekážku cestnej premávky spôsobil, ju bezodkladne neodstráni, je povinný ju označiť a oznám to policajtovi; ak prekážku neoznačí, príslušný správca cesty je povinný ju bezodkladne označiť na náklady jej pôvodcu.  
+>
+> (3) Prekážka cestnej premávky sa označí tak, aby ju účastníci cestnej premávky mohli včas spozorovať. Prekážka cestnej premávky sa označuje najmä zábranou na označenie uzávierky, výstražným svetlom oranžovej farby, za zníženej viditeľnosti aj červeným svetlom alebo reflexnou červenou zástavkou. Na označenie vozidla, ktoré je povinne vybavené prenosným výstražným trojuholníkom, platí § 24 ods. 3.  
+>
+> (4) Správca cesty môže odstrániť vozidlo stojace na ceste vrátane chodníka a parkoviska na náklady jeho prevádzkovateľa, ak je  
+> - a) na mieste, kde tvorí prekážku cestnej premávky,  
+> - b) na vyhradenom parkovisku pre vozidlo s konkrétnym evidenčným číslom vozidla, pre osobu so zdravotným postihnutím alebo pre vozidlo s konkrétnym parkovacím preukazom, ak také parkovisko nie je preň určené,  
+> - c) bez pripevnenej tabuľky s evidenčným číslom, ak podlieha evidenčnej povinnosti, alebo je bez čitateľného vyznačenia mena, priezviska a adresy pobytu alebo názvu a síla držiteľa vozidla na viditeľnom mieste s výnimkou dvojkolesových vozidiel, aj keď netvorí prekážku cestnej premávky,  
+> - d) nespôsobilé na prevádzku v cestnej premávke dlhšie ako šesť mesiacov aj keď netvorí prekážku cestnej premávky.  
+>
+> (5) Ak ide o vozidlo uvedené v odseku (4) a v § 25, môže o jeho odstránení rozhodnúť aj policajt; také vozidlo odstráni na náklady jeho prevádzkovateľa Policajný zbor alebo správca cesty podľa rozhodnutia policajta.  
+>
+> (6) Ak vozidlo tvoriace prekážku cestnej premávky na diaľnici alebo na ceste pre motorové vozidlá bezodkladne neodstráni ten, kto prekážku spôsobil, o okamžitom odstránení vozidla na jeho náklady rozhodne policajt alebo správca cesty.  
+>
+> (7) Ak bolo vozidlo odstránené podľa odseku (4) písm. d), na ďalšie nakladanie s ním sa primerane použijú ustanovenia osobitného predpisu.
+
+## § 44 – Osobitné označenie vozidla a parkovací preukaz
+
+> (1) Osobitné označenie sa môže používať na  
+> - a) vozidle vedenom osobou so sluchovým postihnutím,  
+> - b) vozidle lekára pri poskytovaní zdravotnej starostlivosti,  
+> - c) autobuse, ktorým sa prepravujú deti,  
+> - d) vozidle vedenom vodičom začiatočníkom.  
+>
+> (2) Parkovací preukaz sa môže používať na vozidle prepravujúcom fyzickú osobu s ťažkým zdravotným postihnutím, ktorá spĺňa podmienky podľa osobitného predpisu.  
+>
+> (3) Vodič vozidla podľa odseku (1) písm. b) alebo podľa odseku (2) je povinný osobitné označenie alebo parkovací preukaz odstrániť z vozidla, ak sa nepoužíva na účel, na ktorý je určený.  
+>
+> (4) Osobitné označenie na vozidle podľa odseku (1) písm. b) môže používať iba osoba, ktorej ho na základe písomnej žiadosti vydal okresný úrad v síle kraja príslušný podľa miesta jej trvalého pobytu alebo prechodného pobytu alebo iný oprávnený orgán v zahraničí. Parkovací preukaz môže používať iba fyzická osoba, ktorej ho vydal úrad práce, sociálnych vecí a rodiny podľa osobitného predpisu alebo iný oprávnený orgán v zahraničí. Príslušný okresný úrad v síle kraja vedie evidenciu vydaných osobitných označení podľa odseku (1) písm. b) v rozsahu meno, priezvisko, dátum a miesto narodenia a trvalý alebo prechodný pobyt, pričom je povinný poskytnúť Policajnému zboru na jeho žiadosť informácie o vydaných osobitných označeniach. Príslušný úrad práce, sociálnych vecí a rodiny je povinný poskytnúť Policajnému zboru na jeho žiadosť informácie o vydaných parkovacích preukazoch v rozsahu evidenčné číslo parkovacieho preukazu, dátum skončenia platnosti parkovacieho preukazu, názov príslušného orgánu, ktorý parkovací preukaz vyhotovil, meno a priezvisko osoby, ktorej bol parkovací preukaz vydaný. Ústredie práce, sociálnych vecí a rodiny poskytuje Policajnému zboru elektronicky na účely kontroly použitia parkovacieho preukazu údaje o fyzickej osobe, ktorá je držiteľom parkovacieho preukazu; údaje sa poskytujú v rozsahu evidenčné číslo a dátum vydania parkovacieho preukazu, názov príslušného orgánu, ktorý parkovací preukaz vydal, meno, priezvisko a dátum narodenia osoby, ktorej bol parkovací preukaz vydaný.  
+>
+> (5) Oprávnenie na používanie osobitného označenia na vozidle podľa odseku (1) písm. b) sa preukazuje preukazom osobitného označenia vozidla vydaného okresným úradom príslušným podľa odseku (4).  
+>
+> (6) Osobitné označenie podľa odseku (1) písm. b) sa smie na vozidle používať len v súvislosti s prepravou osoby, ktorá je držiteľom preukazu podľa odseku (5). Parkovací preukaz sa smie na vozidle používať len v súvislosti s prepravou osoby, ktorá je jeho držiteľom. Vodič vozidla označeného osobitným označením podľa odseku (1) písm. b) je povinný pri vedení vozidla mať pri sebe preukaz podľa odseku (5) a na výzvu policajta sa ním preukázať; ak vodičom nie je osoba uvedená v odseku (1) písm. b), stačí, ak sa takým preukazom preukáže prepravovaná osoba. Osobitné označenie podľa odseku (1) písm. a) sa smie na vozidle používať, len ak je takou osobou vodič vozidla.  
+>
+> (7) Vodič vozidla s parkovacím preukazom môže stáť na mieste vyhradenom pre vozidlá prepravujúce osoby s ťažkým zdravotným postihnutím. Vodič osobitne označeného vozidla podľa odseku (1) písm. b) a vodič vozidla s parkovacím preukazom nemusí po nevyhnutne potrebný čas dodržiavať zákaz státia. Ak je to nevyhnutné, môže vodič takéhoto vozidla vchádzať aj tam, kde je dopravnou značkou vjazd povolený len vymedzenému okruhu vozidiel, a do pešej zóny; pritom nesmie ohroziť bezpečnosť cestnej premávky. Týmto oprávnením nie je dotknutá povinnosť vodiča uposlúchnuť pokyn, výzvu alebo príkaz policajta súvisiaci s výkonom jeho oprávnení podľa tohto zákona.  
+>
+> (8) Ustanovenia odseku (7) a § 23 ods. 3 sa vzťahujú aj na vozidlá označené dokladom podľa Dohovoru o cestnej premávke podpísaného 8. novembra 1968 vo Viedni v znení neskorších predpisov (ďalej len „Viedenský dohovor“).  
+>
+> (9) Vyobrazenie osobitných označení podľa odseku (1) a ich umiestnenie na vozidle ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo vnútra.
+
+> TRETIA HLAVA
+
+> PODMIENKY PREPRAVY OSÔB A NÁKLADU
 
 
