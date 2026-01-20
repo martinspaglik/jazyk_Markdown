@@ -184,8 +184,48 @@
 > - d) vodiča vozidla taxislužby pri zmluvnej preprave osôb v obci,  
 > - e) osobu, ktorá nemôže byť pripútaná zo zdravotných dôvodov; takáto osoba sa musí preukázať osvedčením o oslobodení od použitia bezpečnostných systémov vozidla.  
 
+> DRUHÁ HLAVA
 
+> JAZDA VOZIDLAMI
 
+## § 9 Spôsob jazdy
 
+> (1) Vodič je povinný na vozovke alebo v jazdnom pruhu jazdiť vpravo pri pravom okraji vozovky alebo jazdného pruhu; to neplatí pri obchádzaní, predchádzaní, otáčaní alebo odbočovaní.
+> (2) Na krajnicu smie vodič motorového vozidla vojsť len pri zastavení a státí alebo pri obchádzaní a vyhýbaní sa prekážke cestnej premávky; pritom je povinný dbať na zvýšenú opatrnosť.
+> (3) Vodič malého motocykla alebo vodič nemotorového vozidla smie jazdiť po pravej krajnici, len ak tým neohrozí a neobmedzí pohyb chodcov.
+
+## § 10 – Jazda v jazdných pruhoch
+
+> (1) Mimo obce na ceste s dvoma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy sa jazdí v pravom jazdnom pruhu. V ostatných jazdných pruhoch sa smie jazdiť, ak je to potrebné na obchádzanie, predchádzanie, otáčanie alebo na odbočovanie.
+>
+> (2) Mimo obce na ceste s troma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy smie vodič nákladného automobilu s najväčšou prípustnou celkovou hmotnosťou presahujúcou 3 500 kg, vodič jazdnej súpravy, ktorej celková dĺžka presahuje 7 m, vodič zvláštneho motorového vozidla a vodič motocykla s najväčšou konštrukčnou rýchlosťou do 45 km/h<sup>-1</sup> použiť na predchádzanie výhradne druhý jazdný pruh od pravého okraja vozovky; v ostatných jazdných pruhoch smie jazdiť, ak je to potrebné na obchádzanie, otáčanie alebo na odbočovanie.
+>
+> (3) V obci na ceste s dvoma alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy smie vodič vozidla použiť na jazdu ktorýkoľvek jazdný pruh; to neplatí pre vodiča uvedeného v odseku 2, na ktorého sa vzťahujú pri jazde v obci odseky 1 a 2.
+>
+> (4) Ak je na ceste s dvoma a alebo s viacerými jazdnými pruhmi v jednom smere jazdy taká hustá premávka, že sa utvoria súvislé prúdy vozidiel, v ktorých vodič motorového vozidla môže jazdiť len takou rýchlosťou, ktorá závisí od rýchlosti vozidiel idúcich pred ním, vozidlá môžu ísť súbežne vedľa seba (ďalej len „súbežná jazda“). Pri súbežnej jazde sa nepovažuje za predchádzanie, ak vozidlá idú v jednom z jazdných pruhov rýchlejšie ako vozidlá v inom jazdnom pruhu.
+>
+> (5) Ak by vozidlá idúce v obci súčasne vo všetkých jazdných pruhoch bránili v jazde rýchlejšie idúcemu vozidlu, vodič, ktorý jazdí v ľavom jazdnom pruhu, je povinný ho čo najskôr uvoľniť; to neplatí, ak vodič používa ľavý jazdný pruh na obchádzanie, odbočovanie, otáčanie alebo predchádzanie.
+>
+> (6) Vodič pri prechádzaní z jedného jazdného pruhu do druhého jazdného pruhu je povinný dať prednosť v jazde vodičovi jazdiacemu v jazdnom pruhu, do ktorého prechádza; pritom je povinný dávať znamenie o zmene smeru jazdy. Tam, kde sa dva jazdné pruhy zbiehajú do jedného jazdného pruhu tak, že nie je zrejmé, ktorý z nich je priebežný, vodič jazdiaci v ľavom jazdnom pruhu je povinný dať prednosť v jazde vodičovi v pravom jazdnom pruhu; to neplatí pri súbežnej jazde, keď vodič idúci v pravom jazdnom pruhu je povinný umožniť vodičovi prvého vozidla v ľavom jazdnom pruhu zaradenie sa do kolóny idúcich vozidiel, ak ten dáva znamenie o zmene smeru jazdy vpravo. Vodič jazdiaci v ľavom jazdnom pruhu pri zaraďovaní sa do kolóny idúcich vozidiel pritom nesmie ohroziť vodiča jazdiaceho v pravom jazdnom pruhu.
+>
+> (7) Na ceste s troma jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy je vodič prechádzajúci z ľavého jazdného pruhu do stredného jazdného pruhu povinný dať prednosť v jazde vodičovi prechádzajúcemu do stredného jazdného pruhu z pravého jazdného pruhu; takýto postup sa vzťahuje primerane pri prechádzaní z ľavých jazdných pruhov do stredných jazdných pruhov na ceste so štyrmi alebo s viacerými jazdnými pruhmi vyznačenými na vozovke v jednom smere jazdy.
+>
+> (8) Ak je na zaraďovanie do priebežného jazdného pruhu zriadený pripájací pruh, je vodič povinný pred zaradením sa do priebežného jazdného pruhu použiť tento pruh. Vodič pri zaraďovaní z pripájacieho pruhu do priebežného pruhu je povinný dať prednosť v jazde vodičovi idúcemu v priebežnom pruhu.
+>
+> (9) V obci sa nepovažuje za predchádzanie, keď vozidlá v jednom jazdnom pruhu idú rýchlejšie ako v inom jazdnom pruhu.
+>
+> (10) Ak je pri súbežnej jazde v niektorom jazdnom pruhu prekážka cestnej premávky, vodič vozidla idúceho vo voľnom jazdnom pruhu je povinný umožniť vodičovi prvého vozidla nachádzajúceho sa v jazdnom pruhu, v ktorom je prekážka, jej obídenie, ak ten dáva znamenie o zmene smeru jazdy. Vodič obchádzajúci prekážku pritom nesmie ohroziť vodiča jazdiaceho vo voľnom jazdnom pruhu. Tam, kde sa jazdné pruhy v jednom smere jazdy zbiehajú, vodič idúci v priebežnom jazdnom pruhu je pri súbežnej jazde povinný umožniť vodičovi prvého vozidla nachádzajúceho sa v jazdnom pruhu, ktorý sa zaraďuje do priebežného jazdného pruhu, preradenie do priebežného jazdného pruhu, ak ten dáva znamenie o zmene smeru jazdy. Vodič pri zaraďovaní sa do priebežného jazdného pruhu pritom nesmie ohroziť vodiča jazdiaceho v priebežnom jazdnom pruhu.
+>
+> (11) Pri hustote cestnej premávky, ktorá vyvolá vznik kolóny stojacich vozidiel na diaľnici alebo na smerovo rozdelenej ceste mimo obce s najmenej dvomi jazdnými pruhmi v jednom smere jazdy, je vodič vozidla povinný pri súbežnej jazde vykonať taký jazdný úkon, ktorý umožní vytvorenie záchranárskej uličky v strede medzi dvomi jazdnými pruhmi a v úsekoch s viac ako dvomi jazdnými pruhmi medzi ľavým jazdným pruhom a k nemu priliehajúcim jazdným pruhom. Pri vytváraní záchranárskej uličky je na nevyhnutne potrebný čas vodič vozidla oprávnený vojsť aj na miesta, kde je to inak zakázané, ak tým neohrozí iného účastníka cestnej premávky. Záchranársku uličku môže použiť len vodič vozidla podľa § 40 ods. 1 alebo vodič vozidla zabezpečujúci odstránenie následkov dopravnej nehody alebo inej mimoriadnej udalosti; vodičovi iného vozidla je použitie záchranárskej uličky zakázané.
+>
+> (12) Ak jazdné pruhy nie sú na vozovke vyznačené, jazdným pruhom sa rozumie časť vozovky dovoľujúca jazdu vozidiel s troma a viacerými kolesami v jazdnom prúde za sebou.
+
+> ## § 11 - Jazda v mimoriadnych prípadoch
+
+> (1) Pozdĺž nástupného ostrovčeka alebo ochranného ostrovčeka sa jazdí vpravo. Vľavo sa smie jazdiť len vtedy, ak jazde vpravo bráni prekážka alebo ak je to bezpečnejšie s ohľadom na rozmery vozidla alebo nákladu. Pozdĺž električky sa jazdí vpravo, ak nie je dopravnou značkou povolená jazda vľavo.
+>
+> (2) Na električkový koľajový pás v úrovni vozovky sa smie vojsť len pri obchádzaní, odbočovaní, otáčaní, vchádzaní na cestu, alebo ak to dovoľuje dopravná značka alebo ak to vyžadujú mimoriadne okolnosti, najmä ak nie je medzi električkovým koľajovým pásom a okrajom vozovky dostatok miesta. Električkový koľajový pás zvýšený nad úroveň vozovky alebo znížený pod jej úroveň, alebo ktorý je od vozovky inak oddelený, najmä obrubníkom, smie sa prechádzať len priečne, a to na mieste prispôsobenom na to. Pritom vodič nesmie ohroziť ani obmedziť električku v jazde.
+>
+> (3) Ak ide električka inou rýchlosťou ako ostatné vozidlá idúce rovnakým smerom, nejde o vzájomné predchádzanie.
 
 
