@@ -118,7 +118,18 @@
 
 ## § 5 Povinnosti niektorých vodičov a spolujazdcov
 
-> (1) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km h^-1^ a vodič motorového vozidla kategórie L12) je počas jazdy povinný vhodným spôsobom chrániť si zrak najmä okuliarmi alebo ochranným štítom, ak sa tým nezníži bezpečnosť jazdy, najmä v hmle, pri snežení alebo v daždi; je tiež povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona. Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km h-1 a vodič motorového vozidla kategórie L a jeho spolujazdec sú tiež povinní počas jazdy používať na hlave riadne upevnenú ochrannú prilbu určenú pre motocyklistov; to neplatí pre vodiča vozidla vybaveného bezpečnostnou kabínou alebo ochranným bezpečnostným rámom, ktoré je vybavené bezpečnostnými pásmi, a jeho spolujazdca.
+> (1) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L12) je počas jazdy povinný vhodným spôsobom chrániť si zrak najmä okuliarmi alebo ochranným štítom, ak sa tým nezníži bezpečnosť jazdy, najmä v hmle, pri snežení alebo v daždi; je tiež povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona. Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L a jeho spolujazdec sú tiež povinní počas jazdy používať na hlave riadne upevnenú ochrannú prilbu určenú pre motocyklistov; to neplatí pre vodiča vozidla vybaveného bezpečnostnou kabínou alebo ochranným bezpečnostným rámom, ktoré je vybavené bezpečnostnými pásmi, a jeho spolujazdca.
+>
+> (2) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km/h<sup>-1</sup> a vodič motorového vozidla kategórie L nesmú počas jazdy jesť, piť ani fajčiť; táto povinnosť sa vzťahuje aj na ich spolujazdca.
+>
+> (3) Vodič motorového vozidla, ktoré je povinne vybavené bezpečnostným odevom, je povinný mať bezpečnostný odev oblečený, ak sa zdržiava na vozovke mimo vozidla počas núdzového státia, najmä pri prerušení jazdy pre chybu na vozidle alebo v dôsledku dopravnej nehody; pritom nemožno použiť taký bezpečnostný odev, ktorý je zameniteľný s bezpečnostnými odevmi používanými ozbrojenými silami alebo ozbrojenými bezpečnostnými zbormi.
+>
+> (4) Vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 3 500 kg a vodič jazdnej súpravy alebo zvláštneho motorového vozidla sú povinní jazdiť zo svahu vždy so zaradeným rýchlostným stupňom; vodič iného motorového vozidla je povinný jazdiť zo svahu so zaradeným rýchlostným stupňom, ak to vyžaduje bezpečnosť jazdy.
+>
+> (5) Vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 3 500 kg je pri jazde do svahu povinný umožniť prejazd rýchlejších vozidiel idúcich za ním; ak si to situácia vyžaduje, je povinný aj odstaviť vozidlo na najbližšom parkovisku, a to až do prejazdu týchto vozidiel.
+>
+> (6) Osoba, ktorá vykonáva dohľad nad vozidlom, ktoré na jazdu využíva automatizovaný systém riadenia, je povinná včas a bezpečne prevziať vedenie vozidla na výzvu automatizovaného systému riadenia alebo, ak to vyžadujú okolnosti, aj bez tejto výzvy, a to prípadne aj na diaľku; na tento účel je povinná sledovať situáciu v cestnej premávke.
+
 
 
 
