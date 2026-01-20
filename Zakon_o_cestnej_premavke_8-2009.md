@@ -149,6 +149,20 @@
 >
 > (7) Prevádzkovateľ vozidla, ktorý je držiteľom povolenia prevádzky automatizovaného doručovacieho vozidla v cestnej premávke, je povinný viesť o prevádzke automatizovaného doručovacieho vozidla evidenciu s údajmi o mene, priezvisku a adrese pobytu vodiča, dátume a čase vykonávania dohľadu nad automatizovaným doručovacím vozidlom a čísle automatizovaného doručovacieho vozidla. Evidenciu podľa prvej vety je prevádzkovateľ vozidla povinný na výzvu policajta predložiť na účely spojené s výkonom jeho oprávnení na úseku bezpečnosti a plynulosti cestnej premávky.
 
+## § 6a Povinnosti držiteľa vozidla
+
+> Držiteľ vozidla je povinný zabezpečiť, aby pri prevádzkovaní motorového vozidla boli dodržiavané pravidlá cestnej premávky podľa tohto zákona, ktoré ustanovujú
+> - a) zákaz predchádzania podľa § 15 ods. 5, § 35 ods. 3 alebo zákaz predchádzania vyplývajúci z dopravnej značky alebo dopravného zariadenia,
+> - b) rýchlosť jazdy podľa § 16 alebo § 27 ods. 3,
+> - c) povinnosť zastaviť vozidlo na príkaz dopravnej značky „Stoj, daj prednosť v jazde!“ alebo na signál so znamením „Stoj!“,
+> - d) zákaz otáčania a cúvania podľa § 22 ods. 4 alebo zákaz otáčania vyplývajúci z dopravnej značky alebo dopravného zariadenia,
+> - e) zákaz zastavenia a státia podľa § 25 alebo zákaz zastavenia alebo státia vyplývajúci z dopravnej značky alebo dopravného zariadenia,
+> - f) prejazd cez železničné priecestie v čase, keď je to zakázané podľa § 27 až 29,
+> - g) najväčšiu prípustnú celkovú hmotnosť vozidla, najväčšiu prípustnú hmotnosť jazdnej súpravy, najväčšiu prípustnú celkovú hmotnosť prípojného vozidla alebo najväčšiu prípustnú hmotnosť pripadajúcu na nápravu vozidla podľa § 51,
+> - h) zákaz vjazdu, zákaz odbočovania alebo prikázaný smer jazdy vyplývajúci z dopravnej značky alebo dopravného zariadenia,
+> - i) zákaz vjazdu vozidla vyplývajúci z dopravnej značky alebo dopravného zariadenia alebo zákaz jazdy vozidla s najväčšou prípustnou celkovou hmotnosťou vozidla prevyšujúcou 12 000 kg alebo jazdnej súpravy s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 12 000 kg podľa § 39 ods. 4,
+> - j) povinnosť umožniť vozidlu, ktoré používa typické zvukové znamenie doplnené zvláštnym výstražným modrým svetlom alebo červeným svetlom, prípadne ich kombináciou (ďalej len „zvláštne výstražné znamenie“) pri plnení špeciálnych úloh (ďalej len „vozidlo s právom prednostnej jazdy“), a vozidlu, ktoré sprevádza, bezpečný a plynulý prejazd podľa § 40 ods. 8,
+> - k) povinnosť vytvoriť voľný priestor na prejazd vozidiel (ďalej len „záchranárska ulička“) podľa § 10 ods. 11 alebo zákaz jazdy v záchranárskej uličke podľa § 10 ods. 11.
 
 
 
