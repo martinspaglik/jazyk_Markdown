@@ -284,7 +284,7 @@
 >
 > (3) Vodič iného motorového vozidla, ako sa uvádza v odseku (2), ako aj vodič autobusu s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, smú jazdiť rýchlosťou najviac 90 km/h<sup>-1</sup>.  
 >
-> (4) Vodič smie v obci jazdiť rýchlosťou najviac 50 km/h<sup>-1</sup>.  
+> (4) Vodič smie v obci jazdiť rýchlosťou najviac 50 km/h^-1^.  
 >
 > (5) Vodič nesmie prekročiť najvyššiu dovolenú rýchlosť jazdy vozidiel určenú dopravnou značkou alebo dopravným zariadením.  
 >
@@ -403,5 +403,47 @@
 > - u) na iných miestach, kde zastavenie alebo státie môže ohroziť bezpečnosť a plynulosť cestnej premávky alebo obmedziť jazdu vozidiel; osobitne na miestach vjazdov alebo výjazdov z pozemkov, vjazdov a výjazdov z objektov určených na zásobovanie alebo parkovacích miest.  
 >
 > (2) Na cestách I. triedy a za zníženej viditeľnosti aj na ostatných cestách s výnimkou účelových komunikácií je mimo obce zakázané zastavenie a státie na inom mieste než na mieste označenom ako parkovisko s výnimkou núdzového státia.
+
+## § 26 – Zastavenie vozidla v tuneli
+
+> (1) Ak pri jazde vozidla v tuneli vznikne porucha vozidla, pre ktorú sa toto vozidlo stane nepojazdným, alebo ak vznikne dopravná nehoda vrátane požiaru, je vodič po zastavení vozidla povinný bezodkladne  
+> - a) vypnúť motor, a ak je na vykurovanie vozidla použité nezávislé kúrenie, vypnúť aj toto kúrenie, > - b) vykonať vhodné opatrenia, aby nebola ohrozená bezpečnosť cestnej premávky v tuneli; ak to okolnosti vyžadujú, je oprávnený zastavovať iné vozidlá,  
+> - c) oznámiť telefonicky alebo iným vhodným spôsobom zastavenie vozidla v tuneli osobe vykonávajúcej dohľad nad prevádzkou tunela.  
+>
+> (2) V prípadoch uvedených v odseku (1) nesmie vodič a prepravovaná osoba fajčiť alebo manipulovať s otvoreným ohňom.  
+>
+> (3) Vodič alebo prepravovaná osoba sú v prípadoch uvedených v odseku (1) povinní na pokyn osoby vykonávajúcej dohľad nad prevádzkou tunela opustiť vozidlo a sústrediť sa do miest na to určených, prípadne tunel opustiť.  
+>
+> (4) Ak to nie je nevyhnutné, prepravované osoby nesmú z vozidla vystupovať a pohybovať sa po vozovke. Také osoby sa môžu pohybovať po vozovke v tuneli len v súvislosti so zaisťovaním bezpečnosti cestnej premávky, ak majú na sebe reflexný bezpečnostný odev.  
+>
+> (5) Ustanovenia odseku (1) písm. a) a b) a odsekov (2) až (4) sa vzťahujú aj na ostatných vodičov a prepravované osoby.
+
+## § 27 - Železničné priecestie
+
+> (1) Pred železničným priecestím vodič je povinný počínať si mimoriadne opatrne, najmä sa presvedčiť, či môže bezpečne prejsť cez železničné priecestie.  
+>
+> (2) Vozidlá pred železničným priecestím sa radia za sebou v poradí, v ktorom prišli. Ak nejde o súbežnú jazdu, smú vozidlá prechádzať cez železničné priecestie len v jednom jazdnom prúde.  
+>
+> (3) Vo vzdialenosti 50 m pred železničným priecestím a pri jeho prechádzaní vodič je povinný jazdiť rýchlosťou najviac 30 km/h<sup>-1</sup>; ak na priecestnom zabezpečovacom zariadení svieti prerušované biele svetlo, vodič je povinný 50 m pred železničným priecestím a pri jeho prechádzaní jazdiť rýchlosťou najviac 50 km/h<sup>-1</sup>. Vodič pritom nesmie zbytočne predlžovať čas prechádzania železničného priecestia.  
+>
+> (4) Ak dôjde k zastaveniu vozidla na železničnom priecestí, vodič je povinný odstrániť vozidlo zo železničnej trate; ak tak nemôže urobiť, musí bezodkladne vykonať také opatrenia, aby bol vodič koľajového vozidla pred nebezpečenstvom včas varovaný.  
+>
+> (5) Pred železničným priecestím, pri ktorom je umiestnená dopravná značka „Stoj, daj prednosť v jazde!“, vodič je povinný zastaviť vozidlo na takom mieste, z ktorého má náležitý rozhľad na trať.
+
+## § 28
+
+> Vodič nesmie vchádzať na železničné priecestie, ak  
+> - a) sa dáva výstraha dvoma červenými striedavo prerušovanými svetlami priecestného zabezpečovacieho zariadenia,  
+> - b) sa dáva výstraha prerušovaným zvukom húkačky alebo zvončeka priecestného zabezpečovacieho zariadenia,  
+> - c) sa spúšťajú, ak sú spustené alebo ak sa zdvíhajú závory,  
+> - d) už vidieť alebo počuť prichádzajúci vlak alebo iné dráhové vozidlo alebo ak počuť najmä jeho húkanie alebo pískanie,  
+> - e) osoba pribratá na zaistenie bezpečnej prevádzky železničného priecestia dáva znamenie na zastavenie vozidla krúžením červenou alebo žltou zástavkou a za zníženej viditeľnosti krúžením červeným svetlom v hornom polkruhu,  
+> - f) situácia na železničnom priecestí alebo za ním nedovoľuje, aby ho bezpečne prešiel a pokračoval v jazde.
+
+## § 29
+
+> (1) Ak osoba pribratá na zaistenie bezpečnej prevádzky železničného priecestia dáva pokyn na jazdu cez železničné priecestie vodorovným kývaním ruky s červenou alebo so žltou zástavkou a za zníženej viditeľnosti bielym svetlom cez stred tela, vodič je povinný ju poslúchnuť; pritom neplatí § 28 písm. a) až d).  
+>
+> (2) Ustanovenia odseku (1) a § 27 a 28 sa primerane vzťahujú aj na chodca.
 
 
