@@ -16,6 +16,7 @@
 ## § 2 – Vymedzenie základných pojmov
 
 > (1) Cestnou premávkou na účely tohto zákona sa rozumie užívanie diaľnic, ciest, miestnych komunikácií a účelových komunikácií (ďalej len „cesta") vodičmi vozidiel a chodcami.
+>
 > (2) Na účely tohto zákona sa ďalej rozumie
 > - a) autobusom motorové vozidlo na dopravu osôb, ktoré má okrem miesta pre vodiča viac ako osem miest na sedenie,
 > - b) dať prednosť v jazde povinnosť účastníka cestnej premávky počínať si tak, aby ten, kto má prednosť v jazde, nemusel náhle zmeniť smer alebo rýchlosť jazdy,
@@ -114,5 +115,6 @@
 > (4) Ak vodič zníži rýchlosť jazdy alebo ak zastaví vozidlo pred priechodom pre chodcov alebo pred priechodom pre cyklistov, aby umožnil prejsť cez cestu chodcom alebo cyklistom, vodiči ostatných vozidiel idúcich rovnakým smerom sú takisto povinní znížiť rýchlosť jazdy alebo zastaviť vozidlo; to neplatí pre vodiča električky.
 > 
 > (5) Ak vodič počas jazdy zistí, že vozidlo, náklad alebo upevnenie nákladu nespĺňajú ustanovené podmienky, je povinný chybu odstrániť na mieste. Ak to nemôže urobiť, smie v jazde pokračovať primeranou rýchlosťou len do najbližšieho miesta, kde možno chybu odstrániť; pritom musí urobiť také opatrenia, aby sa počas jazdy na takéto miesto neohrozila bezpečnosť a plynulosť cestnej premávky a aby sa nepoškodila cesta.
+
 
 
