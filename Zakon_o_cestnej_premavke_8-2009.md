@@ -30,7 +30,7 @@
 > - j) križovatkou miesto, v ktorom sa cesty pretínajú alebo spájajú,
 > - k) križovatkou s riadenou premávkou križovatka, na ktorej je premávka riadená dopravnými zariadeniami alebo príslušníkom Policajného zboru (ďalej len „policajt“), prípadne inou oprávnenou osobou,
 > - l) motorovým vozidlom nekoľajové vozidlo poháňané vlastným motorom s výnimkou prípadu podľa písmena f) a trolejbus,
-> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm<sup>3</sup> s konštrukčnou rýchlosťou neprevyšujúcou 25 km·h<sup>-1</sup> alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h<sup>-1</sup> alebo keď vodič prestane šliapať do pedálov,
+> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm<sup>3</sup> s konštrukčnou rýchlosťou neprevyšujúcou 25 km/h<sup>-1</sup> alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h<sup>-1</sup> alebo keď vodič prestane šliapať do pedálov,
 > - n) neobmedzením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky neprekážal,
 > - o) neohrozením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky nevzniklo nijaké nebezpečenstvo,
 > - p) orgánom Policajného zboru útvar Policajného zboru zriadený podľa osobitného predpisu,
@@ -115,6 +115,10 @@
 > (4) Ak vodič zníži rýchlosť jazdy alebo ak zastaví vozidlo pred priechodom pre chodcov alebo pred priechodom pre cyklistov, aby umožnil prejsť cez cestu chodcom alebo cyklistom, vodiči ostatných vozidiel idúcich rovnakým smerom sú takisto povinní znížiť rýchlosť jazdy alebo zastaviť vozidlo; to neplatí pre vodiča električky.
 > 
 > (5) Ak vodič počas jazdy zistí, že vozidlo, náklad alebo upevnenie nákladu nespĺňajú ustanovené podmienky, je povinný chybu odstrániť na mieste. Ak to nemôže urobiť, smie v jazde pokračovať primeranou rýchlosťou len do najbližšieho miesta, kde možno chybu odstrániť; pritom musí urobiť také opatrenia, aby sa počas jazdy na takéto miesto neohrozila bezpečnosť a plynulosť cestnej premávky a aby sa nepoškodila cesta.
+
+## § 5 Povinnosti niektorých vodičov a spolujazdcov
+
+> (1) Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km h^-1^ a vodič motorového vozidla kategórie L12) je počas jazdy povinný vhodným spôsobom chrániť si zrak najmä okuliarmi alebo ochranným štítom, ak sa tým nezníži bezpečnosť jazdy, najmä v hmle, pri snežení alebo v daždi; je tiež povinný počas jazdy oboma rukami držať riadidlá s výnimkou prípadu, keď dáva znamenie podľa tohto zákona. Vodič motorového vozidla kategórie PS s najväčšou konštrukčnou rýchlosťou prevyšujúcou 45 km h-1 a vodič motorového vozidla kategórie L a jeho spolujazdec sú tiež povinní počas jazdy používať na hlave riadne upevnenú ochrannú prilbu určenú pre motocyklistov; to neplatí pre vodiča vozidla vybaveného bezpečnostnou kabínou alebo ochranným bezpečnostným rámom, ktoré je vybavené bezpečnostnými pásmi, a jeho spolujazdca.
 
 
 
