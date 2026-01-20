@@ -228,4 +228,72 @@
 >
 > (3) Ak ide električka inou rýchlosťou ako ostatné vozidlá idúce rovnakým smerom, nejde o vzájomné predchádzanie.
 
+## § 12
+
+> (1) Ak je na vozovke vyznačený vyhradený jazdný pruh, platí pre vodičov vozidiel, pre ktorých nie je vyhradený jazdný pruh určený, primerane § 11 ods. 2 a § 19 ods. 4; ak je vyhradený jazdný pruh vyznačený na električkovom koľajovom páse, aj § 19 ods. 5.  
+>
+> (2) Vodiči vozidiel, pre ktorých je vyhradený jazdný pruh určený, sú povinní vyhradený jazdný pruh použiť prednostne.  
+>
+> (3) Ak vodič autobusu alebo trolejbusu vychádza z vyhradeného jazdného pruhu do priľahlého jazdného pruhu, vodič jazdiaci v tomto pruhu je povinný mu dať prednosť v jazde. Vodič autobusu alebo trolejbusu je pritom povinný dávať znamenie o zmene smeru jazdy a nesmie ohroziť vodičov ostatných vozidiel.  
+>
+> (4) Ak ide vozidlo vo vyhradenom jazdnom pruhu inou rýchlosťou ako ostatné vozidlá idúce rovnakým smerom, nejde o vzájomné predchádzanie.  
+>
+> (5) Ak sa premávka vo vyhradenom jazdnom pruhu riadi osobitnými svetelnými signálmi, riadi sa nimi len vodič jazdiaci v tomto jazdnom pruhu.  
+>
+> (6) Vo vyhradenom jazdnom pruhu pre autobusy alebo trolejbusy smú jazdiť aj vozidlá taxislužby, ktoré sú riadne označené. Vozidlo taxislužby pritom nesmie obmedzovať plynulosť jazdy vozidiel, pre ktoré je tento vyhradený jazdný pruh určený.
+
+## § 13
+
+> (1) Za vozidlom pravidelnej verejnej dopravy osôb, ktoré zastavilo v obci na zastávke bez nástupného ostrovčeka alebo bez nástupišťa na zvýšenom električkovom koľajovom páse, vodič iného vozidla je povinný zastaviť vozidlo. Ak je na zastávke viac vozidiel, vodič je povinný zastaviť vozidlo za posledným z nich. Vodič smie pokračovať v jazde, ak neohrozí osobu, ktorá nastupuje do vozidla pravidelnej verejnej dopravy osôb alebo z neho vystupuje.  
+>
+> (2) Vodič je povinný v úseku zastávky pravidelnej verejnej dopravy osôb dbať na zvýšenú opatrnosť a jazdiť primeranou rýchlosťou tak, aby neohrozil osobu vystupujúcu z vozidla pravidelnej verejnej dopravy osôb alebo do neho nastupujúcu.
+
+## § 14 – Obchádzanie
+
+> (1) Vodič, ktorý pri obchádzaní vozidla, ktoré zastavilo alebo stojí, prekážky cestnej premávky alebo chodca vybočuje zo smeru svojej jazdy, nesmie ohroziť ani obmedziť vodiča protiidúceho vozidla; nesmie ohroziť ani vodiča idúceho za ním, ani iného účastníka cestnej premávky. Vodič je pritom povinný dávať znamenie o zmene smeru jazdy.  
+>
+> (2) Vodič je povinný pri obchádzaní stojaceho vozidla pravidelnej verejnej dopravy osôb prihliadnuť na možnosť vbehnutia osôb na vozovku a jazdu prispôsobiť tak, aby neboli ohrozené; to platí aj pre vodiča vozidla jazdiaceho v protismere. Osobitnú pozornosť musí vodič venovať, ak ide o autobus označený ako autobus prepravujúci deti.
+
+## § 15 – Predchádzanie
+
+> (1) Predchádza sa vľavo. Vpravo sa predchádza vozidlo, ktoré mení smer jazdy vľavo a ak už nie je pochybnosť o ďalšom smere jeho jazdy. Pri jazde v pripájacom jazdnom pruhu alebo v odbočovacom jazdnom pruhu sa smie vpravo predchádzať aj vozidlo idúce v priebežnom jazdnom pruhu.  
+>
+> (2) Vodič, ktorý pri predchádzaní vybočuje zo smeru svojej jazdy, je povinný dávať znamenie o zmene smeru jazdy, pričom nesmie ohroziť vodičov jazdiacich za ním.  
+>
+> (3) Vodič nesmie pri predchádzaní ohroziť ani obmedziť vodiča vozidla, pred ktoré sa po predídení zaraďuje; pritom je povinný dávať znamenie o zmene smeru jazdy. Pri predchádzaní musí vodič zachovávať dostatočný bočný odstup od predchádzaného vozidla; pritom je povinný prihliadať najmä na rýchlosť, druh svojho i predchádzaného vozidla, poveternostné podmienky a stav a povahu vozovky. Dostatočný bočný odstup pri predchádzaní vodiča malého motocykla, cyklistu alebo chodca je spravidla najmenej 1 m pri najvyššej dovolenej rýchlosti do 50 km/h<sup>-1</sup> a 1,5 m v ostatných prípadoch.  
+>
+> (4) Vodič predchádzaného vozidla nesmie zvyšovať rýchlosť jazdy ani inak brániť predchádzaniu.  
+>
+> (5) Vodič nesmie predchádzať,  
+> - a) ak nemá pred sebou rozhľad na takú vzdialenosť, ktorá je potrebná na bezpečné predchádzanie,  
+> - b) ak by sa nemohol bezpečne zaradiť pred vozidlo alebo pred vozidlá, ktoré chce predísť,  
+> - c) ak by ohrozil alebo obmedzil vodiča jazdiaceho v protismere, alebo ohrozil iného účastníka cestnej premávky,  
+> - d) ak vodič pred ním idúceho vozidla dáva znamenie o zmene smeru jazdy vľavo a ak ho nemožno predísť vpravo podľa odseku (1), prípadne ak ho nemožno predísť v ďalšom voľnom jazdnom pruhu vyznačenom na vozovke v tom istom smere jazdy,  
+> - e) cez pripájací alebo odbočovací jazdný pruh; to neplatí pre prípad uvedený v odseku (1),  
+> - f) po krajnici; to neplatí pri predchádzaní vpravo podľa odseku (1), pritom nesmie ohroziť ani obmedziť chodca idúceho po krajnici a cyklistu alebo vodiča malého motocykla jazdiaceho po krajnici,  
+> - g) pri jazde cez križovatku a v takej vzdialenosti pred križovatkou, ktorá nie je dostatočná na bezpečné dokončenie predchádzania pred úrovňou križovatky; to neplatí pri predchádzaní motocykla bez postranného vozíka alebo nemotorového vozidla,  
+> - h) pri jazde cez železničné priecestie,  
+> - i) ak by pri predchádzaní svojou výrazne nižšou rýchlosťou obmedzil za ním idúce vozidlo, ktoré začalo úkon predchádzania skôr,  
+> - j) na priechode pre chodcov, priechode pre cyklistov a bezprostredne pred nimi.
+
+## § 16 – Rýchlosť jazdy
+
+> (1) Vodič je povinný rýchlosť jazdy prispôsobiť najmä svojim schopnostiam, vlastnostiam vozidla a nákladu, poveternostným podmienkam, stavu a povahe vozovky a iným okolnostiam, ktoré možno predvídať. Vodič smie jazdiť len primeranou rýchlosťou, aby bol schopný zastaviť vozidlo na vzdialenosť, na ktorú má rozhľad.  
+>
+> (2) Vodič autobusu a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg smie jazdiť rýchlosťou najviac 90 km·h^-1^. Na diaľnici vodič autobusu smie jazdiť rýchlosťou najviac 100 km/h<sup>-1</sup> a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg rýchlosťou najviac 130 km/h<sup>-1</sup>.  
+>
+> (3) Vodič iného motorového vozidla, ako sa uvádza v odseku (2), ako aj vodič autobusu s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, a vodič motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť prevyšuje 750 kg, smú jazdiť rýchlosťou najviac 90 km/h<sup>-1</sup>.  
+>
+> (4) Vodič smie v obci jazdiť rýchlosťou najviac 50 km/h<sup>-1</sup>.  
+>
+> (5) Vodič nesmie prekročiť najvyššiu dovolenú rýchlosť jazdy vozidiel určenú dopravnou značkou alebo dopravným zariadením.  
+>
+> (6) Najvyššie dovolené rýchlosti ustanovené v odsekoch (2) a (3) nemožno prekročiť, ani ak je dopravnou značkou alebo dopravným zariadením dovolená vyššia rýchlosť; to neplatí pre vodiča motorového vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg bez prípojného vozidla.  
+>
+> (7) Vodič nesmie prekročiť najväčšiu konštrukčnú rýchlosť vozidla, a ak ide o jazdnú súpravu, ani najväčšiu konštrukčnú rýchlosť nijakého z vozidiel súpravy.  
+>
+> (8) Najvyššie dovolené rýchlosti ustanovené v odsekoch (2) až (6) nie sú povinní dodržiavať vodiči vozidiel ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, Vojenského spravodajstva a Slovenskej informačnej služby, ak to vyžaduje plnenie osobitných úloh, ktorých okruh určí príslušný minister a riaditeľ Slovenskej informačnej služby.
+
+
+
 
