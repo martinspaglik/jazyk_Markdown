@@ -175,6 +175,16 @@
 >   
 > (2) Na inštruktora autoškoly sa nevzťahujú povinnosti podľa odseku 1, ak vodič vedie vozidlo bez prítomnosti inštruktora autoškoly.
 
+## § 8 – Používanie bezpečnostných pásov a iných zadržiavacích zariadení
+
+> (1) Osoba sediaca na sedadle povinne vybavenom bezpečnostným pásom alebo iným zadržiavacím zariadením je povinná toto zariadenie použiť; to neplatí pre  
+> - a) vodiča vozidla ozbrojených síl, ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, obecnej polície, Hasičského a záchranného zboru, ostatných hasičských jednotiek, Horskej záchrannej služby, záchrannej zdravotnej služby, banskej záchrannej služby, Vojenského spravodajstva, Slovenskej informačnej služby a prepravované osoby, ak si to vyžaduje plnenie ich úloh,  
+> - b) inštruktora autoškoly, ktorý vykonáva činnosť podľa § 7 ods. 1,  
+> - c) osobu s telesnou výškou menšou ako 150 cm s výnimkou osoby, ktorá je povinná používať zadržiavacie zariadenie podľa podmienok ustanovených v osobitnom predpise,  
+> - d) vodiča vozidla taxislužby pri zmluvnej preprave osôb v obci,  
+> - e) osobu, ktorá nemôže byť pripútaná zo zdravotných dôvodov; takáto osoba sa musí preukázať osvedčením o oslobodení od použitia bezpečnostných systémov vozidla.  
+
+
 
 
 
