@@ -30,7 +30,7 @@
 > - j) križovatkou miesto, v ktorom sa cesty pretínajú alebo spájajú,
 > - k) križovatkou s riadenou premávkou križovatka, na ktorej je premávka riadená dopravnými zariadeniami alebo príslušníkom Policajného zboru (ďalej len „policajt“), prípadne inou oprávnenou osobou,
 > - l) motorovým vozidlom nekoľajové vozidlo poháňané vlastným motorom s výnimkou prípadu podľa písmena f) a trolejbus,
-> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm<sup>3</sup> s konštrukčnou rýchlosťou neprevyšujúcou 25 km/h<sup>-1</sup> alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km·h<sup>-1</sup> alebo keď vodič prestane šliapať do pedálov,
+> - m) nemotorovým vozidlom prípojné vozidlo, vozidlo pohybujúce sa pomocou ľudskej sily alebo zvieracej sily s výnimkou prípadov podľa písmena f), samovyvažovacie vozidlo, automatizované doručovacie vozidlo, kolobežka s pomocným motorčekom a bicykel vybavený pomocným motorčekom so zdvihovým objemom valcov nepresahujúcim 50 cm3 s konštrukčnou rýchlosťou neprevyšujúcou 25 km/h alebo bicykel vybavený pomocným elektrickým motorčekom s trvalým menovitým výkonom do 0,25 kW, ktorého výkon sa progresívne znižuje a nakoniec sa preruší, keď vozidlo dosiahne rýchlosť 25 km/h alebo keď vodič prestane šliapať do pedálov,
 > - n) neobmedzením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky neprekážal,
 > - o) neohrozením povinnosť účastníka cestnej premávky počínať si tak, aby inému účastníkovi cestnej premávky nevzniklo nijaké nebezpečenstvo,
 > - p) orgánom Policajného zboru útvar Policajného zboru zriadený podľa osobitného predpisu,
@@ -696,5 +696,6 @@
 > TRETIA HLAVA
 
 > PODMIENKY PREPRAVY OSÔB A NÁKLADU
+
 
 
