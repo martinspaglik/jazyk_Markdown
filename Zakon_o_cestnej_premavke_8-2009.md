@@ -377,3 +377,31 @@
 >
 > (3) Vodič vozidla, ktoré je povinne vybavené prenosným výstražným trojuholníkom, je povinný tento trojuholník použiť počas núdzového státia, najmä pri prerušení jazdy pre chybu na vozidle alebo na náklade alebo v dôsledku dopravnej nehody, ak také vozidlo tvorí prekážku cestnej premávky. Vodič je povinný trojuholník umiestniť na okraji vozovky tak, aby ho prichádzajúci vodiči včas a zreteľne videli, a to vo vzdialenosti najmenej 50 m za vozidlom a na diaľnici najmenej 100 m za vozidlom. V obci môže byť táto vzdialenosť, ak to vyžadujú okolnosti, kratšia. Ak je vozidlo vybavené osobitným zariadením, ktoré umožňuje výstražnú funkciu smerových svietidiel, vodič je povinný ho použiť aspoň v čase, kým umiestni trojuholník na vozovke.
 
+## § 25
+
+> (1) Vodič nesmie zastaviť a stáť  
+> - a) v neprehľadnej zákrute a v jej tesnej blízkosti,  
+> - b) pred neprehľadným vrcholom stúpania cesty, na ňom a za ním,  
+> - c) na priechode pre chodcov, na mieste na prechádzanie alebo na priechode pre cyklistov a vo vzdialenosti kratšej ako 5 m pred nimi,  
+> - d) na križovatke a vo vzdialenosti kratšej ako 5 m pred hranicou križovatky a 5 m za ňou; tento zákaz neplatí v obci na križovatke tvaru „T“ na náprotivnej strane vyúsťujúcej cesty,  
+> - e) na pripájacom alebo na odbočovacom pruhu,  
+> - f) na zastávke vozidla pravidelnej verejnej dopravy osôb a priľahlom nástupišti v úseku, ktorý sa začína dopravnou značkou pre zastávku a končí sa 5 m za označníkom zastávky, a tam, kde taká dopravná značka nie je, vo vzdialenosti kratšej ako 30 m pred označníkom zastávky a 5 m za ním; ak je priestor zastávky vyznačený príslušnou vodorovnou dopravnou značkou, platí tento zákaz len pre vyznačený priestor a priľahlé nástupište,  
+> - g) na železničnom priecestí, v podjazde a v tuneli a vo vzdialenosti kratšej ako 15 m pred nimi a 15 m za nimi,  
+> - h) na mieste, kde by vozidlo zakrývalo zvislú dopravnú značku, vodorovnú dopravnú značku vyznačujúcu spôsob radenia do jazdných pruhov a určený smer jazdy cez križovatku alebo vyjadrujúcu doplňujúci údaj nápisom alebo svetelné signály,  
+> - i) na vnútornom jazdnom pruhu,  
+> - j) na vyhradenom jazdnom pruhu okrem vozidla, pre ktoré je vyhradený jazdný pruh určený, a ak nejde o vnútorný jazdný pruh,  
+> - k) na cestičke pre cyklistov, cyklistickom pruhu a na ochrannom pruhu pre cyklistov,  
+> - l) vo vzdialenosti kratšej ako 5 m od začiatku a 5 m od konca pozdĺžnej súvislej čiary alebo nástupného ostrovčeka tam, kde by medzi touto čiarou alebo nástupným ostrovčekom a vozidlom nezostal voľný aspoň jeden jazdný pruh široký najmenej 3 m,  
+> - m) na moste,  
+> - n) pred vjazdom na cestu alebo na vyhradenom parkovisku, ak nejde o vozidlo, pre ktoré je parkovisko vyhradené,  
+> - o) na platenom parkovisku, ak vozidlo nemá zaplatený poplatok za parkovanie,  
+> - p) na električkovom koľajovom páse,  
+> - q) na chodníku okrem prípadu podľa § 52 ods. 2,  
+> - r) na kruhovom objazde,  
+> - s) na cestnej zeleni a verejnej zeleni, na ostrovčekoch a deliacich pásoch, ak to nie je dovolené dopravnou značkou,  
+> - t) na mieste, kde by medzi vozidlom a najbližšou električkovou koľajnicou nezostal voľný jazdný pruh široký najmenej 3,5 m,  
+> - u) na iných miestach, kde zastavenie alebo státie môže ohroziť bezpečnosť a plynulosť cestnej premávky alebo obmedziť jazdu vozidiel; osobitne na miestach vjazdov alebo výjazdov z pozemkov, vjazdov a výjazdov z objektov určených na zásobovanie alebo parkovacích miest.  
+>
+> (2) Na cestách I. triedy a za zníženej viditeľnosti aj na ostatných cestách s výnimkou účelových komunikácií je mimo obce zakázané zastavenie a státie na inom mieste než na mieste označenom ako parkovisko s výnimkou núdzového státia.
+
+
