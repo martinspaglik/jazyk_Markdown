@@ -7,7 +7,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-18]_
 
 # Odbočovanie vľavo – nedanie prednosti v jazde – dva znalecké posudky a potom Súdny ústav Žilina (USI) - Najvyšší súd SR 
 
-# Rozhodnutie: R1 – [Súd] – 2Tdo/77/2019 – 2020-03-31
+# Rozhodnutie: R1 – Najvyšší súd Slovenskej republiky – 2Tdo/77/2019 – 2020-03-31
 ## Identifikácia
 - **ID:** R1
 - **Súd:** Najvyšší súd Slovenskej republiky
@@ -16,7 +16,6 @@ _Verzia: 1.0 | Aktualizované: [2026-01-18]_
 - **Typ rozhodnutia:** Uznesenie
 - **Stupeň:**
 - **Tagy:** #dopravna_nehoda #usmrtenie #odbočovanie_vľavo #nedanie_prednosti #dovolanie #reformatio_in_peius #in_dubio_pro_reo
-
 
 ## Skutkový stav
 Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letiska M. R. Štefánika) obvinená ako vodička osobného motorového vozidla Honda CR-V sa plne nevenovala vedeniu vozidla a situácii v cestnej premávke a pri odbočovaní vľavo nedala prednosť v jazde protiidúcemu motocyklu Piaggio VESPA GTS 300, ktorý viedol poškodený Bc. B. E.; došlo k zrážke (pri pravom okraji jazdného pruhu určeného pre priamy smer). Poškodený utrpel závažné poranenia nezlučiteľné so životom a zomrel 16. júla 2014 o 08:05 hod.
@@ -46,38 +45,9 @@ Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letis
   -  kontrolný znalecký posudok ÚSI ŽU č. 170/2017 (variant A/B, reakčný čas 1,6 s)
   -  znalecké posudky z odboru súdne lekárstvo č. 10/2014 a č. 48/2014 (zranenia, príčina smrti)
 
-## Procesný priebeh (stručne)
-- **Návrh/žaloba:** [čo sa žiadalo]
-- **Obrana:** [čo namietala druhá strana / orgán]
-- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
-- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
-
-## Právne posúdenie (jadro)
-### Kľúčové otázky
-1. [Otázka č. 1]
-2. [Otázka č. 2]
-3. [Otázka č. 3 – voliteľné]
-
-### Argumentácia súdu (výber)
-- [Argument 1 – prečo súd rozhodol takto.]
-- [Argument 2.]
-- [Argument 3 – voliteľné.]
-
-## Výrok (zhrnutie)
-- **Výrok I:** [stručne]
-- **Výrok II:** [stručne]
-- **Trovy:** [stručne]
-
-## Plné znenie (vložiť celý text)
-```text
-[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
-```
-
 ## Odôvodnenie (vložiť celý text)
 ```text
-dňa 16. júla 2014 v čase o 06.58 hod. v Bratislave, na Ivanskej ceste smerom od letiska M. R. Štefánika, ako vodička osobného motorového vozidla zn. Honda CR-V, EČV: G.-XXXEV, sa nevenovala plne vedeniu vozidla a situácii v cestnej premávke a pri odbočovaní vľavo nedala prednosť v jazde protiidúcemu motocyklu zn. Piaggio VESPA GTS 300, EČV: Z.-XXXAT, ktorý viedol poškodený
-Bc. B. E. po Ivanskej ceste smerom k letisku M. R. Štefánika, čím spôsobila zrážku s motocyklom pri pravom okraji jazdného pruhu určeného pre priamu jazdu smerom k letisku, pri ktorej poškodený podľa znaleckého posudku č. 10/2014 a č. 48/2014, vypracovaného znalcami MUDr. W. E. a doc. MUDr. V.
-Š., CSc., MPH, z odboru zdravotníctvo a farmácia - odvetvie súdne lekárstvo, utrpel závažné poranenie trupu a končatín, ktoré boli nezlučiteľné so životom a ktoré viedli dňa 16. júla 2014 v čase o 08.05 hod. k smrti poškodeného Bc. B. E. a obvinená B. Z. svojím konaním porušila zákonné ustanovenie § 19 ods. 4 zákona č. 8/2009 Z. z. o cestnej premávke, podľa ktorého ustanovenia vodič odbočujúci vľavo je povinný dať prednosť v jazde protiidúcim motorovým vozidlám i nemotorovým vozidlám, električkám idúcim v oboch smeroch a chodcom prechádzajúcim cez vozovku.
+dňa 16. júla 2014 v čase o 06.58 hod. v Bratislave, na Ivanskej ceste smerom od letiska M. R. Štefánika, ako vodička osobného motorového vozidla zn. Honda CR-V, EČV: G.-XXXEV, sa nevenovala plne vedeniu vozidla a situácii v cestnej premávke a pri odbočovaní vľavo nedala prednosť v jazde protiidúcemu motocyklu zn. Piaggio VESPA GTS 300, EČV: Z.-XXXAT, ktorý viedol poškodený Bc. B. E. po Ivanskej ceste smerom k letisku M. R. Štefánika, čím spôsobila zrážku s motocyklom pri pravom okraji jazdného pruhu určeného pre priamu jazdu smerom k letisku, pri ktorej poškodený podľa znaleckého posudku č. 10/2014 a č. 48/2014, vypracovaného znalcami MUDr. W. E. a doc. MUDr. V. Š., CSc., MPH, z odboru zdravotníctvo a farmácia - odvetvie súdne lekárstvo, utrpel závažné poranenie trupu a končatín, ktoré boli nezlučiteľné so životom a ktoré viedli dňa 16. júla 2014 v čase o 08.05 hod. k smrti poškodeného Bc. B. E. a obvinená B. Z. svojím konaním porušila zákonné ustanovenie § 19 ods. 4 zákona č. 8/2009 Z. z. o cestnej premávke, podľa ktorého ustanovenia vodič odbočujúci vľavo je povinný dať prednosť v jazde protiidúcim motorovým vozidlám i nemotorovým vozidlám, električkám idúcim v oboch smeroch a chodcom prechádzajúcim cez vozovku.
 
 Predmetný dovolací dôvod je podľa obvinenej naplnený tým, že odvolací súd napadnutým rozsudkom zmenil skutkovú vetu tak, že vypustil časť vety „čím spôsobila zrážku s motocyklom“ a nahradil ju časťou vety „a došlo k zrážke s motocyklom.“ Okrem toho krajský súd zo skutkovej vety vypustil časť týkajúcu sa toho, že konaním obvinenej došlo k porušeniu § 19 ods. 4 zákona č. 8/2009 Z. z. o cestnej premávke. Krajský súd sa teda priklonil k variantu B) uvedenému v znaleckom posudku USI, ako k variantu priaznivejšiemu pre obvinenú v súlade so zásadou in dubio pro reo.
 
@@ -108,78 +78,107 @@ Predovšetkým musí dovolací súd uviesť, že skutky uvedené v rozsudku prvo
 
 ```
 
-
 <!-- DECISION:END -->
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <!-- DECISION:BEGIN spis=3T/12/2021 -->
 
-# Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
+# DN – Predchádzanie a Odbočovanie – DN zavinil vodič, čo predchádzal
+# Rozhodnutie: R2 – Najvyšší súd Českej republiky – 25 Cdo 308/2018 – 2018-03-08
 ## Identifikácia
 - **ID:** R1
-- **Súd:** [napr. Okresný súd ... / Krajský súd ...]
-- **Spisová značka:** [napr. 12C/34/2024]
-- **Dátum rozhodnutia:** [YYYY-MM-DD]
-- **Typ rozhodnutia:** [rozsudok / uznesenie / iné]
-- **Stupeň:** [prvostupňové / odvolacie / dovolacie]
-- **Strany (anonymizované):** [Žalobca/odporca alebo navrhovateľ/odporca – stručne]
-- **Zdroj / poznámka:** [napr. interný spis / link / databáza]
+- **Súd:** Najvyšší súd Českej republiky
+- **Spisová značka:** 25 Cdo 308/2018 (v konaní vedenom na OS Louny pod sp. zn. 26 C 33/2013)
+- **Dátum rozhodnutia:** 2018-03-08
+- **Typ rozhodnutia:** uznesenie (odmietnutie dovolania)
+- **Stupeň:** dovolacie konanie
+- **Strany (anonymizované):**
+  -  Žalobkyňa: poisťovňa (Česká pojišťovna, a. s.)
+  -  Žalovaný: vodič – príjemca poistného plnenia (V. Š.)
 
 ## Kontext prípadu (1–3 vety)
-[Stručne: o čo išlo, čo bolo jadrom sporu, čo súd riešil.]
+Poisťovňa sa domáhala vrátenia poistného plnenia vyplateného žalovanému za škodu na vozidle po dopravnej nehode (22. 8. 2011), pričom jadrom sporu bolo, kto zavinil nehodu (odbočujúca vodička vs. predchádzajúci žalovaný) a či žalovaný porušil povinnosť prispôsobiť rýchlosť. Najvyšší súd riešil predovšetkým prípustnosť dovolania a otázku „prekvapivosti“ rozhodnutia odvolacieho súdu.
 
 ## Téma a kategorizácia
-- **Téma:** [napr. náhrada škody / priestupky / procesné otázky / rodinné právo ...]
-- **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
-- **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
+- **Téma:** náhrada škody / zodpovednosť za škodu z prevádzky vozidla / regres poisťovne (vrátenie plnenia)
+- **Podtéma:** prispôsobenie rýchlosti, predchádzanie vs. odbočovanie vľavo; „prekvapivé rozhodnutie“; hranice dovolacieho prieskumu skutkových zistení
+- **Tagy:** #dopravna_nehoda #predchadzanie #odbocovanie_vlavo #primerana_rychlost 
 
 ## Právne vety / kľúčové závery (max 3–6 bodov)
-- (1) [Najdôležitejší právny záver jednou vetou.]
-- (2) [Druhý záver.]
-- (3) [Tretí záver, ak treba.]
+- (1) Za „prekvapivé“ nemožno považovať rozhodnutie len preto, že odvolací súd zmenil rozsudok prvostupňového súdu; prekvapivé je až rozhodnutie založené na okolnostiach, ktoré neboli tvrdené/sporné alebo neboli predmetom posúdenia.
+- (2) Odvolací súd nemusí vždy opakovať alebo dopĺňať dokazovanie, ak vychádza z tých istých listinných dôkazov ako súd prvého stupňa; samotná zmena skutkového záveru neznamená automaticky vadu konania.
+- (3) Ustanovenie o povinnosti „prispôsobiť rýchlosť“ je normou s relatívne neurčitou hypotézou; dovolací prieskum úvahy odvolacieho súdu o miere účasti na škode je zásadne možný len pri zjavnej neprimeranosti.
+- (4) Pri posúdení primeranej rýchlosti a schopnosti zastaviť na vzdialenosť rozhľadu sa zohľadňuje aj dopravná situácia a predvídateľnosť prekážky (napr. vozidlá obmedzujúce rozhľad).
+- (5) Námietky smerujúce proti skutkovému stavu a hodnoteniu dôkazov (vrátane znaleckých posudkov) spravidla nezakladajú prípustnosť dovolania.
 
 ## Použité ustanovenia
-- **Hmotné právo:** [názov predpisu] – § [..], § [..]
-- **Proces:** [CSP/OSP/SSP/Trestný poriadok a pod.] – § [..], § [..]
+- **Hmotné právo:** 
+- **Proces:** 
 - **Iné zdroje:**
-  - [judikatúra, stanoviská, metodika – ak relevantné]
-  - [judikatúra, stanoviská, metodika – ak relevantné
+  - napr. NS ČR sp. zn. 25 Cdo 626/2000, 23 Cdo 101/2012, 21 Cdo 1234/2013, 22 Cdo 1618/2007, 21 Cdo 4059/2007, 29 NSCR 14/2009, 25 Cdo 3807/2014, trestné senáty 5 Tdo 9/2012, 11 Tdo 1319/2014, ďalej zmienka o náleze ÚS IV. ÚS 3159/15 a NSS 2 As 66/2016.
+ 
     
 ## Skutkový stav (stručne, vecne)
-- [Kľúčové skutkové tvrdenia.]
-- [Rozhodujúce skutkové zistenia súdu.]
-- [Podstatné dôkazy – iba výber.]
-
-## Procesný priebeh (stručne)
-- **Návrh/žaloba:** [čo sa žiadalo]
-- **Obrana:** [čo namietala druhá strana / orgán]
-- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
-- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
+- Kľúčové skutkové tvrdenia: Dopravná nehoda sa stala 22. 8. 2011. Vodička J. H. zastavila s úmyslom odbočiť vľavo so zapnutým ľavým smerovým ukazovateľom; za ňou zastavilo ďalšie vozidlo. Žalovaný sa pri zahájení odbočenia pokúsil predísť obe vozidlá v protismere, pričom došlo k zrážke.
+- Rozhodujúce skutkové zistenia súdov:
+  -  OS Louny: za jediného vinníka považoval vodičku (začala odbočovať, keď už žalovaný predchádzal).
+  -  KS Ústí nad Labem: za jedinú príčinu nehody označil neprimeranú rýchlosť / neprispôsobenie jazdy žalovaného a porušenie povinností podľa zákona č. 361/2000 Sb.
+- znalecké posudky pracujúce s viacerými variantmi dejového priebehu; svedecké výpovede (na ktoré sa opieral OS pri odmietnutí niektorých variantov).
 
 ## Právne posúdenie (jadro)
 ### Kľúčové otázky
-1. [Otázka č. 1]
-2. [Otázka č. 2]
-3. [Otázka č. 3 – voliteľné]
+1. Je rozhodnutie odvolacieho súdu „prekvapivé“ a procesne vadné, ak zmenil rozhodnutie bez vykonania ďalšieho dokazovania?
+2. Ako sa má hodnotiť porušenie povinnosti prispôsobiť rýchlosť a miera účasti účastníkov na „strete prevádzok“ (§ 431 obč. zák.)?
+3. Predstavujú námietky proti skutkovým zisteniam a znaleckým posudkom prípustný dovolací dôvod a zakladajú prípustnosť dovolania?
 
 ### Argumentácia súdu (výber)
-- [Argument 1 – prečo súd rozhodol takto.]
-- [Argument 2.]
-- [Argument 3 – voliteľné.]
+- K „prekvapivosti“: prekvapivé nie je už to, že odvolací súd rozhodne inak než prvostupňový súd; rozhodujúce je, či účastníci mohli vývoj veci predvídať podľa tvrdení a priebehu konania. Zároveň zákon súdu neukladá povinnosť vopred oznamovať účastníkom, ako mieni rozhodnúť.
+- K hmotnoprávnemu jadru: odvolací súd vyhodnotil ako rozhodujúce neprispôsobenie rýchlosti a jazdy situácii (vrátane toho, že žalovaný videl výstražné svetlá a situáciu pred sebou), pričom § 18 ods. 1 zákona o cestnej premávke je normou s relatívne neurčitou hypotézou; dovolací prieskum je limitovaný.
+- K rozsahu dovolacieho prieskumu: námietky žalovaného smerujúce proti skutkovému stavu a hodnoteniu dôkazov (vrátane znaleckých posudkov) nie sú typicky spôsobilé založiť prípustnosť dovolania; rovnako vady konania možno skúmať len pri prípustnom dovolaní.
 
-## Výrok (zhrnutie)
-- **Výrok I:** [stručne]
-- **Výrok II:** [stručne]
-- **Trovy:** [stručne]
+## Ako posudzovať, či vodič prispôsobil rýchlosť jazdy okolnostiam
+Najvyšší súd sa vo svojej doterajšej rozhodovacej praxi (judikatúre) zaoberal otázkou, ako posudzovať, či vodič prispôsobil rýchlosť svojej jazdy okolnostiam a či dokázal bezpečne zastaviť vozidlo na vzdialenosť, na ktorú mal rozhľad. 
 
-## Plné znenie (vložiť celý text)
-```text
-[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
-```
+Súdy v takýchto prípadoch berú do úvahy:
+-  poveternostné a terénne podmienky (napríklad zlé počasie, stav vozovky),
+-  dopravnú situáciu (čo sa deje na ceste, napríklad prítomnosť iných vozidiel alebo chodcov).
+
+Súd zdôrazňuje, že ak sa v jazdnej dráhe vodiča nachádza prekážka alebo ak existuje dôvodná možnosť, že do jazdnej dráhy môže niečo alebo niekto vstúpiť (napr. chodec, iné vozidlo), je povinnosťou vodiča primerane reagovať a upraviť svoju jazdu (znížiť rýchlosť, pripraviť sa na zastavenie).
+
+Toto pravidlo súdy aplikujú najmä v situáciách:
+-  keď vodič musí dodržiavať bezpečnú vzdialenosť za iným vozidlom,
+-  v blízkosti prechodov pre chodcov alebo zastávok verejnej dopravy, kde je zvýšená pravdepodobnosť vstupu chodcov do vozovky.
+
+V závere súd uvádza, že rovnako sa musí posudzovať aj situácia, keď má vodič obmedzený rozhľad kvôli iným vozidlám alebo objektom. V takých prípadoch je od vodiča očakávaná ešte vyššia opatrnosť a prispôsobenie jazdy okolnostiam.
+
+Tým súd potvrdzuje, že vodič (v tomto prípade žalovaný) porušil povinnosť primerane upraviť svoju jazdu podľa konkrétnej dopravnej situácie, čo bolo jedným z dôvodov, prečo došlo k zmene rozhodnutia o vine za nehodu.
+
+## Skutkový stav – podrobný popis
+Dňa 22. 8. 2011 došlo v obci na úzkej komunikácii k dopravnej nehode medzi vozidlom vodičky J. H. a vozidlom žalovaného. Vodička zastavila s úmyslom odbočiť vľavo (so zapnutým ľavým smerovým ukazovateľom), za ňou zastavilo ďalšie vozidlo. V okamihu, keď vodička zahájila odbočovací manéver, žalovaný sa pokúsil predísť obe vozidlá v protismere, čo viedlo k zrážke. V konaní boli vykonané znalecké posudky pracujúce s alternatívami nehody; prvostupňový súd kládol dôraz na svedecké výpovede a uzavrel, že žalovaný už predchádzal a vodička začala odbočovať neskoro. Odvolací súd naopak považoval za rozhodujúce, že žalovaný mal situáciu pred sebou, mohol predvídať riziko a neprispôsobil rýchlosť a spôsob jazdy (minimálne mal výrazne spomaliť až zastaviť), čím porušil povinnosti vodiča.
 
 ## Odôvodnenie (vložiť celý text)
 ```text
-[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
+Ako posudzovať, či vodič prispôsobil rýchlosť jazdy okolnostiam
+
+Najvyšší súd sa vo svojej doterajšej rozhodovacej praxi (judikatúre) zaoberal otázkou, ako posudzovať, či vodič prispôsobil rýchlosť svojej jazdy okolnostiam a či dokázal bezpečne zastaviť vozidlo na vzdialenosť, na ktorú mal rozhľad. Súdy v takýchto prípadoch berú do úvahy:
+-  poveternostné a terénne podmienky (napríklad zlé počasie, stav vozovky),
+-  dopravnú situáciu (čo sa deje na ceste, napríklad prítomnosť iných vozidiel alebo chodcov).
+
+Súd zdôrazňuje, že ak sa v jazdnej dráhe vodiča nachádza prekážka alebo ak existuje dôvodná možnosť, že do jazdnej dráhy môže niečo alebo niekto vstúpiť (napr. chodec, iné vozidlo), je povinnosťou vodiča primerane reagovať a upraviť svoju jazdu (znížiť rýchlosť, pripraviť sa na zastavenie).
+
+Toto pravidlo súdy aplikujú najmä v situáciách:
+-  keď vodič musí dodržiavať bezpečnú vzdialenosť za iným vozidlom,
+-  v blízkosti prechodov pre chodcov alebo zastávok verejnej dopravy, kde je zvýšená pravdepodobnosť vstupu chodcov do vozovky.
+
+V závere súd uvádza, že rovnako sa musí posudzovať aj situácia, keď má vodič obmedzený rozhľad kvôli iným vozidlám alebo objektom. V takých prípadoch je od vodiča očakávaná ešte vyššia opatrnosť a prispôsobenie jazdy okolnostiam.
+Tým súd potvrdzuje, že vodič (v tomto prípade žalovaný) porušil povinnosť primerane upraviť svoju jazdu podľa konkrétnej dopravnej situácie, čo bolo jedným z dôvodov, prečo došlo k zmene rozhodnutia o vine za nehodu.
+
+Najvyšší súd vo svojej judikatúre (napr. rozsudok Najvyššieho súdu zo dňa 24. 8. 2016, sp. zn. 25 Cdo 3807/2014) dospel k záveru, že pri posudzovaní otázky, či vodič vozidla prispôsobil rýchlosť jazdy daným okolnostiam a či išiel takou rýchlosťou, aby bol schopný zastaviť vozidlo na vzdialenosť, na ktorú má rozhľad, je potrebné zohľadniť nielen poveternostné a terénne podmienky, ale aj dopravnú situáciu. Ak sa v jazdnej dráhe vodiča nachádza prekážka alebo je predvídateľné, že by sa do jeho jazdnej dráhy mohla dostať, vodič je povinný na takúto situáciu reagovať a prispôsobiť jazdu okolnostiam. Toto pravidlo sa typicky aplikuje napríklad pri dodržiavaní bezpečnej vzdialenosti alebo pri jazde v miestach, kde možno očakávať vstup chodca alebo iných účastníkov cestnej premávky do vozovky (porovnaj napr. uznesenie Najvyššieho súdu zo dňa 25. 1. 2012, sp. zn. 5 Tdo 9/2012, alebo zo dňa 26. 11. 2014, sp. zn. 11 Tdo 1319/2014). Táto judikatúra rieši prípady týkajúce sa pohybu vozidla v obci, v blízkosti priechodu pre chodcov alebo autobusovej zastávky, kde je potrebné predpokladať riziko vstupu chodca do vozovky. Obdobne však možno posudzovať aj situácie, keď má vodič obmedzený rozhľad z dôvodu blokovania výhľadu inými vozidlami alebo objektmi.
+
+Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najvyšším správnym súdom v rozhodnutí citovanom dovolateľom, sp. zn. 2 As 66/2016, v ktorom sa konštatovalo, že pred samotným odbočením je vodič povinný sledovať nielen vozidlá idúce za ním, ale predovšetkým vozidlá idúce v protismere, pričom tieto činnosti by mal zvládať v zásade súčasne. V praxi to však znamená, že vodič musí v krátkych časových intervaloch pohľadom „preskakovať“ od sledovania protismeru ku kontrole situácie za vozidlom. Hoci vodič musí pri odbočovaní vľavo, obrazne povedané, „očakávať nebezpečenstvo“ nielen z protismeru, ale aj zo strany za jeho vozidlom, je logické, že o niečo viac pozornosti predsa len venuje situácii v protismere. Pri hodnotení toho, či vodič odbočujúci vľavo zavinene prehliadol vozidlo, ktoré za ním začalo predbiehací manéver, je preto potrebné zohľadniť jednak obvyklý spôsob sledovania situácie v protismere a za vozidlom odbočujúcim vodičom (uvedené „preskakovanie“ pozornosti, teda nevenovanie pozornosti jednému zo smerov vždy po určitú krátku dobu, typicky približne jednu až dve sekundy), ako aj skutočnosť, že pozornosť daného vodiča je prirodzene viac sústredená na protismer, odkiaľ hrozí väčšie nebezpečenstvo než zo situácie za vozidlom.
+
+Ďalšie námietky dovolateľa sú špekuláciami, ktoré spochybňujú a relativizujú skutkový dej a odbornú spôsobilosť znalcov. Takéto námietky, smerujúce proti zistenému skutkovému stavu a hodnoteniu dôkazov vrátane znaleckých posudkov, nie sú predmetom dovolacieho preskúmania a ani nezakladajú prípustnosť dovolania.
+
 ```
 
 
@@ -188,7 +187,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <!-- DECISION:BEGIN spis=3T/12/2021 -->
-
+# Názov xxxx
 # Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
 ## Identifikácia
 - **ID:** R1
