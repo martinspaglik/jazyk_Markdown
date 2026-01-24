@@ -420,73 +420,388 @@ Dňa 19.06.2019 Uznesením podľa § 156 ods. 1 Trestného poriadku bolo nariade
 
 <!-- DECISION:BEGIN spis=3T/12/2021 -->
 
-# Názov xxxx
-# Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
+# Názov Chodkyňa išla mimo priechodu pre chodcov - Znalec konštatoval v posudku nesprávne použitie komunikácie zo strany poškodenej, ide len o technický záver znalca, pričom právne posúdenie okolností nehody vyhodnocuje súd
+
+# Rozhodnutie: R6 – Krajský súd v Žiline – 1To/50/2022 – 2023-02-07
 ## Identifikácia
-- **ID:** R4
-- **Súd:** [napr. Okresný súd ... / Krajský súd ...]
-- **Spisová značka:** [napr. 12C/34/2024]
-- **Dátum rozhodnutia:** [YYYY-MM-DD]
-- **Typ rozhodnutia:** [rozsudok / uznesenie / iné]
-- **Stupeň:** [prvostupňové / odvolacie / dovolacie]
-- **Strany (anonymizované):** [Žalobca/odporca alebo navrhovateľ/odporca – stručne]
-- **Zdroj / poznámka:** [napr. interný spis / link / databáza]
+- **ID:** R6
+- **Súd:** Krajský súd v Žiline
+- **Spisová značka:** 1To/50/2022
+- **Dátum rozhodnutia:** 2023-02-07 
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** odvolacie (trestné odvolacie konanie)
+- **Strany (anonymizované):**
+  - Obžalovaný: Q. W. (vodič) 
+  - Odvolateľ: prokurátor (v neprospech obžalovaného, len do výroku o treste zákazu činnosti) 
+  - Poškodený (nárok na škodu): V. H. (pozostalý/poškodený uvedený v rozsudku OS; v texte je uvedená aj poškodená chodkyňa V. H., ktorá zomrela)
+
 
 ## Kontext prípadu (1–3 vety)
-[Stručne: o čo išlo, čo bolo jadrom sporu, čo súd riešil.]
+Odvolací súd rozhodoval o odvolaniach prokurátora a obžalovaného proti rozsudku Okresného súdu Liptovský Mikuláš (2T/57/2021 z 31.01.2022) v trestnej veci prečinu usmrtenia (§ 149 ods. 1 Tr. zák.) po zrážke vozidlom s chodkyňou, ktorá na mieste zomrela. Obe odvolania smerovali výlučne proti výroku o treste zákazu činnosti; prokurátor ho považoval za neprimerane mierny, obžalovaný za neprimerane prísny. Krajský súd zrušil výrok o treste zákazu činnosti a uložil prísnejší zákaz činnosti 7 rokov, odvolanie obžalovaného zamietol.
 
 ## Téma a kategorizácia
-- **Téma:** [napr. náhrada škody / priestupky / procesné otázky / rodinné právo ...]
-- **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
-- **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
+- **Téma:** trestné právo – dopravná trestná činnosť (usmrtenie v súvislosti s cestnou premávkou) 
+- **Podtéma:** odvolanie len proti trestu; primeranosť trestu zákazu činnosti; význam miesta zrážky v blízkosti priechodu; spoluzavinenie chodca v trestnej sankcii; limity odvolacieho prieskumu a dopad vyhlásenia obžalovaného o vine 
+- **Tagy:** #usmrtenie #dopravna_nehoda #chodec #zákaz_činnosti #odvolanie #primeranosť_trestu #§149TZ #Tr_por
+
+## Právna veta / právny záver (abstrakt)
+Pri ukladaní trestu zákazu činnosti vodiča za dopravný trestný čin s následkom smrti musí súd dôsledne vychádzať z účelu trestu (§ 34 Tr. zák.) a z povahy porušenej povinnosti vodiča, najmä ak k zrážke došlo v bezprostrednej blízkosti priechodu pre chodcov, kde sa vyžaduje zvýšená opatrnosť voči zraniteľným účastníkom. Ak je trest zákazu činnosti neprimerane mierny vzhľadom na okolnosti skutku a prevenciu, odvolací súd môže oddeliteľný výrok o tomto treste zrušiť a uložiť prísnejší trest, aj pri nezmenených výrokoch o vine a iných trestoch.
 
 ## Právne vety / kľúčové závery (max 3–6 bodov)
-- (1) [Najdôležitejší právny záver jednou vetou.]
-- (2) [Druhý záver.]
-- (3) [Tretí záver, ak treba.]
+- (1) Ak je výrok o treste zákazu činnosti oddeliteľný, odvolací súd môže pri nezmenených výrokoch o vine, treste odňatia slobody a náhrade škody zrušiť len tento výrok a uložiť nový zákaz činnosti.
+- (2) Pri dopravných trestných činoch so smrteľným následkom má uložený trest reflektovať jednotu individuálnej a generálnej prevencie a zásadu proporcionality; neprimerane mierny trest neplní účel trestu.
+- (3) Zrážka chodkyne približne 4 metre za priechodom pre chodcov bola hodnotená ako „bezprostredná blízkosť“ priechodu a ako priestor, kde má byť vyžadovaná zvýšená predvídavosť a opatrnosť vodiča.
+- (4) Krajský súd označil oneskorenú reakciu vodiča za primárnu príčinu nehodového deja a zdôraznil povinnosť vodiča dbať na zvýšenú opatrnosť voči chodcom (§ 4 ods. 1 písm. e) zákona č. 8/2009 Z.z.).
+- (5) Odvolací súd vyslovil, že skutok mohol byť posudzovaný prísnejšou právnou kvalifikáciou (porušenie dôležitej povinnosti), avšak vzhľadom na rozsah odvolania a procesný stav (právoplatnosť výroku o vine) to už nemohlo mať vplyv na vinu ani na trest odňatia slobody; kompenzačne sprísnil zákaz činnosti.
 
 ## Použité ustanovenia
-- **Hmotné právo:** [názov predpisu] – § [..], § [..]
-- **Proces:** [CSP/OSP/SSP/Trestný poriadok a pod.] – § [..], § [..]
-- **Iné zdroje:**
-  - [judikatúra, stanoviská, metodika – ak relevantné]
-  - [judikatúra, stanoviská, metodika – ak relevantné
+- **Zákon č. 8/2009 Z.z. o cestnej premávke:**
+- § 4 ods. 1 písm. e) (povinnosť vodiča dbať na zvýšenú opatrnosť voči chodcom a iným zraniteľným účastníkom)
     
 ## Skutkový stav (stručne, vecne)
-- [Kľúčové skutkové tvrdenia.]
-- [Rozhodujúce skutkové zistenia súdu.]
-- [Podstatné dôkazy – iba výber.]
-
-## Procesný priebeh (stručne)
-- **Návrh/žaloba:** [čo sa žiadalo]
-- **Obrana:** [čo namietala druhá strana / orgán]
-- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
-- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
-
-## Právne posúdenie (jadro)
-### Kľúčové otázky
-1. [Otázka č. 1]
-2. [Otázka č. 2]
-3. [Otázka č. 3 – voliteľné]
+- *Kľúčové skutkové tvrdenia:*
+  -  Dňa 09.12.2019 o 06:05 obžalovaný viedol vozidlo Volkswagen Golf po ceste I/18 v Liptovskom Mikuláši a došlo k čelnej zrážke s chodkyňou V. H., ktorá prechádzala cez vozovku; následkom bolo usmrtenie chodkyne na mieste (čas úmrtia 06:30).
+- *Rozhodujúce skutkové zistenia súdu (pre účely trestu):*
+  -  Odvolací súd zdôraznil, že miesto zrážky bolo v bezprostrednej blízkosti priechodu pre chodcov (cca 4 metre za priechodom) a že primárnou príčinou nehody bola oneskorená reakcia vodiča.
+    
 
 ### Argumentácia súdu (výber)
-- [Argument 1 – prečo súd rozhodol takto.]
-- [Argument 2.]
-- [Argument 3 – voliteľné.]
-
-## Výrok (zhrnutie)
-- **Výrok I:** [stručne]
-- **Výrok II:** [stručne]
-- **Trovy:** [stručne]
+- *Neprimeraná miernosť zákazu činnosti:* Odvolací súd sa stotožnil s prokurátorom, že zákaz činnosti 5 rokov je z hľadiska generálnej a individuálnej prevencie neprimerane nízky, najmä pri nenapraviteľnom následku (smrť chodkyne).
+- *Dôraz na miesto zrážky a zvýšenú opatrnosť:* Súd akcentoval bezprostrednú blízkosť priechodu pre chodcov (cca 4 m) a povinnosť vodiča dbať na zvýšenú opatrnosť voči chodcom (§ 4 ods. 1 písm. e) zákona č. 8/2009 Z.z.), pričom pri znalosti miestnych pomerov mal vodič predvídať zvýšený pohyb chodcov (nemocnica, rizikové a nedostatočne osvetlené miesto) a prispôsobiť jazdu tak, aby vedel včas reagovať.
+- *Primárna príčina nehody:* Za prvotnú príčinu nehodového deja označil súd oneskorenú reakciu vodiča; chodkyňa podľa súdu nevytvorila náhlu prekážku z technického hľadiska
 
 ## Plné znenie (vložiť celý text)
 ```text
-[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
+Súd: Krajský súd Žilina
+Spisová značka: 1To/50/2022
+Identifikačné číslo súdneho spisu: 5621010197
+Dátum vydania rozhodnutia: 07. 02. 2023
+Meno a priezvisko sudcu, VSÚ: Mgr. Anna Miháliková
+ECLI: ECLI:SK:KSZA:2023:5621010197.1
+
+ROZSUDOK V MENE
+SLOVENSKEJ REPUBLIKY
+
+Krajský súd v Žiline, v senáte zloženom z predsedníčky senátu Mgr. Anny Mihálikovej a sudcov
+JUDr. Moniky Liptákovej a JUDr. Vladimíra Kuráka, na verejnom zasadnutí konanom 7. februára 2023
+prejednal odvolania podané prokurátorom a obžalovaným Q. W., nar. X.X.XXXX, proti rozsudku
+Okresného súdu Liptovský Mikuláš, sp.zn. 2T/57/2021 z 31.1.2022 a takto
+
+r o z h o d o l :
+
+Podľa § 321 ods. 1 písm. e), ods. 2 Tr. por. z r u š u j e rozsudok Okresného súdu Liptovský Mikuláš,
+sp.zn. 2T/57/2021 z 31. januára 2022 v časti - vo výroku o treste zákazu činnosti.
+
+Na podklade § 322 ods. 3 Tr. por., pri nezmenených výrokoch o vine, treste odňatia slobody a náhrade
+škody rozsudku Okresného súdu Liptovský Mikuláš, sp.zn. 2T/57/2021 z 31. januára 2022,
+obžalovanému Q. W., nar. X.X.XXXX v R. V., trvale bytom W. XXX/XX, R. V.,
+
+u k l a d á :
+
+Podľa § 61 ods. 1, ods. 2 Tr. zák. trest zákazu činnosti viesť motorové vozidlá akéhokoľvek druhu vo
+výmere 7 (sedem) rokov.
+
+Podľa § 319 Tr. por. odvolanie obžalovaného Q. W. z a m i e t a , pretože nie je dôvodné.
+
+o d ô v o d n e n i e :
+
+Rozsudkom Okresného súdu Liptovský Mikuláš, č.k. 2T/57/2021-325 z 31.1.2022 bol obžalovaný Q. W.
+uznaný za vinného, že:
+
+dňa 9.12.2019 v čase o 06.05 hod. viedol osobné motorové vozidlo značky Volkswagen Golf,
+evidenčného čísla LM 646 BP po ceste I/18 v smere po ul. Palúčanská na ul. Palugyayho v Liptovskom
+Mikuláši, pričom v mieste pri budove umývačky áut Laserwash, došlo k čelnej zrážke jeho vozidla v jeho
+jazdnom pruhu s chodkyňou V. H., ktorá prechádzala cez vozovku z ľavej strany vozovky na pravú z
+pohľadu vodiča od Hostinca u Kaplánov, teda prešla jazdný pruh v smere od ul. Palúčanskej na ul.
+Jánošíkovo nábrežie až do protismerného jazdného pruhu, v ktorom sa pohyboval vodič motorového
+vozidla Q. W., kde v dôsledku nereagovania vodiča došlo k nárazu, po ktorom V. H. odhodilo od vozidla
+na vozovku vpravo v smere jazdy vozidla, čím jej spôsobil úrazovokrvácavý šok pri komplexe poranení
+mozgu, hrudníka, chrbtice, panvy, končatín s krvácaním do hrudnej dutiny, v dôsledku ktorých poranení
+na mieste v čase o 06.30 hod. dňa 9.12.2019 podľahla,
+
+čím spáchal prečin usmrtenia podľa § 149 ods. 1 Tr. zák. a za to bol odsúdený podľa § 149 ods. 1 Tr. zák.,
+s použitím § 36 písm. j), písm. l), § 38 ods. 2, ods. 3 Tr. zák. na trest odňatia slobody vo výmere 18
+mesiacov. Podľa § 49 ods. 1 písm. a) Tr. zák. mu súd výkon trestu odňatia slobody podmienečne odložil
+a podľa § 50 ods. 1 Tr. zák. mu určil skúšobnú dobu na 3 roky. Zároveň obžalovanému podľa § 61 ods. 1,
+ods. 2 Tr. zák. uložil trest zákazu činnosti viesť všetky druhy motorových vozidiel na 5 rokov. Podľa
+§ 287 ods. 1 Tr. por. súd uložil obžalovanému povinnosť nahradiť poškodenému V. H., nar. X.X.XXXX v
+R. V., trvale bytom ul. B. XXX/X, R. V., škodu vo výške 803,57 eur.
+
+Zo zápisnice o hlavnom pojednávaní z 31.1.2022 vyplýva, že po vyhlásení rozsudku, jeho odôvodnení
+a poučení o opravnom prostriedku prokurátor podal odvolanie do výroku o treste v neprospech
+obžalovaného a obžalovaný si ponechal lehotu na podanie opravného prostriedku. Dňa 9.2.2022 bolo
+súdu prostredníctvom obhajcu doručené odvolanie obžalovaného, čo do výroku o treste, s tým, že
+dôvody odvolania doplní po doručení písomného vyhotovenia rozsudku.
+
+Písomné dôvody podaného odvolania prokurátor doplnil podaním doručeným prvostupňovému súdu dňa
+28.3.2022 (na č.l. 338-339 súdneho spisu). Z podstatnej odvolacej argumentácie vyplýva, že prokurátor
+spresnil rozsah podaného odvolania, konkrétne proti výroku o treste zákazu činnosti, nakoľko trest
+zákazu činnosti uložený vo výmere 5 rokov považuje za nedostatočný k dosiahnutiu účelu trestu, ktorý
+predpokladá Trestný zákon. Východiskom boli dve okolnosti, a to neodstrániteľný následok, ktorým je
+smrť poškodenej, a okolnosti, za ktorých bol skutok spáchaný. Súd správne konštatoval prvotnú príčinu
+dopravnej nehody ako oneskorenú reakciu na strane obžalovaného. Ak znalec konštatoval v podanom
+znaleckom posudku nesprávne použitie komunikácie zo strany poškodenej, ide len o technický záver
+znalca, pričom právne posúdenie okolností nehody vyhodnocuje súd. Súd čiastočne prihliadol na
+spoluzavinenie chodkyne, i keď z odôvodnenia rozsudku nie je možné vyvodiť presne záver o tom, či aj
+táto okolnosť mala vplyv na uložený trest zákazu činnosti. Konštatuje, že technické závery vyjadrené v
+znaleckom posudku sa môžu odlišovať od právneho hodnotenia skutku. Tak to malo byť aj v danom
+prípade, kde podstatnou okolnosťou skutku je to, že obžalovaný zrazil poškodenú v bezprostrednej
+blízkosti priechodu pre chodcov, pričom z obsahu znaleckého posudku je možné vyvodiť, že to bolo
+približne cca 4 metre za priechodom. Uvedená skutočnosť sa premietla aj do právnej kvalifikácie,
+nakoľko nedošlo k použitiu kvalifikovanej skutkovej podstaty daného ustanovenia, a to odseku 2 písm. a)
+- závažnejší spôsob konania, akým by bolo možné vyhodnotiť také konanie, keby vodič nedal prednosť
+chodcovi na priechode pre chodcov. Obvinený bol teda stíhaný za naplnenie znakov základnej skutkovej
+podstaty. Poškodená teda z technického hľadiska používala pozemnú komunikáciu skutočne nesprávnym
+spôsobom, avšak z hľadiska posúdenia možnosti obvineného predísť dopravnej nehode sa malo
+prihliadnuť na fakt, kde došlo k zrážke s poškodenou. Nejednalo sa o štandardnú časť vozovky, ale o
+frekventovaný priechod pre chodcov v blízkosti nemocnice. Navyše obvinený je osobou znalou miestnych
+pomerov, podľa vlastného vyjadrenia jazdí v tejto časti mesta pravidelne, a preto musel mať vedomosť o
+tom, že sa blíži k priechodu pre chodcov. Táto okolnosť mala byť premietnutá aj do výmery trestu zákazu
+činnosti. Obvinený pôvodne uzavrel s prokuratúrou dohodu o vine a treste, v rámci ktorej bol dohodnutý
+trest zákazu činnosti práve vo výmere 5 rokov. Výška tejto výmery odzrkadľovala postoj obvineného v
+dohodovacom konaní, kedy spolupracoval s orgánmi činnými v trestnom konaní, a preto mu bola
+ponúknutá výhodnejšia sadzba trestu zákazu činnosti. Obvinený sa slobodne rozhodol, že v konaní na
+súde uzavretú dohodu o vine a treste neprijme. Následne súd vydal trestný rozkaz, v ktorom obvinenému
+uložil trest zákazu činnosti vo výmere 5 rokov a 6 mesiacov. Je zjavné, že súd nie je viazaný pôvodne
+uloženým trestom v trestnom rozkaze. V záujme transparentnosti bolo vhodné a z pozície poškodených
+možno aj žiaduce, aby súd vysvetlil v odôvodnení napadnutého rozsudku, z akého dôvodu za situácie, ak
+nedošlo k zmene skutkového stavu, sa odchýlil od výmery trestu zákazu činnosti a tento znížil o 6
+mesiacov. Súd mal vyhodnotiť aj postoj obvineného k priebehu trestného konania a tento mal odrážať
+výmeru uloženého trestu zákazu činnosti, ktorý mal byť podľa názoru prokuratúry uložený minimálne v
+rozsahu, ako ho uložil v trestnom rozkaze.
+
+Na tomto základe preto navrhol, aby druhostupňový súd zrušil výrok o treste zákazu činnosti a tento
+primeraným spôsobom navýšil.
+
+Z písomných dôvodov odvolania obžalovaného, doručeného okresnému súdu prostredníctvom obhajcu
+dňa 11.3.2022 (na č.l. 333-334 súdneho spisu), vyplýva nasledovná podstatná odvolacia argumentácia:
+Obžalovaný poukázal najmä na časť znaleckého posudku, v ktorej znalec konštatoval, akým spôsobom
+mohla chodkyňa zabrániť dopravnej nehode, a to primeranou skoršou reakciou, lebo z jej strany mohlo
+prísť k vyhodnoteniu danej situácie ako kolíznej už v dostatočnom predstihu a tak reagovať na pohyb
+a polohu pohybujúceho sa motorového vozidla. Pohyb chodkyne tesne pred stretom s motorovým
+vozidlom bol technicky nepochopiteľný a vysoko rizikový, jej vstup do daného priestoru komunikácie bol
+v príkrom rozpore s pravidlami cestnej premávky. Je pravdepodobné, že polohu chodkyne v časovom
+rozsahu cca 8,0 s až 3,0 s pred stretom, vzhľadom na aktuálne svetelné podmienky a nepriaznivé optické
+pozadie za pohybujúcou sa chodkyňou, zo strany vodiča bolo opticky veľmi ťažko definovať a v tomto
+momente pohyb osobného motorového vozidla mohol byť vodičom korigovaný len na základe
+predvídavosti, či sa za priechodom náhodou nepohybuje chodec. Toto vyhodnotenie z hľadiska právneho
+posúdenia nechal znalec na úvahe súdu. Z hodnotenia správania sa chodkyne je evidentné spoluzavinenie
+na dopravnej nehode. Keď sa obžalovaný približoval k priechodu pre chodcov, vzhľadom na to, že tento
+priechod pre chodcov je nedostatočne osvetlený, sústredil zvýšenú pozornosť na osobu, ktorá stála pred
+priechode pre chodcom, a dával pozor, či náhodou nevstúpi tento chodec na priechod. Zároveň
+nepredpokladal, že chodkyňa bude prechádzať cez cestu mimo označený priechod, a chodkyňu zbadal až
+v momente nárazu. Keďže ani dopravný policajt, ktorý dokumentoval dopravnú nehodu, nebol schopný
+vyhodnotiť zavinenie vodiča, obvinenému nebol odobratý vodičský preukaz, s ktorým doteraz disponuje aj
+napriek dĺžke času od spáchania nehody. Tým zároveň obhajoba poukazuje na to, že ide o ohľaduplného
+vodiča, ktorý od tohto obdobia nespáchal žiadny vážnejší priestupok v cestnej doprave až doteraz. Na
+druhej strane si obžalovaný uvedomuje nenapraviteľný následok dopravnej nehody. Miesto dopravnej
+nehody je rizikovým miestom, čo potvrdzuje aj ďalšia smrteľná nehoda presne o rok (obžalovaný
+poukazuje priamo na iný rozsudok Okresného súdu Liptovský Mikuláš) s konštatovaním, že ani jeden
+orgán činný v trestnom konaní neprijal žiadne opatrenie na nápravu a zlepšenie viditeľnosti priechodu pre
+chodcov tak, aby boli chránení chodci do budúcna. Vzhľadom na okolnosti, za akých došlo k zrážke,
+obhajoba považuje uložený trest zákazu činnosti viesť motorové vozidlá v dĺžke 5 rokov za neprimerane
+prísny, ktorý vôbec neodráža spoluzavinenie chodkyne na tejto dopravnej nehode. Obžalovaný uviedol, že
+predmetný úsek cesty pozná, nakoľko tadiaľ chodí denne do práce už niekoľko rokov, je bytostne odkázaný
+na používanie motorového vozidla predovšetkým v prospech svojich rodičov, ktorí obaja majú cez 80
+rokov, najmä na návštevu lekárov so svojimi rodičmi. Sám súd v predmetnom rozsudku na str. 4
+vyhodnotil osobu obžalovaného ako nie nedisciplinovaného vodiča. S poukazom na vyššie uvedené
+skutočnosti je toho názoru, že vzhľadom na spoluzavinenie poškodenej, uloženie 5-ročného trestu zákazu
+činnosti riadenia motorových vozidiel považuje za neprimerane prísne, a preto sa dožaduje primeraného
+zníženia trestu zákazu činnosti. Obžalovaný doplnil odvolanie o pracovný posudok a lekárske potvrdenia.
+
+Z vyjadrenia obžalovaného k odvolaniu prokurátora (na č.l. 343 súdneho spisu) vyplýva, že súd
+pravdepodobne k zníženiu trestu zákazu činnosti oproti trestnému rozkazu dospel po dôkladnejšom
+preštudovaní znaleckého posudku, kde znalec vyhodnotil pohyb chodkyne pred stretom s motorovým
+vozidlom ako technicky nepochopiteľný a vysoko rizikový. Ďalej dal do pozornosti, že zákon nijakým
+spôsobom nedefinuje, čo je bezprostredná blízkosť priechodu pre chodcov. V ďalšej časti vyjadrenia
+zopakoval skutočnosti uvádzané v odvolaní.
+
+Verejné zasadnutie pred krajským súdom o odvolaniach obžalovaného a prokurátora sa konalo po
+splnení zákonných podmienok v neprítomnosti obžalovaného Q. W.. Prokurátorka v konečnom návrhu
+uviedla, že ak odvolací súd nezohľadní odvolaciu argumentáciu prokurátora, požaduje potvrdenie trestu
+zákazu činnosti, ako bol obžalovanému uložený rozsudkom okresného súdu, a navrhla zamietnuť
+odvolanie obžalovaného ako nedôvodné. Obhajca v konečnom návrhu v plnom rozsahu zotrval na
+dôvodoch podaného odvolania so zdôraznením rizikovosti miesta dopravnej nehody a neprijatia žiadnych
+opatrení na odstránenie týchto nedostatkov, pričom sa v plnom rozsahu pridržal svojho odvolacieho
+návrhu v podanom odvolaní.
+
+Krajský súd, ako súd odvolací, predtým ako začal plniť svoju preskúmavaciu povinnosť podľa § 317 Tr.
+por., zistil, že odvolania prokurátora a obžalovaného boli podané včas, v lehote stanovenej v § 309 Tr.
+por., odvolania boli podané oprávnenými osobami v súlade s § 307 ods. 1 písm. a), písm. b) Tr. por.,
+odvolanie prokurátora bolo podané v neprospech obžalovaného, odvolania spĺňajú náležitosti § 311 ods.
+1, ods. 2 Tr. por. a nedošlo k vzdaniu sa práva na podanie odvolaní alebo k späťvzatiu podaných odvolaní
+v zmysle § 312 Tr. por., a preto odvolací súd nepostupoval podľa § 316 Tr. por.
+
+Podľa § 317 ods. 1 Tr. por. ak nezamietne odvolací súd odvolanie podľa § 316 ods. 1 alebo nezruší
+rozsudok podľa § 316 ods. 3, preskúma zákonnosť a odôvodnenosť napadnutých výrokov rozsudku,
+proti ktorým odvolateľ podal odvolanie, ako aj správnosť postupu konania, ktoré im predchádzalo. Na
+chyby, ktoré neboli odvolaním vytýkané, prihliadne len vtedy, ak by odôvodňovali podanie dovolania
+podľa § 371 ods. 1 Tr. por.
+
+Krajský súd sa v plnom rozsahu stotožnil s dôvodmi odvolania prokurátora, pretože po preskúmaní
+odvolaním prokurátora napadnutého výroku rozsudku súdu prvého stupňa o uloženom treste zákazu
+činnosti dospel k záveru, že uložený trest zákazu činnosti je neprimerane mierny. Zároveň krajský súd
+ďalej poukáže aj na iné dôvody, ktoré ho viedli k sprísneniu tohto druhu trestu, čo v konečnom dôsledku
+viedlo k zrušeniu rozsudku súdu prvého stupňa v napadnutej časti podľa § 321 ods. 1 písm. e) Tr. por.
+
+Odvolanie obžalovaného voči výroku o treste zákazu činnosti vyhodnotil ako nedôvodné.
+
+Prokurátor a obžalovaný podali odvolanie proti rozsudku súdu prvého stupňa len čo do výroku o treste
+zákazu činnosti, ktorý výrok je súčasne výrokom oddeliteľným od ostatných čiastkových výrokov o treste,
+v tomto prípade od trestu odňatia slobody. Podľa § 61 ods. 2 Tr. zák. súd môže uložiť trest zákazu činnosti
+na jeden až desať rokov, ak sa páchateľ dopustil trestného činu v súvislosti s touto činnosťou. Odvolací
+súd však vykonal všeobecný prieskum rozhodnutia súdu prvého stupňa o vine, ako i prieskum konania,
+ktoré predchádzalo odvolaniami napadnutému výroku rozsudku súdu prvého stupňa, pretože z pohľadu
+zákona a spravodlivosti žiadny trest nemôže obstáť pri nezákonnom rozhodnutí o vine páchateľa.
+
+Po splnení prieskumnej povinnosti krajský súd zistil, že okresný súd v rámci procesného postupu
+rešpektoval a dodržiaval všetky základné zásady trestného konania uvedené v ust. § 2 Tr. por., najmä
+však zásady zákonného procesu - § 2 ods. 7, práva na obhajobu - § 2 ods. 9, voľného hodnotenia dôkazov
+- § 2 ods. 12, rovnosti (kontradiktórnosti) - § 2 ods. 14. Odvolací súd teda konštatuje, že súd prvého
+stupňa dospel k vyhláseniu rozsudku po bezchybnom procesnom postupe v súlade so všetkými
+procesnými ustanoveniami, ktoré tento proces upravujú.
+
+Odvolací súd zistil, že vo vzťahu ku skutkovým zisteniam tvoriacim podstatu súdeného trestného činu
+(prečin usmrtenia podľa § 149 ods. 1 Tr. zák.) je napadnutý rozsudok výsledkom konania, v ktorom sa
+postupovalo podľa Trestného poriadku a v tejto súvislosti poukazuje odvolací súd na priebeh hlavného
+pojednávania v konaní pred prvostupňovým súdom, na ktorom obžalovaný Q. W. v zmysle § 257 ods. 1
+písm. c) Tr. por. urobil vyhlásenie, že nepopiera spáchanie skutku uvedeného v obžalobe, obžalovaný
+zároveň odpovedal kladne na otázky podľa § 333 ods. 3 písm. c), d), f), g), h) Tr. por. Súd prvého stupňa
+uznesením podľa § 257 ods. 7 Tr. por. vyhlásenie obžalovaného Q. W. prijal a zároveň vyhlásil, že
+dokazovanie v rozsahu, v akom obžalovaný priznal spáchanie skutku, nevykoná a vykoná dokazovanie
+súvisiace s výrokom o treste a s výrokom o náhrade škody.
+
+Odvolací súd zistil, že súd prvého stupňa si vytvoril dostatočný skutkový základ k rozhodnutiu o druhu a
+výmere trestu. Súd prvého stupňa odôvodnil svoje skutkové a právne úvahy vo vzťahu k výroku o treste -
+zákazu činnosti vodiča, s ktorými sa ale krajský súd v plnom rozsahu nestotožnil a výšku uloženého trestu
+zákazu činnosti považuje z hľadiska generálnej a individuálnej prevencie za neprimerane nízku.
+
+Treba uviesť, že trest je právnym následkom trestného činu, a teda musí byť úmerný k spáchanému
+trestnému činu (zásada proporcionálnosti trestu) a je jedným z prostriedkov na dosiahnutie účelu
+Trestného zákona. Tým je určená aj jeho funkcia v tých smeroch, v ktorých má pôsobiť zákon, t.j. na
+ochranu spoločnosti a na výchovu páchateľa a ostatných občanov. Ochrana spoločnosti sa uskutočňuje
+dvoma prvkami, a to prvkom donútenia (represia) a prvkom výchovy. Oba prvky sa uplatňujú zásadne
+súčasne v každom treste.
+
+Všeobecne treba uviesť, že Trestný zákon vychádza zo zásady, že základným účelom a cieľom trestu je
+ochrana spoločnosti pred trestnými činmi a ich páchateľmi. Zmysel existencie a prípadnej aplikácie noriem
+trestného práva je predovšetkým v tom, aby sa trestné činy buď vôbec nepáchali, alebo páchali v čo
+najmenšej miere. Ochrana spoločnosti pred páchateľmi trestných činov vrátane ochrany práv a slobôd
+jednotlivých občanov robí tak z trestu prostriedok sebaobrany spoločnosti pred trestnými činmi. Trest má
+však okrem toho pôsobiť výchovne, a to nielen na páchateľa, ale aj na ostatných členov spoločnosti.
+Pritom generálna prevencia sa má uskutočňovať prostredníctvom individuálnej prevencie. Ak sa teda
+páchateľovi zabráni v ďalšej trestnej činnosti, dáva sa tým najavo aj ostatným členom spoločnosti, ktoré
+správanie je nežiaduce, proti čomu je namierený Trestný zákon a takýmto spôsobom možno ovplyvňovať
+pozitívnu hodnotovú orientáciu občanov spoločnosti. Trest súčasne vyjadruje morálne odsúdenie
+páchateľa spoločnosťou. Z hľadiska týchto úvah odvolacieho súdu možno potom dospieť k záveru, že účel
+trestu v zmysle § 34 ods. 1 Tr. zák. tvorí jednotu, lebo sa musí vzájomne doplňovať. Záver súdu o možnosti
+nápravy páchateľa musí byť vždy v plnom súlade s ochranou, ktorú súd uloženým trestom poskytuje
+chráneným záujmom spoločnosti, štátu a občanom pred útokmi páchateľov trestných činov.
+
+Individuálna prevencia spočíva vo vytvorení podmienok na výchovu odsúdeného k tomu, aby viedol riadny
+život. Generálna prevencia má zabezpečiť nielen odradenie ostatných potenciálnych páchateľov od páchania
+trestných činov, ale i utvrdenie pocitu právnej istoty a spravodlivosti u ostatných členov spoločnosti.
+Spravodlivé a včasné uloženie trestu dáva ostatným členom spoločnosti najavo, že konanie, za ktoré bol
+uložený trest, je protiprávne a nežiaduce, varuje ich pred páchaním trestnej činnosti a posilňuje pocit
+právnej istoty a právneho štátu. Trestný zákon vychádza z jednoty individuálnej a generálnej prevencie,
+pričom obe tieto zložky sa navzájom dopĺňajú a podmieňujú. Disproporcia medzi jednotlivými druhmi
+prevencie v zásade vedie k nedostatočnému výchovnému pôsobeniu trestu tak na páchateľa trestného
+činu, ako i na ostatných členov spoločnosti.
+
+V súvislosti s namietanou neprimeranosťou uloženého trestu odvolateľmi treba dodať, že záver o
+primeranosti trestu je daný vtedy, ak sa opiera o rozumnú väzbu medzi legitímnym cieľom a zvoleným
+prostriedkom jeho realizácie. Možno konštatovať, že páchateľa môže so spravodlivosťou, a teda aj so
+spoločnosťou zmieriť len spravodlivý trest. Trest sa musí rovnať spôsobenému bezpráviu, z toho vyplýva,
+že v prípade, ak bude trest, resp. odplata obsiahnutá v treste prísnejšia ako bezprávie spôsobené trestným
+činom, nedôjde len k negácii tohto bezprávia, ale zároveň uloženým trestom vznikne nové bezprávie -
+bezprávie voči neprimerane potrestanému páchateľovi trestného činu. Trest, ktorým štát a spoločnosť
+reaguje na spáchaný trestný čin ako na nespravodlivé konanie, by mal nespravodlivosť spôsobenú trestným
+činom napraviť, a nie ešte viac rozmnožiť. Neprimeraný trest nemožno považovať za spravodlivý.
+Spravodlivý je vždy len primeraný trest. Požiadavka primeranosti trestu a jeho individualizácie núti súd
+prihliadať na okolnosti konkrétneho prípadu, na jeho zvláštnosti, a teda bráni mechanickému
+postupovaniu súdu pri rozhodovaní o treste.
+
+Odvolanie prokurátora, ako aj obžalovaného smerovalo voči výroku o treste zákazu činnosti, ako
+samostatnému druhu trestu. Prokurátor tento trest považoval za neprimerane mierny vzhľadom na
+okolnosti skutku, ktoré konkretizoval v podanom odvolaní. Na strane druhej obžalovaný apeloval na súd,
+aby trest zákazu činnosti zmiernil vzhľadom na spoluzavinenie chodkyne, ako aj osobné a rodinné pomery
+obžalovaného (potrebu používania motorového vozidla v súvislosti s výkonom povolania a starostlivosti o
+rodičov - preprava k lekárovi).
+
+Krajský súd primárne uvádza, že prvotnou príčinou vzniku dopravnej nehody bola oneskorená reakcia vodiča
+- obžalovaného. Chodkyňa - poškodená mu nevytvorila náhlu prekážku z technického hľadiska, vodič na
+kolíznu situáciu reagoval výrazne oneskorene. Z vykonaného dokazovania vyplýva, že miesto dopravnej
+nehody je v bezprostrednej blízkosti priechodu pre chodcov (cca 4 metre za týmto priechodom). V tejto
+súvislosti sa žiada zdôrazniť povinnosť vodiča podľa § 4 ods. 1 písm. e) zák. č. 8/2009 Z.z. o cestnej
+premávke a o zmene a doplnení niektorých zákonov - dbať na zvýšenú opatrnosť voči cyklistom a chodcom,
+najmä deťom, osobám so zdravotným postihnutím, osobitne voči osobám, ktoré používajú bielu palicu,
+a starým osobám. Od charakteru porušenej povinnosti vodiča a miesta zrážky chodkyne sa odvíja aj iný
+uhol pohľadu krajského súdu na spáchaný skutok a trest zaň uložený. Zvýšená opatrnosť voči chodcom
+jednoznačne zahŕňa dostatočnú predvídateľnosť vodiča v blízkosti priechodov pre chodcov, ako i na
+miestach, kde sa dá zvýšený pohyb chodcov dôvodne predpokladať. V danom prípade o to zvlášť, ak
+obžalovaný poznal miestne pomery miesta dopravnej nehody, ako sám uvádzal, chodí tadiaľ denne do
+práce. Sám obžalovaný miesto dopravnej nehody opísal ako vysokorizikové miesto, frekventované miesto,
+pretože v blízkosti sa nachádza nemocnica a zároveň nedostatočne osvetlené miesto. Vzhľadom na tieto
+okolnosti sa dalo od vodiča dôvodne očakávať, že v danom mieste zvýši pozornosť a primerane zníži
+rýchlosť, aby dokázal včas reagovať na prekážku v cestnej premávke a bezpečne zastaviť motorové vozidlo.
+Nedodržanie označenej povinnosti vodiča tak bolo primárnou príčinou vzniku nehodového deja a
+spôsobeného nenapraviteľného následku - smrti poškodenej V. H.. Nakoľko miesto zrážky chodkyne bolo
+len cca 4 m za priechodom pre chodcov, možno hovoriť o bezprostrednej blízkosti tohto miesta k priechodu
+pre chodcov a o pásme, ktoré chodcovi má ešte garantovať rovnaké bezpečie, ako keby priamo vykročil po
+priechode pre chodcov. Logicky nie je možné, aby na jednej strane vodič tvrdil, že venoval zvýšenú
+pozornosť osobe, ktorá stála pri priechode pre chodcov v úmysle naň vstúpiť, a vzápätí len 4 m za tým
+istým priechodom narazil do chodkyne. Pokiaľ by sa obžalovaný správal v súlade so zákonnou požiadavkou
+zvýšenej opatrnosti voči chodcom a v predstihu reagoval na rizikové miesto, bol by schopný chodkyňu včas
+spozorovať a správne reagovať na vzniknutú situáciu. Je potrebné vziať do úvahy aj skutočnosť, že chodec
+sa považuje za zraniteľnejšieho účastníka cestnej premávky. Z uvedeného jednoznačne vyplýva, že
+obžalovaný porušil povinnosť vodiča podľa § 4 ods. 1 písm. e) citovaného zákona. Zvýšenú opatrnosť v
+blízkosti priechodu pre chodcov je nevyhnutne a bezpodmienečne potrebné od vodičov vyžadovať a
+porušenie takejto povinnosti vzhľadom na miesto zrážky chodkyne podľa názoru krajského súdu je potrebné
+považovať za porušenie dôležitej povinnosti podľa § 138 písm. h) Tr. zák., a teda táto skutočnosť mala viesť
+aj k prísnejšej právnej kvalifikácii skutku podľa § 149 ods. 2 písm. a) Tr. zák. Pri takto zvolenej kvalifikovanej
+skutkovej podstate trestného činu usmrtenia je zákonom ustanovená trestná sadzba vo výmere 2 roky až 5
+rokov. V tejto súvislosti krajský súd konštatuje, že skutok bol nielenže nesprávne právne kvalifikovaný, ale
+obžalovanému bol uložený aj nezákonný a neprimerane mierny trest odňatia slobody s podmienečným
+odkladom jeho výkonu. Vzhľadom však na rozsah a dôvody odvolania prokurátora podaného v neprospech
+obžalovaného, ako aj tomu predchádzajúci procesný postup - prijatie vyhlásenia obžalovaného o vine a
+právoplatnosti rozsudku prvostupňového súdu vo výroku o vine, konštatovaná nesprávnosť právnej
+kvalifikácie skutku krajským súdom už nemohla mať žiadny vplyv tak na vinu obžalovaného, ani na uložený
+trest odňatia slobody.
+
+Krajský súd dáva do pozornosti zvlášť prokurátorovi a okresnému súdu aj ďalšie nedostatky, ktoré zistil pri
+svojej prieskumnej činnosti: v skutkovej vete obžaloby prokurátor dôsledne neopísal okolnosti dopravnej
+nehody - nešpecifikoval miesto dopravnej nehody tak, ako ho už vedel zdôrazniť v podanom odvolaní práve
+v súvislosti s požiadavkou sprísnenia trestu zákazu činnosti, ani sa dôsledne nezaoberal obsahom porušenej
+povinnosti vodičom, ktorej nedodržanie sa spája s ťažkými až nenapraviteľnými následkami na zdraví a
+živote chodcov. Ďalej v skutkovej vete obžaloby riadne neoznačil osobu poškodenej nezameniteľným
+spôsobom - uvedením dátumu narodenia. Tie isté nedostatky súd prevzal do skutkovej vety rozsudku.
+Nakoľko napadnutý rozsudok je právoplatný vo výroku o vine a prokurátor podal odvolanie v neprospech
+obžalovaného len do výroku o treste zákazu činnosti, nebolo možné tieto pochybenia napraviť činnosťou
+krajského súdu.
+
+Podľa názoru krajského súdu všetky tieto okolnosti bolo potrebné zohľadniť pri uložení prísnejšieho trestu zákazu činnosti obžalovanému tak, aby bol naplnený účel trestu v rovine nielen individuálnej, ale aj
+generálnej prevencie. Prísnejší trest zákazu činnosti vodiča môže do istej miery vyvážiť aj vyššie uvedené
+nedostatky. Za primeraný týmto okolnostiam odvolací súd považoval trest zákazu činnosti vo výmere 7
+rokov, inak povedané, neprimerane mierny jeden druh uloženého trestu bol vyvážený sprísnením druhého
+trestu.
+
+Za takejto situácie preto skutočnosti uvádzané obžalovaným na svoju obhajobu, smerujúce k zmierneniu
+trestu zákazu činnosti, nebolo možné vziať do úvahy.
+
+Odvolací súd dospel k záveru, že takto uložený trest zákazu činnosti považuje za zákonný, dôvodný a
+primeraný stavu veci a zákonu. Zároveň rešpektuje zásady pre ukladanie trestov podľa § 34 ods. 1, ods. 4
+Tr. zák., pričom krajský súd prihliadol najmä na povahu spáchaného trestného činu a nenapraviteľný
+následok ním spôsobený - smrť poškodenej, okolnosti jeho spáchania - zrážka chodkyne v bezprostrednej
+blízkosti priechodu pre chodcov, závažnosť porušenej povinnosti vodičom, ale i osobu páchateľa, pomer
+poľahčujúcich a priťažujúcich okolností. V konečnom dôsledku prísnejší trest zákazu činnosti do istej miery bude kompenzovať aj pochybenia, ktoré krajský súd vyššie vytkol v činnosti prokurátora i prvostupňového
+súdu.
+
+
 ```
 
 ## Odôvodnenie (vložiť celý text)
 ```text
-[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
+Súd správne konštatoval prvotnú príčinu dopravnej nehody ako oneskorenú reakciu na strane obžalovaného. Ak znalec konštatoval v podanom znaleckom posudku nesprávne použitie komunikácie zo strany poškodenej, ide len o technický záver znalca, pričom právne posúdenie okolností nehody vyhodnocuje súd. Súd čiastočne prihliadol na spoluzavinenie chodkyne, i keď z odôvodnenia rozsudku nie je možné vyvodiť presne záver o tom, či aj táto okolnosť mala vplyv na uložený trest zákazu činnosti. Konštatuje, že technické závery vyjadrené v znaleckom posudku sa môžu odlišovať od právneho hodnotenia skutku. Tak to malo byť aj v danom prípade, kde podstatnou okolnosťou skutku je to, že obžalovaný zrazil poškodenú v bezprostrednej blízkosti priechodu pre chodcov, pričom z obsahu znaleckého posudku je možné vyvodiť, že to bolo približne cca 4 metre za priechodom. Uvedená skutočnosť sa premietla aj do právnej kvalifikácie, nakoľko nedošlo k použitiu kvalifikovanej skutkovej podstaty daného ustanovenia, a to odseku 2 písm. a) - závažnejší spôsob konania, akým by bolo možné vyhodnotiť také konanie, keby vodič nedal prednosť chodcovi na priechode pre chodcov. Obvinený bol teda stíhaný za naplnenie znakov základnej skutkovej podstaty. Poškodená teda z technického hľadiska používala pozemnú komunikáciu skutočne nesprávnym spôsobom, avšak z hľadiska posúdenia možnosti obvineného predísť dopravnej nehode sa malo prihliadnuť na fakt, kde došlo k zrážke s poškodenou. Nejednalo sa o štandardnú časť vozovky, ale o frekventovaný priechod pre chodcov v blízkosti nemocnice. Navyše obvinený je osobou znalou miestnych pomerov, podľa vlastného vyjadrenia jazdí v tejto časti mesta pravidelne, a preto musel mať vedomosť o tom, že sa blíži k priechodu pre chodcov. Táto okolnosť mala byť premietnutá aj do výmery trestu zákazu činnosti. Obvinený pôvodne uzavrel s prokuratúrou dohodu o vine a treste, v rámci ktorej bol dohodnutý trest zákazu činnosti práve vo výmere 5 rokov. Výška tejto výmery odzrkadľovala postoj obvineného v dohodovacom konaní, kedy spolupracoval s orgánmi činnými v trestnom konaní, a preto mu bola ponúknutá výhodnejšia sadzba trestu zákazu činnosti. Obvinený sa slobodne rozhodol, že v konaní na súde uzavretú dohodu o vine a treste neprijme. Následne súd vydal trestný rozkaz, v ktorom obvinenému uložil trest zákazu činnosti vo výmere 5 rokov a 6 mesiacov. Je zjavné, že súd nie je viazaný pôvodne uloženým trestom v trestnom rozkaze. V záujme transparentnosti bolo vhodné a z pozície poškodených možno aj žiaduce, aby súd vysvetlil v odôvodnení napadnutého rozsudku, z akého dôvodu.
 ```
 
 <!-- DECISION:END -->
