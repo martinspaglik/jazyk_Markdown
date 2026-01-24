@@ -81,12 +81,12 @@ Predovšetkým musí dovolací súd uviesť, že skutky uvedené v rozsudku prvo
 <!-- DECISION:END -->
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<!-- DECISION:BEGIN spis=3T/12/2021 -->
+<!-- DECISION:BEGIN spis=25 Cdo 308/2018 -->
 
 # DN – Predchádzanie a Odbočovanie – DN zavinil vodič, čo predchádzal
 # Rozhodnutie: R2 – Najvyšší súd Českej republiky – 25 Cdo 308/2018 – 2018-03-08
 ## Identifikácia
-- **ID:** R1
+- **ID:** R2
 - **Súd:** Najvyšší súd Českej republiky
 - **Spisová značka:** 25 Cdo 308/2018 (v konaní vedenom na OS Louny pod sp. zn. 26 C 33/2013)
 - **Dátum rozhodnutia:** 2018-03-08
@@ -186,6 +186,95 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<!-- DECISION:BEGIN spis=2Asan/7/2020 -->
+# Názov xxxx
+# Rozhodnutie: R3 – Najvyšší správny súd SR – 2Asan/7/2020 – 2021-10-27
+## Identifikácia
+- **ID:** R3
+- **Súd:** Najvyšší správny súd Slovenskej republiky
+- **Spisová značka:** 2Asan/7/2020
+- **Dátum rozhodnutia:** 2021-10-27
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** 
+- **Strany (anonymizované):**
+  - Žalobca (sťažovateľ): L. F. (motocyklista; zastúpený advokátom)
+  - Žalovaný: Krajské riaditeľstvo Policajného zboru v Bratislave, Krajský dopravný 
+- **Zdroj / poznámka:** 
+
+## Kontext prípadu (1–3 vety)
+Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch, keď pri predchádzaní v nedostatočnej vzdialenosti pred križovatkou došlo k dopravnej nehode so zranením a škodou. Krajský súd žalobu zamietol; žalobca podal kasačnú sťažnosť, v ktorej namietal najmä nevyhodnotenie „súkromného“ znaleckého posudku, spoluzavinenie vodičky druhého vozidla, nepreskúmateľnosť a neprimeranosť sankcie. Najvyšší správny súd SR kasačnú sťažnosť zamietol.
+
+## Téma a kategorizácia
+- **Téma:** priestupky v cestnej premávke / správne trestanie / správne súdnictvo (kasačné konanie)
+- **Podtéma:** predchádzanie pred križovatkou; príčinná súvislosť; spoluzavinenie a jeho právna relevancia; preskúmateľnosť odôvodnenia; primeranosť sankcie
+- **Tagy:** ##priestupok #cestna_premavka #dopravna_nehoda #predchadzanie #krizovatka #spoluzavinenie #znalecky_posudok #kasačna_staznost #SSP 
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Skutková podstata § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. je naplnená, ak osoba poruší predpis cestnej premávky a v dôsledku toho vznikne dopravná nehoda; na zodpovednosť postačuje nedbanlivosť (§ 3 zákona o priestupkoch). 
+- (2) Porušenie zákazu predchádzať pred križovatkou v nedostatočnej vzdialenosti na bezpečné dokončenie manévru (§ 15 ods. 5 písm. g) zákona č. 8/2009 Z.z.) bolo v danej veci preukázané a tvorilo jadro protiprávnosti. 
+- (3) Spoluzavinenie vodičky druhého vozidla (aj keby bolo zistené) nemá vplyv na vinu za priestupok podľa § 22 ods. 1 písm. g), ak sťažovateľ sám naplnil všetky znaky skutkovej podstaty; spoluzavinenie môže byť relevantné skôr pre poistné nároky alebo trestnoprávnu rovinu. 
+- (4) Znalecké posudky konštatovali pochybenia u oboch účastníkov nehody, avšak rozhodujúce porušenia na strane sťažovateľa (predchádzanie pred križovatkou, rýchlosť, rozhľad, odstup) odôvodňovali záver o jeho zodpovednosti za priestupok. 
+- (5) Sankcia (pokuta 350 € a zákaz činnosti 8 mesiacov) uložená v dolnej časti zákonnej sadzby bola vyhodnotená ako primeraná závažnosti a okolnostiam skutku; kasačný súd sa stotožnil s odôvodnením krajského súdu.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+-  **Zákon č. 372/1990 Zb. o priestupkoch:**
+  -  § 22 ods. 1 písm. g) (priestupok proti bezpečnosti a plynulosti cestnej premávky – porušenie predpisu s následkom dopravnej nehody) 
+  -  § 22 ods. 2 písm. c) (sankcia – pokuta; v rozhodnutí uvádzané) 
+  -  § 3 (postačuje zavinenie z nedbanlivosti, ak zákon nevyžaduje úmysel)
+-   **Zákon č. 8/2009 Z.z. o cestnej premávke:**
+  -  § 15 ods. 5 písm. g) (zákaz predchádzať cez križovatku a v nedostatočnej vzdialenosti pred križovatkou) 
+  -  § 16 ods. 1 (prispôsobenie rýchlosti okolnostiam) 
+  -  § 64 (definícia dopravnej nehody – odkaz v rozhodnutí) 
+  -  § 15 ods. 5 písm. a), § 15 ods. 3 (rozsudok NSS SR uvádza ako ďalšie porušenia vyplývajúce zo skutku/úvah) 
+  -  § 137 ods. 2 písm. c) (odkaz v skutkovej vete prvostupňového rozhodnutia)
+- **Iné zdroje:**
+-  *Citovaná judikatúra v konaní:*
+  -  NS SR uznesenie sp.zn. 2Sžo/75/2016 z 26.04.2018 (zrušenie prvého rozsudku krajského súdu a pokyny pre ďalšie konanie) 
+  -  Sťažovateľom uvádzané rozhodnutia (ČR/ČSR) – bližšie označenia sú v texte (napr. NS ČR 32Cdo/2197/2016 a ďalšie), bez toho, aby z nich NSS SR vyvodil zmenu záveru.
+    
+## Skutkový stav (stručne, vecne)
+- *Kľúčové skutkové tvrdenia / skutkové okolnosti:*
+>  Dňa 05.08.2013 o 19:05 žalobca viedol motocykel Honda v Bratislave smerom do Devínskej Novej Vsi a predchádzal vozidlá v nedostatočnej vzdialenosti pred križovatkou, pričom došlo k zrážke s vozidlom Škoda Octavia vodičky V. P. odbočujúcej vľavo (pri Presskame).
+- *Rozhodujúce skutkové zistenia:*
+>  Znalec v správnom konaní odhadol rýchlosť motocykla cca 66 km/h (s možnou akceleráciou až cca 83 km/h počas manévru) a rýchlosť vozidla Škoda cca 21 km/h (pred odbočením cca 30 km/h). Predchádzanie začalo cca 62 m pred miestom zrážky. 
+>  Znalci zhodne identifikovali pochybenia oboch účastníkov, pričom u žalobcu bolo stabilne konštatované, že začal predchádzať tak, že nemohol bezpečne dokončiť manéver pred križovatkou a jazdil neprimerane. 
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1.  Naplnil sťažovateľ konaním (predchádzanie pred križovatkou v nedostatočnej vzdialenosti, prípadne rýchlosť a ďalšie okolnosti) skutkovú podstatu priestupku podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb.? 
+2.  Je spoluzavinenie vodičky druhého vozidla právne relevantné pre posúdenie viny sťažovateľa za tento priestupok? 
+3.  Je uložená sankcia (pokuta + zákaz činnosti) primeraná a je rozsudok krajského súdu preskúmateľný (riadne odôvodnený)? 
+
+### Argumentácia súdu (výber)
+- K naplneniu skutkovej podstaty (§ 22 ods. 1 písm. g): kasačný súd vychádzal z normatívneho textu a zdôraznil, že priestupku sa dopustí každý, kto poruší predpis cestnej premávky, v dôsledku čoho vznikne dopravná nehoda; pre zavinenie postačuje nedbanlivosť. Následne uzavrel, že sťažovateľ porušil § 15 ods. 5 písm. g) zákona č. 8/2009 Z.z. a jeho konanie vyústilo do dopravnej nehody, čím boli splnené znaky skutkovej podstaty.
+- K spoluzavineniu vodičky P.: aj keď znalecké posudky identifikovali pochybenia aj na strane vodičky, kasačný súd výslovne uviedol, že to nezbavuje sťažovateľa zodpovednosti, keďže sťažovateľ sám naplnil znaky priestupku; spoluzavinenie je pre vinu podľa § 22 ods. 1 písm. g) právne irelevantné (s poznámkou o relevancii v poistných či trestných súvislostiach).
+- K hodnoteniu posudkov a príčinnej súvislosti: súd akcentoval, že sťažovateľ porušil viacero povinností (okrem § 15 ods. 5 písm. g) uvádzal aj rýchlosť, rozhľad, odstup) a v gradácii príčinnej súvislosti je neopatrnosť vodičky nižšou príčinou než konanie sťažovateľa; posudok predložený sťažovateľom nemenil kľúčový záver o porušení zákazu predchádzania pred križovatkou.
+- K primeranosti sankcie: kasačný súd sa stotožnil s úvahami krajského súdu (sankcia v dolnej časti sadzby; preventívno-výchovná funkcia; závažné porušenie pravidiel), a nevidel vybočenie z medzí zákona.
+- K procesným námietkam (nerešpektovanie právneho názoru, nepreskúmateľnosť, spravodlivý proces): NSS SR uzavrel, že krajský súd sa vecou dostatočne vysporiadal, racionálne odôvodnil úvahy, rešpektoval zrušujúce uznesenie a vyhodnotil aj neskorší znalecký posudok. 
+- 
+- [Argument 3 – voliteľné.]
+
+## Výrok (zhrnutie)
+- **Výrok I:** [stručne]
+- **Výrok II:** [stručne]
+- **Trovy:** [stručne]
+
+## Plné znenie (vložiť celý text)
+```text
+[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
+```
+
+## Odôvodnenie (vložiť celý text)
+```text
+[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
+```
+
+
+<!-- DECISION:END -->
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <!-- DECISION:BEGIN spis=3T/12/2021 -->
 # Názov xxxx
 # Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
@@ -259,3 +348,77 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <!-- DECISION:END -->
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<!-- DECISION:BEGIN spis=3T/12/2021 -->
+# Názov xxxx
+# Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
+## Identifikácia
+- **ID:** R1
+- **Súd:** [napr. Okresný súd ... / Krajský súd ...]
+- **Spisová značka:** [napr. 12C/34/2024]
+- **Dátum rozhodnutia:** [YYYY-MM-DD]
+- **Typ rozhodnutia:** [rozsudok / uznesenie / iné]
+- **Stupeň:** [prvostupňové / odvolacie / dovolacie]
+- **Strany (anonymizované):** [Žalobca/odporca alebo navrhovateľ/odporca – stručne]
+- **Zdroj / poznámka:** [napr. interný spis / link / databáza]
+
+## Kontext prípadu (1–3 vety)
+[Stručne: o čo išlo, čo bolo jadrom sporu, čo súd riešil.]
+
+## Téma a kategorizácia
+- **Téma:** [napr. náhrada škody / priestupky / procesné otázky / rodinné právo ...]
+- **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
+- **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) [Najdôležitejší právny záver jednou vetou.]
+- (2) [Druhý záver.]
+- (3) [Tretí záver, ak treba.]
+
+## Použité ustanovenia
+- **Hmotné právo:** [názov predpisu] – § [..], § [..]
+- **Proces:** [CSP/OSP/SSP/Trestný poriadok a pod.] – § [..], § [..]
+- **Iné zdroje:**
+  - [judikatúra, stanoviská, metodika – ak relevantné]
+  - [judikatúra, stanoviská, metodika – ak relevantné
+    
+## Skutkový stav (stručne, vecne)
+- [Kľúčové skutkové tvrdenia.]
+- [Rozhodujúce skutkové zistenia súdu.]
+- [Podstatné dôkazy – iba výber.]
+
+## Procesný priebeh (stručne)
+- **Návrh/žaloba:** [čo sa žiadalo]
+- **Obrana:** [čo namietala druhá strana / orgán]
+- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
+- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. [Otázka č. 1]
+2. [Otázka č. 2]
+3. [Otázka č. 3 – voliteľné]
+
+### Argumentácia súdu (výber)
+- [Argument 1 – prečo súd rozhodol takto.]
+- [Argument 2.]
+- [Argument 3 – voliteľné.]
+
+## Výrok (zhrnutie)
+- **Výrok I:** [stručne]
+- **Výrok II:** [stručne]
+- **Trovy:** [stručne]
+
+## Plné znenie (vložiť celý text)
+```text
+[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
+```
+
+## Odôvodnenie (vložiť celý text)
+```text
+[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
+```
+
+
+<!-- DECISION:END -->
