@@ -80,7 +80,7 @@ Predovšetkým musí dovolací súd uviesť, že skutky uvedené v rozsudku prvo
 
 <!-- DECISION:END -->
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <!-- DECISION:BEGIN spis=25 Cdo 308/2018 -->
 
 # DN – Predchádzanie a Odbočovanie – DN zavinil vodič, čo predchádzal
@@ -184,10 +184,9 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
 
 <!-- DECISION:END -->
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <!-- DECISION:BEGIN spis=2Asan/7/2020 -->
-# Názov xxxx
+# Názov DN – predchádzanie a otáčanie v križovatke (DN zavinil vodič čo predchádzal – vodička porušila pravidlá o CP, ale nebolo to technickou príčinou DN) Dva posudky tam boli vypracované
 # Rozhodnutie: R3 – Najvyšší správny súd SR – 2Asan/7/2020 – 2021-10-27
 ## Identifikácia
 - **ID:** R3
@@ -252,13 +251,12 @@ Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm.
 - K hodnoteniu posudkov a príčinnej súvislosti: súd akcentoval, že sťažovateľ porušil viacero povinností (okrem § 15 ods. 5 písm. g) uvádzal aj rýchlosť, rozhľad, odstup) a v gradácii príčinnej súvislosti je neopatrnosť vodičky nižšou príčinou než konanie sťažovateľa; posudok predložený sťažovateľom nemenil kľúčový záver o porušení zákazu predchádzania pred križovatkou.
 - K primeranosti sankcie: kasačný súd sa stotožnil s úvahami krajského súdu (sankcia v dolnej časti sadzby; preventívno-výchovná funkcia; závažné porušenie pravidiel), a nevidel vybočenie z medzí zákona.
 - K procesným námietkam (nerešpektovanie právneho názoru, nepreskúmateľnosť, spravodlivý proces): NSS SR uzavrel, že krajský súd sa vecou dostatočne vysporiadal, racionálne odôvodnil úvahy, rešpektoval zrušujúce uznesenie a vyhodnotil aj neskorší znalecký posudok. 
-- 
-- [Argument 3 – voliteľné.]
 
-## Výrok (zhrnutie)
-- **Výrok I:** [stručne]
-- **Výrok II:** [stručne]
-- **Trovy:** [stručne]
+## Skutkový stav
+### Podrobný popis skutkového stavu prípadu
+Dňa 5. augusta 2013 o 19:05 hod. sťažovateľ viedol motocykel Honda v Bratislave (smer Devínska Nová Ves) a pred križovatkou začal predchádzať vozidlá idúce pred ním v situácii, keď vzdialenosť nebola dostatočná na bezpečné dokončenie predchádzania pred úrovňou križovatky; počas predchádzania došlo ku kolízii so Škodou Octavia, ktorú viedla vodička odbočujúca vľavo. Správne orgány skutok právne kvalifikovali ako priestupok podľa § 22 ods. 1 písm. g) zákona o priestupkoch, keďže porušenie pravidiel cestnej premávky (najmä zákaz predchádzania pred križovatkou) viedlo k dopravnej nehode so zranením a majetkovou škodou.
+V správnom konaní bol vypracovaný znalecký posudok (Ing. I. F., č. 53/2013), ktorý modeloval rýchlosti a časovo-priestorový priebeh: motocykel sa pohyboval približne 66 km/h (s akceleráciou počas manévru), vozidlo Škoda približne 21 km/h; znalec identifikoval viacero pochybení motocyklistu (nesprávne vyhodnotenie situácie, pokračovanie v manévri napriek zrejmej nemožnosti bezpečne ho ukončiť pred križovatkou, neprimeraná rýchlosť) a zároveň pochybenia vodičky (nedostatočné sledovanie situácie za vozidlom, odbočenie v čase, keď bola už predchádzaná). Znalec však zdôraznil, že motocyklista mal bezproblémovú možnosť nehode zabrániť, a pri technicky primeranej rýchlosti do cca 50 km/h by bolo možné kolízii predísť; vodička nemala autonómnu možnosť nehode zabrániť, ak motocykel jazdil neprimerane rýchlo.
+V súdnej fáze sťažovateľ predložil ďalší znalecký posudok (Ing. A. B., č. 21/2016), ktorý tiež identifikoval pochybenia sťažovateľa pri predchádzaní v nedostatočnej vzdialenosti pred križovatkou; odlišnosti medzi znalcami sa týkali najmä hodnotenia miery príspevku vodičky k vzniku nehody.
 
 ## Plné znenie (vložiť celý text)
 ```text
