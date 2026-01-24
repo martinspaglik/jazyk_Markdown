@@ -406,8 +406,8 @@ Skutkový stav
 
 
 <!-- DECISION:BEGIN spis=DN-čelná zrážka -->
-# Názov xxxx
-# Rozhodnutie: R4 – Neuvedený DN - čelná zrážka
+# Názov DN - čelná zrážka
+# Rozhodnutie: R5 – Neuvedený DN - čelná zrážka
 ## Text
 Dňa 18.06.2019 bola na mieste dopravnej nehody vykonaná ohliadka miesta zrážky, pričom bolo zistené, že miesto dopravnej nehody je ulica Istrijská pri rodinnom dome č. 86 cca 50 m za križovatkou s ulicou Na vyhliadke a táto ulica je označená dopravnou značkou P8 ako ( ,,Hlavná cesta“). Ulica je o dvoch jazdných obojsmerných pruhoch, pričom jazdný pruh v smere do VW Slovakia je o šírke 2,8 m s krajnicou 0,5 m a protismerný je o šírke 3,0 m s krajnicou 0,4 m. Na mieste zrážky je ulica rozdelená plnou stredovou deliacou čiarou. Na mieste bol vyhotovený náčrtok z miesta dopravnej nehody, v ktorom je graficky zaznamenaná situácia na mieste dopravnej nehody, šírka a počet jazdných pruhov. Na mieste bola vyhotovená fotodokumentácia so zameraním sa na celkovú situáciu na mieste dopravnej nehody. 
        Dňa 19.06.2019 Uznesením podľa  § 142 ods. 1 Trestného poriadku bol pribratý znalec z odboru cestná doprava -  odvetvie nehody v cestnej doprave Ing. Tomáš Korbeľ, zapísaného v zozname súdnych znalcov MS SR pod ev.č. 914602, ktorý vypracoval znalecký posudok č. 28/2020, v ktorom znalec konštatuje, že na základe vypracovanej analýzy priebehu nehodového deja medzi nákladným motorovým vozidlom Volvo XC90 VAN ev.č. ZV090CU a autobusom MAN Lion’s City B.2007 ev.č. BL426NV je možné konštatovať, že technika jazdy vodiča vozidla Volvo nebola z technického hľadiska správna. Počas jazdy po vozovke Istrijskej ulice prešlo vozidlo Volvo do protismerného jazdného pruhu, kde došlo k stretu vozidla Volvo s autobusom. Nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bol nesprávny spôsob jazdy vodiča vozidla Volvo v uvedenom úseku. Dôvod prejdenia vozidla Volvo do protismerného jazdného pruhu nie je možné z technického hľadiska jednoznačne určiť. Dôvodom prejdenia vozidla Volvo do protismerného jazdného pruhu mohla byť z technického hľadiska neprimeraná rýchlosť jazdy vozidla Volvo vzhľadom na celkovú dopravnú situáciu v uvedenom úseku, nedostatočné venovanie sa riadeniu vozidla Volvo vodičom, mikrospánok, úmysel, atď. Ďalším nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bola počiatočná rýchlosť jazdy vozidla Volvo v uvedenom úseku [v rozsahu (77,7 ÷ 85,9) km/h], ktorá bola vyššia ako maximálna dovolená rýchlosť jazdy v uvedenom úseku (50,0 km/h).
@@ -488,3 +488,6 @@ Dňa 19.06.2019 Uznesením podľa § 156 ods. 1 Trestného poriadku bolo nariade
 ```text
 [TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
 ```
+
+<!-- DECISION:END -->
+
