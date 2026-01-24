@@ -404,77 +404,15 @@ Skutkový stav
 
 <!-- DECISION:END -->
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<!-- DECISION:BEGIN spis=3T/12/2021 -->
+<!-- DECISION:BEGIN spis=DN-čelná zrážka -->
 # Názov xxxx
-# Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
-## Identifikácia
-- **ID:** R1
-- **Súd:** [napr. Okresný súd ... / Krajský súd ...]
-- **Spisová značka:** [napr. 12C/34/2024]
-- **Dátum rozhodnutia:** [YYYY-MM-DD]
-- **Typ rozhodnutia:** [rozsudok / uznesenie / iné]
-- **Stupeň:** [prvostupňové / odvolacie / dovolacie]
-- **Strany (anonymizované):** [Žalobca/odporca alebo navrhovateľ/odporca – stručne]
-- **Zdroj / poznámka:** [napr. interný spis / link / databáza]
-
-## Kontext prípadu (1–3 vety)
-[Stručne: o čo išlo, čo bolo jadrom sporu, čo súd riešil.]
-
-## Téma a kategorizácia
-- **Téma:** [napr. náhrada škody / priestupky / procesné otázky / rodinné právo ...]
-- **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
-- **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
-
-## Právne vety / kľúčové závery (max 3–6 bodov)
-- (1) [Najdôležitejší právny záver jednou vetou.]
-- (2) [Druhý záver.]
-- (3) [Tretí záver, ak treba.]
-
-## Použité ustanovenia
-- **Hmotné právo:** [názov predpisu] – § [..], § [..]
-- **Proces:** [CSP/OSP/SSP/Trestný poriadok a pod.] – § [..], § [..]
-- **Iné zdroje:**
-  - [judikatúra, stanoviská, metodika – ak relevantné]
-  - [judikatúra, stanoviská, metodika – ak relevantné
-    
-## Skutkový stav (stručne, vecne)
-- [Kľúčové skutkové tvrdenia.]
-- [Rozhodujúce skutkové zistenia súdu.]
-- [Podstatné dôkazy – iba výber.]
-
-## Procesný priebeh (stručne)
-- **Návrh/žaloba:** [čo sa žiadalo]
-- **Obrana:** [čo namietala druhá strana / orgán]
-- **Rozhodnutie nižšieho stupňa / predchádzajúce akty:** [ak relevantné]
-- **Opravné prostriedky:** [odvolanie/dovolanie – stručne]
-
-## Právne posúdenie (jadro)
-### Kľúčové otázky
-1. [Otázka č. 1]
-2. [Otázka č. 2]
-3. [Otázka č. 3 – voliteľné]
-
-### Argumentácia súdu (výber)
-- [Argument 1 – prečo súd rozhodol takto.]
-- [Argument 2.]
-- [Argument 3 – voliteľné.]
-
-## Výrok (zhrnutie)
-- **Výrok I:** [stručne]
-- **Výrok II:** [stručne]
-- **Trovy:** [stručne]
-
-## Plné znenie (vložiť celý text)
-```text
-[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
-```
-
-## Odôvodnenie (vložiť celý text)
-```text
-[TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
-```
+# Rozhodnutie: R4 – Neuvedený DN - čelná zrážka
+## Text
+Dňa 18.06.2019 bola na mieste dopravnej nehody vykonaná ohliadka miesta zrážky, pričom bolo zistené, že miesto dopravnej nehody je ulica Istrijská pri rodinnom dome č. 86 cca 50 m za križovatkou s ulicou Na vyhliadke a táto ulica je označená dopravnou značkou P8 ako ( ,,Hlavná cesta“). Ulica je o dvoch jazdných obojsmerných pruhoch, pričom jazdný pruh v smere do VW Slovakia je o šírke 2,8 m s krajnicou 0,5 m a protismerný je o šírke 3,0 m s krajnicou 0,4 m. Na mieste zrážky je ulica rozdelená plnou stredovou deliacou čiarou. Na mieste bol vyhotovený náčrtok z miesta dopravnej nehody, v ktorom je graficky zaznamenaná situácia na mieste dopravnej nehody, šírka a počet jazdných pruhov. Na mieste bola vyhotovená fotodokumentácia so zameraním sa na celkovú situáciu na mieste dopravnej nehody. 
+       Dňa 19.06.2019 Uznesením podľa  § 142 ods. 1 Trestného poriadku bol pribratý znalec z odboru cestná doprava -  odvetvie nehody v cestnej doprave Ing. Tomáš Korbeľ, zapísaného v zozname súdnych znalcov MS SR pod ev.č. 914602, ktorý vypracoval znalecký posudok č. 28/2020, v ktorom znalec konštatuje, že na základe vypracovanej analýzy priebehu nehodového deja medzi nákladným motorovým vozidlom Volvo XC90 VAN ev.č. ZV090CU a autobusom MAN Lion’s City B.2007 ev.č. BL426NV je možné konštatovať, že technika jazdy vodiča vozidla Volvo nebola z technického hľadiska správna. Počas jazdy po vozovke Istrijskej ulice prešlo vozidlo Volvo do protismerného jazdného pruhu, kde došlo k stretu vozidla Volvo s autobusom. Nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bol nesprávny spôsob jazdy vodiča vozidla Volvo v uvedenom úseku. Dôvod prejdenia vozidla Volvo do protismerného jazdného pruhu nie je možné z technického hľadiska jednoznačne určiť. Dôvodom prejdenia vozidla Volvo do protismerného jazdného pruhu mohla byť z technického hľadiska neprimeraná rýchlosť jazdy vozidla Volvo vzhľadom na celkovú dopravnú situáciu v uvedenom úseku, nedostatočné venovanie sa riadeniu vozidla Volvo vodičom, mikrospánok, úmysel, atď. Ďalším nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bola počiatočná rýchlosť jazdy vozidla Volvo v uvedenom úseku [v rozsahu (77,7 ÷ 85,9) km/h], ktorá bola vyššia ako maximálna dovolená rýchlosť jazdy v uvedenom úseku (50,0 km/h).
+Dňa 19.06.2019 Uznesením podľa § 142 ods. 1 Trestného poriadku bola pribratá znalecká organizácia Slovdekra s.r.o., Polianky č. 19, Bratislava z odboru cestná doprava - odvetvie technický stav cestných vozidiel, ktorá je zapísaná v zozname znalcov MS SR pod ev.č. 900274, ktorá vypracovala znalecký posudok č. 151/2019, v ktorom znalec konštatuje, že na základe obhliadky a kontroly nákladného motorového vozidla Volvo XC90 VAN 2.5I T 4x4 ev.č. ZV090CU vykonanej pracovníkmi oddelenia znalectva DEKRA Slovensko s.r.o. je možné konštatovať, že na kontrolovaných skupinách vozidla Volvo sa pred dopravnou nehodou nevyskytovala žiadna chyba. Technický stav vozidla Volvo bol pred dopravnou nehodou vyhovujúci. Vozidlo Volvo bolo hodnotené ako spôsobilé na premávku na pozemných komunikáciách. 
+Dňa 19.06.2019 Uznesením podľa § 156 ods. 1 Trestného poriadku bolo nariadené prehliadka a pitva  mŕtvoly Martin Novák a súčasne podľa § 142 ods. 1 Trestného poriadku boli na tento účel pribratí znalci z odboru súdne lekárstvo, ktorí vypracovali znalecké posudky č. 11/2019 a 16/2019, v ktorom znalci konštatujú, že bezprostrednou príčinou smrti Martina Nováka bolo závažné zranenie najmä trupu, ako aj zranenia hlavy a končatín, ktoré viedli k rozvoju úrazovo – krvácavého šoku, ako bezprostrednej príčiny smrti menovaného. Pitvou zistené poranenia trupu Martina Nováka boli takého rozsahu a charakteru, že smrti menovaného nebolo možné zabrániť ani poskytnutím včasnej odbornej lekárskej pomoci. K smrti Martina Nováka došlo bezprostredne  - v priebehu niekoľkých minút po vzniku poranení trupu, ktoré utrpel pri dopravnej nehode, teda bezprostredne po dopravnej nehode.
 
 
 <!-- DECISION:END -->
