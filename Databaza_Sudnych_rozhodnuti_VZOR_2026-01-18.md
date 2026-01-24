@@ -187,6 +187,7 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
 
 <!-- DECISION:BEGIN spis=2Asan/7/2020 -->
 # Názov DN – predchádzanie a otáčanie v križovatke (DN zavinil vodič čo predchádzal – vodička porušila pravidlá o CP, ale nebolo to technickou príčinou DN) Dva posudky tam boli vypracované
+
 # Rozhodnutie: R3 – Najvyšší správny súd SR – 2Asan/7/2020 – 2021-10-27
 ## Identifikácia
 - **ID:** R3
@@ -287,7 +288,120 @@ Z rozsudku najvyššieho súdu
 28.	Pokiaľ ide o namietanú neprimeranosť sankcie, kasačný súd sa v plnej miere stotožňuje s odôvodnením krajského súdu v bodoch 53 až 56, pričom vychádzajúc zo zistených skutkových okolností uloženú sankciu - pokutu 350,- € a zákaz činnosti viesť motorové vozidlo až na dobu osem mesiacov, čo je sankcia uložená v dolnej časti zákonnej sadzby, považuje vzhľadom na závažnosť priestupku, spôsob jeho spáchania, jeho následky, mieru zavinenia a osobu sťažovateľa za primeranú týmto okolnostiam a nevybočujúcu z medzí zákona.
 
 ```
-``
+
+<!-- DECISION:END -->
+
+
+
+<!-- DECISION:BEGIN spis=3T/12/2021 -->
+
+# Názov DN – Chodec zavinil DN-reflexné prvky-skutková podstata DN
+
+# Rozhodnutie: R4 – Správny súd v Bratislave – BA-7Sa/93/2020 – 2025-02-20
+## Identifikácia
+- **ID:** R4
+- **Súd:** Správny súd v Bratislave
+- **Spisová značka:** BA-7Sa/93/2020
+- **Dátum rozhodnutia:** 2025-02-20
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** prvostupňové v správnom súdnictve (správna žaloba)
+- **Strany (anonymizované):**
+-   Žalobca: Mgr. D. K. (chodec; zastúpený advokátskou kanceláriou)
+-   Žalovaný: Krajské riaditeľstvo PZ v Bratislave, Krajský dopravný inšpektorát
+- **Zdroj / poznámka:** 
+
+## Kontext prípadu (1–3 vety)
+Žalobca bol správnymi orgánmi uznaný vinným z priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch, ktorého sa mal dopustiť porušením povinností chodca (prechádzanie mimo priechodu, bez presvedčenia sa, zdržiavanie sa na vozovke, bez reflexných prvkov), čo v príčinnej súvislosti viedlo k dopravnej nehode a škode na vozidle. V správnej žalobe namietal najmä neúplné zistenie skutkového stavu, nesprávne právne posúdenie (vrátane „in dubio pro reo“) a nepreskúmateľnosť, s dôrazom na potrebu skúmať aj možnosti vodiča zabrániť nehode. Správny súd žalobu zamietol a potvrdil výklad, že pre skutkovú podstatu § 22 ods. 1 písm. g) nie je rozhodujúce „zavinenie“ dopravnej nehody páchateľom, ale porušenie povinnosti, vznik nehody, príčinná súvislosť a škoda.
+
+## Téma a kategorizácia
+- **Téma:** priestupky / správne trestanie / cestná premávka – povinnosti chodca
+- **Podtéma:** výklad § 22 ods. 1 písm. g) (zavinenie nehody vs. „vznik“ nehody); rozsah dokazovania; in dubio pro reo; preskúmateľnosť odôvodnenia
+- **Tagy:** #chodec #priestupok #dopravna_nehoda #§22ods1g #povinnosti_chodca #in_dubio_pro_reo #dokazovanie #nepreskumatelnost 
+
+## Právna veta / právny záver (abstrakt)
+Pri priestupku podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. sa nevyžaduje preukázanie zavinenia dopravnej nehody páchateľom; pre naplnenie skutkovej podstaty postačuje preukázanie porušenia predpisu o bezpečnosti a plynulosti cestnej premávky, vzniku dopravnej nehody, príčinnej súvislosti medzi porušením predpisu a vznikom nehody a vzniku škody (resp. ujmy na zdraví/škody).
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Skutková podstata § 22 ods. 1 písm. g) nevyžaduje dokazovať „vinníka“ dopravnej nehody v zmysle zavinenia jej vzniku; rozhodné je porušenie povinnosti a následok (nehoda) v príčinnej súvislosti. 
+- (2) Pre naplnenie skutkovej podstaty treba preukázať štyri prvky: (i) porušenie predpisu, (ii) vznik dopravnej nehody, (iii) príčinnú súvislosť, (iv) vznik škody. 
+- (3) Ak je skutkový stav dostatočne zistený k uvedeným prvkom, nie je potrebné vykonávať dokazovanie smerujúce k posúdeniu výhľadových pomerov vodiča či jeho možnosti zabrániť nehode, keďže to nie je podstatné pre posúdenie priestupku chodca v tejto kvalifikácii. 
+- (4) Zistený skutkový stav (nočné podmienky, bez reflexných prvkov, mimo priechodu, v križovatke, bez dostatočného presvedčenia sa, zdržiavanie sa na vozovke) podľa súdu jednoznačne napĺňal porušenie povinností chodca a príčinnú súvislosť so stretom a škodou 1 500 EUR. 
+- (5) In dubio pro reo sa neuplatní, ak súd nevidí pochybnosti o tom, že priestupok spáchal žalobca. 
+- (6) Nedostatky odôvodnenia správnych orgánov súd pomenoval, ale nevyhodnotil ich ako takú intenzívnu vadu, ktorá by spôsobila nepreskúmateľnosť a odôvodnila zrušenie.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+- *Zákon č. 372/1990 Zb. o priestupkoch:*
+- § 22 ods. 1 písm. g)
+- § 22 ods. 2 písm. c) (sadzba sankcie)
+- *Zákon č. 8/2009 Z.z. o cestnej premávke:*
+- § 52 ods. 3 písm. b) (pohyb chodcov po krajnici/okraji; reflexné prvky za zníženej viditeľnosti) 
+- § 53 ods. 3 (prechádzanie mimo priechodu – len ak nedonútia vodiča meniť smer/rýchlosť) 
+- § 53 ods. 4 (povinnosť presvedčiť sa; nezdržiavať sa na vozovke)
+- **Iné zdroje:**
+  - ÚS SR: III. ÚS 2/09 (R 26/2009); II. ÚS 311/2010 (žalobcom uvádzané k preskúmateľnosti) 
+- NS SR: 4Sž 98-102/02 z 17.12.2002 (R 122/2003) (zrušenie len pri vade schopnej ovplyvniť zákonnosť) 
+- NSS SR: 4Asan/8/2021 z 02.02.2022 (nie každé pochybenie musí viesť k zrušeniu) 
+    
+## Skutkový stav (stručne, vecne)
+- *Kľúčové skutkové tvrdenia / zistenia:*
+  -  Dňa 27.10.2019 o 19:00 žalobca ako chodec v noci za tmy, bez verejného osvetlenia, bez reflexných prvkov, mimo vyznačeného priechodu, v priestore križovatky prechádzal cez cestu; podľa súdu konal bez náležitej opatrnosti (súd uvádza aj „pod značným vplyvom alkoholu“). 
+  -  Došlo ku stretu s prichádzajúcim vozidlom a k škode na vozidle vo výške 1 500 EUR. 
+  -  Stret sa podľa súdu stal z ľavej strany vozidla, čo podporovalo záver, že žalobca sa nachádzal „uprostred cesty“.
+- *Podstatné dôkazy – iba výber (z textu rozhodnutia):*
+  -  Skutkový stav „riadne zdokumentovaný“ správnym orgánom (konkrétne listiny/dôkazy nie sú v citovanom úseku detailne vypísané).
+- „Správa ku konzultácii“ znalca Ing. Tomáša Korbeľa z 11.03.2020 predložená až v súdnej fáze; žalovaný ju označil za neznalecký podklad a poukázal, že nebola predložená v správnom konaní.
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Vyžaduje § 22 ods. 1 písm. g) zákona o priestupkoch preukazovanie „zavinenia dopravnej nehody“ (určenie vinníka nehody)? 
+2. Bol skutkový stav zistený v rozsahu potrebnom na preukázanie porušenia povinností chodca, príčinnej súvislosti, vzniku nehody a škody? 
+3. Dosahovali nedostatky odôvodnenia správnych rozhodnutí intenzitu nepreskúmateľnosti vyžadujúcej zrušenie? 
+
+### Argumentácia súdu (výber)
+- Výklad § 22 ods. 1 písm. g): súd gramatickým výkladom uzavrel, že skutková podstata nespomína zavinenie dopravnej nehody páchateľom; jadrom je „vznik“ nehody ako dôsledok porušenia predpisu a následná škoda/ujma. 
+- Štruktúra dokazovania: súd explicitne formuloval štyri prvky, ktoré je treba preukázať, a vyhodnotil, že z opísaného skutku vyplýva porušenie povinností chodca (§ 53 ods. 3 a 4, resp. aj § 52 v kontexte reflexných prvkov) a príčinná súvislosť so stretom a škodou. 
+- (Ne)relevancia dokazovania o vodičovi: keďže pre tento priestupok nie je podstatné, či vodič mohol nehode zabrániť, súd považoval návrhy na vyšetrovací pokus a znalecké posúdenie výhľadových pomerov za bezpredmetné pre meritórne posúdenie. 
+- In dubio pro reo: súd nenašiel pochybnosti o spáchaní priestupku žalobcom; preto zásadu neaplikoval. 
+- Nepreskúmateľnosť: súd priznal, že žalovaný sa mohol vysporiadať presvedčivejšie, ale z rozhodnutí bolo zrejmé, aký priestupok je kladený za vinu, akým správaním a z akého skutkového stavu správny orgán vychádzal; preto nejde o nepreskúmateľnosť. 
+- Zrušenie len pri relevantnej vade: súd odkázal na judikatúru, že rozhodnutie sa nezrušuje pre formálne vady, ktoré nemôžu privodiť vecne priaznivejšie postavenie účastníka; zároveň pripomenul, že nie každé procesné pochybenie musí viesť k zrušeniu.
+Skutkový stav
+
+## Podrobný popis skutkového stavu prípadu
+Žalobcovi bolo kladené za vinu, že 27.10.2019 okolo 19:00 hod. ako chodec, v nočných podmienkach (za tmy) a bez verejného osvetlenia, bez reflexných prvkov, mimo priechodu pre chodcov, prechádzal cez vozovku v priestore križovatky, pričom sa pred vstupom na vozovku nedostatočne presvedčil, či tak môže urobiť bez nebezpečenstva, a na vozovke sa bezdôvodne zdržiaval. V dôsledku tohto porušenia povinností chodca malo dôjsť ku stretu s prichádzajúcim vozidlom a k vzniku škody na vozidle vo výške 1 500 EUR; súd zdôraznil, že ku stretu došlo z ľavej strany vozidla, čo svedčí o polohe žalobcu v čase stretu (uprostred cesty). Súd prevzal, že skutkový stav bol správnym orgánom dostatočne zistený a zdokumentovaný na účely posúdenia priestupku
+
+## Odôvodnenie rozhodnutia – hlavné dôvody potvrdenia (rozpísané)
+### Dôvody, pre ktoré súd potvrdil rozhodnutie správnych orgánov
+-  Kľúčový spor bol o právny štandard dokazovania pri § 22 ods. 1 písm. g): súd identifikoval, že žalobca staval obranu na požiadavke určiť „zodpovedného vinníka dopravnej nehody“ a na potrebe skúmať technickú možnosť vodiča zabrániť stretu. Súd túto argumentáciu odmietol ako právne nepodstatnú pre danú skutkovú podstatu. 
+-  Normatívna interpretácia: gramatickým výkladom súd uviedol, že zákon nevyžaduje preukázanie zavinenia nehody; požaduje len „vznik“ nehody ako dôsledok porušenia predpisu a vznik škody/ujmy. 
+-  Dostatočnosť zisteného skutkového stavu: súd považoval skutok, tak ako bol zistený a opísaný správnymi orgánmi, za dostatočný na záver o porušení povinností chodca a príčinnej súvislosti so stretom a škodou (najmä vzhľadom na miesto stretu a okolnosti pohybu žalobcu po vozovke). 
+-  Nepripustenie ďalšieho dokazovania: keďže dokazovanie smerujúce k posúdeniu výhľadu a reakcií vodiča nepovažoval za právne relevantné pre posúdenie tohto priestupku, súd súhlasil so správnym orgánom, že nevyhovenie návrhom na doplnenie dokazovania nebolo nezákonné.
+### Dôležité dôkazy (a ich význam)
+- Súd pracuje s tým, že skutkový stav bol „riadne zdokumentovaný“ a z jeho obsahu vyplýva poloha žalobcu a charakter porušenia povinností chodca; k „technickej príčine“ vo vzťahu k vodičovi sa súd neupínal, lebo ju vyhodnotil ako irelevantnú. 
+- Znalcom Ing. Tomášom Korbeľom vyhotovené stanovisko („správa ku konzultácii“) súd uvádza ako argumentačný podklad žalobcu, avšak jadro rozhodnutia stojí na právnom výklade skutkovej podstaty a (ne)potrebnosti znaleckého dokazovania k vodičovi.
+- 
+## Plné znenie (vložiť celý text)
+```text
+[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
+```
+
+## Odôvodnenie (vložiť celý text)
+```text
+23.	Z argumentačnej línie žalobcu je podľa správneho súdu zrejmé, že predmetom sporu v tejto veci je výklad skutkovej podstaty priestupku podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch, ktorého spáchanie sa žalobcovi kladie za vinu.
+25.	Priestupku proti bezpečnosti a plynulosti cestnej premávky podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch sa dopustí ten, kto poruší všeobecne záväzný právny predpis o bezpečnosti a plynulosti cestnej premávky, v ktorého dôsledku vznikne dopravná nehoda, pri ktorej inému ublíži na zdraví alebo inému spôsobí škodu na majetku.
+26.	Na základe gramatického výkladu uvedeného ustanovenia sa podľa správneho súdu dá dospieť k záveru, že pre naplnenie skutkovej podstaty tohto priestupku sa nevyžaduje preukázanie zavinenia dopravnej nehody. K takémuto záveru dospel správny súd na základe zákonnej formulácie skutkovej podstaty predmetného priestupku, ktorá nespomína zavinenie dopravnej nehody páchateľom priestupku. Základ skutkovej podstaty tvorí „vznik“ dopravnej nehody (bez ohľadu na zavinenie), ako dôsledok porušenia predpisov o bezpečnosti a plynulosti cestnej premávky páchateľom priestupku a následný vznik škody.
+27.	Pre naplnenie tejto skutkovej podstaty je teda potrebné preukázať (i) porušenie všeobecne záväzného predpisu o bezpečnosti a plynulosti cestnej premávky, (ii) vznik dopravnej nehody, (iii) príčinnú súvislosť medzi porušením uvedených predpisov a vznikom nehody a (iv) vznik škody. Samotné zavinenie dopravnej nehody teda nie je pre naplnenie znakov tejto skutkovej podstaty relevantné.
+28.	Ak teda žalobca v podanej žalobe namieta, že žalovaný sa v napadnutých rozhodnutiach nedostatočne vysporiadal s otázkou zavinenia dopravnej nehody, resp. s možnosťou vodiča vozidla zabrániť kolízii vozidla so žalobcom, táto otázka nie je pre rozhodnutie o spáchaní priestupku podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch podstatná.
+29.	Tak ako je uvedené vyššie, pre zákonnosť rozhodnutia o spáchaní uvedeného priestupku postačuje, ak správny orgán dostatočným spôsobom preukáže porušenie príslušných predpisov o bezpečnosti a plynulosti cestnej premávky, príčinnú súvislosť medzi týmto porušením a vznikom nehody a následný vznik škody.
+32.	K stretu vozidla so žalobcom pritom nedošlo z pravej strany vozidla (zo strany krajnice), čo by mohlo vyvolávať pochybnosti o porušení ustanovení zákona o cestnej premávke zo strany žalobcu, t.j. či k stretu došlo z dôvodu nepozornosti vodiča alebo ako príčinná súvislosť porušenia uvedených povinností chodca podľa zákona o cestnej premávke. Zo zisteného a riadne zdokumentovaného skutkového stavu však jednoznačne vyplýva, že k stretu vozidla so žalobcom došlo z ľavej strany vozidla, t.j. žalobca sa v čase nehody nachádzal uprostred cesty, z čoho žalovaný správne ustálil záver, že žalobca prechádzal cez cestu v rozpore s vyššie citovanými ustanoveniami zákona o cestnej premávke - (i) žalobca prechádzal cez vozovku mimo priechodu pre chodcov tak, že s ohľadom na vzdialenosť a rýchlosť jazdy prichádzajúceho vozidla donútil vodiča na zmenu smeru a rýchlosti jazdy, (ii) pred vstupom na vozovku sa zjavne nedostatočne presvedčil, či tak môže urobiť bez nebezpečenstva, (iii) a zároveň sa bezdôvodne zdržiaval na vozovke.
+33.	Z toho ako je formulovaná skutková podstata priestupku podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch teda nie je v tomto prípade podstatné preukazovanie skutočností, či mohol vodič vozidla nehode zabrániť, ale naopak, podstatné je správanie sa žalobcu, či si pri prechádzaní cez cestu splnil všetky svoje povinnosti tak, aby k nebezpečenstvu vzniku dopravnej nehody vôbec nedošlo.
+34.	Na základe uvedeného je teda bezpredmetné pre posúdenie spáchania priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch v tejto veci zisťovanie akýchkoľvek ďalších skutočností, ktorých sa domáha žalobca, ohľadom výhľadových pomerov vodiča vozidla a následné znalecké vyhodnotenie možností zabránenia zrážke zo strany jednotlivých aktérov dopravnej nehody, vrátane posúdenia technickej príčiny dopravnej nehody.
+40.	Správny súd si v tejto veci dovoľuje poukázať aj na skutočnosť, že vzhľadom na dostatočne zistený skutkový stav v tejto veci, z ktorého žalovaný pri svojom rozhodovaní vychádzal, nie je možné očakávať, že by zrušenie napadnutého rozhodnutia bolo spôsobilé privodiť priaznivejšie postavenie žalobcu. Ako už bolo viackrát uvedené, spáchanie priestupku žalobcom bolo dostatočne preukázané bez ohľadu na zavinenie samotnej dopravnej nehody ku ktorej došlo. Skutočnosť, či vodič dopravného prostriedku mohol nehode zabrániť, je už v čase keď k nehode došlo, vo vzťahu k priestupku žalobcu, irelevantná.
+41.	Dôvodom na zrušenie rozhodnutia správneho orgánu môže byť len taká vada, ktorá mohla mať vplyv na zákonnosť rozhodnutia. Rozhodnutie sa zásadne nezrušuje preto, aby sa zopakoval proces a odstránili formálne vady, ktoré nemôžu privodiť vecne iné, či výhodnejšie rozhodnutie pre účastníka (porov. rozsudok sp. zn. 4Sž 98-102/02 zo 17. decembra 2002, R 122/2003). Navyše v súlade so všeobecne záväznou právnou úpravou a rozhodovacou praxou správnych súdov, ak by sa aj pochybenie správnych orgánov v konaní preukázalo, nie každé takéto pochybenie je spôsobilé, resp. musí mať za následok zrušenie žalobou napadnutého rozhodnutia (k tomu pozri rozsudok sp. zn. 4Asan/8/2021 z 2. februára 2022 - ...dôvodom na zrušenie rozhodnutia správneho orgánu by malo byť len také porušenie zákona, ktoré má alebo by mohlo mať za následok ujmu na právach účastníkov konania).
+42.	Vzhľadom na priebeh dopravnej nehody, pri ktorej žalobca len so šťastím a vďaka pohotovej reakcii vodiča vozidla unikol smrti, si správny súd dovoľuje na záver poznamenať, že pokuta 150,- EUR , ktorá je na spodnej hranici zákonnej sadzby za spáchaný priestupok, by mala vo vzťahu k žalobcovi pôsobiť predovšetkým výchovne, aby sa do budúcnosti vyhol správaniu, ktoré ohrozuje jeho vlastný život a bezpečnosť ostatných účastníkov cestnej premávky. Pokiaľ má žalobca pochybnosti o tom, či vodič vozidla nemohol nehode predísť, mal by sa podľa názoru správneho súdu rovnako zamyslieť aj nad tým, čo on sám spravil preto, aby k nehode nedošlo a aké následky mohlo mať jeho správanie, pokiaľ by sa vodič vozidla skutočne dostatočne nevenoval riadeniu a žalobcu by si na ceste nevšimol.
+
+```
+
 <!-- DECISION:END -->
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -365,13 +479,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <!-- DECISION:END -->
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <!-- DECISION:BEGIN spis=3T/12/2021 -->
+
 # Názov xxxx
 # Rozhodnutie: R1 – [Súd] – [Spisová značka] – [YYYY-MM-DD]
 ## Identifikácia
-- **ID:** R1
+- **ID:** R4
 - **Súd:** [napr. Okresný súd ... / Krajský súd ...]
 - **Spisová značka:** [napr. 12C/34/2024]
 - **Dátum rozhodnutia:** [YYYY-MM-DD]
@@ -436,6 +550,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```text
 [TU VLOŽTE ODÔVODNENIE – ideálne už anonymizované]
 ```
-
-
-<!-- DECISION:END -->
