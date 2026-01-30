@@ -58,6 +58,22 @@
 - **Výrok II:** [stručne]
 - **Trovy:** [stručne]
 
+## Odôvodnenie
+---DOVODY:ZACIATOK---
+tu vloz text
+---DOVODY:KONIEC---
+
+## Odôvodnenie (výňatok)
+---DOVODY_VYNATOK:ZACIATOK---
+... (tvoj text)
+---DOVODY_VYNATOK:KONIEC---
+
+## Odborný zdroj / metodika (výňatok)
+---METODIKA:ZACIATOK---
+*Jazda v meste*
+... (ten učebnicový text)
+---METODIKA:KONIEC---
+
 ## Plné znenie (vložiť celý text)
 ```text
 [TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
