@@ -46,7 +46,8 @@ Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letis
   -  znalecké posudky z odboru súdne lekárstvo č. 10/2014 a č. 48/2014 (zranenia, príčina smrti)
 
 ## Odôvodnenie (vložiť celý text)
-```text
+---ODOVODNENIE:ZACIATOK---
+
 dňa 16. júla 2014 v čase o 06.58 hod. v Bratislave, na Ivanskej ceste smerom od letiska M. R. Štefánika, ako vodička osobného motorového vozidla zn. Honda CR-V, EČV: G.-XXXEV, sa nevenovala plne vedeniu vozidla a situácii v cestnej premávke a pri odbočovaní vľavo nedala prednosť v jazde protiidúcemu motocyklu zn. Piaggio VESPA GTS 300, EČV: Z.-XXXAT, ktorý viedol poškodený Bc. B. E. po Ivanskej ceste smerom k letisku M. R. Štefánika, čím spôsobila zrážku s motocyklom pri pravom okraji jazdného pruhu určeného pre priamu jazdu smerom k letisku, pri ktorej poškodený podľa znaleckého posudku č. 10/2014 a č. 48/2014, vypracovaného znalcami MUDr. W. E. a doc. MUDr. V. Š., CSc., MPH, z odboru zdravotníctvo a farmácia - odvetvie súdne lekárstvo, utrpel závažné poranenie trupu a končatín, ktoré boli nezlučiteľné so životom a ktoré viedli dňa 16. júla 2014 v čase o 08.05 hod. k smrti poškodeného Bc. B. E. a obvinená B. Z. svojím konaním porušila zákonné ustanovenie § 19 ods. 4 zákona č. 8/2009 Z. z. o cestnej premávke, podľa ktorého ustanovenia vodič odbočujúci vľavo je povinný dať prednosť v jazde protiidúcim motorovým vozidlám i nemotorovým vozidlám, električkám idúcim v oboch smeroch a chodcom prechádzajúcim cez vozovku.
 
 Predmetný dovolací dôvod je podľa obvinenej naplnený tým, že odvolací súd napadnutým rozsudkom zmenil skutkovú vetu tak, že vypustil časť vety „čím spôsobila zrážku s motocyklom“ a nahradil ju časťou vety „a došlo k zrážke s motocyklom.“ Okrem toho krajský súd zo skutkovej vety vypustil časť týkajúcu sa toho, že konaním obvinenej došlo k porušeniu § 19 ods. 4 zákona č. 8/2009 Z. z. o cestnej premávke. Krajský súd sa teda priklonil k variantu B) uvedenému v znaleckom posudku USI, ako k variantu priaznivejšiemu pre obvinenú v súlade so zásadou in dubio pro reo.
@@ -76,7 +77,8 @@ ju upravil spôsobom uvedeným vo výrokovej časti tohto rozsudku (vypustením 
 
 Predovšetkým musí dovolací súd uviesť, že skutky uvedené v rozsudku prvostupňového súdu, ako aj v rozsudku odvolacieho súdu, sú v podstate totožné, a z pohľadu právnej kvalifikácie (nie však tej, ktorá bola použitá odvolacím súdom) identické. Z pohľadu tohto konštatovania nie je totiž vôbec dôležité, či sa v skutku zmenilo slovné spojenie „...čím spôsobila zrážku s motocyklom...“ na slovné spojenie „...a došlo k zrážke s motocyklom...“ a vypustilo sa označenie a popis porušenia dôležitej povinnosti citáciou § 19 ods. 4 zákona č. 8/2009 Z. z., ale že skutkový záver oboch súdov je zhodný v totožnom konštatovaní miesta, času a spôsobu spáchania (z ktorých najdôležitejšie je, že obvinená nedala prednosť v jazde poškodenému) ako aj následku trestného činu.
 
-```
+---ODOVODNENIE:KONIEC---
+
 
 <!-- DECISION:END -->
 
@@ -157,7 +159,8 @@ Tým súd potvrdzuje, že vodič (v tomto prípade žalovaný) porušil povinnos
 Dňa 22. 8. 2011 došlo v obci na úzkej komunikácii k dopravnej nehode medzi vozidlom vodičky J. H. a vozidlom žalovaného. Vodička zastavila s úmyslom odbočiť vľavo (so zapnutým ľavým smerovým ukazovateľom), za ňou zastavilo ďalšie vozidlo. V okamihu, keď vodička zahájila odbočovací manéver, žalovaný sa pokúsil predísť obe vozidlá v protismere, čo viedlo k zrážke. V konaní boli vykonané znalecké posudky pracujúce s alternatívami nehody; prvostupňový súd kládol dôraz na svedecké výpovede a uzavrel, že žalovaný už predchádzal a vodička začala odbočovať neskoro. Odvolací súd naopak považoval za rozhodujúce, že žalovaný mal situáciu pred sebou, mohol predvídať riziko a neprispôsobil rýchlosť a spôsob jazdy (minimálne mal výrazne spomaliť až zastaviť), čím porušil povinnosti vodiča.
 
 ## Odôvodnenie (vložiť celý text)
-```text
+---ODOVODNENIE:ZACIATOK---
+
 Ako posudzovať, či vodič prispôsobil rýchlosť jazdy okolnostiam
 
 Najvyšší súd sa vo svojej doterajšej rozhodovacej praxi (judikatúre) zaoberal otázkou, ako posudzovať, či vodič prispôsobil rýchlosť svojej jazdy okolnostiam a či dokázal bezpečne zastaviť vozidlo na vzdialenosť, na ktorú mal rozhľad. Súdy v takýchto prípadoch berú do úvahy:
@@ -179,7 +182,7 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
 
 Ďalšie námietky dovolateľa sú špekuláciami, ktoré spochybňujú a relativizujú skutkový dej a odbornú spôsobilosť znalcov. Takéto námietky, smerujúce proti zistenému skutkovému stavu a hodnoteniu dôkazov vrátane znaleckých posudkov, nie sú predmetom dovolacieho preskúmania a ani nezakladajú prípustnosť dovolania.
 
-```
+---ODOVODNENIE:KONIEC---
 
 
 <!-- DECISION:END -->
@@ -262,7 +265,8 @@ V súdnej fáze sťažovateľ predložil ďalší znalecký posudok (Ing. A. B.,
 Pre priestupok podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. postačuje, že páchateľ poruší všeobecne záväzný predpis o bezpečnosti a plynulosti cestnej premávky a v dôsledku toho vznikne dopravná nehoda; postačuje nedbanlivostné zavinenie. Spoluzavinenie iného účastníka dopravnej nehody je pre posúdenie viny za uvedený priestupok právne irelevantné, ak páchateľ sám naplnil všetky znaky skutkovej podstaty.
 
 ## Odôvodnenie (vložiť celý text)
-```text
+---ODOVODNENIE:ZACIATOK---
+
 9.	Z pripojeného administratívneho spisu súd zistil skutočnosti, ktoré neboli medzi účastníkmi sporné tak, ako boli nimi opísané v ich písomných podaniach. Prvostupňový správny orgán dňa 02.10.2013 začal správne konanie o priestupku na základe správy o výsledku objasňovania priestupku vypracovanej Odborom dopravných nehôd Krajského dopravného inšpektorátu Krajského riaditeľstva PZ v Bratislave. Predmetom konania bolo objasnenie priestupku, ktorého sa mal žalobca dopustiť tým, že ako účastník cestnej premávky porušil § 15 ods. 5 písm. g/ zák. č. 8/2009 Z.z. s poukazom na § 137 ods. 2 písm. c/ tohto zákona, keď dňa 05.08.2013 v čase o 19:05 hod. viedol motocykel po ceste do Devínskej novej Vsi v takej vzdialenosti pred križovatkou, ktorá nie je dostatočná na bezpečné dokončenie predchádzania pred úrovňou križovatky, kde predchádzal pred ním idúce motorové vozidlá, v dôsledku čoho došlo k zrážke s motorovým vozidlom vodičky Evy Sládkovej, ktorá odbočovala vľavo ku Presskamu.
 14.	Prvostupňový správny orgán rozhodnutím zo dňa 28.10.2013 ustanovil súdneho znalca z odboru cestná doprava Ing. Igora Šimka, ktorý vypracoval znalecký posudok č. 53/2013. V závere znaleckého posudku sa uvádza, že rýchlosť motocykla v čase dopravnej nehody bola približne 66 km/h a rýchlosť vozidla Škoda približne 21 km/h. Žalobca na svojom motocykli začal predchádzať pred ním jazdiace vozidlá vo vzdialenosti približne 62 metrov pred miestom zrážky, čo bolo v tom čase približne 2,8 sekundy pred zrážkou. Vozidlo Škoda začalo odbočovať prechádzaním do protismemej časti vozovky v čase približne 1,1 sekundy pred zrážkou. Súdny znalec taktiež uviedol, že z technického hľadiska je prijateľné, že počas predchádzania akceleroval motocykel až na rýchlosť približne 83 km/h a že vozidlo Škoda malo pred odbočením doľava približne 30 km/h. K spôsobu jazdy žalobcu súdny znalec uviedol, že technika jazdy motocyklistu vykazovala viacero pochybení- motocyklista nesprávne vyhodnotil pred ním sa odvíjajúcu dopravnú situáciu a začal vozidlá predchádzať v čase, keď na to nebola situácia z technického hľadiska spôsobilá; motocyklista začal predchádzať pred ním jazdiace vozidlá ešte pred križovatkou, avšak z celkovej dopravnej situácie mu muselo byť zrejmé, že predchádzací manéver nebude môcť uskutočniť ešte pred priestorom križovatky a aj napriek tomu v predchádzaní pokračoval; počas predchádzania dosiahol motocykel rýchlosť, ktorá bola vyššia nielen ako rýchlosť technicky primeraná k danej situácii, ale bola vyššia ako rýchlosť jazdy v danom úseku cesty povolená. Takýmto nesprávnym spôsobom jazdy vytvoril vodič motocykla na vozovke nebezpečnú a následne aj kolíznu situáciu a zároveň v dôsledku neprimerane vysokej rýchlosti jazdy zamedzil vodičke vozidla škoda zabrániť nehode. K spôsobu jazdy vodičky Evy Sládkovej súdny znalec uviedol, že vodička náležíte nesledovala, alebo správne nevyhodnotila v rozhodnom čase aktuálnu dopravnú situáciu za ňou vedeným vozidlom; pre odbočenie doľava sa rozhodla aj ho realizovala v čase, keď na to nebola situácia z technického hľadiska spôsobilá, pretože v rozhodnom čase už bola motocyklom Honda predchádzaná. Takouto nesprávnou technikou jazdy však vodička vozidla Škoda nevytvorila na vozovke kolíznu situáciu vo vzťahu k technicky primeranej rýchlosti jazdy motocyklu Honda. Ďalej súdny znalec uviedol, že vodič motocykla mal základnú bezproblémovú možnosť zabrániť nehode v prípade, ak by za danej dopravnej situácie v predmetnej križovatke pred ním sa pohybujúce vozidlá vôbec nepredchádzal. Ak sa už tento vodič pre predchádzanie rozhodol, potom mal možnosť predchádzať podstatne opatrnejšie a nižšou rýchlosťou. V takom prípade mal možnosť bezkolízne zabrániť nehode do rýchlosti približne 50 km/h. Ani v prípade, ak by vodička vozidla Škoda použila v rozhodnom čase správnu techniku jazdy, nemala autonómnu možnosť zabrániť kolízii predmetných vozidiel.
 27.	Účelom priestupkového konania vo všeobecnosti je objektívne zistiť, či došlo k spáchaniu priestupku, kto ho spáchal a akú sankciu je potrebné páchateľovi priestupku uložiť. Orgány prejednávajúce priestupky sú povinné čo naj úplnejšie zistiť podklady pre rozhodnutie tak, aby neboli žiadne dôvodné pochybnosti o prejednávanej veci, pričom pochybnosti o spáchanom skutku sa v priestupkovom konaní vykladajú v prospech obvineného. Objasniť priestupok znamená okrem iného spoľahlivo zistiť a ustáliť všetky jeho typové znaky, teda znaky skutkovej podstaty priestupku, medzi ktoré patrí aj jeho subjektívna stránka. Ako vyplýva z ustanovenia § 2 ods. 1 zákona č. 372/1990 Zb., definičným znakom priestupku je zavinenie, pričom pri priestupku prejednávanom v tomto konaní (priestupok proti bezpečnosti a plynulosti cestnej premávky podľa § 22 ods. 1 písm. k) zákona č. 372/1990 Zb.) na naplnenie subjektívnej stránky postačuje v zmysle § 3 zákona č. 372/1990 Zb. zavinenie z nedbanlivosti.
@@ -287,7 +291,7 @@ Z rozsudku najvyššieho súdu
 27.	Kasačný súd konštatuje, že v tomto prípade je preto na účely posúdenia zodpovednosti sťažovateľa za priestupok podľa § 22 ods. 1 písm. g/ zákona č. 372/1990 Zb. spoluzavinenie vodičky Sládkovej právne irelevantné. Relevancia spoluzavinenia by nastala v prípade uplatnenia si poistných nárokov, či vo vzťahu k trestnoprávnej rovine, avšak nie na účely posúdenia sťažovateľov zodpovednosti za predmetný priestupok.
 28.	Pokiaľ ide o namietanú neprimeranosť sankcie, kasačný súd sa v plnej miere stotožňuje s odôvodnením krajského súdu v bodoch 53 až 56, pričom vychádzajúc zo zistených skutkových okolností uloženú sankciu - pokutu 350,- € a zákaz činnosti viesť motorové vozidlo až na dobu osem mesiacov, čo je sankcia uložená v dolnej časti zákonnej sadzby, považuje vzhľadom na závažnosť priestupku, spôsob jeho spáchania, jeho následky, mieru zavinenia a osobu sťažovateľa za primeranú týmto okolnostiam a nevybočujúcu z medzí zákona.
 
-```
+---ODOVODNENIE:KONIEC---
 
 <!-- DECISION:END -->
 
@@ -380,13 +384,10 @@ Skutkový stav
 - Súd pracuje s tým, že skutkový stav bol „riadne zdokumentovaný“ a z jeho obsahu vyplýva poloha žalobcu a charakter porušenia povinností chodca; k „technickej príčine“ vo vzťahu k vodičovi sa súd neupínal, lebo ju vyhodnotil ako irelevantnú. 
 - Znalcom Ing. Tomášom Korbeľom vyhotovené stanovisko („správa ku konzultácii“) súd uvádza ako argumentačný podklad žalobcu, avšak jadro rozhodnutia stojí na právnom výklade skutkovej podstaty a (ne)potrebnosti znaleckého dokazovania k vodičovi.
 - 
-## Plné znenie (vložiť celý text)
-```text
-[TU VLOŽTE PLNÉ ZNENIE ROZHODNUTIA R1 – ideálne už anonymizované]
-```
 
 ## Odôvodnenie (vložiť celý text)
-```text
+---ODOVODNENIE:ZACIATOK---
+
 23.	Z argumentačnej línie žalobcu je podľa správneho súdu zrejmé, že predmetom sporu v tejto veci je výklad skutkovej podstaty priestupku podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch, ktorého spáchanie sa žalobcovi kladie za vinu.
 25.	Priestupku proti bezpečnosti a plynulosti cestnej premávky podľa ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch sa dopustí ten, kto poruší všeobecne záväzný právny predpis o bezpečnosti a plynulosti cestnej premávky, v ktorého dôsledku vznikne dopravná nehoda, pri ktorej inému ublíži na zdraví alebo inému spôsobí škodu na majetku.
 26.	Na základe gramatického výkladu uvedeného ustanovenia sa podľa správneho súdu dá dospieť k záveru, že pre naplnenie skutkovej podstaty tohto priestupku sa nevyžaduje preukázanie zavinenia dopravnej nehody. K takémuto záveru dospel správny súd na základe zákonnej formulácie skutkovej podstaty predmetného priestupku, ktorá nespomína zavinenie dopravnej nehody páchateľom priestupku. Základ skutkovej podstaty tvorí „vznik“ dopravnej nehody (bez ohľadu na zavinenie), ako dôsledok porušenia predpisov o bezpečnosti a plynulosti cestnej premávky páchateľom priestupku a následný vznik škody.
@@ -400,7 +401,7 @@ Skutkový stav
 41.	Dôvodom na zrušenie rozhodnutia správneho orgánu môže byť len taká vada, ktorá mohla mať vplyv na zákonnosť rozhodnutia. Rozhodnutie sa zásadne nezrušuje preto, aby sa zopakoval proces a odstránili formálne vady, ktoré nemôžu privodiť vecne iné, či výhodnejšie rozhodnutie pre účastníka (porov. rozsudok sp. zn. 4Sž 98-102/02 zo 17. decembra 2002, R 122/2003). Navyše v súlade so všeobecne záväznou právnou úpravou a rozhodovacou praxou správnych súdov, ak by sa aj pochybenie správnych orgánov v konaní preukázalo, nie každé takéto pochybenie je spôsobilé, resp. musí mať za následok zrušenie žalobou napadnutého rozhodnutia (k tomu pozri rozsudok sp. zn. 4Asan/8/2021 z 2. februára 2022 - ...dôvodom na zrušenie rozhodnutia správneho orgánu by malo byť len také porušenie zákona, ktoré má alebo by mohlo mať za následok ujmu na právach účastníkov konania).
 42.	Vzhľadom na priebeh dopravnej nehody, pri ktorej žalobca len so šťastím a vďaka pohotovej reakcii vodiča vozidla unikol smrti, si správny súd dovoľuje na záver poznamenať, že pokuta 150,- EUR , ktorá je na spodnej hranici zákonnej sadzby za spáchaný priestupok, by mala vo vzťahu k žalobcovi pôsobiť predovšetkým výchovne, aby sa do budúcnosti vyhol správaniu, ktoré ohrozuje jeho vlastný život a bezpečnosť ostatných účastníkov cestnej premávky. Pokiaľ má žalobca pochybnosti o tom, či vodič vozidla nemohol nehode predísť, mal by sa podľa názoru správneho súdu rovnako zamyslieť aj nad tým, čo on sám spravil preto, aby k nehode nedošlo a aké následky mohlo mať jeho správanie, pokiaľ by sa vodič vozidla skutočne dostatočne nevenoval riadeniu a žalobcu by si na ceste nevšimol.
 
-```
+---ODOVODNENIE:KONIEC---
 
 <!-- DECISION:END -->
 
@@ -409,6 +410,7 @@ Skutkový stav
 # Názov DN - čelná zrážka
 # Rozhodnutie: R5 – Neuvedený DN - čelná zrážka
 ## Text
+
 Dňa 18.06.2019 bola na mieste dopravnej nehody vykonaná ohliadka miesta zrážky, pričom bolo zistené, že miesto dopravnej nehody je ulica Istrijská pri rodinnom dome č. 86 cca 50 m za križovatkou s ulicou Na vyhliadke a táto ulica je označená dopravnou značkou P8 ako ( ,,Hlavná cesta“). Ulica je o dvoch jazdných obojsmerných pruhoch, pričom jazdný pruh v smere do VW Slovakia je o šírke 2,8 m s krajnicou 0,5 m a protismerný je o šírke 3,0 m s krajnicou 0,4 m. Na mieste zrážky je ulica rozdelená plnou stredovou deliacou čiarou. Na mieste bol vyhotovený náčrtok z miesta dopravnej nehody, v ktorom je graficky zaznamenaná situácia na mieste dopravnej nehody, šírka a počet jazdných pruhov. Na mieste bola vyhotovená fotodokumentácia so zameraním sa na celkovú situáciu na mieste dopravnej nehody. 
        Dňa 19.06.2019 Uznesením podľa  § 142 ods. 1 Trestného poriadku bol pribratý znalec z odboru cestná doprava -  odvetvie nehody v cestnej doprave Ing. Tomáš Korbeľ, zapísaného v zozname súdnych znalcov MS SR pod ev.č. 914602, ktorý vypracoval znalecký posudok č. 28/2020, v ktorom znalec konštatuje, že na základe vypracovanej analýzy priebehu nehodového deja medzi nákladným motorovým vozidlom Volvo XC90 VAN ev.č. ZV090CU a autobusom MAN Lion’s City B.2007 ev.č. BL426NV je možné konštatovať, že technika jazdy vodiča vozidla Volvo nebola z technického hľadiska správna. Počas jazdy po vozovke Istrijskej ulice prešlo vozidlo Volvo do protismerného jazdného pruhu, kde došlo k stretu vozidla Volvo s autobusom. Nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bol nesprávny spôsob jazdy vodiča vozidla Volvo v uvedenom úseku. Dôvod prejdenia vozidla Volvo do protismerného jazdného pruhu nie je možné z technického hľadiska jednoznačne určiť. Dôvodom prejdenia vozidla Volvo do protismerného jazdného pruhu mohla byť z technického hľadiska neprimeraná rýchlosť jazdy vozidla Volvo vzhľadom na celkovú dopravnú situáciu v uvedenom úseku, nedostatočné venovanie sa riadeniu vozidla Volvo vodičom, mikrospánok, úmysel, atď. Ďalším nesprávnym prvkom v technike jazdy vodiča vozidla Volvo bola počiatočná rýchlosť jazdy vozidla Volvo v uvedenom úseku [v rozsahu (77,7 ÷ 85,9) km/h], ktorá bola vyššia ako maximálna dovolená rýchlosť jazdy v uvedenom úseku (50,0 km/h).
 Dňa 19.06.2019 Uznesením podľa § 142 ods. 1 Trestného poriadku bola pribratá znalecká organizácia Slovdekra s.r.o., Polianky č. 19, Bratislava z odboru cestná doprava - odvetvie technický stav cestných vozidiel, ktorá je zapísaná v zozname znalcov MS SR pod ev.č. 900274, ktorá vypracovala znalecký posudok č. 151/2019, v ktorom znalec konštatuje, že na základe obhliadky a kontroly nákladného motorového vozidla Volvo XC90 VAN 2.5I T 4x4 ev.č. ZV090CU vykonanej pracovníkmi oddelenia znalectva DEKRA Slovensko s.r.o. je možné konštatovať, že na kontrolovaných skupinách vozidla Volvo sa pred dopravnou nehodou nevyskytovala žiadna chyba. Technický stav vozidla Volvo bol pred dopravnou nehodou vyhovujúci. Vozidlo Volvo bolo hodnotené ako spôsobilé na premávku na pozemných komunikáciách. 
@@ -525,9 +527,11 @@ Za takejto situácie preto skutočnosti uvádzané obžalovaným na svoju obhajo
 ```
 
 ## Odôvodnenie (vložiť celý text)
-```text
+---ODOVODNENIE:ZACIATOK---
+
 Súd správne konštatoval prvotnú príčinu dopravnej nehody ako oneskorenú reakciu na strane obžalovaného. Ak znalec konštatoval v podanom znaleckom posudku nesprávne použitie komunikácie zo strany poškodenej, ide len o technický záver znalca, pričom právne posúdenie okolností nehody vyhodnocuje súd. Súd čiastočne prihliadol na spoluzavinenie chodkyne, i keď z odôvodnenia rozsudku nie je možné vyvodiť presne záver o tom, či aj táto okolnosť mala vplyv na uložený trest zákazu činnosti. Konštatuje, že technické závery vyjadrené v znaleckom posudku sa môžu odlišovať od právneho hodnotenia skutku. Tak to malo byť aj v danom prípade, kde podstatnou okolnosťou skutku je to, že obžalovaný zrazil poškodenú v bezprostrednej blízkosti priechodu pre chodcov, pričom z obsahu znaleckého posudku je možné vyvodiť, že to bolo približne cca 4 metre za priechodom. Uvedená skutočnosť sa premietla aj do právnej kvalifikácie, nakoľko nedošlo k použitiu kvalifikovanej skutkovej podstaty daného ustanovenia, a to odseku 2 písm. a) - závažnejší spôsob konania, akým by bolo možné vyhodnotiť také konanie, keby vodič nedal prednosť chodcovi na priechode pre chodcov. Obvinený bol teda stíhaný za naplnenie znakov základnej skutkovej podstaty. Poškodená teda z technického hľadiska používala pozemnú komunikáciu skutočne nesprávnym spôsobom, avšak z hľadiska posúdenia možnosti obvineného predísť dopravnej nehode sa malo prihliadnuť na fakt, kde došlo k zrážke s poškodenou. Nejednalo sa o štandardnú časť vozovky, ale o frekventovaný priechod pre chodcov v blízkosti nemocnice. Navyše obvinený je osobou znalou miestnych pomerov, podľa vlastného vyjadrenia jazdí v tejto časti mesta pravidelne, a preto musel mať vedomosť o tom, že sa blíži k priechodu pre chodcov. Táto okolnosť mala byť premietnutá aj do výmery trestu zákazu činnosti. Obvinený pôvodne uzavrel s prokuratúrou dohodu o vine a treste, v rámci ktorej bol dohodnutý trest zákazu činnosti práve vo výmere 5 rokov. Výška tejto výmery odzrkadľovala postoj obvineného v dohodovacom konaní, kedy spolupracoval s orgánmi činnými v trestnom konaní, a preto mu bola ponúknutá výhodnejšia sadzba trestu zákazu činnosti. Obvinený sa slobodne rozhodol, že v konaní na súde uzavretú dohodu o vine a treste neprijme. Následne súd vydal trestný rozkaz, v ktorom obvinenému uložil trest zákazu činnosti vo výmere 5 rokov a 6 mesiacov. Je zjavné, že súd nie je viazaný pôvodne uloženým trestom v trestnom rozkaze. V záujme transparentnosti bolo vhodné a z pozície poškodených možno aj žiaduce, aby súd vysvetlil v odôvodnení napadnutého rozsudku, z akého dôvodu.
-```
+
+---ODOVODNENIE:KONIEC---
 
 <!-- DECISION:END -->
 
@@ -538,7 +542,8 @@ Súd správne konštatoval prvotnú príčinu dopravnej nehody ako oneskorenú r
 - **ID:** R7
 
 ## Odôvodnenie (časť textu)
----DOVODY:ZACIATOK---
+---ODOVODNENIE:ZACIATOK---
+
 Môžu však nastať situácie, kedy aj chodec vytvoria vodiči svojim náhlym neočakávaným a nepredvídateľným vstúpením do vozovky prekážku, ktorá môže byť pre vodiča aj objektívne nezvládnuteľná. (uznesenie Najvyššieho súdu z 29. 3. 2011, sp. zn. 6 Tdo 143/2011)
 
 Vodič motorového vozidla sa nemôže spoliehať na to, že chodec veľmi vysokého veku sa bude v cestnej premávke správať s potrebnou opatrnosťou a že bude primerane reagovať na dopravnú situáciu. Na také osoby treba brať osobitný ohľad [§ 2 ods. 2, § 4 ods. 1 písm. e) vyhlášky č. 100/1975 Zb. o pravidlách cestnej premávky – podľa existujúcej úpravy by išlo o § 5 ods. 1 písm. d) zákona o cestnej premávke]
@@ -580,7 +585,10 @@ Výnimka vzťahujúca sa na vodiča električky je odôvodňovaná technickými 
 *Jazda v meste*
 
 Najdôležitejšou zásadou je umenie zachovať pokoj a nestrácať rozvahu. Podľa možnosti sa prispôsobíme najmä vodičom idúcim pred nami v našom jazdnom pruhu a zbytočne neprechádzame z pruhu do pruhu. Veľmi dôležité je predvídanie dopravnej situácie pred nami, preto dodržiavame dostatočný odstup od vpredu idúcich vozidiel. Pred priechodom pre chodcov volíme nižšiu rýchlosť jazdy. Počítajme s možnosťou vstúpenia hlavne detí a starších ľudí do vozovky na vyznačený priechod aj vtedy, keď nám rýchlosť jazdy a vzdialenosť od priechodu nedovolí plynulé a bezpečné zastavenie. V takýchto prípadoch musíme prudko brzdiť a hrozí nám kolízia buď s chodcami alebo s vozidlom idúcim za nami. V meste musíme sledovať svetelné signály, pokyny oprávnených osôb, dopravné značky, pohyb chodcov, vozidiel, smerové tabule... Preto jazda v meste vyžaduje veľkú pozornosť, sústredenie, predvídavosť, rozhodnosť a určitú zručnosť vodiča.
----DOVODY:KONIEC---
+
+---ODOVODNENIE:KONIEC---
 
 
 <!-- DECISION:END -->
+
+
