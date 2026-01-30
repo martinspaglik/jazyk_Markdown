@@ -730,3 +730,190 @@ vyhověl a podle ustanovení § 82 odst. 1 a 3 písm. a) zákona o Ústavním so
 
 <!-- DECISION:END -->
 
+<!-- DECISION:BEGIN spis=3Tdo/84/2021 -->
+
+# DN – Zrazená chodkyňa maloletá (predvídať)
+# Rozhodnutie: R9 – Najvyšší súd SR – 3Tdo/84/2021 – 2021-11-24
+## Identifikácia
+- **ID:** R9
+- **Súd:** Najvyšší súd Slovenskej republiky
+- **Spisová značka:** 3Tdo/84/2021
+- **Dátum rozhodnutia:** 2021-11-24
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** dovolacie konanie (mimoriadny opravný prostriedok – dovolanie)
+- **Strany (anonymizované):**
+  -  Obvinený (dovolateľ): X. B. 
+  -  Poškodená: maloletá O. (nar. XXXX) – chodkyňa 
+  -  Napadnuté rozhodnutie: uznesenie Krajského súdu v Trnave sp. zn. 3To/65/2020 z 18.05.2021
+- **Zdroj / poznámka:** PDF „DN-DN-Maloletá chodkyňa--3Tdo_84_2021_NS SR.pdf“ (interný materiál)
+
+## Kontext prípadu (1–3 vety)
+Vec sa týka dopravnej nehody na priechode pre chodcov, pri ktorej vodič (obvinený) nedal prednosť maloletému chodcovi a spôsobil mu ťažké zranenia. Po odsúdení na prvom stupni a zamietnutí odvolania krajským súdom podal obvinený dovolanie; Najvyšší súd SR zrušil rozhodnutie odvolacieho súdu, pretože odvolací senát bol obsadený nezákonne – rozhodoval v ňom sudca, ktorý sa predtým zúčastnil na rozhodovaní na súde nižšieho stupňa, hoci bol podľa § 31 ods. 4 Trestného poriadku vylúčený.
+
+## Téma a kategorizácia
+- **Téma:** trestné právo procesné – dovolanie – nezákonné zloženie súdu / zákonný sudca
+- **Podtéma:** ex lege vylúčenie sudcu (§ 31 ods. 4 TP); dôsledky nezákonného obsadenia; rozsah dovolacieho prieskumu; (sekundárne) porušenie dôležitej povinnosti vodiča (§ 157 ods. 2 písm. a) TZ)
+- **Tagy:** #nezákonné_zloženie_súdu #zákonný_sudca #vylúčenie_sudcu #dovolanie #dopravná_nehoda #maloletý_chodec #§31_TP #§371_TP
+
+## Právna veta / právny záver (abstrakt)
+Ak sa sudca zúčastnil na rozhodovaní na súde nižšieho stupňa, je ex lege vylúčený z rozhodovania na súde vyššieho stupňa v tej istej veci (§ 31 ods. 4 TP). Účasť takéhoto sudcu v odvolacom senáte zakladá nezákonné zloženie súdu (§ 371 ods. 1 písm. b) TP), čo vedie k zrušeniu rozhodnutia odvolacieho súdu a k opätovnému prejednaniu veci v zákonnom zložení. 
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Nezákonné zloženie odvolacieho senátu je dané aj vtedy, ak členom senátu je sudca vylúčený ex lege podľa § 31 ods. 4 TP (predtým sa zúčastnil na rozhodovaní na nižšom súde). 
+- (2) Právo na zákonného sudcu (čl. 48 ods. 1 Ústavy SR) sa vzťahuje na celý senát, nie len na predsedu; zákonnými sudcami sú všetci členovia senátu určení rozvrhom práce. 
+- (3) Ak dovolací súd zistí nezákonné obsadenie, primárne odstráni túto procesnú vadu a ďalšie dovolacie námietky (napr. hmotnoprávne) môže považovať za predčasné. 
+- (4) Skutočnosť, či obvinený vylúčenie sudcu namietal skôr, nie je rozhodujúca – ide o základnú podmienku konania (zákonné obsadenie).
+
+## Použité ustanovenia
+- **Hmotné právo:**
+    -  Trestný zákon:
+      -  § 157 ods. 1, ods. 2 písm. a) (ublíženie na zdraví) v spojení s § 138 písm. h) (porušenie dôležitej povinnosti) 
+      -  § 36 písm. j) (poľahčujúce okolnosti), § 38 ods. 2, ods. 3, § 49 ods. 1 písm. a), § 50 ods. 1, § 61 ods. 1, ods. 2 (uložený trest a zákaz činnosti – v rozhodnutí opísané v procesnom kontexte) 
+  -  Zákon č. 8/2009 Z. z. o cestnej premávke: § 4 ods. 1 písm. e), písm. f) (porušenie povinností vodiča – skutkový základ) 
+- **Proces:**
+  -  Trestný poriadok:
+    -  § 31 ods. 4 (vylúčenie z rozhodovania na vyššom stupni) 
+    -  § 371 ods. 1 písm. b) (dovolací dôvod – nezákonné zloženie súdu) 
+    -  § 386 ods. 1, ods. 2 (vyslovenie porušenia zákona; zrušenie napadnutého rozhodnutia), § 388 
+  -  Ďalej v texte: § 368 ods. 2 písm. a), § 369 ods. 1, § 370 ods. 1, ods. 3, § 374 ods. 1, ods. 2, § 377, § 319, § 163 ods. 4
+- **Iné zdroje:**
+  - Ústava SR: čl. 48 ods. 1 (zákonný sudca)
+  - Zákon č. 385/2000 Z. z. o sudcoch a prísediacich (§ 3 ods. 1)
+  - Zákon č. 757/2004 Z. z. o súdoch (§ 3 ods. 3; § 51 ods. 1)
+  - Citovaná judikatúra ÚS SR: II. ÚS 87/2001; III. ÚS 212/2011; III. ÚS 31/2001 (k zákonnému sudcovi a senátu)
+    
+## Skutkový stav (stručne, vecne)
+-**Kľúčové skutkové tvrdenia / zistenia:** 25.01.2017 cca 14:00 v K. (ul. K., pri križovatke ulíc K. a B.) obvinený ako vodič osobného vozidla nedal prednosť maloletému chodcovi na priechode pre chodcov, narazil pravým predným zrkadlom do ľavej strany tela chodkyne a spôsobil jej ťažké zranenia s dobou liečby 4–6 mesiacov.
+- **Rozhodujúce skutkové zistenia:** zrážka na priechode + následok (ťažká ujma na zdraví) + porušenie povinností vodiča podľa ZoCP (§ 4 ods. 1 písm. e), f)).
+- **Podstatné dôkazy (výber):** znalecké posudky z odboru dopravy (Ing. E., PhD.; doc. Ing. O., PhD. – porovnanie „technickej príčiny“ a reakcie vodiča) a výpovede znalcov na HP; ďalšie listiny rekonštruujúce nehodový dej (v texte rozhodnutia spomenuté).
+
+## Skutkový stav
+### Podrobný popis skutkového stavu prípadu
+Dňa 25.01.2017 približne o 14:00 v K. na ulici K. (smer od ul. Nitrianska) obvinený ako vodič osobného motorového vozidla pri križovatke ulíc K. a B. nedal prednosť chodkyni – maloletému dieťaťu – ktorá prechádzala cez priechod pre chodcov v smere od areálu nemocnice k predajni P. Následkom toho obvinený pravým predným spätným zrkadlom narazil do ľavej strany tela chodkyne; poškodenej vznikli viaceré ťažké poranenia hlavy, ramena a predkolenia s dobou liečby 4 až 6 mesiacov. Konaním obvinený porušil povinnosti vodiča podľa § 4 ods. 1 písm. e) a f) zákona č. 8/2009 Z. z.
+
+## Kľúčové slová
+zákonný sudca; nezákonné zloženie súdu; vylúčenie sudcu; ex lege vylúčenie; § 31 ods. 4 TP; dovolanie; § 371 ods. 1 písm. b) TP; odvolací senát; dopravná nehoda; priechod pre chodcov; maloletý chodec.
+
+## predvídať
+obvinený uviedol, že ZoCP výslovne upravuje, kedy je vodič povinný „predvídať", že deti môžu vbehnúť vodičovi do cestu, pričom ale tieto prípady sú v ZoCP vymedzené taxatívne. V ZoCP sa teda síce počíta s tým, že deti môžu vbehnúť vodičovi do cesty, ale uvedené tento predpis upravuje vo vzťahu k chráneným územiam definovaným výlučnev § 14 ods. 2 ZoCP, § 59 a § 60 ZoCP (obytná alebo pešia zóna), avšak všeobecnú povinnosť vodiča predvídať správanie maloletých neobsahuje. V prejednávanej veci nešlo o obytnú zónu, pešiu zónu ani o obiehanie stojaceho autobusu. Obvinený bol toho názoru, že porušenie dôležitej povinnosti sa musí dotýkať výlučne povinnosti, ktorá je vodičovi uložená výslovne ZoCP a zároveň sa jedná o dôležitú povinnosť.
+Obvinený zdôraznil, že ZoCP v žiadnej jeho časti nezakladá povinnosť vodiča motorového vozidla predpokladať, že chodci môžu konať nepredvídateľne. Podľa názoru odvolacieho súdu by mal vodič predvídať, resp. predpokladať aj nepredvídateľné konanie chodca...
+V prípadoch podobných prejednávanému, sa uplatňuje princíp obmedzenej dôvery v doprave, podľa ktorého sa vodič motorového vozidla pri prevádzke na pozemných komunikáciách môže spoliehať na to, že ostatní účastníci budú dodržiavať pravidlá cestnej premávky.
+
+## Odôvodnenie (výňatok)
+---ODOVODNENIE_VYNATOK:ZACIATOK---
+
+obvinený uviedol, že ZoCP výslovne upravuje, kedy je vodič povinný „predvídať", že deti môžu vbehnúť vodičovi do cestu, pričom ale tieto prípady sú v ZoCP vymedzené taxatívne. V ZoCP sa teda síce počíta s tým, že deti môžu vbehnúť vodičovi do cesty, ale uvedené tento predpis upravuje vo vzťahu k chráneným územiam definovaným výlučnev § 14 ods. 2 ZoCP, § 59 a § 60 ZoCP (obytná alebo pešia zóna), avšak všeobecnú povinnosť vodiča predvídať správanie maloletých neobsahuje. V prejednávanej veci nešlo o obytnú zónu, pešiu zónu ani o obiehanie stojaceho autobusu. Obvinený bol toho názoru, že porušenie dôležitej povinnosti sa musí dotýkať výlučne povinnosti, ktorá je vodičovi uložená výslovne ZoCP a zároveň sa jedná o dôležitú povinnosť.
+
+Obvinený zdôraznil, že ZoCP v žiadnej jeho časti nezakladá povinnosť vodiča motorového vozidla predpokladať, že chodci môžu konať nepredvídateľne. Podľa názoru odvolacieho súdu by mal vodič predvídať, resp. predpokladať aj nepredvídateľné konanie chodca...
+
+V prípadoch podobných prejednávanému, sa uplatňuje princíp obmedzenej dôvery v doprave, podľa ktorého sa vodič motorového vozidla pri prevádzke na pozemných komunikáciách môže spoliehať na to, že ostatní účastníci budú dodržiavať pravidlá cestnej premávky.
+
+na základe výsledkov technickej analýzy nehodového deja boli technickou príčinou vzniku dopravnej nehody nesprávna technika chôdze poškodenej, ktorá spočívala v tom, že vstupom na cestu a pohybom po prechode pre chodcov z technického hľadiska vytvorila pre obvineného kolíznu situáciu, a teda nesprávna technika chôdze poškodenej bola tým prvkom nehodového deja, ktorý bol pre vznik dopravnej nehody rozhodujúci a s vysokou pravdepodobnosťou nesprávna technika jazdy obvineného, ktorá spočívala v tom, že na vstup poškodenej na priechod pre chodcov reagoval s oneskorením. Nesprávna technika jazdy obvineného bola tým prvkom nehodového deja, ktorý mu s vysokou pravdepodobnosťou znemožnil zabrániť vzniku dopravnej nehody. Na hlavnom pojednávaní bol vypočutý znalec Ing. E., PhD, ktorý zotrval na záveroch svojho znaleckého posudku aj po tom, čo sa oboznámil so znaleckým posudkom znalca doc. Ing. O., PhD., pričom ďalej vypovedal, že pokiaľ ide o samotnú technickú analýzu nehodového deja, medzi oboma znaleckými posudkami nie sú zásadné rozpory, avšak zásadným rozdielom je definovanie technickej príčiny dopravnej nehody, pretože hoci znalec uviedol, že nie je možné jednoznačne vylúčiť, že vodič motorového vozidla na pohyb chodkyne na priechode reagoval s oneskorením, čo mohlo byť tým prvkom nehodového deja, ktorý mu s najväčšou pravdepodobnosťou zabránil vzniku dopravnej nehody, t. j. znalec pripúšťa oneskorenú reakciu vodiča s tým, že v prípade jeho včasnej reakcie mohol zrážke s chodkyňou zabrániť a teda podľa Ing. E., PhD.mal preto doc. Ing. O., PhD. aj tento prvok nehodového deja zakomponovať do technickej príčiny vzniku dopravnej nehody.
+
+---ODOVODNENIE_VYNATOK:KONIEC---
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+
+Rozsudkom Okresného súdu Trnava (ďalej tiež „súd prvého stupňa"), sp. zn. 34T/6/2018 z 10. februára
+2020, bol obvinený X. B. uznaný za vinného za prečin ublíženia na zdraví podľa § 157 ods. 1, ods. 2
+písm. a) Trestného zákona s poukazom na § 138 písm. h) Trestného zákona na tom skutkovom základe,
+že
+
+- dňa 25.01.2017 asi o 14.00 hod. v K. na ulici K. v smere od ulice Nitrianska viedol ako vodič osobné
+motorové vozidlo zn. T. Q. s ev. číslom K. pričom pri križovatke ulíc K. a B. nedal prednosť chodkyni
+maloletej O. narodenej v roku XXXX, prechádzajúcej cez priechodpre chodcov v smere od areálu
+nemocnice k predajni P., následkom čoho s vozidlom s pravým predným zrkadlom narazil do ľavej
+strany tela chodkyne, čím maloletá O.. utrpela ťažké zranenia, a to pomliaždenie, hematóm a odreninu
+čelovej oblasti hlavy vľavo, krvácanie pod tvrdú plenu (SDH subdurálny hematóm) v čelovej oblasti
+vľavo, pomliaždenie a krvácanie do mozgu v čelovej oblasti vľavo, viac úlomkovú zlomeninu ľavej
+čelovej kosti s posunom úlomkov a krvácaním do čelovej a čuchovej prínosovej dutiny, zlomeninu
+chirurgického krčku ľavej ramennej kosti s posunom úlomkov a zlomeninu oboch kostí dolnej časti
+ľavého predkolenia s posunom úlomkov s dobou liečby 4 až 6 mesiacov, čím svojim konaním porušil
+ustanovenie § 4 ods. 1 písm. e), písm. f) zákona č. 8/2009 Z. z. o cestnej premávke v znení neskorších
+predpisov.
+
+Za to súd prvého stupňa obvinenému uložil podľa § 157 ods. 2 Trestného zákona, zistiac poľahčujúce
+okolnosti uvedené v § 36 písm. j) Trestného zákona, nezistiac priťažujúce okolnosti, § 38 ods. 2, ods. 3
+
+Trestného zákona trest odňatia slobody vo výmere 18 (osemnásť) mesiacov.
+Podľa § 49 ods. 1 písm. a) Trestného zákona súd prvého stupňa obvinenému výkon trestu odňatia
+slobody podmienečne odložil a podľa § 50 ods. 1 Trestného zákona obvinenému určil skúšobnú dobu v
+trvaní 36 (tridsaťšesť) mesiacov.
+Podľa § 61 ods. 1, ods. 2 Trestného zákona uložil obvinenému trest zákazu činnosti viesť motorové
+vozidlá akéhokoľvek druhu na dobu 3 (tri)roky.
+Proti tomuto rozsudku podal obvinený odvolanie, na základe ktorého Krajský súd v Trnave (ďalej tiež
+„krajský súd") uznesením, sp. zn. 3To/65/2020 z 18. mája 2021 podľa § 319 Trestného poriadku
+odvolanie zamietol.
+Proti predmetnému rozsudku Krajského súdu v Trnave podal obvinený prostredníctvom svojho obhajcu
+dovolanie z dôvodov uvedených v § 371 ods. 1 písm. b) a písm. i) Trestného poriadku, teda že súd
+rozhodol v nezákonnom zložení a rozhodnutie je založené na nesprávnom právnom posúdení zisteného
+skutku alebo nesprávnom použití iného hmotnoprávneho ustanovenia.
+V odôvodnení svojho dovolania obvinený k dovolaciemu dôvodu podľa § 371 ods. 1 písm. b) Trestného
+poriadku uviedol, že členmi odvolacieho senátu boli JUDr. Rastislav Kresl, JUDr. Katarína Stanislavská a
+JUDr. Ladislav Réves. Sudca JUDr. Ladislav Réves bol pritom aj samosudcom v konaní vedenom na
+Okresnom súde Trnava pod sp. zn. 34T/6/2018, čo vyplýva aj zo zápisníc o hlavnom pojednávaní zo
+dňa 11.12.2018 a 14.05.2021. Uvedenú skutočnosť nebolo možné doposiaľ namietať z dôvodu, že mená
+prísediacich členov senátu neboli zverejnené na doručovaných dokumentoch, nenachádzali sa ani na
+oznámení pred pojednávacou miestnosťou a z dôvodu pandémie mali všetci členovia senátu nasadené
+respirátory, ktoré znemožňovali ich identifikáciu podľa tváre. Obvinený poukázal na rozsudok
+Najvyššieho súdu SR, sp. zn. 6Tdo/77/2019 z 25.03.2020, v zmysle ktorého nie je podstatné, či
+uvedenú skutočnosť namietal obvinený už skôr, a rovnako je bez právneho významu či ex lege vylúčený
+sudca na súde nižšej inštancie meritórne rozhodol alebo nie, nakoľko pre jeho vylúčenie je dostatočné,
+ak sa čo len zúčastnil na rozhodovaní na súde nižšieho stupňa. Obvinený bol toho názoru, že sudca
+JUDr. Ladislav Réves mal vedomosť o tom, že je vylúčený z rozhodovania na súde vyššej inštancie
+podľa § 31 ods. 4 Trestného poriadku, napriek tomu však vec rozhodoval. Obvinený ďalej uviedol, že
+sudca JUDr. Ladislav Réves ale aj ostatní členovia senátu konali s vedomím, že porušujú § 31 ods. 4
+Trestného poriadku. Sudca JUDr. Ladislav Réves mal byť podľa názoru obvineného vylúčený ex lege a
+nahradený iným sudcom a keďže sa tak nestalo, zakladá to dovolací dôvod.
+
+Za nesprávne právne posúdenie zisteného skutku, resp. za nesprávne použitie iného hmotnoprávneho
+ustanovenia považoval obvinený posúdenie a aplikáciu § 157 ods. 2 písm. a) Trestného zákona s
+poukazom na § 138 písm. h) Trestného zákona na konanie obvineného, t. j. či v rámci právneho
+posúdenia zisteného skutku je možné konanie obvineného posudzovať ako porušenie dôležitej povinnosti
+pri premávke. Za porušenie dôležitej povinnosti vyplývajúcej z postavenia vodiča tak, ako to má na
+zreteli ustanovenie § 157 ods. 2 písm. a) Trestného zákona s poukazom na § 138 písm. h) Trestného
+zákona podľa ustálenej súdnej praxe nemožno mechanicky pokladať porušenie akéhokoľvek predpisu,
+vyhlášky o pravidlách cestnej premávky, resp. zákona, ale len porušenie takej povinnosti, ktorá
+podstatne zvyšuje stupeň nebezpečnosti činu pre spoločnosť. Vo vzťahu k tomu, čo je považované za
+porušenie dôležitej povinnosti vodiča, ako aj k predmetnému dovolaciemu dôvodu poukázal obvinený na
+rozhodnutia Najvyššieho súdu SR, sp. zn. 3Tdo/27/2009 z 02.04.2008, sp. zn. 3Tdo/62/2011 z
+22.02.2012, sp. zn. 4Tdo/54/2019 z 10.12.2019 a rozsudok Krajského súdu v Prešove, sp. zn.
+6To/40/2014 z 04.12.2014.
+
+K dovolaniu obvineného sa vyjadrila prokurátorka, ktorá uviedla, že po preskúmaní veci dospela k
+záveru, že dovolanie je dôvodné v časti, v ktorej obvinený namieta nezákonné zloženie senátu.
+K dovolaniu obvineného sa vyjadril aj zákonný zástupca poškodenej, prostredníctvom svojho obhajcu,
+ktorý uviedol, že rozhodnutie Krajského súdu v Trnave je zákonné a spravodlivé.
+Najvyšší súd Slovenskej republiky (ďalej tiež „najvyšší súd" alebo „dovolací súd") ako súd dovolací (§
+377 Trestného poriadku) primárne skúmal procesné podmienky pre podanie dovolania a zistil, že
+dovolanie bolo podané proti prípustnému rozhodnutiu [§ 368 ods. 2 písm. a) Trestného poriadku],
+oprávnenou osobou (§ 369 ods. 1 Trestného poriadku), v zákonom stanovenej lehote (§ 370 ods. 1
+Trestného poriadku), na príslušnom súde (§ 370 ods. 3 Trestného poriadku) a že dovolanie spĺňa
+obligatórne obsahové náležitosti (§ 374 ods. 1, ods. 2 Trestného poriadku).
+Podľa § 371 ods. 1 písm. b) Trestného poriadku dovolanie možno podať, ak súd rozhodol v
+nezákonnom zložení.
+
+Nezákonným zložením súdu je takisto aj prípad účasti sudcu na rozhodovaní v senáte, ak je tento sudca
+zo zákona vylúčený alebo bol z rozhodovania vylúčený.
+V tejto súvislosti je potrebné akcentovať obsah čl. 48 ods. 1 veta prvá Ústavy Slovenskej republiky,
+podľa ktorého nikoho nemožno odňať jeho zákonnému sudcovi.
+Dovolací súd po preskúmaní obsahu spisu zistil, že obžaloba bola pridelená sudcovi JUDr. Ladislavovi
+Révesovi pod sp. zn. 34T/6/2018 a tento sudca vykonal úkony na hlavnom pojednávaní.
+Následne však na odvolacom súde rozhodoval v tej istej trestnej veci sudca JUDr. Ladislav Réves ako člen senátu.
+
+Podľa § 31 ods. 4 prvá veta Trestného poriadku z rozhodovania na súde vyššieho stupňa je vylúčený
+sudca, ktorý sa zúčastnil na rozhodovaní na súde nižšieho stupňa.
+
+Dovolací súd musí konštatovať, že odvolací senát rozhodoval v nezákonnom zložení.
+
+Na základe uvedeného je dovolací dôvod podľa § 371 ods. 1 písm. b) Trestného poriadku naplnený.
+Čo sa týka dovolacieho dôvodu podľa § 371 ods. 1 písm. i) Trestného poriadku, Najvyšší súd Slovenskej
+republiky má za to, že je nadbytočné a predčasné riešiť iné dovolacie námietky obvineného.
+Najvyšší súd Slovenskej republiky preto podľa § 386 ods. 1 Trestného poriadku vyslovil porušenie zákona, podľa § 386 ods. 2 zrušil uznesenie krajského súdu a podľa § 388 ods. 1 prikázal odvolaciemu súdu vec opätovne prerokovať a rozhodnúť.
+
+
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
