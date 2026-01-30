@@ -15,7 +15,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-30]_
 - **Dátum rozhodnutia:** 2020-03-31
 - **Typ rozhodnutia:** Uznesenie
 - **Stupeň:**
-- **Tagy:** #dopravna_nehoda #usmrtenie #odbočovanie_vľavo #nedanie_prednosti #dovolanie #reformatio_in_peius #in_dubio_pro_reo
+- **Tagy:** #dopravna_nehoda #usmrtenie #odbocovanie_vlavo #nedanie_prednosti #dovolanie #reformatio_in_peius #in_dubio_pro_reo
 
 ## Skutkový stav
 Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letiska M. R. Štefánika) obvinená ako vodička osobného motorového vozidla Honda CR-V sa plne nevenovala vedeniu vozidla a situácii v cestnej premávke a pri odbočovaní vľavo nedala prednosť v jazde protiidúcemu motocyklu Piaggio VESPA GTS 300, ktorý viedol poškodený Bc. B. E.; došlo k zrážke (pri pravom okraji jazdného pruhu určeného pre priamy smer). Poškodený utrpel závažné poranenia nezlučiteľné so životom a zomrel 16. júla 2014 o 08:05 hod.
@@ -210,7 +210,7 @@ Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm.
 ## Téma a kategorizácia
 - **Téma:** priestupky v cestnej premávke / správne trestanie / správne súdnictvo (kasačné konanie)
 - **Podtéma:** predchádzanie pred križovatkou; príčinná súvislosť; spoluzavinenie a jeho právna relevancia; preskúmateľnosť odôvodnenia; primeranosť sankcie
-- **Tagy:** ##priestupok #cestna_premavka #dopravna_nehoda #predchadzanie #krizovatka #spoluzavinenie #znalecky_posudok #kasačna_staznost #SSP 
+- **Tagy:** ##priestupok #cestna_premavka #dopravna_nehoda #predchadzanie #krizovatka #spoluzavinenie #znalecky_posudok #kasacna_staznost #SSP 
 
 ## Právne vety / kľúčové závery (max 3–6 bodov)
 - (1) Skutková podstata § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. je naplnená, ak osoba poruší predpis cestnej premávky a v dôsledku toho vznikne dopravná nehoda; na zodpovednosť postačuje nedbanlivosť (§ 3 zákona o priestupkoch). 
@@ -444,7 +444,7 @@ Odvolací súd rozhodoval o odvolaniach prokurátora a obžalovaného proti rozs
 ## Téma a kategorizácia
 - **Téma:** trestné právo – dopravná trestná činnosť (usmrtenie v súvislosti s cestnou premávkou) 
 - **Podtéma:** odvolanie len proti trestu; primeranosť trestu zákazu činnosti; význam miesta zrážky v blízkosti priechodu; spoluzavinenie chodca v trestnej sankcii; limity odvolacieho prieskumu a dopad vyhlásenia obžalovaného o vine 
-- **Tagy:** #usmrtenie #dopravna_nehoda #chodec #zákaz_činnosti #odvolanie #primeranosť_trestu #§149TZ #Tr_por
+- **Tagy:** #usmrtenie #dopravna_nehoda #chodec #zakaz_cinnosti #odvolanie #primeranost_trestu #§149TZ #Tr_por
 
 ## Právna veta / právny záver (abstrakt)
 Pri ukladaní trestu zákazu činnosti vodiča za dopravný trestný čin s následkom smrti musí súd dôsledne vychádzať z účelu trestu (§ 34 Tr. zák.) a z povahy porušenej povinnosti vodiča, najmä ak k zrážke došlo v bezprostrednej blízkosti priechodu pre chodcov, kde sa vyžaduje zvýšená opatrnosť voči zraniteľným účastníkom. Ak je trest zákazu činnosti neprimerane mierny vzhľadom na okolnosti skutku a prevenciu, odvolací súd môže oddeliteľný výrok o tomto treste zrušiť a uložiť prísnejší trest, aj pri nezmenených výrokoch o vine a iných trestoch.
@@ -614,7 +614,7 @@ Išlo o dopravnú nehodu pri odbočovaní vľavo, keď motocyklista (pri predbie
 ## Téma a kategorizácia
 - **Téma:** trestné právo – dopravná nehoda – nedbanlivosť vodiča pri odbočovaní
 - **Podtéma:** princíp obmedzenej dôvery v doprave; štandard dokazovania zavinenia; in dubio pro reo; vyhodnotenie spoluzavinenia poškodeného
-- **Tagy:** #dopravna_nehoda #odbočovanie_vlavo #predbiehanie #nedbalost #princip_obmedzenej_dôvery #in_dubio_pro_reo #spravodlivy_proces
+- **Tagy:** #dopravna_nehoda #odbocovanie_vlavo #predbiehanie #nedbalost #princip_obmedzenej_dovery #in_dubio_pro_reo #spravodlivy_proces
 
 ## Právna veta / právny záver (abstrakt)
 Pri nedbanlivostnom trestnom čine v doprave musí súd konkrétnymi skutkovými zisteniami preukázať, že obvinený nezachoval potrebnú mieru opatrnosti (objektívne aj subjektívne hľadisko), a nemôže vyvodiť vinu len „ex post“ z faktu, že k nehode došlo; zároveň nemožno ukladať vodičovi povinnosť kalkulovať s úmyselným, hrubým porušovaním pravidiel premávky iným účastníkom, pokiaľ tomu nenasvedčujú konkrétne okolnosti.
@@ -753,7 +753,7 @@ Vec sa týka dopravnej nehody na priechode pre chodcov, pri ktorej vodič (obvin
 ## Téma a kategorizácia
 - **Téma:** trestné právo procesné – dovolanie – nezákonné zloženie súdu / zákonný sudca
 - **Podtéma:** ex lege vylúčenie sudcu (§ 31 ods. 4 TP); dôsledky nezákonného obsadenia; rozsah dovolacieho prieskumu; (sekundárne) porušenie dôležitej povinnosti vodiča (§ 157 ods. 2 písm. a) TZ)
-- **Tagy:** #nezákonné_zloženie_súdu #zákonný_sudca #vylúčenie_sudcu #dovolanie #dopravná_nehoda #maloletý_chodec #§31_TP #§371_TP
+- **Tagy:** #nezakonne_zlozenie_sudu #zakonny_sudca #vylučenie_sudcu #dovolanie #dopravna_nehoda #malolety_chodec #§31_TP #§371_TP
 
 ## Právna veta / právny záver (abstrakt)
 Ak sa sudca zúčastnil na rozhodovaní na súde nižšieho stupňa, je ex lege vylúčený z rozhodovania na súde vyššieho stupňa v tej istej veci (§ 31 ods. 4 TP). Účasť takéhoto sudcu v odvolacom senáte zakladá nezákonné zloženie súdu (§ 371 ods. 1 písm. b) TP), čo vedie k zrušeniu rozhodnutia odvolacieho súdu a k opätovnému prejednaniu veci v zákonnom zložení. 
