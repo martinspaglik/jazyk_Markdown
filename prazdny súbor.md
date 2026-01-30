@@ -19,6 +19,8 @@
 - **Podtéma:** [napr. premlčanie / dôkazné bremeno / doručovanie / neprípustnosť ...]
 - **Tagy:** #dopravná_nehoda #nahrada_skody #zrazena_chodkyna 
 
+## Právna veta / právny záver (abstrakt)
+
 ## Právne vety / kľúčové závery (max 3–6 bodov)
 - (1) [Najdôležitejší právny záver jednou vetou.]
 - (2) [Druhý záver.]
@@ -57,6 +59,8 @@
 - **Výrok I:** [stručne]
 - **Výrok II:** [stručne]
 - **Trovy:** [stručne]
+
+## Skutkový stav
 
 ## Odôvodnenie
 ---ODOVODNENIE:ZACIATOK---
