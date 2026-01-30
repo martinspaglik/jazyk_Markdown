@@ -766,12 +766,12 @@ Ak sa sudca zúčastnil na rozhodovaní na súde nižšieho stupňa, je ex lege 
 
 ## Použité ustanovenia
 - **Hmotné právo:**
-    -  Trestný zákon:
+  -  *Trestný zákon:*
       -  § 157 ods. 1, ods. 2 písm. a) (ublíženie na zdraví) v spojení s § 138 písm. h) (porušenie dôležitej povinnosti) 
       -  § 36 písm. j) (poľahčujúce okolnosti), § 38 ods. 2, ods. 3, § 49 ods. 1 písm. a), § 50 ods. 1, § 61 ods. 1, ods. 2 (uložený trest a zákaz činnosti – v rozhodnutí opísané v procesnom kontexte) 
   -  Zákon č. 8/2009 Z. z. o cestnej premávke: § 4 ods. 1 písm. e), písm. f) (porušenie povinností vodiča – skutkový základ) 
 - **Proces:**
-  -  Trestný poriadok:
+  -  *Trestný poriadok:*
     -  § 31 ods. 4 (vylúčenie z rozhodovania na vyššom stupni) 
     -  § 371 ods. 1 písm. b) (dovolací dôvod – nezákonné zloženie súdu) 
     -  § 386 ods. 1, ods. 2 (vyslovenie porušenia zákona; zrušenie napadnutého rozhodnutia), § 388 
