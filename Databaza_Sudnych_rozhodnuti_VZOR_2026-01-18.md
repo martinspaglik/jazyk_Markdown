@@ -591,4 +591,142 @@ Najdôležitejšou zásadou je umenie zachovať pokoj a nestrácať rozvahu. Pod
 
 <!-- DECISION:END -->
 
+<!-- DECISION:BEGIN spis=IV. ÚS 3159/15 -->
+
+# DN – Odbočovanie – Predchádzanie
+
+# Rozhodnutie: R8 – Ústavný súd ČR – IV. ÚS 3159/15 – 2016-10-25
+## Identifikácia
+- **ID:** R8
+- **Súd:** Ústavný súd Českej republiky 
+- **Spisová značka:** IV. ÚS 3159/15
+- **Dátum rozhodnutia:** 2016-10-25
+- **Typ rozhodnutia:** nález
+- **Stupeň:** ústavné konanie (ústavná sťažnosť proti rozhodnutiam všeobecných súdov)
+- **Strany (anonymizované):**
+-  Sťažovateľ: M. Š. (obvinený/odsúdený) 
+-  Napadnuté akty: NS ČR (4 Tdo 862/2015-25), KS Ostrava (6 To 41/2015-405), OS Frýdek-Místek (2 T 106/2014-362)
+
+## Kontext prípadu (1–3 vety)
+
+Išlo o dopravnú nehodu pri odbočovaní vľavo, keď motocyklista (pri predbiehaní kolóny v zákaze predbiehania a za ďalších porušení) narazil do vozidla sťažovateľa; sťažovateľ bol všeobecnými súdmi uznaný vinným z ťažkého ublíženia na zdraví z nedbanlivosti. Ústavný súd zrušil rozhodnutia všetkých troch stupňov, lebo záver o nedbanlivostnom zavinení sťažovateľa bol vyvodený bez dostatočnej opory v dokazovaní a v rozpore s požiadavkami spravodlivého procesu.
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – dopravná nehoda – nedbanlivosť vodiča pri odbočovaní
+- **Podtéma:** princíp obmedzenej dôvery v doprave; štandard dokazovania zavinenia; in dubio pro reo; vyhodnotenie spoluzavinenia poškodeného
+- **Tagy:** #dopravna_nehoda #odbočovanie_vlavo #predbiehanie #nedbalost #princip_obmedzenej_dôvery #in_dubio_pro_reo #spravodlivy_proces
+
+## Právna veta / právny záver (abstrakt)
+Pri nedbanlivostnom trestnom čine v doprave musí súd konkrétnymi skutkovými zisteniami preukázať, že obvinený nezachoval potrebnú mieru opatrnosti (objektívne aj subjektívne hľadisko), a nemôže vyvodiť vinu len „ex post“ z faktu, že k nehode došlo; zároveň nemožno ukladať vodičovi povinnosť kalkulovať s úmyselným, hrubým porušovaním pravidiel premávky iným účastníkom, pokiaľ tomu nenasvedčujú konkrétne okolnosti.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+-  Nullum crimen sine culpa: bez zavinenia (úmysel/ nedbanlivosť) nemôže ísť o trestný čin; pri § 147 ods. 1 TZ treba preukázať vedomú/nevedomú nedbanlivosť podľa § 16 ods. 1 TZ. 
+-  Potrebná miera opatrnosti sa hodnotí spojením objektívneho (pravidlá cestnej premávky) a subjektívneho hľadiska (možnosť a schopnosť predvídať následok u konkrétnej osoby). 
+-  Princíp obmedzenej dôvery v doprave: vodič sa môže spoliehať, že ostatní dodržia pravidlá, ak z konkrétnych okolností nevyplýva opak; všeobecné súdy sa nedostatočne zaoberali primeranosťou tohto spoliehania. 
+-  Ak podstatnú príčinu následku tvorí úmyselné a hrubé porušenie pravidiel poškodeným, nemožno vinu obvineného postaviť len na tom, že „nebral do úvahy protiprávnosť“ konania poškodeného. 
+-  Záver o tom, že obvinený „nevěnoval zvýšenou pozornost“, musí mať konkrétnu dôkaznú oporu; nestačí spätná konštrukcia typu „keď došlo k zrážke, musel pochybiť“. 
+-  Pri dôvodných pochybnostiach, ktoré neboli odstránené, súdy musia rešpektovať in dubio pro reo; v tomto prípade súdy vyvodili vinu bez pripustenia pochybností napriek limitom znaleckých záverov. 
+
+## Použité ustanovenia
+- **Iné zdroje:**
+    -  NS (napr. 5 Tdo 10/2008; 5 Tdo 540/2012; 6 Tdo 92/2014; historicky 3 Tz 20/81; 4 Tz 9/86) 
+    -  NSS: 7 As 91/2012–62 (k príčine nehody a extrémnemu prekročeniu rýchlosti) 
+    -  ÚS: I. ÚS 733/01; IV. ÚS 36/98 (k in dubio/pro prezumpcii neviny)
+    
+## Skutkový stav (stručne, vecne)
+- Dopravná nehoda nastala na križovatke po rovnom prehľadnom úseku mimo obce, s dopravným značením zákazu predbiehania (zvislé aj vodorovné). 
+-  Motocyklista predbiehal kolónu vozidiel (auto sťažovateľa, ďalšie nezistené osobné auto, nákladné vozidlo) v čase, keď sťažovateľ signalizoval odbočenie vľavo a spomaľoval; jedno vozidlo ho podľa zistení prešlo sprava. Pri odbočovaní sťažovateľa vľavo motocyklista narazil do zadnej časti jeho auta a utrpel závažné poranenie hlavy s trvalými následkami. 
+- Súdmi konštatované porušenia motocyklistu: predbiehanie v zákaze, prekročenie rýchlosti, jazda pod vplyvom alkoholu (zistené 0,44 ‰), a potenciálne aj ďalšie povinnosti pri predbiehaní (§ 17). 
+- Nosné pre záver o vine sťažovateľa bolo tvrdenie, že v posledných cca 5 sekundách pred nárazom mal mať možnosť motocyklistu zaregistrovať v spätnom zrkadle, no „nevěnoval situaci za sebou“ dostatočnú pozornosť. ÚS spochybnil, že to bolo preukázané „mimo pochybnosť“. 
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Bolo možné na základe vykonaného dokazovania bez dôvodných pochybností uzavrieť, že sťažovateľ konal nedbanlivo (subjektívne aj objektívne)? 
+2. Ako sa má v situácii odbočovania uplatniť princíp obmedzenej dôvery – musí vodič počítať aj s úmyselným hrubým porušovaním pravidiel iným účastníkom? 
+3. Rešpektovali všeobecné súdy in dubio pro reo a povinnosť dôsledne zhodnotiť všetky relevantné okolnosti (vrátane vplyvu slnka, polohy vozidiel, možných ďalších dôkazov)?
+
+### Argumentácia súdu (výber)
+- Nedbanlivosť = konkrétne zistenia, nie ex post konštrukcia: zanedbanie potrebnej miery opatrnosti treba vyvodzovať z konkrétnych skutkových okolností preukázaných v konaní; samotný škodlivý následok ešte nedokazuje pochybenie. 
+- Primeranosť spoliehania sa (obmedzená dôvera): všeobecné súdy síce pracovali s judikatúrou, ale nedostatočne riešili, či mal sťažovateľ konkrétny dôvod predvídať, že bude predbiehaný motocyklistom v zákaze; výklad, ktorý fakticky ukladá povinnosť rátať s úmyselným porušením pravidiel inými, ÚS odmietol. 
+- Významné okolnosti neboli riadne vyšetrené: ÚS poukázal na možné vplyvy (napr. nezistené vozidlo predbiehajúce sprava, slnko proti smeru jazdy, trasovanie cesty), potrebu výsluchu kľúčového svedka (vodič nákladného vozidla) a možnosť vykonať vyšetrovací pokus. 
+- In dubio pro reo a limity znaleckých posudkov: znalci pracovali aj s odhadmi a pravdepodobnostnými závermi; napriek tomu súdy vyvodili istotu o vine bez pripustenia pochybností – ÚS to označil za problém spravodlivého procesu. 
+- Úmyselné porušenia poškodeného môžu mať vyviňujúci efekt: ak súdy samy konštatujú, že dominantný vplyv na vznik následku malo úmyselné protiprávne konanie poškodeného, nemožno uzavrieť vinu obvineného len preto, že „nebol dostatočne obozretný“ voči takému konaniu. 
+
+## rávna argumentácia
+# Právna veta / právny záver
+- V trestných veciach dopravných nehôd nemožno uznať vinným z nedbanlivosti bez toho, aby súd oprel záver o konkrétne preukázané skutkové okolnosti preukazujúce zanedbanie potrebnej miery opatrnosti; vodič sa spravidla môže spoliehať na dodržiavanie pravidiel inými účastníkmi (obmedzená dôvera), a súdy musia starostlivo posúdiť primeranosť tohto spoliehania a rešpektovať in dubio pro reo. 
+# Záver súdu
+Ústavný súd vyhovel ústavnej sťažnosti a zrušil rozhodnutia NS, KS a OS, pretože nimi bolo porušené právo sťažovateľa na spravodlivý proces podľa čl. 36 ods. 1 Listiny, najmä pre extrémne vadný záver o existencii nedbanlivostného zavinenia bez adekvátnej opory v dokazovaní.
+
+## Otázka spoluzavinenia
+Princíp obmedzenej dôvery v doprave však v prejednávanom konaní dodržaný nebol. Ako je z uznesenia Najvyššieho súdu zrejmé, vychádzal aj zo svojho rozsudku sp. zn. 5 Tdo 10/2008, podľa ktorého „…nemožno po vodičovi vozidla požadovať, aby sa pri odbočovanie nepretržite či priebežne pozeral za seba a nevenoval sa náležite odbočovaciemu manévru, ako aj nesledoval, čo sa deje v smere jeho jazdy. Pritom je nutné zdôrazniť, že vozidlá idúce za odbočujúcim vozidlom, ktoré má riadne zapnutý smerový ukazovateľ ohlasujúcu zmenu smeru jazdy, si majú počínať tak, aby na túto zmenu stihli za normálnych okolností zareagovať včas.“ Avšak sám Najvyšší súd konštatoval: „…skutočnosť, že iná osoba porušila predpisy o premávke na pozemných komunikáciách a vlastným zavinením vytvorila nebezpečnú situáciu, neospravedlňuje vodiča, ak sám porušil povinnosť stále ovládať vozidlo a počínať si tak, aby doprava nebola ohrozená. Otázka spoluzavinenia je otázkou primeranosti dôvodov spoliehania sa vodiča na dopravné disciplína ostatných účastníkov cestnej premávky v zmysle § 5 písm. a) zák. č. 361/2000 Zb., o premávke na pozemných komunikáciách a jej správne riešenie je podmienené starostlivým objasnením okolností konkrétneho prípadu.“ Práve otázkou primeranosti sa však súdy v danej veci dostatočne nezaoberali.
+
+Záver o vine by v tomto prípade pripadal do úvahy iba za situácie, kedy by sťažovateľ mal na základe konkrétnych skutočností vedomosť o tom, že sa za ním pohybuje motocykel. Vodič osobného motorového vozidla môže v súlade s princípom obmedzené dôvery v doprave spoliehať na to, že ak s dostatočným predstihom (riadne) dáva ostatným účastníkom cestnej premávky najavo svoju vôľu odbočiť vľavo, a overil si už, že neexistuje prekážka, ktorá by mu v tom bránila, môže v odbočovacom manévri pokračovať. Výklad, ktorý vykonali všeobecné súdy, dovozujúce porušenie povinnosti sťažovateľom v konkrétnom prípade, znamená, že povinnosť dbať na zvýšenú opatrnosť stanovenú v § 21 pravidiel cestnej premávky, treba interpretovať tak, že vodič musí zohľadniť aj možné úmyselné porušenie pravidiel inými účastníkmi cestnej premávky [táto IV. ÚS 3159/15 5 interpretácia ukladá povinnosť neplynúcu priamo zo zákona (článok 2 ods. 3 charty), a súčasne zakladá nerovnosť v právach a povinnostiach (článok 1 a článok 37 ods. 3 charty)]. Ak je trestne stíhaná osoba za nedbalostný trestný čin a súdy súčasne dospejú k záveru, že podstatnejší vplyv na vznik škodlivého následku malo úmyselne protiprávne konanie poškodeného, pričom nedbalosť je dovozená len z toho, že obžalovaný si nepočínal dostatočne obozretne, pretože nevzal do úvahy protiprávnosť konania poškodeného, nie je možné urobiť záver o vine tak, ako to urobili všeobecné súdy v prejednávanom prípade.
+
+Odbočovanie vľavo patrí medzi najťažšie dopravné manévre pri jazde vozidlom. Vodič musí zohľadniť situáciu nielen vo svojom smere jazdy, ale aj v protismere, rovnako pohyb chodcov aj ostatných účastníkov premávky v priestore, kam chce odbočiť a ku ktorému sa ešte len približuje. V konkrétnom prípade je potom nutné vziať do úvahy aj to, že nezistené vozidlo, ktoré sa pohybovalo priamo za sťažovateľom, ho zrejme práve v inkriminovanom okamihu predbiehalo sprava, čo je manéver menej obvyklý, ale tiež významný, a sťažovateľ mu musel v danej chvíli venovať pozornosť, pretože sa odohrával v jeho bezprostrednej blízkosti (na druhej strane). Na posúdenie tohto vplyvu by mohla pomôcť výpoveď svedka, dnes zrejme jediného zistiteľného nezúčastneného pozorovateľa, vodiča nákladného vozidla, ktorý k veci podal iba vysvetlenie pri šetrení dopravnej nehody. Vplyv na situáciu mohlo ovplyvniť aj trasovanie cesty. K dopravnej nehode došlo v čase 12.01 hod. SELČ (3. augusta 2013), pričom vozidlá sa pohybovali po ceste smerom na juh; bol slnečný jasný deň, je evidentné, že slnko svietilo proti pohybu účastníkov dopravnej nehody a jeho svit, prípadne odraz, tak mohol na dopravnej situácii mať svoj vplyv. Posúdenie konkrétnej situácie by pomohlo vykonaniu vyšetrovacieho pokusu, nevykonaného úkonu, obvyklého v obdobných prípadoch, ktorý by bol sto preukázať skutočné možnosti sťažovateľa zaregistrovať blížiaceho sa poškodeného.
+
+K zoznamu nesprávneho konania poškodeného je pritom potrebné navyše pripísať aj ďalšie, súdy nezohľadnené povinnosti, ktoré mohol poškodený porušiť. Podľa ustanovenia § 17 zákona o cestnej premávke platí, že „vodič, ktorý pri predbiehaní vybočuje zo smeru svojej jazdy, musí dávať znamenie o zmene smeru jazdy …“ (ods. 2); podľa ods. 5 potom platí: „Vodič nesmie predbiehať a) ak nemá pred seba rozhľad na takú vzdialenosť, ktorá je potrebné na bezpečné predbehnutie, b) ak by sa nemohol bezpečne zaradiť pred vozidlo alebo vozidlá, ktoré chce predbehnúť, c) ak by ohrozil alebo obmedzil protiidúcich vodičov alebo ohrozil iných účastníkov prevádzky na pozemných komunikáciách, … e) ak dáva vodič vpredu idúceho vozidla znamenie o zmene smeru jazdy vľavo a ak nie je možné predbehnutie vpravo podľa odseku 1 alebo predbehnutie v ďalšom voľnom jazdnom pruhu vyznačenom na vozovke v tom istom smere jazdy…“. Ako už bolo uvedené, vodič nákladného vozidla zaregistroval predbiehanie motocyklom v čase, keď pred ním idúce vozidlá brzdili (príprava sťažovateľa na odbočovanie); aj ak by predbiehací manéver poškodeného nezačal až potom, respektíve v dôsledku začatia odbočovania sťažovateľa v širšom slova zmysle, nemožno povinnosti vodiča pri predbiehaní pominúť. Povinnosti poškodeného spojené s predbiehaním však v konaní skúmané neboli, hoci na posúdení veci mohli mať značný vplyv. 21. 
+
+Zo znaleckých posudkov je zrejmé, že znalci dospeli k svojim záverom na základe výsledných polôh a stavu nákladného automobilu, nabúraného automobilu, motocykla, tela poškodeného a niekoľkých ďalších stôp, pričom vykonali fyzikálne matematické výpočty založené na empirických poznatkoch. Z toho vyvodili pravdepodobné rýchlosti, časy, smerovanie a polohy jednotlivých účastníkov dopravnej nehody; pripustili, že niektoré východiskové údaje dosadili odhadom (napríklad rýchlosť motocykla) a môžu byť do istej miery pochybné. Súdy však zo skutočnosti, že došlo k dopravnej nehode, vyvodili záver o vine sťažovateľa bez toho, aby pripustili akúkoľvek pochybnosť, čím však nerešpektovali princíp in dubio pre reo, podľa ktorého „...ak nie je v dôkaznom konaní dosiahnutá praktická istota o existencii relevantných skutkových okolností, tj ak sú prítomné v danom kontexte dôvodné pochybnosti, ktoré nemožno odstrániť ani vykonaním ďalšieho dôkazu, treba rozhodnúť v prospech obvineného“ (porovnaj nález sp. zn. I. ÚS 733/01, in N 26/32 ZbNU 239, tiež http://nalus.usoud.cz). Akokoľvek vysoký stupeň podozrenia sám o sebe nie je spôsobilý vytvoriť zákonný podklad pre odsudzujúce výrok a princípy zodpovednosti za zavinenie a prezumpciu neviny nemožno navyše izolovať (porov. nález sp. zn. IV. ÚS 36/98 in N 54/11 ZbNU 43, tiež http://nalus.usoud.cz). Uvedené princípy sa premietajú aj do jednotlivých ustanovení trestného poriadku a všeobecné súdy sú zaviazané ich bezpodmienečne rešpektovať.
+
+## Zanedbanie potrebnej miery obozretnosti
+Zanedbanie potrebnej miery obozretnosti (ako domnienky zavinenia z nedbanlivosti) však treba vyvodiť z konkrétnych skutkových okolností riadne preukázaných dôkazným konaním pred všeobecnými súdmi. Nemožno to urobiť len na základe retroaktívneho posúdenia, podľa ktorého sa v prípade škodlivého následku automaticky zanedbal potrebný stupeň obozretnosti. Súdne rozhodnutie, ktorým je osoba uznaná vinnou z trestného činu nedbanlivosti, preto musí zahŕňať starostlivé posúdenie všetkých okolností, ktoré viedli súd k záveru, že táto osoba nevynaložila náležitú starostlivosť, a preto konala zavinene. 
+
+Súdy musia starostlivo preskúmať, či sťažovateľ vôbec nevenoval pozornosť tomu, čo sa deje za ním, alebo sa spoliehal na skutočnosť, že v bezpečnom odbočení mu nebránila žiadna prekážka – v situácii, keď viditeľní účastníci cestnej premávky reagujú na jeho prípravu na odbočovací manéver. Ak sťažovateľ podnikol potrebné kroky so zvýšenou opatrnosťou predtým, ako začal odbočovať, nemožno mu vyčítať, že nepredpokladal, že vodič, ktorý porušuje niekoľko pravidiel cestnej premávky, jazdí hrubým spôsobom. Opak by viedol k absurdnému záveru, že každý vodič musí vždy a za každých okolností brať do úvahy, že IV. ÚS 3159/15 7 ostatní účastníci cestnej premávky nedodržiavajú jeho pravidlá; Takýto záver by však bol v rozpore s účelom platných pravidiel cestnej premávky. V tejto súvislosti je možné citovať napríklad z rozsudku Najvyššieho správneho súdu zo dňa 20.12.2012, ref. č. 7 As 91/2012 – 62: "Príčina dopravnej nehody spočívajúca v zrážke vozidla idúceho po hlavnej ceste s vozidlom idúcim po vedľajšej ceste, ktorá križuje hlavnú cestu, je v podstate to, že vodič vozidla idúceho po vedľajšej ceste nedáva prednosť vozidlu idúcemu po hlavnej ceste. Vo výnimočných prípadoch môže byť príčinou dopravnej nehody správanie vodiča vozidla idúceho po hlavnej ceste, konkrétne ak vodič vozidla idúceho po hlavnej ceste prekročí maximálnu povolenú rýchlosť a zároveň rýchlosť vozidla idúceho po hlavnej ceste prakticky znemožňuje vodičovi vozidla blížiaceho sa po vedľajšej ceste splniť si povinnosť dať prednosť v jazde. Skutková nemožnosť splniť si povinnosť sa musí posudzovať s prihliadnutím na osobitné okolnosti miesta, kde došlo ku konfliktu. Rozhodujúcimi okolnosťami bude teda najmä to, do akej miery je voľný priestor pre vodiča prichádzajúceho na vedľajšiu cestu a do akej miery mu umožňuje vidieť vozidlá blížiace sa po hlavnej ceste v dostatočnom predstihu a zohľadniť ich (prípadne výrazne nadlimitnú) rýchlosť."
+
+## Záver
+---ZAVER:ZACIATOK---
+
+Orgány činné v trestním řízení mají úřední povinnost zjišťovat skutkový stav
+věci, o němž nejsou důvodné pochybnosti, a to v rozsahu, který je nezbytný pro jejich
+rozhodnutí (§ 2 odst. 4, odst. 5 trestního řádu). Z ústavního principu presumpce neviny
+zakotveného v článku 40 odst. 2 Listiny vyplývá pro obecné soudy povinnost při
+rozhodování o vině zvažovat i takovou verzi případu, která důvodně připouští, že
+vzhledem ke skutkovým okolnostem mohlo dojít ke způsobení škodlivého následku bez
+zavinění; pouze tak mohou obecné soudy dostát požadavkům článku 36 odst. 1 Listiny,
+jenž obviněným osobám zaručuje právo na soudní ochranu.
+
+Součástí soudního rozhodnutí, v němž je osoba uznána vinnou nedbalostním
+trestným činem, proto musí být pečlivé zhodnocení všech okolností, které soud vedly
+k závěru, že tato osoba náležitou opatrnost nezachovala, a jednala tedy zaviněně. Soudy
+musí v tomto smyslu zkoumat jak objektivní, tak subjektivní hledisko potřebné míry
+opatrnosti, tedy povinnost i možnost obviněného předvídat následek. Pokud soudy mají
+za to, že stěžovatel nevěnoval odbočování zvýšenou pozornost, je třeba, aby prokázaly
+konkrétní pochybení, kterého se měl stěžovatel dopustit, případně zvážit, zda podstatně
+závažnější a úmyslné porušení pravidel silničního provozu poškozeným nemůže
+stěžovatele vyvinit.
+
+Úkolem soudů bude nyní prověřit, zda stěžovatel, ve smyslu podmínek
+nedbalostního zavinění, mohl a měl předejít dopravní nehodě, zda v konkrétním případě
+byla objektivně dána možnost předpokládat, že je předjížděn a zda měl povinnost
+předpokládat, že jiný účastník úmyslně porušuje pravidla silničního provozu. Bude na
+soudu, aby provedl důkazy způsobilé prokázat, že stěžovatel odbočování vůbec
+nevěnoval zvýšenou opatrnost, případně zda nemohl i přes přímou viditelnost
+poškozeného přehlédnout, ať s ohledem na místní podmínky (vyšetřovacím pokusem),
+nebo skutečnost, že poškozený řádně dával znamení o změně směru jízdy (k tomu by
+mohl být vyslechnut řidič nákladního vozidla). Po takto provedených důkazech bude na
+soudech prokázat mimo vší pochybnost případné zavinění stěžovatele a rozhodnout, zda
+je spravedlivé požadovat, aby veškeré trestněprávní i občanskoprávní důsledky nesl
+pouze on. Ústavní soud soucítí s těžce zdravotně poškozeným řidičem motocyklu i jeho
+rodinnými příslušníky, avšak je třeba si uvědomit, že v tomto případě nejde jen o trestní
+rovinu věci, ale též o navazující rovinu civilní (náhradu škody), která může mít na
+odsouzeného ve věcech tohoto druhu fatálnější dopad než podmíněné odsouzení.
+Především náhrada imateriální újmy na zdraví odvozená od výroku o vině může
+dosáhnout i několika milionů korun a kromě lidského traumatu spojeného s tragickou
+dopravní nehodou navíc ještě dlouhodobě zatěžuje člověka (stěžovatele), který byl
+účastníkem dopravní nehody. Proto musí být vina stěžovatele bezpečně prokázána.
+
+V projednávaném případě Ústavní soud dospěl k závěru, že obecné soudy
+porušily právo stěžovatele chráněné článkem 36 odst. 1 Listiny, neboť dospěly
+k extrémně vadnému závěru o existenci jeho nedbalostního zavinění, aniž by jejich
+závěr vyplýval z jejich skutkových zjištění a provedených důkazů.
+
+Na základě výše uvedených důvodů Ústavní soud ústavní stížnosti zcela
+vyhověl a podle ustanovení § 82 odst. 1 a 3 písm. a) zákona o Ústavním soudu zrušil
+ústavní stížností napadená rozhodnutí.
+
+---ZAVER:KONIEC---
+
+
+<!-- DECISION:END -->
 
