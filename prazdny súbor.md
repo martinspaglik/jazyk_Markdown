@@ -59,14 +59,18 @@
 - **Trovy:** [stručne]
 
 ## Odôvodnenie
----DOVODY:ZACIATOK---
+---ODOVODNENIE:ZACIATOK---
+
 tu vloz text
----DOVODY:KONIEC---
+
+---ODOVODNENIE:KONIEC---
 
 ## Odôvodnenie (výňatok)
----DOVODY_VYNATOK:ZACIATOK---
+---ODOVODNENIE_VYNATOK:ZACIATOK---
+
 ... (tvoj text)
----DOVODY_VYNATOK:KONIEC---
+
+---ODOVODNENIE_VYNATOK:KONIEC---
 
 ## Odborný zdroj / metodika (výňatok)
 ---METODIKA:ZACIATOK---
