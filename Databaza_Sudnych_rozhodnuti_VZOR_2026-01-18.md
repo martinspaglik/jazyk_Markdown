@@ -9,6 +9,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-30]_
 | :--- | :--- | :--- | :--- | :--- |
 | **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusené #vratene |
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovaná predvídateľnosť | #odmietnutie_dovolania |
+| **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 
 ---
 
@@ -1112,13 +1113,31 @@ Vodič je pri označenom priechode pre chodcov povinný počínať si tak, aby c
 4. Ako hodnotiť rozpory medzi znaleckými závermi a výpoveďami strán pri určení možnosti zabránenia nehode.
 
 ## Argumentácia súdu (výber)
+- Odvolací súd vychádzal najmä zo záverov znaleckého posudku, ktorý riešil aj možnosti zabránenia nehode a nevylúčil zavinenie vodiča pri oneskorenej reakcii.
+- Zdôraznil, že priechod pre chodcov je chránený priestor a vodič je povinný prispôsobiť rýchlosť tak, aby chodec s prednosťou nemusel náhle meniť smer alebo rýchlosť.
+- Neakceptoval obranu, že vodič nemohol predvídať vstup chodca, ak išlo o miesto označené priechodom pre chodcov a vodič poškodenú vnímal.
+- Vyhodnotil ako účelové zmeny vo výpovedi obžalovaného a nepovažoval dodatok k znaleckému posudku založený jednostranne na verzii obžalovaného za spôsobilý zmeniť záver o vine.
+- Záver o zamietnutí odvolania oprel o zákonnosť a odôvodnenosť napadnutého rozsudku.
 
-Odvolací súd vychádzal najmä zo záverov znaleckého posudku, ktorý riešil aj možnosti zabránenia nehode a nevylúčil zavinenie vodiča pri oneskorenej reakcii.
+## Odôvodnenie (časť z odôvodnenia)
+---ODOVODNENIE:ZACIATOK---
 
-Zdôraznil, že priechod pre chodcov je chránený priestor a vodič je povinný prispôsobiť rýchlosť tak, aby chodec s prednosťou nemusel náhle meniť smer alebo rýchlosť.
+**Voči chodcovi, ktorý vstúpil do vozovky na vyznačenom prechode, a ktorý mieni cez priechod pre chodcov prejsť, je vodič motorového vozidla povinný sa správať tak, aby neohrozil jeho bezpečnosť, vodič je povinný v zmysle § 4 ods. 1 písm. e) zákona č. 8/2009 osobitne sledovať, či sa tieto osoby zúčastňujú cestnej premávky a zároveň predpokladať, že tieto osoby môžu konať nepredvídateľne, s čím vodič musí bezpochyby vopred počítať.**
 
-Neakceptoval obranu, že vodič nemohol predvídať vstup chodca, ak išlo o miesto označené priechodom pre chodcov a vodič poškodenú vnímal.
+Neobstojí ani obrana obžalovaného o tom, že poškodenú vzhliadol na chodníku pred prechodom pre chodcov, pretože v prípravnom konaní spontánne uviedol, že poškodená stála na priechode pre chodcov, pričom túto rozpornosť odôvodnil len jazykovým výkladom. V prípravnom konaní obžalovaný tiež uviedol to, že poškodenú vzhliadol už približne 20-25 m pred priechodom pre chodcov, nevenoval jej však pozornosť. Na hlavnom pojednávaní už svoju výpoveď aj v tejto časti zmenil tak, že sa na poškodenú stojacu na chodníku pozeral po celý čas jazdy. **Tieto zmeny výpovede odvolací súd považuje za účelové, v snahe docieliť pre obžalovaného priaznivejšie postavenie pokiaľ ide o otázku zavinenia.**
 
-Vyhodnotil ako účelové zmeny vo výpovedi obžalovaného a nepovažoval dodatok k znaleckému posudku založený jednostranne na verzii obžalovaného za spôsobilý zmeniť záver o vine.
+Porušenie povinnosti obžalovaného podľa § 4 ods. 1 písm. f) zákona č. 8/2009 Z. z. v znení neskorších predpisov je dať prednosť chodcovi, ktorý vstúpil na vozovku a prechádza cez priechod pre chodcov. Pojem „dať prednosť“ pritom v zmysle § 2 ods. 2 písm. b) zákona č. 8/2009 Z. z. znamená povinnosť účastníka cestnej premávky počínať si tak, aby ten kto má prednosť, nemusel náhle zmeniť smer alebo rýchlosť pohybu. Preto podľa názoru odvolacieho súdu bolo základnou povinnosťou obžalovaného mať na zreteli, že je jeho právnou povinnosťou dať prednosť poškodenej ako chodkyni na priechode pre chodcov a tomu prispôsobiť aj rýchlosť jazdy pred dopravným značením vyznačeným priechodom pre chodcov. Vyššie uvedený záver potvrdzujú aj závery judikatúry, podľa ktorých „Voči chodcovi, ktorý už vstúpil do vozovky na vyznačenom prechode a správa sa spôsobom stanoveným v ustanovení § 42 ods. 7 vyhl. č. 100/1975 Zb. (mieni cez priechod pre chodcov prejsť), je vodič motorového vozidla povinný sa správať tak, aby neohrozil jeho bezpečnosť. Vodič motorového vozidla si preto nesmie svojou jazdou vynucovať prednosť pred chodcom spôsobom, ktorý ho ohrozuje ani sa spoliehať na to, že chodec mu dá prednosť, pokiaľ to chodec neurobí celkom jednoznačne a bez akýchkoľvek pochybností. (porovnaj rozhodnutie Najvyššieho súdu SSR z 10. 12. 1976 sp. zn. 6 Tz 61/76, prevzaté do Zbierky zákonov SR ako judikát R 13/1978)
 
-Záver o zamietnutí odvolania oprel o zákonnosť a odôvodnenosť napadnutého rozsudku.
+**Pokiaľ ide o povahu dopravného riešenia situácie v mieste dopravnej nehody, treba k tomu uviesť, že v danom prípade o frekventovanú cestu, priechod pre chodcov sa nachádzal bezprostredne pred križovatkou v tvare „T“, rovnako pri potravinách a reštaurácií, ako aj obytnej zóne rodinných domov.** Už len tieto faktory svedčia o tom, že aj napriek maximálnej povolenej rýchlosti v danom úseku bolo potrebné dbať na zvýšenú opatrnosť a predvídať pohyb chodcov ako vozidiel prichádzajúcich z vedľajšej cesty križovatky. **Obžalovaný podľa svojich slov cestu poznal, touto cestou jazdil približne 12 rokov do práce, musel mať vedomosť o pohybe chodcov nielen popri hlavnej ceste ale aj pri prechádzaní cez vozovku. K nehode došlo v čase približne o 14:00 hod, poveternostné podmienky boli priaznivé, viditeľnosť nebola znížená. Obžalovanému nič nebránilo v tom, aby si poškodenú na prechode pre chodcov všimol a umožnil jej bezpečne prejsť cez cestu.** 
+
+Na tomto mieste je potrebné zdôrazniť to, že chodec ako účastník cestnej premávky je sám o sebe zraniteľnejším účastníkom cestnej premávky, oproti vodičovi motorového vozidla, ktorá je chránený samotným vozidlom. O to viac potom treba dbať na ochranu chodcov, keď ide o osoby maloleté, staršie či zdravotne postihnuté, u ktorých už bez ďalšieho možno automaticky predpokladať nepredvídateľnosť ich konania.
+K uvedenému odvolací súd poukazuje aj na závery judikatúry Najvyššieho súdu Českej republiky použiteľné aj na danú trestnú vec, podľa ktorej „Zvýšená ochrana chodce jako účastníka silničního provozu je patrná i z judikatury Ústavního soudu. Ústavní soud v Nálezu ze dne 11. 06. 2015, sp. zn. III. ÚS 674/15 neshledal, že by bylo porušením práv a svobod řidičů, pokud zákonodárce vytváří chráněný prostor (např. přechod přes vozovku), v němž musí řidič bez dalšího přítomnost chodce, jako zásadně slabšího a zranitelnějšího účastníka (přesto však rovněž účastníka silničního provozu též s právy a povinnostmi), předpokládat, nepřesvědčí-li se svými smysly o opaku , tedy není zjevně nespravedlivé požadovat po řidiči, aby předvídal, že chodec vstoupí do vozovky v době, kdy sám nemá o stavu celé vozovky přehled, tedy stanovení povinnosti předvídat náhlý přechod chodce zpoza jiného automobilu, blokujícího polovinu přechodu.“ (porovnaj uznesenie Najvyššieho súdu ČR sp. zn. 3 Tdo/894/2016 zo dňa 27.07.2016)
+
+Vo vzťahu k porušeniu ustanovenia § 4 ods. 1 písm. e) zákona č. 8/2009 Z. z. možno konštatovať to, že zákonodarca pri zakotvení tohto ustanovenia do platného a účinného právneho poriadku nepochybne prezumoval podstatné zníženie, či už fyzických alebo psychických schopnosti maloletých osôb, starších osôb, hendikepovaných osôb či inak oslabených, z ktorého dôvodu v rámci zakotvenia povinností vodiča osobitne uložil povinnosť vodičom dbať zvýšenú opatrnosť aj voči týmto osobám. Táto povinnosť teda znamená, že vodič je povinný osobitne sledovať, či sa tieto osoby zúčastňujú cestnej premávky a zároveň predpokladať, že tieto osoby môžu konať nepredvídateľne, s čím vodič musí bezpochyby vopred počítať. V danom prípade podľa názoru odvolacieho súdu obžalovanému nebránili žiadne objektívne prekážky v možnosti zistiť, že poškodená je maloletou osobou v zmysle § 4 ods. 1 písm. e) zákona č. 8/2009 Z. z., v dôsledku čoho bol obžalovaný osobitne povinný sledovať správanie poškodenej v cestnej premávke a počínať si tak (bezpodmienečne potrebným znížením rýchlosti pred priechodom pre chodcov), aby nedošlo k zraneniu poškodenej.
+
+Vzhľadom na vyššie uvedené tak za žiadnych okolností **nemožno súhlasiť s tým, že poškodená ako maloleté 9 ročné dieťa malo situáciu na ceste a rýchlosť vozidla obžalovaného správne odhadnúť a počínať si tak, aby vstúpila na prechod pre chodcov bezpečne.** Poškodená vstúpila na vozovku v mieste, ktoré požíva oproti vodičom motorových vozidiel (s výnimkou električiek) osobitnú ochranu. Pokiaľ si obžalovaný nebol istý, či poškodená na prechod pre chodcov vstúpiť mieni, z opatrnosti mal rýchlosť znížiť, v ideálnom prípade pred priechodom pre chodcov zastaviť tak, aby maloletú ani len neohrozil.
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
+
