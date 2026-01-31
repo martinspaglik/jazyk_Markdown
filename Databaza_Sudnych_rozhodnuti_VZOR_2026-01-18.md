@@ -10,6 +10,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-30]_
 | **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusené #vratene |
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovaná predvídateľnosť | #odmietnutie_dovolania |
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
+| **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 
 ---
 
@@ -1141,3 +1142,113 @@ Vzhľadom na vyššie uvedené tak za žiadnych okolností **nemožno súhlasiť
 
 <!-- DECISION:END -->
 
+<!-- DECISION:BEGIN spis=6Tdo/587/2015 -->
+
+# Postupenie dovolania velkemu senatu pre spoluzavinenie na krizovatke - DN – Spoluvina na nehode
+# Rozhodnutie: R14 – Nejvyšší soud – 6 Tdo 587/2015 – 2015-07-08
+
+## Identifikácia
+- **ID:** R14
+- **Súd:** Nejvyšší soud
+- **Spisová značka:** 6 Tdo 587/2015
+- **Dátum rozhodnutia:** 2015-07-08
+- **Typ rozhodnutia:** uznesenie
+- **Stupeň:** dovolacie
+- **Strany (anonymizované):**
+  - obvinený (dovolateľ): O. S.
+  - poškodený (usmrtený vodič): M. S.
+  - poškodená: J. S.
+  - poškodená: Ž. S.
+  - poškodená (právnická osoba): Všeobecná zdravotní pojišťovna ČR, Regionální pobočka Hradec Králové
+  - štátny zástupca: Nejvyšší státní zastupitelství
+- **Zdroj / poznámka:** Spoluvina na DN-6 Tdo 587_2015 (1).docx 
+- **Tagy:** #trestne #dovolanie #dopravna_nehoda #usmrtenie_z_nedbanlivosti #spoluzavinenie #prednost_v_jazde #prekrocenie_rychlosti #velky_senat #§143TrZakonik #§20Zakon_6_2002
+
+## Právna veta (Kľúčový záver)
+„povinnost dát přednost v jízdě je vyšší než vyšší stupeň, než je povinnost dodržet limit dovolené rychlosti.“
+
+## Kontext prípadu (1–3 vety)
+V trestnej veci pre prečin usmrtenia z nedbanlivosti po dopravnej nehode na križovatke obvinený podal dovolanie proti uzneseniu Krajský soud v Hradci Králové – pobočka v Pardubicích, ktorým bolo zamietnuté jeho odvolanie. Najvyšší súd podľa § 20 ods. 1 zákona č. 6/2002 Sb. vec obvineného postúpil veľkému senátu trestného kolégia na riešenie právnej otázky kvalifikácie pri podstatnom spoluzavinení poškodeného.
+
+## Argumentačná línia
+- **Obžaloba:** Obžaloba vychádzala z toho, že obvinený ako vodič na hlavnej ceste prekročil povolenú rýchlosť a jeho konanie bolo jednou z príčin zrážky, následkom ktorej poškodený zomrel. Skutok bol kvalifikovaný ako usmrtenie z nedbalosti podľa § 143 ods. 1, 2 tr. zákonníka. 
+- **Obhajoba:** Obvinený namietal, že primárne zodpovedá vodič vychádzajúci z vedľajšej cesty, ktorý nedal prednosť v jazde, a jeho prekročenie rýchlosti nebolo extrémne. Poukazoval na rozpory znaleckých posudkov k rýchlosti a možnosti zabránenia nehode a navrhoval zrušenie rozhodnutí a oslobodenie, prípadne nové prejednanie. 
+- **Súd:** Najvyšší súd považoval za významné, že súdy nižších stupňov konštatovali podstatný (približne 1/2) kauzálny podiel poškodeného, čo spochybňuje použitie kvalifikácie podľa § 143 ods. 2. Keďže senát č. 6 zastával odlišný právny názor než skoršie rozhodnutie senátu č. 4, vec postúpil veľkému senátu.
+
+
+## Skutkový stav
+Dňa 2. 3. 2014 okolo 21:15 hod. na križovatke cesty I/35 s vedľajšími komunikáciami (okr. Ústí nad Orlicí) viedol obvinený dodávkové vozidlo Mercedes Benz po hlavnej ceste. V rozpore s § 18 ods. 1, 3 zákona č. 361/2000 Sb. prekročil rýchlosť o 32 až 44 km/h, a následne narazil do vozidla Fiat Punto vychádzajúceho z pravej vedľajšej komunikácie, ktoré v rozpore s § 22 ods. 1 toho istého zákona odbočovalo vľavo do protismeru. Vodič Fiatu utrpel rozsiahle poranenia a dňa 4. 3. 2014 im podľahol. 
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – usmrtenie z nedbanlivosti pri dopravnej nehode
+- **Podtéma:** prednosť v jazde na križovatke; prekročenie rýchlosti; spoluzavinenie poškodeného a kvalifikovaná skutková podstata
+- **Tagy:** #trestne #dovolanie #dopravna_nehoda #usmrtenie_z_nedbanlivosti #spoluzavinenie #prednost_v_jazde #prekrocenie_rychlosti #velky_senat #§143TrZakonik #§20Zakon_6_2002 (bez diakritiky)
+
+## Právna veta / právny záver (abstrakt)
+Pri zrážke vozidiel na križovatke je pri posudzovaní kvalifikácie podľa § 143 ods. 2 tr. zákonníka významné, či porušenie povinnosti obvineného bolo pre vznik následku úplne rozhodné, najmä ak súdy konštatujú podstatný kauzálny podiel poškodeného. V prípade podstatného spoluzavinenia poškodeného sa v rozhodnutí uvádza úvaha o primeranosti kvalifikácie „len“ podľa § 143 ods. 1 tr. zákonníka a otázka bola postúpená veľkému senátu.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Najvyšší súd podľa § 20 ods. 1 zákona č. 6/2002 Sb. vec obvineného postúpil veľkému senátu trestného kolégia. 
+- (2) Pri strete na križovatke je podľa citovanej judikatúry primárne zodpovedný vodič vychádzajúci z vedľajšej cesty; zodpovednosť vodiča na hlavnej prichádza do úvahy pri extrémnom porušení jeho povinností. 
+- (3) „povinnost dát přednost v jízdě je vyšší než vyšší stupeň, než je povinnost dodržet limit dovolené rychlosti.“ 
+- (4) Súdy nižších stupňov vychádzali z podstatného (približne 1/2) podielu poškodeného na vzniku nehody, čo je relevantné pre posúdenie znaku porušenia dôležitej povinnosti podľa § 143 ods. 2 tr. zákonníka. 
+- (5) Štátny zástupca uviedol, že prekročenie rýchlosti v danom prípade nebolo na úrovni typickej pre porušenie dôležitých povinností a navrhol kvalifikáciu podľa § 143 ods. 1 tr. zákonníka.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  -  zákon č. 40/2009 Sb., trestní zákoník: § 143 ods. 1, 2 
+  -  zákon č. 361/2000 Sb.: § 18 ods. 1, 3; § 22 ods. 1 
+- **Proces:**
+  -  trestní řád: § 256; § 265b ods. 1 písm. g); § 265k; § 265l; § 265n § zákon č. 6/2002 Sb.: § 20 ods. 1 
+- **Iné zdroje:**
+  -  rozhodnutia NS: sp. zn. 7 Tdo 38/2009; 7 Tdo 214/2010; 5 Tdo 1173/2004; 7 Tdo 1156/2010; 4 Tdo 459/2011; 8 Tdo 34/2010; 4 Tdo 947/2012 
+  -  rozhodnutia Sb. rozh. tr.: č. 11/1964; č. 33/1972; č. 45/2005
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obvinený na hlavnej ceste prekročil povolenú rýchlosť a narazil do vozidla vychádzajúceho z vedľajšej cesty, ktoré nedalo prednosť pri odbočovaní vľavo; vodič tohto vozidla zomrel. 
+- Rozhodujúce skutkové zistenia súdu: Vznik nehody súdy spájali s rizikovým spôsobom jazdy oboch vodičov; v odôvodneniach sa uvádza podstatný podiel poškodeného na vzniku nehody (v pomere 1/2). 
+- Podstatné dôkazy (výber):
+  -  znalecké posudky Ing. K. a Ing. M. k rýchlosti a priebehu nehody 
+  -  (následný) znalecký posudok Ing. S. k možnosti zabránenia nehode 
+  -  listinné podklady a zistenia o porušení povinností podľa zákona č. 361/2000 Sb.
+
+ ## Právne posúdenie (jadro)
+
+### Kľúčové otázky
+1. Ako sa má pri § 143 ods. 2 tr. zákonníka zohľadniť podstatné spoluzavinenie poškodeného na vzniku následku. 
+2. Či prekročenie rýchlosti obvineným v danom rozsahu predstavuje porušenie dôležitej povinnosti uloženej podľa zákona. 
+3. Ako zosúladiť rozdielne právne názory senátov Najvyššieho súdu k vplyvu spoluzavinenia na právnu kvalifikáciu.
+
+### Argumentácia súdu (výber)
+- Dovolací súd zdôraznil, že dovolanie slúži na nápravu právnych vád a je viazaný uplatnenými dovolacími dôvodmi. 
+- V rozhodnutí sa uvádza, že pri hodnotení znaku porušenia dôležitej povinnosti je podstatné, či porušenie povinnosti páchateľa bolo úplne rozhodné pre vznik následku, najmä ak konanie poškodeného malo podstatný kauzálny význam. 
+- Štátny zástupca poukázal na judikatúrne kritériá „extrémnosti“ prekročenia rýchlosti (typovo cca 70 %) a navrhol kvalifikáciu podľa § 143 ods. 1. 
+- Keďže senát č. 6 zastával odlišný právny názor než skoršie rozhodnutie senátu č. 4 (sp. zn. 4 Tdo 947/2012), vec postúpil veľkému senátu podľa § 20 ods. 1 zákona č. 6/2002
+
+## Odôvodnenie (časť z odôvodnenia)
+
+---ODOVODNENIE:ZACIATOK---
+
+Protože je podle dovolatele za vzniklý střet vozidel dána odpovědnost poškozeného a jeho překročení povolené rychlosti má pouze omezený význam a může být zohledněno toliko při hodnocení míry vzniklého následku, za který primárně odpovídá řidič vozidla přijíždějícího z vedlejší silnice, navrhl, aby Nejvyšší soud podle § 265k odst. 1 tr. ř. zrušil napadené usnesení Krajského soudu v Hradci Králové pobočka v Pardubicích, jakož i jemu předcházející rozsudek Okresního soudu v Ústí nad Orlicí a podle § 265m tr. ř. obviněného obžaloby zprostil. Pro případ, že by Nejvyšší soud shledal podstatným odstranit rozpor ve znaleckých posudcích, navrhl, aby zrušil obě citovaná rozhodnutí a podle § 265k odst. 2 tr. ř. rovněž všechna další obsahově navazující rozhodnutí a podle § 265 l odst. 1 tr. ř. posledně jmenovanému soudu přikázal, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+
+Pro úplnost státní zástupce poznamenal, že proti porušení důležité povinnosti dovolatele svědčí ivýrazné spoluzavinění poškozeného. Nadnesl však otázku, zda a jak za platného trestníhozákoníku, při neexistenci materiálního znaku a obdoby § 88 odst. 1 bývalého zákona č. 140/1961Sb. (dále jen tr. zák. ), tuto okolnost zohlednit v právní kvalifikaci a připomenul usnesení Nejvyššího soudu ze dne 11. 9. 2012, sp. zn. 4 Tdo 947/2012, v němž je zaujat názor, že současná právní úprava již neumožňuje, aby v případě zjištění spoluzavinění poškozeného byla zmírněna právní kvalifikace jednání obviněného.
+
+Proto povinnost, která se obecně jeví jako důležitá může tento znak v konkrétní věci pozbýt, jestliže se na vzniku škodlivého následku nezanedbatelnou měrou podílel i poškozený. 
+
+Podstatná pro rozhodování dovolacího soudu jsou totiž celková skutková zjištění soudů nižších stupňů stran příčin vzniku dopravní nehody, tj. podílu obou účastníků silničního provozu na jejím vzniku, jak jsou v dovoláním napadených rozhodnutích vyjádřena (v návaznosti na popis skutku v tzv. skutkové větě výroku odsuzujícího rozsudku) v jejich odůvodněních. 
+
+V nich oba soudy zcela transparentně vyjádřily, že příčiny kolize vozidel shledávají v riskantním způsobu jízdy obou řidičů a v nesplnění povinností jim uloženým zákonem [konstatované porušení ustanovení § 18 odst. 1, 3 zák. č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů (dále jen zák. č. 361/2000 Sb. ), obviněným a ustanovení § 22 odst. 1 téhož zákona poškozeným], přičemžpodíl obviněného i poškozeného na kolizi shledávají (implicitně vyjádřeno) na stejné úrovni (v rozsudku není v části odůvodnění výroku o vině explicitně uvedeno, že spoluúčast poškozeného na vzniku nehody je 50%, jak uváděli poškození v odvolání zpracovaném jejich zmocněncem, nicméně takový závěr je dovoditelný z vyjádření nalézacího soudu při odůvodnění výroku o náhradě škody, kde výslovně uvedl, že povinnost obžalovaného k plnění soud korigoval vzhledem ke spoluzavinění poškozeného v poměru 1/2 ). Soud nalézací svůj závěr o spoluodpovědnosti poškozeného za vznik dopravní nehody a z něho vzešlého následku zdravotního vyjádřil na str. 5­6 rozsudku ( Na vzniku následku, tedy smrti poškozeného S. se tak podíleli porušením svých povinností jak obžalovaný, tak samotný poškozený. ), soud odvolací v reakci na podaná odvolání na str. 7 usnesení ( Naopak okresní soud správně dovodil, že se poškozený na vzniku dopravní nehody podílel, že tedy i mezi jeho jednáním a vzniklým následkem existuje přímá příčinná souvislost Tentýž závěr zcela důvodně dovodil i na straně obžalovaného i jeho jednání, tedy překročení rychlosti o 32­44 km/hod bylo příčinou nehody a následného usmrcení poškozeného. ).
+
+Dostatečnou nápravu vytýkaného pochybení nepřineslo ani rozhodnutí soudu odvolacího, který se sice ztotožnil se skutkovým závěrem nalézacího soudu, že kauzální význam obou řidičů pro vznik dopravní nehody byl 50%, avšak v obsahové návaznosti na zdůvodnění nutnost kvalifikovat jednání obviněného jako naplňující zákonný znak porušení důležité povinnosti uložené zákonem poněkud nepřípadně k otázce zavinění obviněného uvedl, že pokud jde o míru zavinění obžalovaného na vzniku dopravní nehody, lze v této části zásadně odkázat i na obsah odvolání poškozených . Nepřípadně proto , že sám konstatoval, že v odvolání poškozených je odmítnuta spoluúčast (spoluodpovědnost) poškozeného na vzniklé dopravní nehodě , což i svou argumentací, podporující zjištění okresního soudu, vyloučil.
+
+Jejich zobecněním lze dospět k poznatku, že judikatura dospěla k názorové shodě, že v případě střetu křižujících se vozidel je zpravidla rozhodujícím jednání řidiče jedoucího po vedlejší pozemní komunikaci. Podle rozhodnutí sp. zn. 7 Tdo 38/2009 za střet vozidel v takovém případě primárně odpovídá řidič, který poruší svou povinnost dát přednost v jízdě. Odpovědnost řidiče jedoucího po hlavní silnici přichází v úvahu v případě extrémní míry porušení jeho povinnosti. Překročení dovolené rychlosti řidičem jedoucím po hlavní silnici může mít pouze omezený význam, a to v podstatě jen z hlediska míry následku vzniklého střetu, za který ovšem primárně odpovídá řidič vozidla přijíždějícího z vedlejší silnice. Ze srovnání povinností obou řidičů přitom vyplývá, že povinnost dát přednost v jízdě je kvalitativně vyšším stupněm povinnosti, než je povinnost dodržet limit dovolené rychlosti. Porušení povinnosti dát přednost v jízdě proto bez dalšího již samo o sobě vede ke zcela bezprostřednímu a reálnému nebezpečí střetu vozidel, protože se vždy týká situace, v níž jde o vztah nejméně dvou vozidel s protínajícím se směrem jízdy. Naproti tomu porušení povinnosti dodržet stanovený rychlostní limit samo o sobě nevede ke vzniku takového nebezpečí a zakládá ho teprve ve spojení s dalšími podmínkami a okolnostmi konkrétní situace v silničním provozu, jakými jsou např. přítomnost dalších účastníků provozu, hustota provozu, viditelnost, přehlednost daného místa či úseku apod. Od těchto zásad se lzevýjimečně odchýlit, pokud to je odůvodněno jednak extrémní mírou porušení povinnosti řidiče jedoucího po hlavní silnici dodržet stanovený rychlostní limit a jednak tím, že rychlost jízdy řidiče jdoucího po hlavní silnici fakticky znemožní řidiči přijíždějícímu po vedlejší silnici splnění povinnosti dát přednost. Shodné zásady vyjadřuje rozhodnutí sp. zn. 7 Tdo 214/2010, v jehož odůvodnění se konstatuje, že obecně vzato je za střet dvou vozidel na křižovatce hlavní silnice s vedlejší silnicí zásadně odpovědný řidič, který do křižovatky vjede z vedlejší silnice, neboť jeho povinností je dát přednost v jízdě vozidlům přijíždějícím po hlavní silnici . Toto rozhodnutí současně zdůrazňuje, že přednost řidiče jedoucího po hlavní silnici tedy nezaniká jen v důsledku toho, že tento řidič jede nedovolenou rychlostí . Z obdobných východisek vychází i rozhodnutí sp. zn. 7 Tdo 1156/2010, které poukazuje na možnost řidiče, který jako jedoucí po hlavní silnici neporuší svoji povinnost dodržet povolenou rychlost extrémní mírou, spoléhat se na princip omezené důvěry.
+
+Z primární odpovědnosti řidiče přijíždějícího po vedlejší silnici vychází i rozhodnutí sp. zn. 5 Tdo 1173/2004 (rozhodnutí publikované pod č. 45/2005 Sb. rozh. tr.), které však počítá při výrazném překročení maximální povolené rychlosti řidičem jedoucím po hlavní pozemní komunikaci s jeho spoluodpovědností, případně přímo odpovědností za případnou kolizi Jestliže řidič přijíždějící po vedlejší silnici nedá přednost v jízdě řidiči přijíždějícímu po hlavní silnici, odpovědnost za jejich střet a případné další následky je zásadně na řidiči, jenž přijel do křižovatky po vedlejší silnici. Jestliže však řidič na hlavní silnici jede rychlostí výrazně překračující maximální povolenou rychlost, čímž řidiči přijíždějícímu do křižovatky po vedlejší silnici znemožní, popř. podstatně ztíží, aby mu dal přednost v jízdě, pak není vyloučena jeho odpovědnost nebo spoluodpovědnost za případnou kolizi. . Výrazné překročení nejvyšší povolené rychlosti považuje za porušení důležité povinnosti uložené řidiči motorového vozidla právními předpisy. V obsahové návaznosti na toto rozhodnutí další rozhodnutí Nejvyššího soudu s přihlédnutím ke konkrétním podmínkám panujícím v místě dopravní nehody a způsobu jízdy havarujících řidičů na možnost viny či spoluzavinění řidiče jedoucího po hlavní silnici poukazují (sp. zn. 3 Tdo 53/2007) nebo ji přímo konstatují (sp. zn. 4 Tdo 459/2011). Pokud má řidič vyjíždějící z vedlejší silnice ztížené výhledové podmínky a přesto vjede do dráhy řidiči jedoucímu po hlavní silnici, nelze bezvýjimečně trvat na závěru, že překročení povolené rychlosti řidičem, který jede po hlavní silnici, má pouze omezený význam pro vznik dopravní nehody. To by totiž znamenalo, že řidič vyjíždějící z vedlejší silnice na hlavní by odbočení v podstatě nikdy nemohl provést. V takovém případě je tudíž třeba výrazné překročení povolené rychlosti vozidla řidiče jedoucího po hlavní silnici považovat za jedinou a zásadní příčinu dopravní nehody. Sama skutečnost, že primárně je třeba v případě kolize vozidel na křižovatce zvažovat odpovědnost řidiče jedoucího po vedlejší pozemní komunikaci, neznamená, že způsob jízdy řidiče vozidla pohybujícího se po silnici hlavní, je nerozhodný (sp. zn. 7 Tdo 688/2011) Obviněný téměř dvojnásobným překročením povolené rychlosti jízdy navodil takový průběh dopravní situace, že vozidlo, které mu jinak mělo dát přednost, nestačilo včas projet křižovatkou, a sám se zbavil možnosti na přítomnost tohoto vozidla v křižovatce adekvátně reagovat. Správné právní posouzení věci je odvislé od důsledného vyhodnocení všech skutkových okolností, které ji vymezují z hlediska své jedinečnosti (tj. při náležitém posouzení jednání řidičů havarovaných vozidel z hlediska jejich kauzálního významu pro vzniklý následek).
+
+Pokud by se právní názor vyslovený v citovaném rozhodnutí měl uplatňovat v této podobě, pak je zřejmé, že důvod k vyvození trestní odpovědnosti dovolatele na podkladě soudy nižších stupňů učiněného zjištění by nevyvstal. Soud prvního stupně totiž učinil závěr (str. 5 rozsudku), že obviněný rychlost jízdy překročil výrazným způsobem, čímž podstatně ztížil poškozenému dát obžalovanému přednost v jízdě . Převedeno do terminologie výše zmíněné, rychlost obviněným řízeného vozidla nedosáhla úrovně, kterou judikatura za extrémní překročení povolené rychlosti pokládá, vlivem zjištěného způsobu jízdy obviněného došlo toliko k podstatnému ztížení možnosti poškozeného splnit zákonem uloženou povinnost, nikoli ke zbavení ho této možnosti.
+
+K takovému posouzení činu i s přihlédnutím ke znalosti místních poměrů obviněným (otázka zavinění) by se podle názoru senátu č. 6 třeba mělo přistoupit i v případě právní kvalifikace soudy zjištěného skutku dovolatele. Uzavřely­li soudy, že obviněný před střetem s vozidlem poškozeného řídil své motorové vozidlo rychlostí nejméně 122 km/h, pak lze konstatovat, že jel rychlostí výrazně překračující maximální povolenou rychlost, a byla­li tato okolnost jednou z podstatných příčin srážky vozidel, pak je třeba dovodit jeho trestní odpovědnost, avšak z důvodu rovněž podstatného spoluzavinění poškozeného, toliko v podobě trestného činu usmrcení z nedbalosti podle § 143 odst. 1 tr. zákoníku.
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
