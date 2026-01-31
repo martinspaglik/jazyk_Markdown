@@ -7,12 +7,12 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 
 | ID | Spisová značka | Hlavná téma | Technický kľúč | Výsledok |
 | :--- | :--- | :--- | :--- | :--- |
-| **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusené #vratene |
-| **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovaná predvídateľnosť | #odmietnutie_dovolania |
+| **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusene #vratene |
+| **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovana predvidatelnost | #odmietnutie_dovolania |
 | **R3** | 2Asan/7/2020 | Predchadzanie pred krizovatkou priestupok| Spoluzavinenie pravne irelevantne | #zamietnute |
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
-| **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | XXXX | #zamietnute #velky_senat |
+| **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
 
 ---
 
