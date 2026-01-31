@@ -1,5 +1,14 @@
-# Databáza súdnych rozhodnutí – ŠABLÓNA
+# Databáza súdnych rozhodnutí z pomôcky
 _Verzia: 1.0 | Aktualizované: [2026-01-30]_
+
+---
+
+## 📊 Index rozhodnutí (Rýchly prehľad)
+
+| ID | Spisová značka | Hlavná téma | Technický kľúč | Výsledok |
+| :--- | :--- | :--- | :--- | :--- |
+| **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusené #vratene |
+| **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovaná predvídateľnosť | #odmietnutie_dovolania |
 
 ---
 
@@ -23,7 +32,7 @@ Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letis
 ## Téma a kategorizácia
 - **Téma:** trestné právo – dopravná kriminalita; prečin usmrtenia z nedbanlivosti; dovolacie konanie
 - **Podtéma:** zákaz zmeny k horšiemu (reformatio in peius) v odvolacom/dovolacom konaní; hranice dovolacieho prieskumu (skutok vs. právo); príčinná súvislosť pri usmrtení z nedbanlivosti
-- **Tagy:** #dopravná_nehoda #dovolanie #reformatio_in_peius #pricinna_suvislost #in_dubio_pro_reo
+- **Tagy:** #dopravna_nehoda #dovolanie #reformatio_in_peius #pricinna_suvislost #in_dubio_pro_reo
 
 ## Právne vety / kľúčové závery (max 3–6 bodov)
 - (1) Dovolanie nie je určené na revíziu skutkových zistení; v rámci § 371 ods. 1 písm. i) Trestného poriadku nemožno právne účinne namietať nesprávnosť skutkových zistení ani hodnotenie dôkazov – dovolací súd je viazaný skutkom zisteným súdmi nižších stupňov.
@@ -67,7 +76,7 @@ Odvolací súd však v zmysle záverov znaleckého posudku ÚSI pripomína, že 
 Ak však poškodený jazdil tak, že sa do jazdného pruhu určeného pre priamy smer jazdy premiestnil z jedného pruhu určeného pre odbočenie vpravo cez pozdĺžnu súvislú čiaru (variant B/), potom technickou príčinou vzniku dopravnej nehody bola súčinnosť nesprávnej techniky jazdy obžalovanej a nesprávna technika jazdy poškodeného.
 Porovnaním uvedených variant, ktoré ustálil ÚSI a sú rovnocenné, keďže zo žiadnych iných vykonaných dôkazných prostriedkov nemožno jednoznačne stanoviť, ktorý z uvedených variant sa skutočne stal, treba prisvedčiť opodstatnenosti odvolacích argumentov obžalovanej, že variant B/ je pre ňu priaznivejší a preto je z nej potrebné vychádzať s ohľadom na zásadu „in dubio pro reo“.
 
-Berúc teda do úvahy pre obžalovanú priaznivejší variant B/, aj v rámci ktorého variantu je nutné prisúdiť jej zodpovednosť za zavinenie v podobe neodvrátenia dopravnej nehody, toto jej konanie nemožno považovať za porušenie dôležitej povinnosti, ktoré je nevyhnutné pre ustálenie právnej kvalifikácie podľa § 149 ods. 2 písm. a/ Tr. zák
+Berúc teda do úvahy pre obžalovanú priaznivejší variant B/, aj v rámci ktorého variantu je nutné prisúdiť jej zodpovednosť za zavinenie v podobe neodvrátenia dopravnej nehody, toto jej konanie nemožno považovať za porušenie dôležitej povinnosti, ktoré je nevyhnutné pre ustálenie právnej kvalifikácie podľa § 149 ods. 2 písm. a/ Tr. zák.
 
 Inak povedané, kolíznu situáciu vytvoril poškodený, pričom zavinenie obžalovanej spočívalo len v tom, že nesprávnou reakciou nedokázala odvrátiť túto kolíznu situáciu, ale nie, že by ju vyvolala.
 
@@ -1026,3 +1035,90 @@ Podľa názoru Ústavného súdu  vodič  motorového vozidla  nemohol predvída
 
 
 <!-- DECISION:END -->
+
+<!-- DECISION:BEGIN spis=3To/65/2020 -->
+
+# Zamietnutie odvolania za zrážku maloletého chodca na priechode
+# Rozhodnutie: R13 – Krajský súd Trnava – 3To/65/2020 – 2021-05-18
+## Identifikácia
+- **ID:** R13
+- **Súd:** Krajský súd Trnava
+- **Spisová značka**: 3To/65/2020
+- **Dátum rozhodnutia:** 2021-05-18
+- **Typ rozhodnutia:** uznesenie
+- **Stupeň:** odvolacie
+- **Strany (anonymizované)**
+  -  obžalovaný: X. B.
+  -  poškodená (maloletá chodkyňa): H. P.
+  -  poškodená: O. X.
+  -  poškodená (právnická osoba): Všeobecná zdravotná poisťovňa, a.s.
+- **Zdroj / poznámka:** DN-Maloletá chodkyňa-3To-65-2020 - Krajský súd Trnava.pdf 
+- **Tagy:** #trestne #odvolanie #dopravna_nehoda #ublizenie_na_zdravi #maloleta_chodkyna #priechod_pre_chodcov #zvysena_opatrnost #obmedzena_dovera #§157TZ #§138TZ #§319TP
+
+## Právna veta (Kľúčový záver)
+„znamená povinnosť účastníka cestnej premávky počínať si tak, aby ten kto má prednosť, nemusel náhle zmeniť smer alebo rýchlosť pohybu.“
+
+## Kontext prípadu (1–3 vety)
+Odvolací súd preskúmal odvolanie obžalovaného proti odsudzujúcemu rozsudku za prečin ublíženia na zdraví pri zrážke s maloletou chodkyňou na priechode pre chodcov. Odvolanie obžalovaného podľa § 319 Trestného poriadku zamietol ako nedôvodné, čím ponechal napadnutý rozsudok v platnosti.
+
+## Argumentačná línia
+- **Obžaloba:** Obžaloba kládla obžalovanému za vinu, že ako vodič nedal prednosť maloletému chodcovi na priechode pre chodcov a spôsobil mu ťažké zranenia. Skutok právne kvalifikovala ako prečin ublíženia na zdraví s porušením dôležitej povinnosti pri premávke na cestách.
+- **Obhajoba:** Obžalovaný namietal, že rozhodujúcou príčinou nehody bola nesprávna technika chôdze poškodenej a poukazoval na princíp obmedzenej dôvery v doprave. Navrhoval zrušenie rozsudku a vrátenie veci, prípadne oslobodenie.
+- **Súd:** Odvolací súd považoval dokazovanie a odôvodnenie prvostupňového rozsudku za zákonné a presvedčivé a stotožnil sa s jeho závermi. Vyhodnotil, že obžalovaný mal povinnosť dať prednosť chodcovi na priechode a prispôsobiť tomu jazdu, preto odvolanie zamietol.
+
+## Skutkový stav
+Dňa 25.01.2017 približne o 14:00 hod. v K. na ul. K. viedol obžalovaný osobné motorové vozidlo Audi A8. Pri križovatke ulíc K. a B. nedal prednosť maloletému chodcovi prechádzajúcemu cez priechod pre chodcov smerom od areálu nemocnice k predajni Jednota. Pravým predným spätným zrkadlom narazil do ľavej strany tela chodkyne. Poškodená utrpela viaceré ťažké zranenia hlavy a zlomeninu ľavej ramennej kosti s dobou liečby 4 až 6 mesiacov. Konaním došlo k porušeniu povinností vodiča podľa zákona o cestnej premávke.
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – dopravná nehoda s ťažkou ujmou na zdraví chodca
+- **Podtéma:** priechod pre chodcov; povinnosť dať prednosť; zvýšená opatrnosť voči maloletým
+- **Tagy:** #trestne #odvolanie #dopravna_nehoda #ublizenie_na_zdravi #maloleta_chodkyna #priechod_pre_chodcov #zvysena_opatrnost #obmedzena_dovera #§157TZ #§138TZ #§319TP (bez diakritiky)
+
+## Právna veta / právny záver (abstrakt)
+Vodič je pri označenom priechode pre chodcov povinný počínať si tak, aby chodec s prednosťou nemusel náhle meniť smer ani rýchlosť, a prispôsobiť jazdu (znížením rýchlosti až zastavením) najmä pri prítomnosti maloletého chodca. Ak vodič zareaguje oneskorene a zasiahne chodca na priechode, zavinenie nemožno preniesť na maloleté dieťa len s poukazom na jeho „nesprávnu techniku chôdze“. Odvolanie proti odsudzujúcemu rozsudku bolo zamietnuté ako nedôvodné.
+
+## Právne vety / kľúčové závery
+- (1) Odvolací súd odvolanie obžalovaného podľa § 319 Trestného poriadku zamietol ako nedôvodné, čím ponechal napadnutý rozsudok v platnosti.
+- (2) „Dať prednosť“ na priechode pre chodcov znamená správať sa tak, aby chodec s prednosťou nemusel náhle zmeniť smer alebo rýchlosť pohybu.
+- (3) Priechod pre chodcov predstavuje pre chodcov ochrannú zónu; vodič má povinnosť prispôsobiť jazdu a venovať zvýšenú pozornosť osobe maloletého chodca.
+- (4) Záver o tom, že poškodená nesprávnou technikou chôdze vytvorila prekážku, nevylučuje zavinenie vodiča, ak tento reagoval oneskorene a zrážke mohol zabrániť prudkým brzdením.
+- (5) Odvolací súd nevyhodnotil dodatok k znaleckému posudku v prospech obžalovaného, ak vychádzal jednostranne z jeho verzie a bol v rozpore s ostatnými dôkazmi.
+- (6) Výrok o náhrade škody ponechal v platnosti; námietku zohľadnenia zavinenia maloletej pri náhrade škody neakceptoval.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+- *Trestný zákon:* § 157 ods. 1, ods. 2 písm. a); § 138 písm. h); § 16 písm. a); § 36 písm. j) / § 36 písm. l); § 38 ods. 2, ods. 3; § 49 ods. 1 písm. a); § 50 ods. 1; § 61 ods. 1, ods. 2
+- *Zákon č. 8/2009 Z. z. o cestnej premávke:* § 4 ods. 1 písm. e), písm. f); § 2 ods. 2 písm. b); § 53 ods. 1, ods. 2, ods. 4 
+- **Proces:**
+- *Trestný poriadok:* § 319; § 317 ods. 1; § 316 ods. 1, ods. 3; § 371 ods. 1; § 168; § 287 ods. 1; § 288 ods. 2; § 163 ods. 4; § 170 ods. 6
+- **Iné zdroje:**
+- judikát R 13/1978 (6 Tz 61/76)
+- uznesenie Najvyšší súd Českej republiky sp. zn. 3 Tdo/894/2016 (27.07.2016)
+- nález Ústavní soud sp. zn. III. ÚS 674/15 (11.06.2015)
+- rozsudky ESĽP Ruiz Torija c. Španielsko a Hiro Balani/Španielsko (9.12.1994)
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obžalovaný ako vodič pred priechodom pre chodcov neznížil jazdu tak, aby umožnil bezpečný prechod maloletému chodcovi, a zasiahol ho spätným zrkadlom. Poškodená utrpela ťažké zranenia.
+- Rozhodujúce skutkové zistenia súdu: Kolízia nastala na priechode pre chodcov a poškodená nevytvorila náhlu prekážku znenazdajky (nebolo preukázané, že by na priechod vbehla). Obžalovaný poškodenú videl, avšak reagoval oneskorene.
+- Podstatné dôkazy (výber):
+  -  znalecké posudky (Ing. M. L.; doc. Ing. Ľ. H., PhD.; MUDr. M. N.)
+  -  záznam dopravnej nehody a zápisnica o obhliadke miesta nehody
+  -  výsluchy obžalovaného a výpovede poškodenej z prípravného konania
+
+## Právne posúdenie (jadro)
+1. Kľúčové otázky
+2. Či obžalovaný porušil povinnosť dať prednosť chodcovi na priechode pre chodcov a povinnosť zvýšenej opatrnosti voči maloletému.
+3. Či „nesprávna technika chôdze“ maloletého chodca vylučuje zavinenie vodiča, resp. či ide o náhlu prekážku.
+4. Ako hodnotiť rozpory medzi znaleckými závermi a výpoveďami strán pri určení možnosti zabránenia nehode.
+
+## Argumentácia súdu (výber)
+
+Odvolací súd vychádzal najmä zo záverov znaleckého posudku, ktorý riešil aj možnosti zabránenia nehode a nevylúčil zavinenie vodiča pri oneskorenej reakcii.
+
+Zdôraznil, že priechod pre chodcov je chránený priestor a vodič je povinný prispôsobiť rýchlosť tak, aby chodec s prednosťou nemusel náhle meniť smer alebo rýchlosť.
+
+Neakceptoval obranu, že vodič nemohol predvídať vstup chodca, ak išlo o miesto označené priechodom pre chodcov a vodič poškodenú vnímal.
+
+Vyhodnotil ako účelové zmeny vo výpovedi obžalovaného a nepovažoval dodatok k znaleckému posudku založený jednostranne na verzii obžalovaného za spôsobilý zmeniť záver o vine.
+
+Záver o zamietnutí odvolania oprel o zákonnosť a odôvodnenosť napadnutého rozsudku.
