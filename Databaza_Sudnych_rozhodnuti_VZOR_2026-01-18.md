@@ -1,5 +1,5 @@
 # Databáza súdnych rozhodnutí z pomôcky
-_Verzia: 1.0 | Aktualizované: [2026-01-30]_
+_Verzia: 1.0 | Aktualizované: [2026-01-31]_
 
 ---
 
@@ -9,6 +9,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-30]_
 | :--- | :--- | :--- | :--- | :--- |
 | **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusené #vratene |
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovaná predvídateľnosť | #odmietnutie_dovolania |
+| **R3** | 2Asan/7/2020 | Predchadzanie pred krizovatkou priestupok| Spoluzavinenie pravne irelevantne | #zamietnute |
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 
@@ -215,13 +216,19 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
   - Žalovaný: Krajské riaditeľstvo Policajného zboru v Bratislave, Krajský dopravný 
 - **Zdroj / poznámka:** 
 
+## Právna veta / právny záver (abstrakt)
+Pre priestupok podľa § 22 ods. 1 písm. g) zákona o priestupkoch postačuje porušenie predpisu cestnej premávky a vznik dopravnej nehody v dôsledku tohto porušenia; otázka spoluzavinenia iného účastníka je pre vinu právne irelevantná, ak páchateľ sám naplnil znaky skutkovej podstaty. Pri hodnotení príčinnej súvislosti sa zohľadňuje gradácia príčin, pričom viaceré porušenia povinností sťažovateľa (vrátane predchádzania pred križovatkou) boli posúdené ako rozhodujúce.
+
 ## Kontext prípadu (1–3 vety)
 Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch, keď pri predchádzaní v nedostatočnej vzdialenosti pred križovatkou došlo k dopravnej nehode so zranením a škodou. Krajský súd žalobu zamietol; žalobca podal kasačnú sťažnosť, v ktorej namietal najmä nevyhodnotenie „súkromného“ znaleckého posudku, spoluzavinenie vodičky druhého vozidla, nepreskúmateľnosť a neprimeranosť sankcie. Najvyšší správny súd SR kasačnú sťažnosť zamietol.
 
 ## Téma a kategorizácia
 - **Téma:** priestupky v cestnej premávke / správne trestanie / správne súdnictvo (kasačné konanie)
 - **Podtéma:** predchádzanie pred križovatkou; príčinná súvislosť; spoluzavinenie a jeho právna relevancia; preskúmateľnosť odôvodnenia; primeranosť sankcie
-- **Tagy:** ##priestupok #cestna_premavka #dopravna_nehoda #predchadzanie #krizovatka #spoluzavinenie #znalecky_posudok #kasacna_staznost #SSP 
+- **Tagy:** ##priestupok #cestna_premavka #dopravna_nehoda #predchadzanie #krizovatka #spoluzavinenie #znalecky_posudok #kasacna_staznost #SSP §22Priestupky #§15ZCP 
+
+## Právna veta (Kľúčový záver)
+„dikcia § 22 ods. 1 písm. g/ zákona o priestupkoch neskúma, či za vznikom dopravnej nehody je obvinený z priestupku sám,“
 
 ## Právne vety / kľúčové závery (max 3–6 bodov)
 - (1) Skutková podstata § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. je naplnená, ak osoba poruší predpis cestnej premávky a v dôsledku toho vznikne dopravná nehoda; na zodpovednosť postačuje nedbanlivosť (§ 3 zákona o priestupkoch). 
