@@ -10,6 +10,9 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R1** | 2Tdo/77/2019 | Odbočovanie vľavo vs. motocykel| Reakčný čas 1,6 s | #zrusene #vratene |
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovana predvidatelnost | #odmietnutie_dovolania |
 | **R3** | 2Asan/7/2020 | Predchadzanie pred krizovatkou priestupok| Spoluzavinenie pravne irelevantne | #zamietnute |
+| **R4** | BA-7Sa/93/2020  | Chodec mimo priechodu a nehoda | Zavinenie nehody nie je znak | #zamietnute #potvrdene |
+
+
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
@@ -345,7 +348,10 @@ Z rozsudku najvyššieho súdu
 - **Tagy:** #chodec #priestupok #dopravna_nehoda #§22ods1g #povinnosti_chodca #in_dubio_pro_reo #dokazovanie #nepreskumatelnost 
 
 ## Právna veta / právny záver (abstrakt)
-Pri priestupku podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. sa nevyžaduje preukázanie zavinenia dopravnej nehody páchateľom; pre naplnenie skutkovej podstaty postačuje preukázanie porušenia predpisu o bezpečnosti a plynulosti cestnej premávky, vzniku dopravnej nehody, príčinnej súvislosti medzi porušením predpisu a vznikom nehody a vzniku škody (resp. ujmy na zdraví/škody).
+> Pri priestupku podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. sa nevyžaduje preukázanie zavinenia dopravnej nehody páchateľom; pre naplnenie skutkovej podstaty postačuje preukázanie porušenia predpisu o bezpečnosti a plynulosti cestnej premávky, vzniku dopravnej nehody, príčinnej súvislosti medzi porušením predpisu a vznikom nehody a vzniku škody (resp. ujmy na zdraví/škody).
+> 
+> Na základe gramatického výkladu ustanovenia § 22 ods. 1 písm. g) zákona o priestupkoch sa pre naplnenie skutkovej podstaty tohto priestupku nevyžaduje preukázanie zavinenia dopravnej nehody, keďže formulácia skutkovej podstaty zavinenie nespomína a jej základ tvorí „vznik“ dopravnej nehody ako dôsledok porušenia predpisov o bezpečnosti a plynulosti cestnej premávky a následný vznik škody. Pre naplnenie tejto skutkovej podstaty je potrebné preukázať (i) porušenie predpisu, (ii) vznik dopravnej nehody, (iii) príčinnú súvislosť medzi porušením predpisu a vznikom nehody a (iv) vznik škody; samotné zavinenie dopravnej nehody nie je pre naplnenie znakov skutkovej podstaty relevantné.
+_____
 
 ## Právne vety / kľúčové závery 
 - (1) Skutková podstata § 22 ods. 1 písm. g) nevyžaduje dokazovať „vinníka“ dopravnej nehody v zmysle zavinenia jej vzniku; rozhodné je porušenie povinnosti a následok (nehoda) v príčinnej súvislosti. 
