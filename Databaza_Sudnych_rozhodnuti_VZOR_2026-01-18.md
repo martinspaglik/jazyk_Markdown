@@ -38,7 +38,7 @@ Dňa 16. júla 2014 o 06:58 hod. v Bratislave na Ivanskej ceste (smerom od letis
 - **Podtéma:** zákaz zmeny k horšiemu (reformatio in peius) v odvolacom/dovolacom konaní; hranice dovolacieho prieskumu (skutok vs. právo); príčinná súvislosť pri usmrtení z nedbanlivosti
 - **Tagy:** #dopravna_nehoda #dovolanie #reformatio_in_peius #pricinna_suvislost #in_dubio_pro_reo
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Dovolanie nie je určené na revíziu skutkových zistení; v rámci § 371 ods. 1 písm. i) Trestného poriadku nemožno právne účinne namietať nesprávnosť skutkových zistení ani hodnotenie dôkazov – dovolací súd je viazaný skutkom zisteným súdmi nižších stupňov.
 - (2) Ustanovenie § 327 ods. 2 Trestného poriadku je právne nerelevantné, ak v danej veci nenastala situácia „nového konania na súde prvého stupňa po zrušení rozsudku len na základe odvolania v prospech obžalovaného“.
 - (3) Zásada reformatio in peius porušená nebola, ak odvolací súd zmenil skutkovú vetu spôsobom, ktorý neviedol k zhoršeniu postavenia obvinenej (naopak, sprevádzal zmenu právnej kvalifikácie v jej prospech) a zachoval podstatnú totožnosť skutku.
@@ -111,7 +111,7 @@ Predovšetkým musí dovolací súd uviesť, že skutky uvedené v rozsudku prvo
   -  Žalobkyňa: poisťovňa (Česká pojišťovna, a. s.)
   -  Žalovaný: vodič – príjemca poistného plnenia (V. Š.)
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 Poisťovňa sa domáhala vrátenia poistného plnenia vyplateného žalovanému za škodu na vozidle po dopravnej nehode (22. 8. 2011), pričom jadrom sporu bolo, kto zavinil nehodu (odbočujúca vodička vs. predchádzajúci žalovaný) a či žalovaný porušil povinnosť prispôsobiť rýchlosť. Najvyšší súd riešil predovšetkým prípustnosť dovolania a otázku „prekvapivosti“ rozhodnutia odvolacieho súdu.
 
 ## Téma a kategorizácia
@@ -119,7 +119,7 @@ Poisťovňa sa domáhala vrátenia poistného plnenia vyplateného žalovanému 
 - **Podtéma:** prispôsobenie rýchlosti, predchádzanie vs. odbočovanie vľavo; „prekvapivé rozhodnutie“; hranice dovolacieho prieskumu skutkových zistení
 - **Tagy:** #dopravna_nehoda #predchadzanie #odbocovanie_vlavo #primerana_rychlost 
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Za „prekvapivé“ nemožno považovať rozhodnutie len preto, že odvolací súd zmenil rozsudok prvostupňového súdu; prekvapivé je až rozhodnutie založené na okolnostiach, ktoré neboli tvrdené/sporné alebo neboli predmetom posúdenia.
 - (2) Odvolací súd nemusí vždy opakovať alebo dopĺňať dokazovanie, ak vychádza z tých istých listinných dôkazov ako súd prvého stupňa; samotná zmena skutkového záveru neznamená automaticky vadu konania.
 - (3) Ustanovenie o povinnosti „prispôsobiť rýchlosť“ je normou s relatívne neurčitou hypotézou; dovolací prieskum úvahy odvolacieho súdu o miere účasti na škode je zásadne možný len pri zjavnej neprimeranosti.
@@ -220,7 +220,7 @@ Rozhodnutie odvolacieho súdu nie je v rozpore ani so závermi vyslovenými Najv
 ## Právna veta / právny záver (abstrakt)
 Pre priestupok podľa § 22 ods. 1 písm. g) zákona o priestupkoch postačuje porušenie predpisu cestnej premávky a vznik dopravnej nehody v dôsledku tohto porušenia; otázka spoluzavinenia iného účastníka je pre vinu právne irelevantná, ak páchateľ sám naplnil znaky skutkovej podstaty. Pri hodnotení príčinnej súvislosti sa zohľadňuje gradácia príčin, pričom viaceré porušenia povinností sťažovateľa (vrátane predchádzania pred križovatkou) boli posúdené ako rozhodujúce.
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch, keď pri predchádzaní v nedostatočnej vzdialenosti pred križovatkou došlo k dopravnej nehode so zranením a škodou. Krajský súd žalobu zamietol; žalobca podal kasačnú sťažnosť, v ktorej namietal najmä nevyhodnotenie „súkromného“ znaleckého posudku, spoluzavinenie vodičky druhého vozidla, nepreskúmateľnosť a neprimeranosť sankcie. Najvyšší správny súd SR kasačnú sťažnosť zamietol.
 
 ## Téma a kategorizácia
@@ -231,7 +231,7 @@ Správne orgány uznali žalobcu vinným z priestupku podľa § 22 ods. 1 písm.
 ## Právna veta (Kľúčový záver)
 „dikcia § 22 ods. 1 písm. g/ zákona o priestupkoch neskúma, či za vznikom dopravnej nehody je obvinený z priestupku sám,“
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Skutková podstata § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. je naplnená, ak osoba poruší predpis cestnej premávky a v dôsledku toho vznikne dopravná nehoda; na zodpovednosť postačuje nedbanlivosť (§ 3 zákona o priestupkoch). 
 - (2) Porušenie zákazu predchádzať pred križovatkou v nedostatočnej vzdialenosti na bezpečné dokončenie manévru (§ 15 ods. 5 písm. g) zákona č. 8/2009 Z.z.) bolo v danej veci preukázané a tvorilo jadro protiprávnosti. 
 - (3) Spoluzavinenie vodičky druhého vozidla (aj keby bolo zistené) nemá vplyv na vinu za priestupok podľa § 22 ods. 1 písm. g), ak sťažovateľ sám naplnil všetky znaky skutkovej podstaty; spoluzavinenie môže byť relevantné skôr pre poistné nároky alebo trestnoprávnu rovinu. 
@@ -333,7 +333,7 @@ Z rozsudku najvyššieho súdu
 -   Žalovaný: Krajské riaditeľstvo PZ v Bratislave, Krajský dopravný inšpektorát
 - **Zdroj / poznámka:** 
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 Žalobca bol správnymi orgánmi uznaný vinným z priestupku podľa § 22 ods. 1 písm. g) zákona o priestupkoch, ktorého sa mal dopustiť porušením povinností chodca (prechádzanie mimo priechodu, bez presvedčenia sa, zdržiavanie sa na vozovke, bez reflexných prvkov), čo v príčinnej súvislosti viedlo k dopravnej nehode a škode na vozidle. V správnej žalobe namietal najmä neúplné zistenie skutkového stavu, nesprávne právne posúdenie (vrátane „in dubio pro reo“) a nepreskúmateľnosť, s dôrazom na potrebu skúmať aj možnosti vodiča zabrániť nehode. Správny súd žalobu zamietol a potvrdil výklad, že pre skutkovú podstatu § 22 ods. 1 písm. g) nie je rozhodujúce „zavinenie“ dopravnej nehody páchateľom, ale porušenie povinnosti, vznik nehody, príčinná súvislosť a škoda.
 
 ## Téma a kategorizácia
@@ -344,7 +344,7 @@ Z rozsudku najvyššieho súdu
 ## Právna veta / právny záver (abstrakt)
 Pri priestupku podľa § 22 ods. 1 písm. g) zákona č. 372/1990 Zb. sa nevyžaduje preukázanie zavinenia dopravnej nehody páchateľom; pre naplnenie skutkovej podstaty postačuje preukázanie porušenia predpisu o bezpečnosti a plynulosti cestnej premávky, vzniku dopravnej nehody, príčinnej súvislosti medzi porušením predpisu a vznikom nehody a vzniku škody (resp. ujmy na zdraví/škody).
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Skutková podstata § 22 ods. 1 písm. g) nevyžaduje dokazovať „vinníka“ dopravnej nehody v zmysle zavinenia jej vzniku; rozhodné je porušenie povinnosti a následok (nehoda) v príčinnej súvislosti. 
 - (2) Pre naplnenie skutkovej podstaty treba preukázať štyri prvky: (i) porušenie predpisu, (ii) vznik dopravnej nehody, (iii) príčinnú súvislosť, (iv) vznik škody. 
 - (3) Ak je skutkový stav dostatočne zistený k uvedeným prvkom, nie je potrebné vykonávať dokazovanie smerujúce k posúdeniu výhľadových pomerov vodiča či jeho možnosti zabrániť nehode, keďže to nie je podstatné pre posúdenie priestupku chodca v tejto kvalifikácii. 
@@ -457,7 +457,7 @@ Dňa 19.06.2019 Uznesením podľa § 156 ods. 1 Trestného poriadku bolo nariade
   - Poškodený (nárok na škodu): V. H. (pozostalý/poškodený uvedený v rozsudku OS; v texte je uvedená aj poškodená chodkyňa V. H., ktorá zomrela)
 
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 Odvolací súd rozhodoval o odvolaniach prokurátora a obžalovaného proti rozsudku Okresného súdu Liptovský Mikuláš (2T/57/2021 z 31.01.2022) v trestnej veci prečinu usmrtenia (§ 149 ods. 1 Tr. zák.) po zrážke vozidlom s chodkyňou, ktorá na mieste zomrela. Obe odvolania smerovali výlučne proti výroku o treste zákazu činnosti; prokurátor ho považoval za neprimerane mierny, obžalovaný za neprimerane prísny. Krajský súd zrušil výrok o treste zákazu činnosti a uložil prísnejší zákaz činnosti 7 rokov, odvolanie obžalovaného zamietol.
 
 ## Téma a kategorizácia
@@ -468,7 +468,7 @@ Odvolací súd rozhodoval o odvolaniach prokurátora a obžalovaného proti rozs
 ## Právna veta / právny záver (abstrakt)
 Pri ukladaní trestu zákazu činnosti vodiča za dopravný trestný čin s následkom smrti musí súd dôsledne vychádzať z účelu trestu (§ 34 Tr. zák.) a z povahy porušenej povinnosti vodiča, najmä ak k zrážke došlo v bezprostrednej blízkosti priechodu pre chodcov, kde sa vyžaduje zvýšená opatrnosť voči zraniteľným účastníkom. Ak je trest zákazu činnosti neprimerane mierny vzhľadom na okolnosti skutku a prevenciu, odvolací súd môže oddeliteľný výrok o tomto treste zrušiť a uložiť prísnejší trest, aj pri nezmenených výrokoch o vine a iných trestoch.
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Ak je výrok o treste zákazu činnosti oddeliteľný, odvolací súd môže pri nezmenených výrokoch o vine, treste odňatia slobody a náhrade škody zrušiť len tento výrok a uložiť nový zákaz činnosti.
 - (2) Pri dopravných trestných činoch so smrteľným následkom má uložený trest reflektovať jednotu individuálnej a generálnej prevencie a zásadu proporcionality; neprimerane mierny trest neplní účel trestu.
 - (3) Zrážka chodkyne približne 4 metre za priechodom pre chodcov bola hodnotená ako „bezprostredná blízkosť“ priechodu a ako priestor, kde má byť vyžadovaná zvýšená predvídavosť a opatrnosť vodiča.
@@ -626,7 +626,7 @@ Najdôležitejšou zásadou je umenie zachovať pokoj a nestrácať rozvahu. Pod
 -  Sťažovateľ: M. Š. (obvinený/odsúdený) 
 -  Napadnuté akty: NS ČR (4 Tdo 862/2015-25), KS Ostrava (6 To 41/2015-405), OS Frýdek-Místek (2 T 106/2014-362)
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 
 Išlo o dopravnú nehodu pri odbočovaní vľavo, keď motocyklista (pri predbiehaní kolóny v zákaze predbiehania a za ďalších porušení) narazil do vozidla sťažovateľa; sťažovateľ bol všeobecnými súdmi uznaný vinným z ťažkého ublíženia na zdraví z nedbanlivosti. Ústavný súd zrušil rozhodnutia všetkých troch stupňov, lebo záver o nedbanlivostnom zavinení sťažovateľa bol vyvodený bez dostatočnej opory v dokazovaní a v rozpore s požiadavkami spravodlivého procesu.
 
@@ -638,7 +638,7 @@ Išlo o dopravnú nehodu pri odbočovaní vľavo, keď motocyklista (pri predbie
 ## Právna veta / právny záver (abstrakt)
 Pri nedbanlivostnom trestnom čine v doprave musí súd konkrétnymi skutkovými zisteniami preukázať, že obvinený nezachoval potrebnú mieru opatrnosti (objektívne aj subjektívne hľadisko), a nemôže vyvodiť vinu len „ex post“ z faktu, že k nehode došlo; zároveň nemožno ukladať vodičovi povinnosť kalkulovať s úmyselným, hrubým porušovaním pravidiel premávky iným účastníkom, pokiaľ tomu nenasvedčujú konkrétne okolnosti.
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 -  Nullum crimen sine culpa: bez zavinenia (úmysel/ nedbanlivosť) nemôže ísť o trestný čin; pri § 147 ods. 1 TZ treba preukázať vedomú/nevedomú nedbanlivosť podľa § 16 ods. 1 TZ. 
 -  Potrebná miera opatrnosti sa hodnotí spojením objektívneho (pravidlá cestnej premávky) a subjektívneho hľadiska (možnosť a schopnosť predvídať následok u konkrétnej osoby). 
 -  Princíp obmedzenej dôvery v doprave: vodič sa môže spoliehať, že ostatní dodržia pravidlá, ak z konkrétnych okolností nevyplýva opak; všeobecné súdy sa nedostatočne zaoberali primeranosťou tohto spoliehania. 
@@ -766,7 +766,7 @@ vyhověl a podle ustanovení § 82 odst. 1 a 3 písm. a) zákona o Ústavním so
   -  Napadnuté rozhodnutie: uznesenie Krajského súdu v Trnave sp. zn. 3To/65/2020 z 18.05.2021
 - **Zdroj / poznámka:** PDF „DN-DN-Maloletá chodkyňa--3Tdo_84_2021_NS SR.pdf“ (interný materiál)
 
-## Kontext prípadu (1–3 vety)
+## Kontext prípadu 
 Vec sa týka dopravnej nehody na priechode pre chodcov, pri ktorej vodič (obvinený) nedal prednosť maloletému chodcovi a spôsobil mu ťažké zranenia. Po odsúdení na prvom stupni a zamietnutí odvolania krajským súdom podal obvinený dovolanie; Najvyšší súd SR zrušil rozhodnutie odvolacieho súdu, pretože odvolací senát bol obsadený nezákonne – rozhodoval v ňom sudca, ktorý sa predtým zúčastnil na rozhodovaní na súde nižšieho stupňa, hoci bol podľa § 31 ods. 4 Trestného poriadku vylúčený.
 
 ## Téma a kategorizácia
@@ -777,7 +777,7 @@ Vec sa týka dopravnej nehody na priechode pre chodcov, pri ktorej vodič (obvin
 ## Právna veta / právny záver (abstrakt)
 Ak sa sudca zúčastnil na rozhodovaní na súde nižšieho stupňa, je ex lege vylúčený z rozhodovania na súde vyššieho stupňa v tej istej veci (§ 31 ods. 4 TP). Účasť takéhoto sudcu v odvolacom senáte zakladá nezákonné zloženie súdu (§ 371 ods. 1 písm. b) TP), čo vedie k zrušeniu rozhodnutia odvolacieho súdu a k opätovnému prejednaniu veci v zákonnom zložení. 
 
-## Právne vety / kľúčové závery (max 3–6 bodov)
+## Právne vety / kľúčové závery 
 - (1) Nezákonné zloženie odvolacieho senátu je dané aj vtedy, ak členom senátu je sudca vylúčený ex lege podľa § 31 ods. 4 TP (predtým sa zúčastnil na rozhodovaní na nižšom súde). 
 - (2) Právo na zákonného sudcu (čl. 48 ods. 1 Ústavy SR) sa vzťahuje na celý senát, nie len na predsedu; zákonnými sudcami sú všetci členovia senátu určení rozvrhom práce. 
 - (3) Ak dovolací súd zistí nezákonné obsadenie, primárne odstráni túto procesnú vadu a ďalšie dovolacie námietky (napr. hmotnoprávne) môže považovať za predčasné. 
