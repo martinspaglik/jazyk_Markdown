@@ -15,6 +15,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
 | **R16** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | R45/2017 konkretizacia namietok| #odmietnute |
 | **R17** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | R45/2017 konkretizacia namietok| #odmietnute |
+| **R18** | II. ÚS 1166/23 | Zrazka cyklistu s chodkynou | Pesi zona ohleduplnost | #odmietnute |
 
 ---
 
@@ -1735,7 +1736,126 @@ Zo žiadneho dôkazu nevyplynulo, aby vodič nerešpektoval ustanovenia zákona 
 <!-- DECISION:END -->
 
 
+<!-- DECISION:BEGIN spis=II. ÚS 1166/23 -->
 
+# Tazka ujma na zdravi pri zrazke cyklistu s chodkynou v pesi zone
+
+# Rozhodnutie: R18 – Ústavní soud – II. ÚS 1166/23 – 2023-07-18
+## Identifikácia
+- **ID:** R18
+- **Súd:** Ústavní soud
+- **Spisová značka:** II. ÚS 1166/23
+- **Dátum rozhodnutia:** 2023-07-18
+- **Typ rozhodnutia:** uznesenie
+- **Stupeň:** ústavné
+- **Strany (anonymizované):**
+  - Sťažovateľ (obvinený): V. V.
+  - Poškodená (chodkyňa): I. B.
+  - Poškodená (poisťovňa): Všeobecná zdravotní pojišťovna České republiky
+  - Orgány verejnej moci (napadnuté rozhodnutia): Nejvyšší soud; Krajský soud v Plzni; Okresní soud Plzeň-město
+- **Zdroj / poznámka:** Těžká újma na zdraví způsobena chodci cyklistou v pěší zóně-II.ÚS 1166_23.docx :contentReference[oaicite:0]{index=0}
+- **Tagy:** #trestne #ustavna_staznost #cyklista #pesi_zona #tazka_ujma_na_zdravi #nedbalost #nahrada_skody #spravedlivy_proces #§147TZ #§43ZUS #§4ZSP #odmietnute  (vsetky bez diakritiky)
+
+## Právna veta (Kľúčový záver)
+> v pěší zóně nelze od chodce požadovat stejnou míru opatrnosti, jaká se požaduje od řidiče vozidla.
+> Cyklista jedoucí v pěší zóně v koridoru určeném cyklistům má povinnost chovat se ohleduplně ke všem účastníkům provozu a přizpůsobit svoji jízdu stavu komunikace a situaci v provozu včetně rychlosti vozidla. Chodec je vždy tím nejslabším účastníkem provozu, a následky střetu s rychleji se pohybujícím vozidlem, kterým je i jízdní kolo nebo koloběžka, mohou být, jako v daném případě, mnohdy fatální. Právě mimořádná ohleduplnost v místech, kde může docházet k nebezpečným situacím a kde zvýšenou mírou hrozí střet chodců s cyklisty, je zde klíčem k bezpečnému společnému pohybu. Sám stěžovatel, který tu navíc nejel poprvé, připustil, že dané místo je značně nepřehledné. Pak je nutno jen zopakovat a zdůraznit, že stěžovatel měl v místě srážky s poškozenou předpokládat, že tam může někdo procházet, neboť jde o úsek, kde končí křoví a často tudy prochází lidé od nedalekého přechodu a zastávky tramvaje. Irelevantní je pak spor o to, zda poškozená do pěší zóny teprve vstupovala, či už se v ní pohybovala. V takovém místě je podle Ústavního soudu případné velmi zpomalit, nebo dokonce sestoupit z kola a vést jej
+
+## Kontext prípadu 
+Ústavní soud rozhodoval o ústavnej sťažnosti V. V. proti uzneseniu Nejvyššího soudu (odmietnutie dovolania) a proti rozsudkom Krajského soudu v Plzni a Okresního soudu Plzeň-město. Sťažovateľ bol uznaný vinným prečinom ťažkého ublíženia na zdraví z nedbanlivosti podľa § 147 ods. 1 trestného zákoníku v súvislosti so zrážkou cyklistu s chodkyňou v priestore označenom ako pešia zóna. Bola mu uložená podmienečná sankcia a uložená povinnosť nahradiť škodu a nemajetkovú ujmu poškodeným. V ústavnej sťažnosti namietal najmä nesprávne posúdenie zavinenia, postavenia chodkyne (či už bola v pešej zóne alebo do nej len vstupovala) a poukazoval aj na nevhodné stavebné riešenie a značenie komunikácie. Ústavní soud uzavrel, že sťažnosť je iba polemikou s riadne odôvodnenými závermi všeobecných súdov, a preto ju odmietol ako zjavne neopodstatnenú.
+
+## Argumentačná línia
+- **Obžaloba:** NEUVEDENÉ
+- **Obhajoba:** Sťažovateľ tvrdil, že ako cyklista šiel dostatočne obozretne, neporušil povinnosti účastníka cestnej premávky a nemôže niesť zodpovednosť za prípadné porušenie povinností chodkyne. Namietal, že skutkové zistenie o pohybe chodkyne v pešej zóne nezodpovedá dokazovaniu, lebo do pešej zóny podľa neho iba vstupovala, a preto jej nemalo patriť prednostné právo chodcov. Poukazoval na neprehľadnosť miesta, kolmé križovanie cyklokoridoru chodcami a na údajné zlyhanie správcu komunikácie pri riešení dopravného priestoru a značenia.
+- **Súd:** Ústavní soud vyhodnotil, že konanie ako celok bolo spravodlivé a sťažnosť predstavuje len nesúhlas s hodnotením dôkazov a právnymi závermi všeobecných súdov. Akcentoval povinnosť zvýšenej ohľaduplnosti cyklistu v pešej zóne a nižšiu požadovanú mieru opatrnosti chodca v pešej zóne. Spor o to, či chodkyňa do pešej zóny vstupovala alebo sa v nej už pohybovala, označil za irelevantný, pričom zdôraznil potrebu výrazného spomalenia, prípadne vedenia bicykla v neprehľadnom úseku. Ústavnú sťažnosť odmietol.
+
+
+## Skutkový stav
+Dňa 26. 7. 2018 o 13:34 v P. viedol V. V. bicykel po vozovke ulice X v smere od ulice Y k ulici Z pri ľavom okraji komunikácie označenej ako pešia zóna. Pred domom č. X sa zrazil s chodkyňou I. B., ktorá prichádzala zľava spoza krovitého porastu. Poškodená v dôsledku zrážky utrpela závažné poranenia hlavy (zlomenina klenby lebečnej a viaceré krvácania a pomliaždenia mozgu), otras mozgu a ďalšie poranenia, bola hospitalizovaná od 26. 7. 2018 do 23. 8. 2018 a bola odkázaná na pomoc iných osôb. Konanie bolo právne posúdené ako nedbanlivostné spôsobenie ťažkej ujmy na zdraví.
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – ublíženie na zdraví z nedbanlivosti; ústavná sťažnosť
+- **Podtéma:** pešia zóna a povinnosti cyklistu; miera opatrnosti chodca; zavinenie z nedbanlivosti; náhrada škody a nemajetkovej ujmy; spravodlivý proces (čl. 36 Listiny)
+- **Tagy:** #trestne #ustavna_staznost #cyklista #pesi_zona #tazka_ujma_na_zdravi #nedbalost #nahrada_skody #spravedlivy_proces #§147TZ #§43ZUS #§4ZSP #odmietnute  (bez diakritiky)
+
+## Právna veta / právny záver (abstrakt)
+V pešej zóne sa od chodca nevyžaduje rovnaká miera opatrnosti ako od vodiča (vrátane cyklistu), pričom cyklista musí jazdu prispôsobiť situácii a predvídať pohyb chodcov aj v neprehľadných úsekoch. Ústavná sťažnosť, ktorá iba polemizuje s riadne odôvodneným hodnotením dôkazov a závermi všeobecných súdov, je zjavne neopodstatnená a bude odmietnutá.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Ústavná sťažnosť bola odmietnutá ako zjavne neopodstatnená (#odmietnute).
+- (2) V pešej zóne nemožno od chodca požadovať rovnakú mieru opatrnosti ako od vodiča.
+- (3) Cyklista v pešej zóne musí konať mimoriadne ohľaduplne a prispôsobiť jazdu stavu komunikácie a situácii, vrátane rýchlosti.
+- (4) Spor, či chodkyňa do pešej zóny iba vstupovala alebo sa v nej už pohybovala, bol v danom mieste vyhodnotený ako irelevantný.
+- (5) Ústavní soud spravidla neprehodnocuje dôkazy všeobecných súdov; zasahuje len pri porušení ústavne zaručených práv.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - trestní zákoník: § 147 odst. 1; § 81 odst. 1; § 82 odst. 1
+- **Proces:**
+  - trestní řád: § 228 odst. 1; § 229 odst. 2
+  - zákon č. 182/1993 Sb., o Ústavním soudu: § 43 odst. 2 písm. a)
+- **Iné zdroje:**
+  - Listina základních práv a svobod: čl. 36 odst. 1
+  - zákon o silničním provozu: § 4 písm. a); § 39 odst. 3
+  - citovaná judikatúra: usnesení Nejvyššího soudu ze dne 24. 11. 2021 sp. zn. 7 Tdo 1093/2021
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Sťažovateľ spochybňoval zavinenie a tvrdil, že chodkyňa do pešej zóny iba vstupovala, pričom poukazoval aj na neprehľadnosť miesta a možné zlyhanie správcu komunikácie.
+- Rozhodujúce skutkové zistenia súdu: Zranenie poškoden ej vzniklo pôsobením cyklistu; poškodená sa pohybovala ako chodec v pešej zóne bez upozornenia na cyklokoridor; cyklista jazdu neprispôsobil výskytu chodcov a jazdil veľmi blízko pri krovine v neprehľadnom úseku.
+- Podstatné dôkazy (výber):
+  - svedkyňa P. D. (spomenutá v súvislosti s pohybom cyklistu)
+  - svislé dopravné značenie označujúce pešiu zónu
+  - zistenia o zraneniach a hospitalizácii poškodenej (ťažká ujma na zdraví)
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Či všeobecné súdy správne posúdili nedbanlivostné zavinenie cyklistu pri jazde v pešej zóne.
+2. Aká miera opatrnosti sa vyžaduje od chodca v pešej zóne v porovnaní s vodičom (vrátane cyklistu).
+3. Či ústavná sťažnosť preukazuje porušenie práva na spravodlivý proces, alebo ide iba o polemiku s hodnotením dôkazov.
+
+### Argumentácia súdu (výber)
+- Ústavní soud posudzuje spravodlivosť procesu ako celku a vyhovie len pri reálnom pochybení, ktoré robí proces nespravodlivým.
+- Sťažnosť bola vyhodnotená ako polemika s riadne zdôvodnenými závermi všeobecných súdov; porušenie čl. 36 ods. 1 Listiny nebolo zistené.
+- V pešej zóne sa od chodca nevyžaduje rovnaká miera opatrnosti ako od vodiča; chodec je najslabším účastníkom premávky.
+- Cyklista sa nechoval dostatočne ohľaduplne (jazda blízko pri krovine v neprehľadnom mieste) a mal predpokladať pohyb chodcov; spor o „vstup“ vs. „pohyb v zóne“ bol označený za irelevantný.
+- Namietaná spoluodpovednosť správcu komunikácie bola všeobecnými súdmi zohľadnená (podľa zhrnutia rozhodnutia).
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+
+1. Ústavní stížností se stěžovatel domáhal s odkazem na tvrzené porušení čl. 36 odst. 1 Listiny základních práv a svobod zrušení shora uvedených rozhodnutí. Rozsudkem Okresního soudu Plzeň-město ze dne 29. 3. 2022 č. j. 5 T 30/2019-636 byl stěžovatel uznán vinným přečinem těžkého ublížení na zdraví z nedbalosti podle § 147 odst. 1 trestního zákoníku a odsouzen k trestu odnětí svobody v trvání tří měsíců. Podle § 81 odst. 1 a § 82 odst. 1 trestního zákoníku byl výkon tohoto trestu podmíněně odložen na zkušební dobu v trvání dvanácti měsíců. Podle § 228 odst. 1 trestního řádu byl stěžovatel povinen nahradit poškozené Všeobecné zdravotní pojišťovně České republiky škodu ve výši 82 639 Kč, přičemž podle § 229 odst. 2 trestního řádu se poškozená se zbytkem svého nároku na náhradu škody odkazuje na řízení ve věcech občanskoprávních, a poškozené Ivaně B. (jedná se o pseudonym) nahradit škodu ve výši 3 500 Kč a nemajetkovou újmu ve výši 215 969 Kč.2. Proti tomuto rozhodnutí podal odvolání stěžovatel, státní zástupce i poškozená Ivana B. Krajský soud v Plzni pak rozsudkem ze dne 30. 6. 2022 sp.zn 9 To 182/2022 zrušil odvoláním napadený rozsudek a znovu rozhodl tak, že se stěžovatel uznává vinným přečinem těžkého ublížení na zdraví z nedbalosti podle § 147 odst. 1 trestního zákoníku a odsoudil jej k trestu odnětí svobody v trvání tří měsíců, přičemž výkon tohoto trestu podmíněně odložil na zkušební dobu v trvání dvanácti měsíců. Podle § 228 odst. 1 trestního řádu je stěžovatel povinen nahradit poškozené Všeobecné zdravotní pojišťovně škodu ve výši 41 319,50 Kč, přičemž podle § 229 odst. 2 trestního řádu se poškozená se zbytkem svého nároku na náhradu škody odkazuje na řízení ve věcech občanskoprávních, a poškozeně Ivaně B. nemajetkovou újmu ve výši 400 651,50 Kč, přičemž se zbytkem nároku na nemajetkovou újmu se tato poškozená rovněž odkazuje na řízení ve věcech občanskoprávních.      
+
+3. Skutek, kladený stěžovateli za vinu, byl soudem v podstatných rysech vylíčen tak, že stěžovatel dne 26. 7. 2018 v 13:34 hodin v P. řídil jízdní kolo po vozovce ulice X ve směru od ulice Y směrem k ulici Z, jel při levém okraji komunikace označené jako Pěší zóna a v prostoru před domem č. X se střetl s chodkyní Ivanou B., přicházející zleva, zpoza keřovitého porostu, která pak v důsledku střetu utrpěla zranění, spočívající v zlomení klenby lebeční, kopírující oboustranně lambdový šev, přecházející na pyramidové kosti, pohmoždění spánkového laloku vpravo, krvácení pod tvrdou plenu mozku pod čelními laloky a nad spánkovým lalokem vlevo, krvácení mezi měkké obaly mozku nad čelními laloky a nad temenním a týlním lalokem mozku vpravo, otřes mozku a krevní výron v oblasti lokte vlevo s následnou hospitalizací od 26. 7. 2018 do 23. 8. 2018 a odkázáním v běžných životních potřebách na pomoc jednak zdravotnického personálu, jednak, po propuštění do domácího léčení, další osoby.
+
+5. Stěžovatel podal proti rozsudku Krajského soudu v Plzni dovolání. Usnesením Nejvyššího soudu ze dne 21. 2. 2023 sp. zn. 7 Tdo 102/2023 bylo toto dovolání odmítnuto.
+
+6. Stěžovatel v odůvodnění ústavní stížnosti zejména uvedl, že nesprávné hmotněprávní posouzení skutku spatřuje v tom, že obecnými soudy byla prý nesprávně posouzena otázka jeho zavinění, když stěžovatel je toho názoru, že s ohledem na dopravní značení v místě dopravní nehody jel jako cyklista dostatečně obezřetně a neporušil žádné povinnosti účastníka silničního provozu a taktéž nemůže být odpovědný za podle něj existující porušení právní povinnosti poškozené chodkyně.
+
+6. Obecné soudy jako místo dopravní nehody označily pěší zónu, kde řidiči dopravních prostředků musejí dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit. Skutkové zjištění, se poškozená Ivana B. pohybovala jako chodkyně v pěší zóně, však podle stěžovatele neodpovídá provedenému dokazování. Chodkyně B. prý do pěší zóny teprve vstupovala a stěžovatel se tedy neztotožňuje s odůvodněním rozsudku Krajského soudu v Plzni v bodě 21., kdy soud uvádí, že nic neřeší, zda se poškozená již v pěší zóně pohybovala nebo do pěší zóny teprve vstupovala, neboť k samotné nehodě došlo v pěší zóně. Naopak stěžovatel je toho názoru, že za situace, kdy poškozená do pěší zóny teprve vstupovala, jí přednostní právo chodců nenáleželo. Navíc je prý nutno si uvědomit, že v místě dopravní nehody chodci vcházejí do pěší zóny kolmo přes cyklostezku. Pohyb poškozené těsně před srážkou se stěžovatelem se udál v nepřehledném místě kolmo přes cyklokoridor.
+
+7. Předmětná pěší zóna je navíc stavebně velmi nešťastně vyřešena (přes cyklokoridor přecházejí chodci z jedné největší tramvajové zastávky ve středu města) a současně dopravní značení v době nehody nijak obezřetně neřešilo možné střety chodců a cyklistů. Z uvedeného důvodu lze podle stěžovatele zásadní zavinění za vznik nehody a odpovědnost za vniklou škodu spatřovat primárně právě ve správci komunikace.
+
+8. Ústavní soud si k řádnému přezkoumání věci vyžádal příslušný spisový materiál a po jeho prostudování shledal, že ústavní stížnost je zjevně neopodstatněná.
+
+9. Podle svojí ustálené judikatury hodnotí Ústavní soud spravedlnost trestního procesu jako celku a k vyhovění ústavní stížnosti přistupuje v zásadě jen tehdy, jestliže dospěje k názoru, že skutečné pochybení ze strany orgánu veřejné moci vedlo k tomu, že proces jako celek byl vskutku nespravedlivý.
+    
+10. Po přezkoumání věci Ústavní soud shledal, že ústavní stížnost spočívá pouze v polemice s řádně zdůvodněnými závěry obecných soudů. Námitka stěžovatele ohledně porušení práva na spravedlivý proces ve smyslu čl. 36 Listiny základních práv a svobod tak nemůže obstát. Soudní řízení proběhlo postupem odpovídajícím principům zakotveným v hlavě páté Listiny základních práv a svobod a jeho závěr je třeba považovat za výsledek nezávislého soudního rozhodování, jemuž z hlediska ochrany ústavnosti nelze nic vytknout.
+
+11. Krajský soud v Plzni ve svém ústavní stížností napadeném rozsudku s odkazem na zjištění soudu prvního stupně a na předchozí závěry Nejvyššího soudu v dané věci (usnesení ze dne 24. 11. 2021 sp. zn. 7 Tdo 1093/2021) především uvedl, že zranění poškozené charakterizované jako těžká újma na zdraví vznikla výlučně působením obžalovaného, přičemž poškozená se jako chodkyně pohybovala v pěší zóně a na místě nebyla ani žádná dopravní značka, která by ji upozornila na to, že by vstupovala do cyklokoridoru. Neměla proto důvod očekávat výskyt cyklisty a střet s ním. Rovněž jak plyne i z § 39 odst. 3 zákona o silničním provozu, v obytné a pěší zóně smějí chodci užívat pozemní komunikaci v celé její šířce. Nejvyšší soud tu považoval za nutné akcentovat, že v pěší zóně nelze od chodce požadovat stejnou míru opatrnosti, jaká se požaduje od řidiče vozidla, ať už se jedná o řidiče motorového vozidla nebo cyklistu. Je to dáno nejen samotnou podstatou pěší zóny, ale rovněž i možnými následky, které může způsobit neopatrný chodec oproti následkům, které může způsobit neopatrný řidič. Poškozená se v pěší zóně pohybovala standardním způsobem a s ohledem na skutková zjištění nelze tvrdit, že by si počínala riskantně, neohleduplně či že by někoho svým jednáním ohrožovala.
+
+12. Z hlediska subjektivní stránky pak Nejvyšší soud konstatoval, že v jednání stěžovatele lze shledat nedbalostní zavinění. Obviněný se podle zjištění soudů při jízdě na kole v pěší zóně nechoval dostatečně ohleduplně a svoji jízdu nepřizpůsobil výskytu chodců. I přes zmiňovanou nižší přehlednost dopravní situace v místě musel vědět, že se nachází v pěší zóně, a to nejen z důvodu své znalosti místa, ale i s ohledem na existenci svislého dopravního značení označujícího pěší zónu. Pochybení obviněného stěžovatele pak lze spatřovat především v tom, že na kole jel velmi blízko u křoví v levé části původní cyklostezky, když pohyb cyklisty v tomto prostoru lze považovat za rozporný s ustanovením § 4 písm. a) zákona o silničním provozu, podle kterého je každý povinen se chovat ohleduplně a ukázněně. Obviněný mohl a měl v místě srážky s poškozenou předpokládat, že tam může někdo procházet, neboť je zde výsek, kde končí křoví a právě tudy prochází lidé od přechodu a zastávky MHD. Pohyb obžalovaného při levém okraji pěší zóny, i když to bylo zapříčiněno objížděním svědkyně P. D., nebylo možné považovat za jízdu dostatečně ohleduplnou.
+
+13. K námitce stěžovatele ohledně spoluodpovědnosti správce veřejné komunikace za vzniklou škodu lze uvést, že Nejvyšší soud shledal spoluvinu Správy veřejného statku města P. a tato spoluvina se také promítla nejen do výroku o vině, ale i do výroku o náhradě škody či nemajetkové újmy.
+
+14. Obecně vzato lze podle názoru Ústavního soudu shrnout, že cyklista jedoucí v pěší zóně v koridoru určeném cyklistům má povinnost chovat se ohleduplně ke všem účastníkům provozu a přizpůsobit svoji jízdu stavu komunikace a situaci v provozu včetně rychlosti vozidla. Chodec je vždy tím nejslabším účastníkem provozu, a následky střetu s rychleji se pohybujícím vozidlem, kterým je i jízdní kolo nebo koloběžka, mohou být, jako v daném případě, mnohdy fatální. Právě mimořádná ohleduplnost v místech, kde může docházet k nebezpečným situacím a kde zvýšenou mírou hrozí střet chodců s cyklisty, je zde klíčem k bezpečnému společnému pohybu. Sám stěžovatel, který tu navíc nejel poprvé, připustil, že dané místo je značně nepřehledné. Pak je nutno jen zopakovat a zdůraznit, že stěžovatel měl v místě srážky s poškozenou předpokládat, že tam může někdo procházet, neboť jde o úsek, kde končí křoví a často tudy prochází lidé od nedalekého přechodu a zastávky tramvaje. Irelevantní je pak spor o to, zda poškozená do pěší zóny teprve vstupovala (jak namítá stěžovatel), či už se v ní pohybovala. V takovém místě je podle Ústavního soudu případné velmi zpomalit, nebo dokonce sestoupit z kola a vést jej.
+
+15. Nutno tedy konstatovat, že se závěry obecných soudů v dané věci se lze ztotožnit i z ústavněprávního hlediska. Ústavnímu soudu v zásadě nepřísluší právo přehodnocovat důkazy obecného soudu ani právo hodnotit, zda shromáždění konkrétních důkazů je účelné či nikoliv. Hodnotit důkazy přísluší Ústavnímu soudu pouze tehdy, kdyby je sám provedl. Ústavní soud ostatně již mnohokrát zdůraznil, že není součástí soustavy obecných soudů a nepřísluší mu právo dohledu nad jejich rozhodovací činností, do které je povinen zasáhnout pouze tehdy, pokud zásahem orgánu veřejné moci dojde k porušení ústavně zaručených základních práv nebo svobod stěžovatele. K takové situaci ovšem ve zkoumaném případě nedošlo, ačkoliv stěžovatel je zjevně jiného právního názoru. Jeho námitky, spočívající v zásadě v tom, že obecné soudy neodpovídajícím a jednostranným způsobem hodnotily důkazy v řízení provedené, nemá ústavně právní relevanci, neboť ve skutečnosti brojí proti neúspěchu v soudním řízení, což není předmětem ústavní ochrany.16. Ústavní stížnost tak byla odmítnuta jako návrh zjevně neopodstatněný podle § 43 odst. 2 písm. a) zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů.
+
+*PREKLAD*  
+Najvyšší súd tu považoval za nutné akcentovať, že v pešej zóne nemožno od chodca požadovať rovnakú mieru opatrnosti, aká sa požaduje od vodiča vozidla, či už ide o vodiča motorového vozidla alebo cyklistu. Je to dané nielen samotnou podstatou pešej zóny, ale rovnako aj možnými následkami, ktoré môže spôsobiť neopatrný chodec oproti následkom, ktoré môže spôsobiť neopatrný vodič. Poškodená sa v pešej zóne pohybovala štandardným spôsobom a vzhľadom na skutkové zistenia nemožno tvrdiť, že by si počínala riskantne, neohľaduplne alebo že by niekoho svojim konaním ohrozovala. Všeobecne vzaté možno podľa názoru Ústavného súdu zhrnúť, že cyklista idúci v pešej zóne v koridore určenom cyklistom má povinnosť správať sa ohľaduplne ku všetkým účastníkom prevádzky a prispôsobiť svoju jazdu stavu komunikácie a situácii v prevádzke vrátane rýchlosti vozidla. Chodec je vždy tým najslabším účastníkom prevádzky, a následky stretu s rýchlejšie sa pohybujúcim vozidlom, ktorým je aj bicykel alebo kolobežka, môžu byť, ako v danom prípade, často fatálne. Práve mimoriadna ohľaduplnosť v miestach, kde môže dochádzať k nebezpečným situáciám a kde zvýšenou mierou hrozí stret chodcov s cyklistami, je tu kľúčom k bezpečnému spoločnému pohybu. Sám sťažovateľ, ktorý tu navyše nešiel prvýkrát, pripustil, že dané miesto je značne neprehľadné. Potom treba len zopakovať a zdôrazniť, že sťažovateľ mal v mieste zrážky s poškodenou predpokladať, že tam môže niekto prechádzať, pretože ide o úsek, kde končia krovia a často tadiaľto prechádzajú ľudia od neďalekého prechodu a zastávky električky. Irelevantný je potom spor o to, či poškodená do pešej zóny ešte len vstupovala (ako namieta sťažovateľ), či už sa v nej pohybovala. V takom mieste je podľa Ústavného súdu prípadné veľmi spomaliť, alebo dokonca zostúpiť z kola a viesť ho.
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
 
 
 
