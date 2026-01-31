@@ -13,7 +13,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
-| **R16** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | Nahla prekazka chodca | #odmietnute |
+| **R16** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | R45/2017 konkretizacia namietok| #odmietnute |
 
 ---
 
