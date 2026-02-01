@@ -1161,6 +1161,76 @@
 >
 > (11) Vodičský preukaz sa považuje za zadržaný aj vtedy, ak súdny exekútor vydal príkaz na zadržanie vodičského preukazu a vyznačil túto skutočnosť v evidencii vodičov prostredníctvom elektronickej služby zavedenej na tento účel.
 
+## § 71 – Osobitné ustanovenie o zadržaní vodičského preukazu
+
+> (1) Policajt je oprávnený zadržať vodičský preukaz okrem dôvodov podľa § 70 ods. 1 aj vtedy, ak vodič motorového vozidla, ktorému je v blokovom konaní za priestupok proti bezpečnosti a plynulosti cestnej premávky, za priestupok spáchaný nezaplatením úhrady diaľničnej známky, za priestupok spáchaný na úseku výberu mýta, za priestupok spáchaný na úseku cestnej dopravy3 alebo za priestupok spáchaný porušením predpisov na úseku organizácie pracovného času v doprave uložená pokuta, je ochotný ju zaplatiť, ale nemôže tak urobiť na mieste.
+>
+> (2) Policajt na mieste vydá o zadržaní vodičského preukazu podľa odseku 1 potvrdenie, v ktorom povolí ďalšiu jazdu na 15 dní; povolenie platí len na území Slovenskej republiky. V potvrdení musí byť uvedený rozsah udeleného vodičského oprávnenia a spôsob vrátenia vodičského preukazu. Páchateľ priestupku môže požiadať policajta, ktorý vodičský preukaz zadržal, aby zadržaný vodičský preukaz postúpil orgánu Policajného zboru v mieste jeho pobytu alebo v mieste, kde sa zdržiava, na účely jeho vrátenia; policajt je povinný tejto žiadosti vyhovieť.
+>
+> (3) Ak sa vodič motorového vozidla počas zadržania vodičského preukazu podľa odseku 1 dopustí priestupku proti bezpečnosti a plynulosti cestnej premávky, priestupku spáchaného nezaplatením úhrady diaľničnej známky, priestupku na úseku výberu mýta, priestupku na úseku cestnej dopravy alebo priestupku spáchaného porušením predpisov na úseku organizácie pracovného času v doprave a nemá pri sebe finančné prostriedky na zaplatenie uloženej blokovej pokuty, vec nemožno prejednať v blokovom konaní.
+>
+> (4) Ak páchateľ priestupku preukázateľne zaplatil uloženú blokovú pokutu v lehote podľa odseku 2, zadržaný vodičský preukaz sa mu bezodkladne vráti po tom, čo sa orgán Policajného zboru o zaplatení pokuty dozvedel, ak nie je v odseku 8 ustanovené inak. Páchateľ priestupku je na účely prevzatia zadržaného vodičského preukazu povinný dostaviť sa na orgán Policajného zboru; ak ide o cudzinca, ktorý nemá pobyt na území Slovenskej republiky, orgán Policajného zboru zašle vodičský preukaz štátu jeho pobytu.
+>
+> (5) Ak páchateľ priestupku nezaplatil uloženú blokovú pokutu v lehote podľa odseku 2, orgán Policajného zboru bez ďalšieho konania vydá do 30 dní od uplynutia tejto lehoty rozhodnutie o zadržaní vodičského preukazu a postúpi vec na výkon rozhodnutia. Zadržaný vodičský preukaz sa vráti jeho držiteľovi až po výkone rozhodnutia, ak nie je v odseku 8 ustanovené inak.
+>
+> (6) Orgán Policajného zboru zadrží vodičský preukaz a vydá rozhodnutie o zadržaní vodičského preukazu aj vtedy, ak páchateľ priestupku proti bezpečnosti a plynulosti cestnej premávky, ktorého sa dopustil ako vodič motorového vozidla, nezaplatil uloženú pokutu v lehote určenej v rozhodnutí o priestupku; o zadržaní vodičského preukazu sa vydá potvrdenie. Ustanovenia odsekov 3 až 5 sa použijú primerane.
+>
+> (7) Ak sa rozhodnutie o uložení pokuty vykonáva výkonom verejnoprospešných prác, orgán Policajného zboru zadrží vodičský preukaz a vydá rozhodnutie o zadržaní vodičského preukazu, ak páchateľ priestupku nevykoná verejnoprospešné práce v určenej lehote; o zadržaní vodičského preukazu sa vydá potvrdenie. Ustanovenia odsekov 3 až 5 sa použijú primerane.
+>
+> (8) Ak bol vodičský preukaz zadržaný podľa odseku 1 alebo odseku 6 a orgán Policajného zboru zistí, že držiteľ vodičského preukazu nezaplatil pokutu uloženú mu v inom konaní o priestupku uvedenom v odseku 1, vodičský preukaz sa vráti jeho držiteľovi bezodkladne po tom, čo sa orgán Policajného zboru dozvie o zaplatení všetkých pokút podľa odseku 1.
+
+## § 72 – Zadržanie osvedčenia o evidencii časť I alebo časť II, evidenčného dokladu vydaného v cudzine, technického osvedčenia vozidla a tabuľky s evidenčným číslom
+
+> (1) Policajt je oprávnený zadržať osvedčenie o evidencii časť I alebo časť II alebo evidenčný doklad od vozidla vydaný v cudzine, ak
+> - a) vozidlo
+>   - 1. nie je spôsobilé na prevádzku v cestnej premávke,
+>   - 2. nie je technicky spôsobilé na prevádzku v cestnej premávke,
+>   - 3. má pozastavenú prevádzku,
+>   - 4. je vyradené z evidencie,
+>   - 5. je vyradené z cestnej premávky,
+> - b) vodič nepreukázal, že vozidlo bolo v ustanovenej lehote podrobené technickej kontrole alebo emisnej kontrole,
+> - c) údaje v ňom uvedené nie je možné identifikovať,
+> - d) je podozrenie, že sa v ňom neoprávnene urobili zmeny alebo že je neplatné,
+> - e) pominul účel, na ktorý bolo vydané,
+> - f) je na vozidle nečitateľná alebo poškodená tabuľka s evidenčným číslom alebo táto tabuľka nie je umiestnená v súlade s týmto zákonom,
+> - g) vodič nepredloží potvrdenie o poistení zodpovednosti,
+> - h) vozidlo presahuje
+>   - 1. najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   - 2. najväčšie technicky prípustné hmotnosti,
+>   - 3. najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
+> - i) nie sú dodržané podmienky prepravy nákladu podľa § 51 alebo podľa osobitného predpisu,
+> - j) vodič vozidla poruší ustanovenia osobitného predpisu o organizácii pracovného času v doprave,
+> - k) vozidlo nemá zaplatenú úhradu diaľničnej známky,
+> - l) bolo vodičovi vozidla uložené opatrenie na úseku bezpečnosti potravín,
+> - m) vodič vozidla neuhradí mýto alebo je vodičovi vozidla v blokovom konaní za priestupok na úseku výberu mýta37a) uložená pokuta, je ochotný ju zaplatiť, ale nemôže tak urobiť na mieste,
+> - n) vodič autobusu, vodič nákladného automobilu alebo vodič jazdnej súpravy s najväčšou prípustnou celkovou hmotnosťou presahujúcou 3 500 kg poruší ustanovenia osobitného predpisu o cestnej doprave,
+> - o) vodič vozidla neuhradil na mieste príspevok na čiastočnú úhradu nákladov na vykonanie cestnej technickej kontroly alebo úhradu za vykonanie technickej kontroly alebo emisnej kontroly v rámci cestnej technickej kontroly podľa osobitného predpisu, a to až do doby uhradenia príspevku alebo úhrady.
+>
+> (2) Policajt je oprávnený za podmienok ustanovených v odseku 1 zadržať aj tabuľku s evidenčným číslom.
+>
+> (3) Policajt na mieste vydá o zadržaní osvedčenia o evidencii časť I alebo časť II, evidenčného dokladu od vozidla vydaného v cudzine a o zadržaní tabuľky s evidenčným číslom potvrdenie. V potvrdení môže policajt povoliť ďalšiu jazdu s vozidlom najviac na 15 dní, len ak nie je súčasne zadržaná aj tabuľka s evidenčným číslom a ak takou jazdou nebude ohrozená bezpečnosť alebo plynulosť cestnej premávky.
+>
+> (4) Policajt je povinný bezodkladne odovzdať zadržané osvedčenie o evidencii časť I alebo časť II, evidenčný doklad od vozidla vydaný v cudzine a zadržanú tabuľku s evidenčným číslom orgánu Policajného zboru. Ak ide o evidenčný doklad vydaný v cudzine alebo o tabuľku s evidenčným číslom vydanú v cudzine, orgán Policajného zboru ich po uplynutí 15 dní od ich zadržania zašle orgánu, ktorý vozidlo eviduje.
+>
+> (5) Ak dôvody zadržania osvedčenia o evidencii časť I alebo časť II pominú, orgán Policajného zboru ho na základe žiadosti prevádzkovateľa vozidla vráti spolu s tabuľkou s evidenčným číslom, ak bola zadržaná; to neplatí, ak ide o postup podľa odseku 7. Orgán Policajného zboru na základe žiadosti prevádzkovateľa vozidla vráti aj evidenčný doklad vydaný v cudzine a tabuľku s evidenčným číslom, ak neboli zaslané orgánu, ktorý ich eviduje.
+>
+> (6) Tabuľku s evidenčným číslom z motorového vozidla demontuje policajt, ak tak vodič neurobil na jeho výzvu sám; škodu spôsobenú v súvislosti s demontovaním tabuľky s evidenčným číslom znáša prevádzkovateľ vozidla.
+>
+> (7) Ak dôvody zadržania osvedčenia o evidencii časť I alebo časť II podľa odseku 1 písm. a) druhého bodu alebo písm. b) nepominú ani do 60 dní odo dňa jeho zadržania a vozidlo podlieha technickej kontrole pravidelnej alebo emisnej kontrole pravidelnej, vec sa postúpi okresnému úradu.
+>
+> (8) Za osvedčenie o evidencii časť I alebo časť II alebo tabuľku s evidenčným číslom zadržanú podľa odseku 1 písm. a) až c), f) a g) alebo zadržanú v cudzine možno vydať nové osvedčenie o evidencii časť I alebo časť II alebo tabuľku s evidenčným číslom, ak dôvody na ich zadržanie pominuli; to neplatí, ak ide o postup podľa odseku 7. Žiadateľ o vydanie nového osvedčenia o evidencii časti I alebo časti II alebo novej tabuľky s evidenčným číslom, ktoré sú náhradou za ich zadržanie v cudzine, je povinný predložiť informáciu tohto štátu o zadržaní spolu s jej osvedčeným prekladom do štátneho jazyka.
+>
+> (9) Nové osvedčenie o evidencii časť I alebo časť II za osvedčenie o evidencii časť I alebo časť II podľa odseku 8 môže na základe žiadosti vlastníka vozidla alebo držiteľa vozidla vydať orgán Policajného zboru, kde je vozidlo evidované, alebo orgán Policajného zboru, kde si žiadateľ podá žiadosť o jeho vydanie.
+>
+> (10) Prevádzkovateľ vozidla je povinný pri žiadosti o vydanie nového osvedčenia o evidencii časť I alebo časť II podľa odseku 9 odovzdať potvrdenie podľa odseku 3.
+>
+> (11) Policajt je oprávnený z dôvodov podľa odseku 1 písm. a), c) až e), g) až k) a o) zadržať technické osvedčenie vozidla; ustanovenie odseku 3 platí obdobne. Policajt odovzdá zadržané technické osvedčenie vozidla okresnému úradu.
+>
+> (12) Osvedčenie o evidencii časť I alebo časť II, evidenčný doklad od vozidla vydaný v cudzine a tabuľku s evidenčným číslom je oprávnený zadržať aj vojenský policajt za podmienok uvedených v odseku 1 písm. a) až h) a k), ak ide o osoby, ktorých priestupky môže objasňovať Vojenská polícia; povinnosti policajta podľa odsekov 3, 4 a 6 sa vzťahujú aj na vojenského policajta.
+>
+> (13) Technické osvedčenie vozidla je oprávnený zadržať aj vojenský policajt z dôvodov podľa odseku 1 písm. a), c) až e), g) a h), ak ide o osoby, ktorých priestupky môže objasňovať Vojenská polícia; ustanovenie odseku 3 platí obdobne. Vojenský policajt odovzdá zadržané technické osvedčenie vozidla okresnému úradu.
+>
+> (14) Policajt na mieste zadrží osvedčenie o evidencii časť I alebo časť II na základe príkazu na zadržanie osvedčenia o evidencii vozidla vydaného súdnym exekútorom. Odseky 3 až 6 sa použijú primerane.
 
 
 
