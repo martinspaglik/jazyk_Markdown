@@ -2014,5 +2014,88 @@ Okresný súd odkázal poškodených v tejto veci (zdravotnú poisťovňu aj zá
 <!-- DECISION:END -->
 
 
+<!-- DECISION:BEGIN spis=6 Tdo 523/2011 -->
+
+# Porušenie dôležitej povinnosti vodiča pri nezastavení pred priechodom pre chodcov
+
+# Rozhodnutie: R20 – Nejvyšší soud České republiky – 6 Tdo 523/2011 – 2011-08-18
+## Identifikácia
+- **ID:** R20
+- **Súd:** Nejvyšší soud České republiky
+- **Spisová značka:** 6 Tdo 523/2011
+- **Dátum rozhodnutia:** 2011-08-18
+- **Typ rozhodnutia:** uznesenie
+- **Stupeň:** dovolacie
+- **Strany (anonymizované):**
+  - obvineny: A. U.
+  - dovolatel (statne zastupitelstvo): najvyssia statna zastupkyna (CZ)
+  - poskodena: J. T.
+- **Zdroj / poznámka:** DN -chodec a vozidlo – iné vozidlá zastavili pred priechodom-vodič nezastavil-6 Tdo 523_2011.docx 
+- **Tagy:** #trestne #dovolanie #dopravna_nehoda #prechod_pre_chodcov #porusenie_dolezitej_povinnosti #ublizenie_na_zdravi #spoluzavinenie #lex_mitior #§147TZ #§265kTR #§5ZSP 
+
+## Právna veta (Kľúčový záver)
+>  Porušením dôležitej povinnosti pri prevádzke na pozemných komunikáciách je najmä také porušenie povinností vodiča motorového vozidla, ktoré so zreteľom na silu, rýchlosť, váhu a veľkosť motorového vozidla môže mať za následok vážnu dopravnú nehodu a ktoré podľa všeobecnej skúsenosti taký následok skutočne často máva. O porušenie dôležitej povinnosti ide aj v prípadoch, kedy je nehoda spôsobená bezohľadnou jazdou vodiča voči chodcom nachádzajúcim sa na vyznačenom priechode alebo neprimeranou rýchlosťou pri jazde cez vyznačený priechod pre chodcov za situácie, kedy vodič s ohľadom na vozidlá stojace pred priechodom mohol predvídať, že na priechode sa pohybuje chodec, ktorého nesmie ohroziť. Pokiaľ sa chodec pred vstupom na vozovku riadne rozhliadol a jeho správanie zodpovedalo vzniknutej dopravnej situácii (iné vozidlá mu dávali prednosť), nemožno mu pričítať spoluzavinenie len preto, že sa opätovne nezastavil uprostred priechodu, čím by navyše mohol porušiť zákaz bezdôvodného zastavovania na priechode.
+
+## Kontext prípadu 
+Najvyšší súd ČR rozhodoval o dovolaní najvyššej štátnej zástupkyne v neprospech obvineného A. U. proti rozsudku Krajského súdu v Plzni (sp. zn. 9 To 361/2010), ktorý ako odvolací súd zrušil prvostupňový rozsudok Okresného súdu Plzeň – město (sp. zn. 2 T 36/2010) a obvineného uznal vinným len podľa miernejšej kvalifikácie (§ 224 ods. 1 tr. zák.). Predmetom sporu bola otázka, či porušenie povinnosti vodiča pri približovaní sa k priechodu pre chodcov predstavovalo porušenie „dôležitej povinnosti uloženej podľa zákona“ (kvalifikovaná skutková podstata) a či bolo možné znížiť mieru zavinenia pre údajné spoluzavinenie chodkyne. Najvyšší súd zdôraznil, že v konkrétnej dopravnej situácii mohlo a malo byť porušenie povinností podľa zákona o cestnej premávke posúdené ako porušenie dôležitej povinnosti. Neakceptoval záver odvolacieho súdu o výraznom spoluzavinení poškodenej, keďže jej postup na priechode bol v medziach zákona a nemohol znižovať mieru zavinenia obvineného. Dovolaniu vyhovel, rozsudok Krajského súdu v Plzni zrušil a vec mu prikázal v potrebnom rozsahu znovu prejednať a rozhodnúť.
 
 
+## Argumentačná línia
+- **Obžaloba:** Najvyššia štátna zástupkyňa namietala nesprávne právne posúdenie skutku, najmä že porušenie povinností vodiča pri priechode pre chodcov (§ 5 ods. 1 písm. h), i) zákona č. 361/2000 Sb.) malo byť posúdené ako porušenie dôležitej povinnosti, a preto mala byť použitá kvalifikácia podľa § 147 ods. 1, 2 tr. zákoníku. Odmietla záver o výraznom spoluzavinení poškodenej a zdôraznila, že poškodená sa pred vstupom na priechod presvedčila o možnosti prechodu a vzhľadom na zastavené vozidlá jej konanie nebolo protiprávne.
+- **Obhajoba:** Obvinený tvrdil, že nemohol stretu zabrániť, lebo poškodenú zbadal na príliš krátku vzdialenosť (prekážal mu výhľad stojaci terénny automobil) a nebolo splnené kritérium „vozidiel idúcich rovnakým smerom“ podľa § 5 ods. 1 písm. i) zákona č. 361/2000 Sb. Namietal tiež porušenie povinností chodca (§ 4 písm. a), § 54 ods. 3 zákona o silničním provozu) a zdôrazňoval výrazný podiel poškodenej, čo podľa neho odôvodňuje miernejšiu právnu kvalifikáciu; navrhol dovolanie odmietnuť.
+- **Súd:** Najvyšší súd vyhodnotil dovolacie námietky ako právne relevantné a dospel k záveru, že odvolací súd nesprávne neprijal kvalifikovanú skutkovú podstatu z dôvodu údajného spoluzavinenia poškodenej. Uviedol, že zistené skutkové okolnosti poškodenú z porušenia povinností chodca nevylučujú, naopak jej postup bol v medziach zákona, a preto nemohol znižovať mieru zavinenia vodiča ani nebezpečnosť jeho konania. Konštatoval príčinnú súvislosť medzi porušením povinnosti vodiča pri priechode a následkom a uzavrel, že ide o porušenie dôležitej povinnosti uloženej podľa zákona; rozsudok krajského súdu zrušil a vec mu vrátil na nové konanie.
+
+## Skutkový stav
+V P. dňa 12. 10. 2009 okolo 13:35 hod. viedol obvinený osobné motorové vozidlo (Škoda Fabia) a po prejazde križovatkou pokračoval priamo k vyznačenému priechodu pre chodcov. Pred priechodom zastavili iní vodiči (vo vozidle Jeep Cherokee a v protismere vo vozidle VW Passat) a umožňovali prechod chodcom. Obvinený však pred priechodom neznížil rýchlosť ani nezastavil a neumožnil bezpečný prechod chodkyni J. T., ktorá prechádzala po vyznačenom priechode zprava doľava v smere jeho jazdy. Pravou prednou časťou vozidla do chodkyne narazil a spôsobil jej ťažké zranenia (zlomenina druhého krčného stavca, zlomenina horného konca ľavej ramennej kosti a zlomenina ľavej lýtkovej kosti). Poškodená bola hospitalizovaná a liečená s následným podstatným obmedzením v obvyklom spôsobe života; pracovná neschopnosť a liečenie trvali minimálne do 22. 1. 2010.
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – dopravná nehoda (ublíženie na zdraví z nedbanlivosti)
+- **Podtéma:** priechod pre chodcov; dôležitá povinnosť vodiča; spoluzavinenie chodca; dovolanie
+- **Tagy:** #trestne #dovolanie #dopravna_nehoda #prechod_pre_chodcov #porusenie_dolezitej_povinnosti #spoluzavinenie #ublizenie_na_zdravi #lex_mitior #§147TZ #§265kTR #§5ZSP  
+
+## Právna veta / právny záver (abstrakt)
+Ak vodič pri približovaní sa k priechodu pre chodcov nereaguje na dopravnú situáciu signalizovanú zastavenými vozidlami a nepostupuje tak, aby bol schopný pred priechodom včas zastaviť, môže ísť v konkrétnych okolnostiach o porušenie dôležitej povinnosti uloženej podľa zákona, ak je toto porušenie v príčinnej súvislosti s ťažkým následkom na zdraví chodca. Údajné spoluzavinenie chodca nemožno založiť na požiadavke, aby sa chodec na priechode bezdôvodne zastavoval a opakovane sa presviedčal o situácii, pokiaľ jeho postup zodpovedá zákonným pravidlám a objektívne nemohol vozidlo včas spozorovať.
+
+## Právne vety / kľúčové závery 
+- (1) Najvyšší súd vyhovel dovolaniu, rozsudok odvolacieho súdu zrušil a vec mu prikázal znovu prejednať a rozhodnúť.
+- (2) Porušenie povinností vodiča pri priechode pre chodcov môže v konkrétnej situácii predstavovať porušenie dôležitej povinnosti uloženej podľa zákona.
+- (3) Ak je postup chodca na priechode v medziach zákona, nemôže sa na ňom stavať záver o výraznom spoluzavinení znižujúcom mieru zavinenia vodiča.
+- (4) Pri kvalifikácii je potrebné skúmať príčinnú súvislosť medzi porušením povinnosti vodiča a následkom; v posudzovanej veci ju Najvyšší súd vyhodnotil ako danú.
+- (5) Nezastavenie pred priechodom, ak iné vozidlá stoja, je spravidla porušením dôležitej povinnosti podľa § 147 ods. 2 Tr. zákonníka.
+- (6) Stojace vozidlá pred priechodom sú pre ostatných vodičov jasným signálom prítomnosti chodcov a vyžadujú okamžitú reakciu (zastavenie).
+- (7) Chodcovi nemožno pričítať spoluzavinenie za to, že dôveroval bezpečnej situácii vytvorenej stojacimi vozidlami, ktoré mu dali prednosť.
+- (8) Požiadavka odvolacieho súdu na opätovné zastavenie chodca za hranicou stojaceho vozidla je v priamom rozpore s povinnosťou chodca nezastavovať bezdôvodne na priechode.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - zákon č. 40/2009 Sb., trestní zákoník: § 147 odst. 1, 2; § 2 odst. 1; § 73 odst. 1; § 81 odst. 1; § 82 odst. 1
+  - zákon č. 140/1961 Sb., trestní zákon: § 224 odst. 1, 2; § 58 odst. 1; § 59 odst. 1; § 88 odst. 1
+  - zákon č. 361/2000 Sb., o provozu na pozemních komunikacích (silniční provoz): § 5 odst. 1 písm. h), i); § 4 písm. a); § 54 odst. 2, 3; § 53 a násl.
+- **Proces:**
+  - trestní řád: § 2 odst. 5, 6; § 258 odst. 1 písm. b), d); § 259 odst. 3; § 265a odst. 1, 2 písm. a); § 265b odst. 1 písm. g); § 265c; § 265d odst. 1 písm. a); § 265e odst. 1; § 265f odst. 1; § 265h odst. 2; § 265i odst. 1, 3; § 265k odst. 1, 2; § 265l odst. 1; § 265n; § 265p odst. 1; § 265r odst. 1 písm. b), c); § 265s odst. 1
+- **Iné zdroje:**
+  - Sb. rozh. tr.: č. 33/1972; č. 11/1964; č. 57/1960; č. 17/59; č. 33/61; č. 26/62; č. 14/61; č. 61/1978; č. 35/1979; č. 25/1984; č. 34/1979; č. 24/1984; č. 31/1966; č. 5/1962; č. 39/1963
+  - usnesenia Ústavního soudu: sp. zn. II. ÚS 279/03; sp. zn. IV. ÚS 449/03; sp. zn. IV. ÚS 73/03
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obvinený ako vodič osobného vozidla nezastavil ani neznížil rýchlosť pred priechodom pre chodcov napriek tomu, že iné vozidlá v blízkosti priechodu stáli, a zrazil chodkyňu prechádzajúcu po priechode.
+- Rozhodujúce skutkové zistenia súdu: Poškodená sa pred vstupom na priechod rozhlížala a vozidlo obvineného v danom okamihu nevidela ani vidieť nemohla; dopravná situácia mala obvinenému signalizovať nutnosť zvýšenej pozornosti a včasného zastavenia.
+- Podstatné dôkazy (výber):
+  - znalecký posudok (k viditeľnosti/reakcii a priebehu nehody)
+  - výpovede svedkov B. M. a M. D. (situácia na priechode)
+  - NEUVEDENÉ
+
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Či porušenie povinnosti vodiča podľa § 5 ods. 1 písm. i) (príp. aj písm. h)) zákona č. 361/2000 Sb. predstavuje v danej situácii porušenie „dôležitej povinnosti uloženej podľa zákona“.
+2. Či bolo možné znížiť mieru zavinenia vodiča pre údajné výrazné spoluzavinenie chodkyne.
+3. Aký význam má pre právnu kvalifikáciu zásada aplikácie priaznivejšieho zákona (lex mitior) pri porovnaní § 224 tr. zák. a § 147 tr. zákoníku.
+
+### Argumentácia súdu (výber)
+- Dovolací dôvod podľa § 265b ods. 1 písm. g) tr. ř. smeruje len proti nesprávnemu hmotnoprávnemu posúdeniu, nie proti skutkovým zisteniam ani hodnoteniu dôkazov.
+- „Dôležitá povinnosť“ je taká, ktorej porušenie má v konkrétnej situácii spravidla za následok nebezpečenstvo pre život alebo zdravie; význam porušenia je viazaný na konkrétnu dopravnú situáciu.
+- Porušenie povinností vodiča pri priechode pre chodcov (§ 5 ods. 1 písm. h), i) zákona č. 361/2000 Sb.) môže byť v konkrétnych prípadoch porušením dôležitej povinnosti.
+- Poškodená pri prechádzaní postupovala v medziach zákona; požiadavka odvolacieho súdu, aby sa po vstupe na priechod zastavila a znovu sa rozhlédla, by mohla byť v rozpore so zákazom bezdôvodného zdržiavania sa na priechode (§ 54 ods. 3).
+- Porušenie povinnosti obvineného bolo podľa súdu výlučnou príčinou následku; preto bolo nesprávne vylúčiť kvalifikovanú skutkovú podstatu pre „spoluzavinenie“ poškodenej.
+- Najvyšší súd zrušil rozsudok odvolacieho súdu a prikázal mu vec znovu prejednať; odvolací súd je viazaný právnym názorom dovolacieho súdu (§ 265s ods. 1).
