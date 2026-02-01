@@ -1232,10 +1232,137 @@
 >
 > (14) Policajt na mieste zadrží osvedčenie o evidencii časť I alebo časť II na základe príkazu na zadržanie osvedčenia o evidencii vozidla vydaného súdnym exekútorom. Odseky 3 až 6 sa použijú primerane.
 
+## § 72a – Osobitné ustanovenia o zadržaní osvedčenia o evidencii časť I alebo časť II, evidenčného dokladu vydaného v cudzine, technického osvedčenia vozidla a tabuľky s evidenčným číslom
 
+> (1) Policajt je oprávnený zadržať osvedčenie o evidencii časť I alebo časť II, evidenčný doklad od vozidla vydaný v cudzine alebo technické osvedčenie vozidla a tabuľku s evidenčným číslom, ak pokuta uložená za správny delikt držiteľa vozidla podľa § 139a alebo § 139h, za správny delikt prevádzkovateľa vozidla na úseku výberu mýta, za správny delikt prevádzkovateľa vozidla na úseku úhrady diaľničnej známky alebo za správny delikt prevádzkovateľa vozidla na úseku nadmernej dopravy a nadrozmernej dopravy41aba) nebola zaplatená
+> - a) po lehote podľa § 139b ods. 5 alebo podľa osobitného prepisu alebo
+> - b) na mieste vydania bloku na pokutu podľa § 139h ods. 1 alebo podľa osobitného predpisu.
+>
+> (2) Policajt je oprávnený zadržať osvedčenie o evidencii časť I alebo časť II, evidenčný doklad od vozidla vydaný v cudzine alebo technické osvedčenie vozidla a tabuľku s evidenčným číslom aj vtedy, ak bola vodičovi uložená povinnosť zložiť peňažnú záruku podľa § 139h ods. 6 alebo podľa osobitného predpisu a neurobil tak na mieste.
+>
+> (3) Policajt môže určiť najbližšie miesto, ktoré je vhodné na dlhodobejšie státie vozidla s ohľadom na bezpečnosť a plynulosť cestnej premávky v primeranej vzdialenosti od miesta zastavenia, a prikázať vodičovi jazdu na toto miesto.
+>
+> (4) Ak je pokuta uvedená v odseku 1 preukázateľne zaplatená alebo peňažná záruka uvedená v odseku 2 preukázateľne zložená, zadržaný doklad a tabuľka s evidenčným číslom sa bezodkladne vrátia držiteľovi vozidla, prevádzkovateľovi vozidla alebo vodičovi vozidla po tom, čo sa orgán Policajného zboru o zaplatení pokuty alebo zložení peňažnej záruky dozvedel. Na účely prevzatia zadržaného dokladu alebo tabuľky s evidenčným číslom je osoba, ktorá žiada o ich vrátenie, povinná dostaviť sa na orgán Policajného zboru.
+>
+> (5) Ak orgán Policajného zboru zistí, že držiteľ vozidla nezaplatil pokutu uloženú mu v inom konaní uvedenom v odseku 1 alebo nezložil peňažnú záruku v inom konaní uvedenom v odseku 2, orgán Policajného zboru vráti zadržaný doklad a tabuľku s evidenčným číslom až potom, čo sa dozvie o zaplatení všetkých pokút podľa odseku 1 a zložení všetkých peňažných záruk podľa odseku 2.
+>
+> (6) Na zadržanie dokladov a tabuľky s evidenčným číslom podľa odsekov 1 a 2 sa vzťahuje § 72 ods. 3 prvá veta a ods. 4 až 6 s tým, že orgán Policajného zboru zašle evidenčný doklad vydaný v cudzine alebo tabuľku s evidenčným číslom vydanú v cudzine orgánu, ktorý vozidlo eviduje, po uplynutí 30 dní od ich zadržania.
+>
+> (7) Ustanovenie odseku 1 sa nepoužije, ak bola držba vozidla po uložení pokuty uvedenej v odseku 1 preukázateľne prevedená na inú osobu.
 
+> PIATA ČASŤ
 
+> VEDENIE VOZIDIEL
 
+> PRVÁ HLAVA
+
+> VEDENIE MOTOROVÝCH VOZIDIEL
+
+> Prvý oddiel
+
+> Vodičské oprávnenie
+
+## Všeobecné ustanovenia
+
+## § 73 – Všeobecné ustanovenia
+
+> (1) Vodičské oprávnenie je právo osoby viesť motorové vozidlo určitej skupiny.
+>
+> (2) Držiteľ vodičského oprávnenia je osoba, ktorej bolo v Slovenskej republike alebo v inom štáte udelené vodičské oprávnenie.
+>
+> (3) Vodičské oprávnenie udeľuje orgán Policajného zboru. Na rozhodovanie o udelení vodičského oprávnenia je príslušný orgán Policajného zboru podľa miesta, kde žiadateľ o udelenie vodičského oprávnenia (ďalej len „žiadateľ“) skladá skúšky z odbornej spôsobilosti alebo vykoná osobitnú skúšku z vedenia motorového vozidla. Na rozhodovanie o udelení vodičského oprávnenia podľa § 76 ods. 7 a § 78 ods. 2 a 3 je príslušný orgán Policajného zboru podľa sídla autoškoly alebo sídla jej prevádzky, kde žiadateľ absolvoval osobitný výcvik v autoškole.
+>
+> (4) Prvé vodičské oprávnenie je vodičské oprávnenie udelené žiadateľovi, ktorý nie je držiteľom vodičského oprávnenia udeleného v Slovenskej republike alebo v inom štáte.
+>
+> (5) Ďalšie vodičské oprávnenie je vodičské oprávnenie udelené žiadateľovi, ktorý je držiteľom prvého vodičského oprávnenia.
+>
+> (6) Ďalšie vodičské oprávnenie sa neudeľuje držiteľovi vodičského preukazu vydaného iným štátom, ako je Slovenská republika alebo iný zmluvný štát Dohody o Európskom hospodárskom priestore (ďalej len „štát Európskeho hospodárskeho priestoru“).
+
+## § 74
+
+> (1) Motorové vozidlo určitej skupiny smie viesť len osoba, ktorá je držiteľom vodičského oprávnenia príslušnej skupiny.
+>
+> (2) Držiteľ vodičského oprávnenia skupiny B, ktorému bolo vodičské oprávnenie skupiny B udelené pred dovŕšením veku 18 rokov, môže do dovŕšenia veku 18 rokov, najmenej však tri mesiace, viesť motorové vozidlo skupiny B len v prítomnosti osoby sediacej na mieste spolujazdca vedľa vodiča, ktorá je držiteľom vodičského oprávnenia skupiny B najmenej 10 rokov a ktorú na tento účel zapíše orgán Policajného zboru do evidencie vodičov na žiadosť zákonného zástupcu; osoba spolujazdca má v takom prípade primerane povinnosti podľa § 4 ods. 2 písm. a) až e). Žiadosť zákonného zástupcu podľa predchádzajúcej vety musí obsahovať údaje podľa § 107 ods. 3 písm. d).
+
+## § 75 – Rozsah a členenie skupín motorových vozidiel
+
+> (1) Na účely udeľovania vodičských oprávnení sa motorové vozidlá členia na skupiny AM, A1, A2, A, B1, B, BE, C1, C1E, C, CE, D1, D1E, D, DE a T.
+>
+> (2) Do skupiny motorových vozidiel skupiny AM patria ľahké dvojkolesové motorové vozidlá kategórie L1e s najväčšou konštrukčnou rýchlosťou vyššou ako 25 km/h, trojkolesové motorové vozidlá kategórie L2e s najväčšou konštrukčnou rýchlosťou vyššou ako 25 km/h a ľahké štvorkolky kategórie L6e.
+>
+> (3) Do skupiny motorových vozidiel A1 patria
+> - a) dvojkolesové motorové vozidlá bez postranného vozíka alebo s postranným vozíkom vybavené motorom s najväčšou konštrukčnou rýchlosťou vyššou ako 45 km/h, ktorých zdvihový objem valcov motora nepresahuje 125 cm3 a výkon nie je väčší ako 11 kW a pomer výkon/najväčšia prípustná celková hmotnosť nepresahuje 0,1 kW/kg,
+> - b) motorové trojkolky, ktorými sú vozidlá s tromi symetricky usporiadanými kolesami, vybavené motorom, ktorý má zdvihový objem väčší ako 50 cm3, ak je to spaľovací motor, alebo s najvyššou konštrukčnou rýchlosťou vyššou ako 45 km/h, ktorých výkon nepresahuje 15 kW.
+>
+> (4) Do skupiny motorových vozidiel A2 patria dvojkolesové motorové vozidlá bez postranného vozíka alebo s postranným vozíkom vybavené motorom s výkonom nepresahujúcim 35 kW, s pomerom výkon/najväčšia prípustná celková hmotnosť nepresahujúcim 0,2 kW/kg, ktoré nie sú odvodené od vozidla s viac ako dvojnásobkom ich výkonu.
+>
+> (5) Do skupiny motorových vozidiel A patria
+> - a) dvojkolesové motorové vozidlá bez postranného vozíka alebo s postranným vozíkom vybavené motorom, ktorých najväčšia konštrukčná rýchlosť je viac ako 45 km/h alebo ktorých zdvihový objem valcov motora je väčší ako 50 cm3 v prípade spaľovacieho motora,
+> - b) motorové trojkolky podľa odseku 3 písm. b) s výkonom presahujúcim 15 kW.
+>
+> (6) Do skupiny motorových vozidiel skupiny B1 patria ťažké štvorkolky kategórie L7e.
+>
+> (7) Do skupiny motorových vozidiel B patria
+> - a) motorové vozidlá okrem vozidiel skupiny AM, A1, A2, A a T, ktorých najväčšia prípustná celková hmotnosť nepresahuje 3 500 kg a ktoré sú konštruované a určené na prepravu najviac ôsmich osôb okrem vodiča; k motorovému vozidlu tejto skupiny smie byť pripojené prípojné vozidlo s najväčšou prípustnou celkovou hmotnosťou nepresahujúcou 750 kg,
+> - b) motorové vozidlá podľa písmena a) s prípojným vozidlom, ktorého najväčšia prípustná celková hmotnosť presahuje 750 kg za predpokladu, že najväčšia prípustná celková hmotnosť jazdnej súpravy nepresahuje 4 250 kg.
+>
+> (8) Do skupiny motorových vozidiel BE patria jazdné súpravy pozostávajúce z ťažného vozidla skupiny B a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť nepresahuje 3 500 kg.
+>
+> (9) Do skupiny motorových vozidiel skupiny C1 patria motorové vozidlá okrem skupiny D1 alebo D, ktorých najväčšia prípustná celková hmotnosť presahuje 3 500 kg a nepresahuje 7 500 kg, ktoré sú konštruované a určené na prepravu najviac ôsmich osôb okrem vodiča; k motorovému vozidlu tejto skupiny môže byť pripojené prípojné vozidlo s najväčšou prípustnou celkovou hmotnosťou nepresahujúcou 750 kg.
+>
+> (10) Do skupiny motorových vozidiel C1E patria jazdné súpravy pozostávajúce z ťažného vozidla
+> - a) skupiny C1 a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť presahuje 750 kg za predpokladu, že najväčšia prípustná celková hmotnosť tejto jazdnej súpravy nepresahuje 12 000 kg,
+> - b) skupiny B a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť presahuje 3 500 kg za predpokladu, že najväčšia prípustná celková hmotnosť tejto jazdnej súpravy nepresahuje 12 000 kg.
+>
+> (11) Do skupiny motorových vozidiel skupiny C patria motorové vozidlá okrem skupiny D1 alebo D, ktoré sú konštruované a určené na prepravu najviac ôsmich osôb okrem vodiča a ktorých najväčšia prípustná celková hmotnosť presahuje 3 500 kg; k motorovému vozidlu tejto skupiny môže byť pripojené prípojné vozidlo s najväčšou prípustnou celkovou hmotnosťou nepresahujúcou 750 kg.
+>
+> (12) Do skupiny motorových vozidiel CE patria jazdné súpravy zložené z motorového vozidla skupiny C a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť presahuje 750 kg.
+>
+> (13) Do skupiny motorových vozidiel skupiny D1 patria motorové vozidlá, ktoré sú konštruované a určené na prepravu najviac 16 osôb okrem vodiča a ktorých dĺžka nepresahuje 8 m; k motorovému vozidlu tejto skupiny môže byť pripojené prípojné vozidlo s najväčšou prípustnou celkovou hmotnosťou nepresahujúcou 750 kg.
+>
+> (14) Do skupiny motorových vozidiel D1E patria jazdné súpravy zložené z ťažného vozidla skupiny D1 a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť presahuje 750 kg.
+>
+> (15) Do skupiny motorových vozidiel D patria motorové vozidlá, ktoré sú konštruované a určené na prepravu viac ako ôsmich osôb okrem vodiča; k motorovému vozidlu tejto skupiny smie byť pripojené prípojné vozidlo s najväčšou prípustnou celkovou hmotnosťou nepresahujúcou 750 kg.
+>
+> (16) Do skupiny motorových vozidiel DE patria jazdné súpravy zložené z motorového vozidla skupiny D a prípojného vozidla, ktorého najväčšia prípustná celková hmotnosť presahuje 750 kg.
+>
+> (17) Do skupiny motorových vozidiel T patria poľnohospodárske traktory a lesné traktory, ako aj iné zvláštne motorové vozidlá; k motorovému vozidlu tejto skupiny smie byť pripojené prípojné vozidlo.
+
+## § 76 – Rozsah a členenie skupín vodičského oprávnenia
+
+> (1) Vodičské oprávnenie sa člení podľa skupín motorových vozidiel.
+>
+> (2) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny AM sa udeľuje vodičské oprávnenie skupiny AM. Vodičské oprávnenie skupiny AM oprávňuje viesť motorové vozidlá skupiny AM.
+>
+> (3) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny A1 sa udeľuje vodičské oprávnenie skupiny A1. Vodičské oprávnenie skupiny A1 oprávňuje viesť motorové vozidlá skupiny A1, ako aj motorové vozidlá skupiny AM.
+>
+> (4) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny A2 sa udeľuje vodičské oprávnenie skupiny A2. Vodičské oprávnenie skupiny A2 oprávňuje viesť motorové vozidlá skupiny A2, ako aj motorové vozidlá skupiny A1 a AM.
+>
+> (5) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny A sa udeľuje vodičské oprávnenie skupiny A. Vodičské oprávnenie skupiny A oprávňuje viesť motorové vozidlá skupiny A, ako aj motorové vozidlá skupiny AM, A1 a A2; motorové vozidlá podľa § 75 ods. 5 písm. b) oprávňuje viesť, len ak je jeho držiteľ starší ako 21 rokov.
+>
+> (6) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny B1 sa udeľuje vodičské oprávnenie skupiny B1. Vodičské oprávnenie skupiny B1 oprávňuje viesť motorové vozidlá skupiny B1, ako aj motorové vozidlá skupiny AM.
+>
+> (7) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny B sa udeľuje vodičské oprávnenie skupiny B. Vodičské oprávnenie skupiny B oprávňuje viesť motorové vozidlá skupiny B, ako aj motorové vozidlá skupiny AM a B1; jazdnú súpravu podľa § 75 ods. 7 písm. b), ktorej najväčšia prípustná celková hmotnosť presahuje 3 500 kg a nepresahuje 4 250 kg, oprávňuje viesť len vodičské oprávnenie skupiny B s príslušným harmonizovaným kódom, ktoré možno udeliť po absolvovaní osobitného výcviku v autoškole alebo po zložení osobitnej skúšky z vedenia motorového vozidla. Vodičské oprávnenie skupiny B po dvoch rokoch od jeho udelenia oprávňuje viesť na území Slovenskej republiky aj motorové vozidlá bez prípojného vozidla určené na prepravu tovaru s pohonom na alternatívne palivá, ktorých najväčšia prípustná celková hmotnosť nepresahuje 4 250 kg, ak je najväčšia prípustná celková hmotnosť presahujúca 3 500 kg spôsobená vyššou hmotnosťou ich pohonného systému oproti pohonnému systému motorových vozidiel s rovnakými rozmermi so spaľovacím motorom a nie je zvýšená nosnosť nákladu oproti takému vozidlu. Vodičské oprávnenie skupiny B po dvoch rokoch od jeho udelenia oprávňuje viesť aj motorové vozidlá podľa § 75 ods. 3 písm. a) s automatickou prevodovkou, a to len na území Slovenskej republiky. Vodičské oprávnenie skupiny B oprávňuje viesť na území Slovenskej republiky aj motorové vozidlá podľa § 75 ods. 3 písm. b) a ods. 5 písm. b); motorové vozidlá podľa § 75 ods. 5 písm. b) oprávňuje viesť, len ak je jeho držiteľ starší ako 21 rokov. Vodičské oprávnenie skupiny B oprávňuje viesť na území Slovenskej republiky aj motorové vozidlá skupiny T, ktorých najväčšia prípustná celková hmotnosť nepresahuje 3 500 kg a jazdnú súpravu pozostávajúcu z motorového vozidla skupiny T a prípojného vozidla za predpokladu, že najväčšia prípustná celková hmotnosť jazdnej súpravy nepresahuje 3 500 kg.
+>
+> (8) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny BE možno udeliť vodičské oprávnenie skupiny BE, len ak už je držiteľom vodičského oprávnenia skupiny B. Vodičské oprávnenie skupiny BE oprávňuje viesť motorové vozidlá skupiny BE.
+>
+> (9) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny C1 možno udeliť vodičské oprávnenie skupiny C1, len ak už je držiteľom vodičského oprávnenia skupiny B. Vodičské oprávnenie skupiny C1 oprávňuje viesť motorové vozidlá skupiny C1, ako aj motorové vozidlá skupiny T.
+>
+> (10) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny C1E možno udeliť vodičské oprávnenie skupiny C1E, len ak už je držiteľom vodičského oprávnenia skupiny C1. Vodičské oprávnenie skupiny C1E oprávňuje viesť motorové vozidlá skupiny C1E, ako aj motorové vozidlá skupiny BE a T.
+>
+> (11) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny C možno udeliť vodičské oprávnenie skupiny C, len ak už je držiteľom vodičského oprávnenia skupiny B. Vodičské oprávnenie skupiny C oprávňuje viesť motorové vozidlá skupiny C, ako aj motorové vozidlá skupiny C1 a T. Vodičské oprávnenie skupiny C udelené podľa § 78 ods. 5 oprávňuje do dovŕšenia veku 21 rokov viesť na území Slovenskej republiky len motorové vozidlá skupiny C používané ozbrojenými silami, ozbrojeným bezpečnostným zborom, ozbrojeným zborom, Vojenskou políciou, Vojenským spravodajstvom alebo Hasičským a záchranným zborom. Vodičské oprávnenie skupiny C udelené podľa § 78 ods. 7 oprávňuje do dovŕšenia veku 21 rokov viesť motorové vozidlá skupiny C, len ak je jeho držiteľ zároveň držiteľom kvalifikačnej karty vodiča.
+>
+> (12) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny CE možno udeliť vodičské oprávnenie skupiny CE, len ak už je držiteľom vodičského oprávnenia skupiny C. Vodičské oprávnenie skupiny CE oprávňuje viesť motorové vozidlá skupiny CE, ako aj motorové vozidlá skupiny C1E, BE a T a tiež motorové vozidlá skupiny DE, ak je jeho držiteľ držiteľom vodičského oprávnenia skupiny D. Vodičské oprávnenie skupiny CE oprávňuje viesť na území Slovenskej republiky aj jazdnú súpravu zloženú z ťažného vozidla skupiny B alebo C1 a prípojného vozidla, ak najväčšia prípustná celková hmotnosť jazdnej súpravy presahuje 12 000 kg. Vodičské oprávnenie skupiny CE udelené podľa § 78 ods. 7 oprávňuje do dovŕšenia veku 21 rokov viesť motorové vozidlá skupiny CE, len ak je jeho držiteľ zároveň držiteľom kvalifikačnej karty vodiča.
+>
+> (13) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny D1 možno udeliť vodičské oprávnenie skupiny D1, len ak už je držiteľom vodičského oprávnenia skupiny B. Vodičské oprávnenie skupiny D1 oprávňuje viesť motorové vozidlá skupiny D1, ako aj motorové vozidlá skupiny T.
+>
+> (14) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny D1E možno udeliť vodičské oprávnenie skupiny D1E, len ak už je držiteľom vodičského oprávnenia skupiny D1. Vodičské oprávnenie skupiny D1E oprávňuje viesť motorové vozidlá skupiny D1E, ako aj motorové vozidlá skupiny BE a T.
+>
+> (15) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny D možno udeliť vodičské oprávnenie skupiny D, len ak už je držiteľom vodičského oprávnenia skupiny B. Vodičské oprávnenie skupiny D oprávňuje viesť motorové vozidlá skupiny D, ako aj motorové vozidlá skupiny D1 a T. Vodičské oprávnenie skupiny D udelené podľa § 78 ods. 6 oprávňuje do dovŕšenia veku 24 rokov viesť na území Slovenskej republiky len motorové vozidlá skupiny D používané ozbrojenými silami, ozbrojeným bezpečnostným zborom, ozbrojeným zborom, Vojenskej políciou, Vojenským spravodajstvom alebo Hasičským a záchranným zborom. Vodičské oprávnenie skupiny D udelené podľa § 78 ods. 8 oprávňuje do dovŕšenia veku 24 rokov viesť motorové vozidlá skupiny D, len ak je jeho držiteľ zároveň držiteľom kvalifikačnej karty vodiča; ak je jeho držiteľ zároveň držiteľom osvedčenia o zrýchlenej základnej kvalifikácii, oprávňuje do dovŕšenia veku 23 rokov viesť len motorové vozidlá skupiny D v pravidelnej autobusovej doprave, ak trasa autobusovej linky nepresahuje 50 km.
+>
+> (16) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny DE možno udeliť vodičské oprávnenie skupiny DE, len ak už je držiteľom vodičského oprávnenia skupiny D. Vodičské oprávnenie skupiny DE oprávňuje viesť motorové vozidlá skupiny DE, ako aj motorové vozidlá skupiny D1E, BE a T. Vodičské oprávnenie skupiny DE udelené podľa § 78 ods. 8 oprávňuje do dovŕšenia veku 24 rokov viesť motorové vozidlá skupiny DE, len ak je jeho držiteľ zároveň držiteľom kvalifikačnej karty vodiča; ak je jeho držiteľ zároveň držiteľom osvedčenia o zrýchlenej základnej kvalifikácii, oprávňuje do dovŕšenia veku 23 rokov viesť len motorové vozidlá skupiny DE v pravidelnej autobusovej doprave, ak trasa autobusovej linky nepresahuje 50 km.
+>
+> (17) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny T sa udeľuje vodičské oprávnenie skupiny T. Vodičské oprávnenie skupiny T oprávňuje viesť motorové vozidlá skupiny T, a to len na území Slovenskej republiky.
 
 
 
