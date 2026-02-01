@@ -1114,6 +1114,24 @@
 
 > OPRÁVNENIA POLICAJTA PRI DOHĽADE NAD BEZPEČNOSŤOU A PLYNULOSŤOU CESTNEJ PREMÁVKY
 
+## § 69 – Všeobecné oprávnenia
+
+> (1) Policajt je oprávnený
+> - a) zakázať vodičovi jazdu na nevyhnutne potrebný čas alebo mu prikázať smer jazdy, ak to vyžaduje bezpečnosť alebo plynulosť cestnej premávky,
+> - b) zakázať vodičovi jazdu po diaľnici a vyzvať ho, aby opustil diaľnicu na najbližšom výjazde alebo vozidlo odstavil na parkovisku, ak vozidlo nedosahuje rýchlosť podľa § 35; o zákaze vydá policajt potvrdenie,
+> - c) požadovať od vodiča predloženie dokladov ustanovených na vedenie a premávku vozidla a na dopravu osôb a nákladu; ak nebudú predložené, požadovať od vodiča oznámenie údajov o vozidle a jeho držiteľovi podľa § 111 ods. 2 písm. a), b), e) a f),
+> - d) vyzvať vodiča, aby sa podrobil vyšetreniu, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, alebo liekmi, ktoré môžu znížiť jeho schopnosť bezpečne viesť vozidlo,
+> - e) kontrolovať technickú spôsobilosť vozidla a úplnosť jeho výstroja a výbavy alebo vyzvať vodiča, aby sa podrobil takejto kontrole, ako aj porovnať údaje uvádzané v osvedčení o evidencii časti I alebo časti II, evidenčnom doklade vydanom v cudzine alebo technickom osvedčení vozidla s údajmi na vozidle,
+> - f) merať rozmery a hmotnosti vozidla,
+> - g) kontrolovať dodržiavanie povinností účastníka cestnej premávky alebo iných osôb podľa tohto zákona alebo podľa osobitného predpisu,
+> - h) použiť technické prostriedky na zabránenie odjazdu vozidla do času preukázateľného uhradenia pokuty podľa § 72a ods. 1 alebo peňažnej záruky podľa § 72a ods. 2.
+>
+> (2) Oprávnenia policajta podľa odseku 1 písm. a) a c) sa vzťahujú aj na vojaka vo vojenskej rovnošate s vonkajším označením „POLÍCIA“ a na vojenského policajta. Oprávnenia policajta podľa odseku 1 písm. a), c) a g) sa vzťahujú aj na žandára pri plnení úloh Žandárskeho zboru. Oprávnenia policajta podľa odseku 1 písm. d) až g) sa vzťahujú na vojenského policajta, ak ide o osoby, ktorých priestupky môže objasňovať Vojenská polícia, ak ide o vodiča vozidla ozbrojených síl, Ministerstva obrany Slovenskej republiky, rozpočtovej organizácie, príspevkovej organizácie alebo štátneho podniku v jeho pôsobnosti, ak ide o účastníka dopravnej nehody, ktorú objasňuje Vojenská polícia, alebo ak ide o účastníka škodovej udalosti, ktorej predchádzal priestupok, ktorý objasňuje Vojenská polícia.
+>
+> (3) Osoba nemá nárok na úhradu nákladov, ktoré jej vzniknú v súvislosti s uplatňovaním oprávnení policajta, vojaka vo vojenskej rovnošate s vonkajším označením „POLÍCIA“, žandára pri plnení úloh Žandárskeho zboru alebo vojenského policajta podľa odsekov 1 a 2.
+>
+> (4) Výnimku z druhej časti tohto zákona, ktorá je v cestnej premávke okamžite potrebná, môže povoliť policajt na mieste samom v nevyhnutnej miere a za predpokladu, že sa tým neohrozí bezpečnosť cestnej premávky.
+
 
 
 
