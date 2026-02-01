@@ -1183,11 +1183,11 @@
 
 > (1) Policajt je oprávnený zadržať osvedčenie o evidencii časť I alebo časť II alebo evidenčný doklad od vozidla vydaný v cudzine, ak
 > - a) vozidlo
->   - 1. nie je spôsobilé na prevádzku v cestnej premávke,
->   - 2. nie je technicky spôsobilé na prevádzku v cestnej premávke,
->   - 3. má pozastavenú prevádzku,
->   - 4. je vyradené z evidencie,
->   - 5. je vyradené z cestnej premávky,
+>   - (1) nie je spôsobilé na prevádzku v cestnej premávke,
+>   - (2) nie je technicky spôsobilé na prevádzku v cestnej premávke,
+>   - (3) má pozastavenú prevádzku,
+>   - (4) je vyradené z evidencie,
+>   - (5) je vyradené z cestnej premávky,
 > - b) vodič nepreukázal, že vozidlo bolo v ustanovenej lehote podrobené technickej kontrole alebo emisnej kontrole,
 > - c) údaje v ňom uvedené nie je možné identifikovať,
 > - d) je podozrenie, že sa v ňom neoprávnene urobili zmeny alebo že je neplatné,
@@ -1202,7 +1202,7 @@
 > - j) vodič vozidla poruší ustanovenia osobitného predpisu o organizácii pracovného času v doprave,
 > - k) vozidlo nemá zaplatenú úhradu diaľničnej známky,
 > - l) bolo vodičovi vozidla uložené opatrenie na úseku bezpečnosti potravín,
-> - m) vodič vozidla neuhradí mýto alebo je vodičovi vozidla v blokovom konaní za priestupok na úseku výberu mýta37a) uložená pokuta, je ochotný ju zaplatiť, ale nemôže tak urobiť na mieste,
+> - m) vodič vozidla neuhradí mýto alebo je vodičovi vozidla v blokovom konaní za priestupok na úseku výberu mýta uložená pokuta, je ochotný ju zaplatiť, ale nemôže tak urobiť na mieste,
 > - n) vodič autobusu, vodič nákladného automobilu alebo vodič jazdnej súpravy s najväčšou prípustnou celkovou hmotnosťou presahujúcou 3 500 kg poruší ustanovenia osobitného predpisu o cestnej doprave,
 > - o) vodič vozidla neuhradil na mieste príspevok na čiastočnú úhradu nákladov na vykonanie cestnej technickej kontroly alebo úhradu za vykonanie technickej kontroly alebo emisnej kontroly v rámci cestnej technickej kontroly podľa osobitného predpisu, a to až do doby uhradenia príspevku alebo úhrady.
 >
@@ -1231,6 +1231,7 @@
 > (13) Technické osvedčenie vozidla je oprávnený zadržať aj vojenský policajt z dôvodov podľa odseku 1 písm. a), c) až e), g) a h), ak ide o osoby, ktorých priestupky môže objasňovať Vojenská polícia; ustanovenie odseku 3 platí obdobne. Vojenský policajt odovzdá zadržané technické osvedčenie vozidla okresnému úradu.
 >
 > (14) Policajt na mieste zadrží osvedčenie o evidencii časť I alebo časť II na základe príkazu na zadržanie osvedčenia o evidencii vozidla vydaného súdnym exekútorom. Odseky 3 až 6 sa použijú primerane.
+
 
 
 
