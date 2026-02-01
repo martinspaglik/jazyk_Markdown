@@ -11,14 +11,14 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovana predvidatelnost | #odmietnutie_dovolania |
 | **R3** | 2Asan/7/2020 | Predchadzanie pred krizovatkou priestupok| Spoluzavinenie pravne irelevantne | #zamietnute |
 | **R4** | BA-7Sa/93/2020  | Chodec mimo priechodu a nehoda | Zavinenie nehody nie je znak | #zamietnute #potvrdene |
-
-
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
 | **R16** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | R45/2017 konkretizacia namietok| #odmietnute |
 | **R17** | 1Tdo/34/2023 | Usmetenie chodca - vozidlo policie | R45/2017 konkretizacia namietok| #odmietnute |
 | **R18** | II. ÚS 1166/23 | Zrazka cyklistu s chodkynou | Pesi zona ohleduplnost | #odmietnute |
+| **R19** | NEUVEDENÉ | Prednost na priechode pre chodcov | Oneskorena reakcia brzdenim | #uznany_vinny #odkazanie_na_civilny_proces |
+
 
 ---
 
@@ -1864,14 +1864,154 @@ Najvyšší súd tu považoval za nutné akcentovať, že v pešej zóne nemožn
 <!-- DECISION:END -->
 
 
+<!-- DECISION:BEGIN spis=KS 1To/61/2022 -->
 
+# Prednosť na priechode a oneskorená reakcia vodiča pri nehode - DN – vodič + kolebežkárka na priechode pre chodcov
 
+# Rozhodnutie: R19 – Krajský súd v Bratislave – NEUVEDENÉ – NEUVEDENÉ
+## Identifikácia
+- **ID:** R19
+- **Súd:** Krajský súd v Bratislave
+- **Spisová značka:** NEUVEDENÉ
+- **Dátum rozhodnutia:** NEUVEDENÉ
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** odvolacie
+- **Strany (anonymizované):**
+  - Obžalovaný: I. G.
+  - Poškodená: mal. chodkyňa (NEUVEDENÉ)
+  - Poškodení (náhrada škody): zdravotná poisťovňa; zákonná zástupkyňa poškodenej
+- **Zdroj / poznámka:** 
+- **Tagy:** #trestne #odvolanie #dopravna_nehoda #priechod_pre_chodcov #spoluzavinenie #tazka_ujma_na_zdravi #technicka_pricina_nehody #znalecke_dokazovanie #porusenie_dolezitej_povinnosti #odkazanie_na_civilny_proces #§157TZ #§4ZCP  
 
+## Právna veta (Kľúčový záver)
+> Okolnosť, že poškodený chodec spoluzavinil dopravnú nehodu porušením pravidiel cestnej premávky neznamená sama osebe zánik trestnej zodpovednosti vodiča motorového vozidla, ktorý sa zavinene podieľal na vzniku dopravnej nehody a jej následkoch na zdraví poškodeného; táto okolnosť ovplyvňuje len mieru zavinenia, ktorú možno zohľadniť pri kvalifikácii činu a pri výmere trestu. Ak vodič reaguje nesprávne na nebezpečnú situáciu vyvolanú iným účastníkom porušením pravidiel tak, že nezabránil nehode, hoci pri správnej (včasnej) reakcii bolo ešte možné nehode zabrániť, možno ho uznať zodpovedným len vtedy, ak mu možno pričítať zavinenie za voľbu nesprávneho riešenia; porušenie dôležitej povinnosti nemožno vyvodzovať mechanicky z porušenia akéhokoľvek pravidla, ale len z porušenia takej povinnosti, ktorá podstatne zvyšuje stupeň nebezpečnosti činu pre spoločnosť.
 
+## Kontext prípadu 
+Obžalovaný vodič motorového vozidla pri jazde v úseku s priechodom pre chodcov (v blízkosti školy) nedal prednosť maloletej chodkyni na priechode, pričom technickou príčinou nehody bola najmä jeho oneskorená reakcia (brzdením) na vznik kolíznej situácie. Poškodená utrpela ťažkú ujmu na zdraví v zmysle § 123 ods. 3 písm. i/ Trestného zákona. Súd prvého stupňa neuznal pôvodne žalovanú (prísnejšiu) právnu kvalifikáciu a neuznal konanie obžalovaného ako porušenie dôležitej povinnosti, avšak uznal ho vinným z nedbalostného prečinu ublíženia na zdraví podľa § 157 ods. 1 Trestného zákona. Návrh obhajoby na doplnenie znaleckého dokazovania súd zamietol. Poškodených s nárokom na náhradu škody odkázal na civilný proces. V odvolacom odôvodnení krajský súd rozviedol, že spoluzavinenie chodkyne samo osebe nevylučuje trestnú zodpovednosť vodiča a že porušenie dôležitej povinnosti nemožno mechanicky vyvodzovať z akéhokoľvek porušenia pravidiel cestnej premávky.
 
+## Argumentačná línia
+- **Obžaloba:** Vychádzala z toho, že vodič bol povinný dať chodkyni na priechode prednosť a pri včasnej reakcii mohol nehode zabrániť; správanie poškodenej nepovažovala za také zásadné porušenie pravidiel, ktoré by vylučovalo prísnejšie posúdenie (materiálnu stránku) skutku. Opierala sa o znalecké závery k technickým príčinám nehody a o svedecké výpovede podporujúce verziu, že chodkyňa pred vstupom na priechod zastavila.  
+- **Obhajoba:** Snažila sa zbaviť obžalovaného zavinenia s poukazom na nesprávne konanie poškodenej a spochybňovala priebeh nehody vo vzťahu k tomu, či obžalovaný mohol nehode zabrániť pri nižšej rýchlosti. Navrhla doplniť znalecký posudok (resp. vyčkať na súkromný znalecký posudok) a v rovine sankcie žiadala zohľadniť poľahčujúce okolnosti, bezúhonný život a spoluvinu poškodenej.  
+- **Súd:** Zamietol doplnenie znaleckého dokazovania s tým, že znalec I. M. Š. zotrval na záveroch a obhajoba mala dostatok času na prípadný súkromný posudok. Skutkový dej ustálil podľa verzie A/ (chodkyňa pred vstupom zastavila) a vyhodnotil, že obžalovaný mal možnosť chodkyňu vidieť, no nevenoval sa riadne vedeniu vozidla a reagoval oneskorene. Konštatoval spoluzavinenie chodkyne, avšak uznal obžalovaného vinným podľa § 157 ods. 1 TZ a zároveň neuznal porušenie dôležitej povinnosti; poškodených odkázal s náhradou škody na civilný proces.
 
+## Skutkový stav
+K dopravnej nehode došlo na úseku s vyznačeným priechodom pre chodcov. Maloletej chodkyni vznikla ujma na zdraví, ktorá bola posúdená ako ťažká ujma na zdraví, vyžadujúca dlhodobé obmedzenia v obvyklom spôsobe života a operačné zákroky. Podľa prijatej verzie skutku chodkyňa pred vstupom na priechod zastavila, následne však vstúpila na vozovku v čase, keď to vzhľadom na rýchlosť a vzdialenosť prichádzajúceho vozidla nebolo z technického hľadiska bezpečné. Obžalovaný sa k priechodu blížil rýchlosťou približne 30–40 km/h, neprekročil maximálnu povolenú rýchlosť, no technicky nesprávnym prvkom bola jeho oneskorená reakcia na kolíznu situáciu, ktorá bola označená za technickú príčinu nehody. Súd vyhodnotil, že obžalovaný mal možnosť poškodenú vidieť, avšak nevenoval sa dostatočne situácii na ceste a v jej okolí. Spoluzavinenie poškodenej bolo uznané, no nevylúčilo trestnú zodpovednosť obžalovaného.
 
+## Téma a kategorizácia
+- **Téma:** trestné právo – dopravné trestné činy (nedbanlivostné ublíženie na zdraví)
+- **Podtéma:** prednosť chodcovi na priechode; technická príčina dopravnej nehody; spoluzavinenie chodca; znalecké dokazovanie; porušenie dôležitej povinnosti; adhezné konanie a odkaz na civilný proces
+- **Tagy:** #trestne #odvolanie #dopravna_nehoda #priechod_pre_chodcov #spoluzavinenie #tazka_ujma_na_zdravi #technicka_pricina_nehody #znalecke_dokazovanie #porusenie_dolezitej_povinnosti #odkazanie_na_civilny_proces #§157TZ #§4ZCP  (bez diakritiky)
 
+## Právna veta / právny záver (abstrakt)
+Spoluzavinenie poškodeného chodca porušením pravidiel cestnej premávky samo osebe nevylučuje trestnú zodpovednosť vodiča, ktorý sa zavinene podieľal na vzniku nehody a jej následkoch na zdraví; má význam pre mieru zavinenia a môže sa zohľadniť pri právnej kvalifikácii a pri ukladaní trestu. Vodiča možno uznať zodpovedným za nehodu aj pri situácii vyvolanej iným účastníkom, ak zvolil nesprávnu (oneskorenú) reakciu a pri včasnej reakcii bolo ešte možné nehode zabrániť, pričom zavinenie sa posudzuje individuálne podľa okolností dopravnej situácie. Porušenie „dôležitej povinnosti“ nemožno mechanicky vyvodzovať z porušenia akéhokoľvek pravidla cestnej premávky, ale len z porušenia povinnosti, ktorá podstatne zvyšuje nebezpečnosť činu pre spoločnosť.
+
+## Právne vety / kľúčové závery 
+- (1) Spoluzavinenie chodca na vzniku kolíznej situácie nezakladá samo osebe zánik trestnej zodpovednosti vodiča; vplýva na mieru zavinenia a môže sa premietnuť do kvalifikácie a trestu.
+- (2) Technickou príčinou nehody môže byť oneskorená reakcia vodiča na kolíznu situáciu, ak pri včasnej reakcii bolo možné nehode zabrániť.
+- (3) Za porušenie dôležitej povinnosti nemožno automaticky považovať porušenie akéhokoľvek ustanovenia o cestnej premávke; rozhoduje, či ide o povinnosť podstatne zvyšujúcu nebezpečnosť činu.
+- (4) Ak má vodič povinnosť dať prednosť, musí sám vyhodnotiť dopravnú situáciu (vzdialenosť, rýchlosť, viditeľnosť, hustotu premávky) a prispôsobiť jazdu tak, aby prednosť poskytol.
+- (5) Zamietnutie návrhu na doplnenie znaleckého dokazovania je odôvodnené, ak znalec zotrvá na záveroch a obhajoba mala primeraný priestor na vlastnú odbornú iniciatívu, no bezdôvodne ju nevyužila.
+- (6) Pri potrebe rozsiahlejšieho dokazovania k výške škody je namieste odkázať poškodených s nárokom na náhradu škody na civilný proces.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - Trestný zákon: § 157 ods. 1; § 123 ods. 3 písm. i/; § 88 (spomenuté); § 36 písm. j/, k/ (spomenuté)
+  - Zákon č. 8/2009 Z. z. o cestnej premávke: § 4 ods. 1 písm. f/; § 53 ods. 2; § 4 ods. 2 písm. e), f) (spomenuté); § 4 ods. 1 písm. t/ (spomenuté)
+- **Proces:**
+  - NEUVEDENÉ
+- **Iné zdroje:**
+  - rozsudok NS SR (sp. zn. 8Tz 34/94; dátum v texte neúplný)
+  - R 43/1982
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obžalovaný ako vodič sa blížil k priechodu pre chodcov rýchlosťou približne 30–40 km/h, chodkyni na priechode nedal prednosť a došlo k zrážke s maloletou chodkyňou s následkom ťažkej ujmy na zdraví. Poškodená pred vstupom na priechod zastavila, následne však vstúpila na vozovku v čase, keď ju vzhľadom na rýchlosť a vzdialenosť vozidla nemohla bezpečne prejsť.
+- Rozhodujúce skutkové zistenia súdu: Súd akceptoval verziu A/ priebehu nehody (zastavenie chodkyne pred vstupom) a ustálil, že obžalovaný mal možnosť poškodenú vidieť, no nevenoval sa dostatočne vedeniu vozidla a reagoval oneskorene; technickou príčinou nehody bola jeho oneskorená reakcia na kolíznu situáciu. Spoluzavinenie poškodenej bolo konštatované, avšak bez vylúčenia trestnej zodpovednosti obžalovaného.
+- Podstatné dôkazy (výber):
+  - znalecký posudok znalca I. M. Š. (cestná doprava) a jeho výpoveď na hlavnom pojednávaní
+  - výsluchy svedkov: mal. A. H., V. T., I. L., nepriamo A. P.
+  - lekárske správy a znalecký posudok k zraneniam (ťažká ujma na zdraví)
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Ktoré prvky nehodového deja predstavovali technickú príčinu dopravnej nehody a či mal vodič pri včasnej reakcii možnosť nehode zabrániť.
+2. Aký význam má spoluzavinenie chodkyne porušením pravidiel cestnej premávky pre trestnú zodpovednosť a právnu kvalifikáciu vodiča.
+3. Či porušenie povinností vodiča v danom prípade predstavuje porušenie „dôležitej povinnosti“, alebo len porušenie pravidiel bez naplnenia tohto kvalifikačného znaku.
+
+### Argumentácia súdu (výber)
+- Technickou príčinou nehody boli prvky nehodového deja v rozpore s technickým výkladom pravidiel; pri prijatej verzii skutku bola rozhodujúca najmä oneskorená reakcia vodiča.
+- Tvrdenie obžalovaného o nesledovaní chodkyne a o tom, že poškodenú videl až bezprostredne pred zrážkou, bolo vyvrátené dôkazmi; súd vyvodil, že sa náležite nevenoval vedeniu vozidla.
+- Spoluzavinenie chodkyne bolo zohľadnené, avšak neviedlo k zániku trestnej zodpovednosti vodiča; ovplyvňuje mieru zavinenia a môže byť významné pri kvalifikácii a sankcii.
+- Porušenie dôležitej povinnosti nebolo uznané; porušenie takej povinnosti nemožno vyvodzovať mechanicky z akéhokoľvek porušenia pravidiel cestnej premávky.
+- Poškodení s nárokmi na náhradu škody boli odkázaní na civilný proces vzhľadom na rozsah dokazovania potrebný na určenie výšky škody.
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+Technickou príčinou dopravnej nehody sú tie prvky nehodového deja, ktoré vznikli v rozpore s technickým výkladom pravidiel cestnej premávky a ktoré buď vyvolali kolíznu situáciu, alebo znemožňovali zabrániť dopravnej nehode.
+
+Pri prvej variante nehodového deja vytvorila kolíznu situáciu maloletá chodkyňa tým, že vstúpila do vozovky a prechádzala cez ňu v čase, keď na to situácia nebola z technického hľadiska spôsobilá. Chodkyňa však týmto svojím pochybením nevytvorila vodičovi prekážku tak, aby vodič nemal možnosť správnou technikou jazdy nehode zabrániť. Kolíznu situáciu vytvorili dva prvky. Nesprávne vstúpenie chodkyne do vozovky a oneskorená reakcia vodiča brzdením. V prípade prvej alternatívy je technickou príčinou predovšetkým nesprávne konanie vodiča oneskorenou reakciou na chybné konanie chodkyne.
+
+Z výpovede obžalovaného však nevyplýva, že by sledoval ľavú stranu, lebo tvrdí, že poškodenú videl bezprostredne pred zrážkou. Vodič nevedel popísať dopravnú situáciu na vozovke a ani v jej bezprostrednom okolí. Z toho technicky usudzoval, že sa náležíte nevenoval vedeniu svojho vozidla.
+
+Súd na hlavnom pojednávaní zamietol návrh obhajoby na doplnenie znaleckého dokazovania. Obhajoba navrhla doplniť znalecký posudok o zodpovedanie otázky či by mal obžalovaný možnosť zabrániť nehode pri rýchlosti vozidla 35 km/h až 40 km/h pri oboch variantoch priebehu nehody, prípadne navrhla vyčkať na vypracovania súkromného znaleckého posudku.
+
+Súd k návrhu obhajoby uvádza, že znalec I. M. Š. vypracoval znalecký posudok vpredsúdnom konaní, na hlavnom pojednávaní zodpovedal otázky smerujúce k tomuto posudku. Sám znalec uviedol, že ani vykonaným dokazovaním na hlavnom pojednávaní nedošlo k zmene záverov uvedených v znaleckom posudku. Obhajoba celé konanie nenamietala závery vypracovaného posudku, nenavrhovala jeho doplnenie a mala celé konanie dostatok času na vypracovanie súkromného posudku.
+
+Obžalovaný vo svojej výpovedi nepoprel, že sa dopravná nehoda stala a nepoprel svoju účasť na tejto nehode. Vo svojej výpovedi sa snažil zbaviť zavinenia uvedenej dopravnej nehody. Uviedol, že miesto nehody pozná, chodí tade často a pozná aj dopravnú situáciu na tejto ceste spolu s priechodom pre chodcov.
+Toto jeho tvrdenie súd hodnotí ako nevydarenú obranu obžalovaného, nakoľko táto jeho verzia je jednoznačne vyvrátená vykonanými dôkazmi. Súd považuje tvrdenie obžalovaného, že sledoval situáciu na priechode za vyvrátené. K tejto otázke znalec I. M. Š. jednoznačne uviedol, že pri alternatíve
+
+Tým je celkom jednoznačne preukázané, že obžalovaný pri oboch verziách nehodového deja mal možnosť poškodenú vidieť. Ak tvrdí že ju nevidel, tak preto, lebo nehovorí pravdu, alebo sa venoval inej činnosti, ako sledovaniu dopravnej situácie v čase a mieste dopravnej nehody.
+
+Opäť je teda jednoznačne vykonanými dôkazmi vyvrátené tvrdenie obžalovaného a spôsobe zrazenia poškodenej.
+
+Druh a charakter vzniknutých zranení, ktoré vznikli maloletej pri tejto dopravnej nehode boli zdokumentované lekárskymi správami a znaleckým posudkom. Bolo bezpečne a jednoznačne preukázané, že poškodená utrpela ťažkú ujmu na zdraví, zranenia si vyžadovali dlho trvajúce obmedzenia v j ej obvyklom spôsobe života, musela sa pohybovať pomocou vozíka a bárií, musela sa podrobovať aj bolestivým operačným zákrokom. Zranenie, ktoré poškodená pri predmetnej dopravnej nehode utrpela sú teda ťažkou ujmou na zdraví v zmysle ust. § 123 ods. 3 písm. i/ Trestného zákona.
+
+Pre posúdenie ktorá z verzií uvedeného nehodového deja je preukázaná súd konštatuje, že Verziu A/podporuje výpoveď mal. A. H., V. T., I. L. a nepriamo aj A. P. ktorí jednoznačne potvrdili, že maloletá chodkyňa pred vstupom na priechod pre chodcov zastavila.
+Verziu B/ nepodporuje žiaden z vykonaných dôkazov.
+Preto súd ako preukázanú verziu vzniku predmetnej dopravnej nehody akceptuje *verziu A*/, teda so zastavením chodkyne pred jej vstupom na priechod pre chodcov.
+Jednoznačne nesprávnym prvkom v technike jazdy obžalovaného v rozhodnom čase bola jeho oneskorená reakcia na vznik kolíznej situácie v jazdnej dráhe ním vedeného vozidla. Táto okolnosť nielenže spôsobila vznik kolíznej situácie na vozovke, ale mu zároveň znemožnila zabrániť nehode z jeho skutočnej rýchlosti jazdy a bola preto technickou príčinou nehody.
+
+Súdu neuniklo to, že ani konanie maloletej chodkyne nebolo správne. Hoci táto správne konala, keď pred vstupom na priechod pre chodcov zastavila, následne však už nekonala správne, lebo počas státia sa náležíte nepresvedčila aká je aktuálna dopravná situácia na vozovke do ktorej mienila vojsť, prichádzajúce vozidlo obžalovaného nevidela, neregistrovala ho, alebo nesprávne odhadla jeho vzdialenosť i rýchlosť jazdy. Pre vjazd do vozovky a prejazd cez ňu sa mal. chodkyňa rozhodla v čase, keď na to nebola situácia z technického hadiska spôsobilá.
+
+Obžalovaný svojim konaním rozpore s citovaným ustanovením § 4 ods. 1 písm. f/ zákona č. 8/2009 Z.z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov nedal chodkyni na priechode pre chodcov prednosť, hoci technicky ak by sa riadne venoval vedeniu svojho vozidla a dostatočne sledoval situáciu v čase a mieste nehody, pri včasnej reakcii na chodkyňu by zastavil s vozidlom ešte pred priechodom pre chodcov a miestom zrážky.
+
+Maloletá chodkyňa konaním v rozpore s citovaným ustanovením § 53 ods. 2 zákona č. 8/2009 Z.z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov vstúpila na vozovku v čase, kedy s prihliadnutím na rýchlosť a vzdialenosť prichádzajúceho motorového vozidla obžalovaného nemohla vozovku bezpečne prejsť.
+
+Obžalovaný a poškodená teda svojim dielom participovali na vzniku kolíznej situácie.
+Okolnosť, že poškodený chodec spoluzavinil dopravnú nehodu porušením pravidiel cestnej premávky stanovených vo vyhl. č. 99/1989 Zb. neznamená sama osebe zánik trestnej zodpovednosti vodiča motorového vozidla, ktorý sa zavinene podieľal na vzniku dopravnej nehody ajej následkoch na zdraví poškodeného. Táto okolnosť ovplyvňuje len mieru zavinenia obvineného vodiča, ktorú možno zohľadniť pri kvalifikácii činu z hľadiska § 88 Tr.zák., ako to prichádza do úvahy pri výmere trestu (rozsudok NS SR z 30... 1994, sp.zn. 8Tz 34/94.)
+
+Ak vodič reaguje nesprávne na nebezpečnú situáciu, ktorú vyvolal iný účastník cestnej premávky porušením jej pravidiel tak, že nezabránil dopravnej nehode, hoci pri správnej reakcii bolo ešte možné nehode zabrániť, možno ho uznať zodpovedným za nehodu len vtedy, ak ho za voľbu nesprávneho riešenia situácie možno pričítať zavinenie. Hoci nehodu spoluzavinil nesprávnou reakciou na vzniknutú situáciu, jeho konanie nemožno posudzovať ako porušenie dôležitej povinnosti v zmysle § 223 ods. 2, resp. § 224 ods. 2 TZ ( R 43/1982).
+
+Vzhľadom na vyššie citované súd aj s prihliadnutím na okolnosti prípadu ( nízka rýchlosť vozidla obžalovaného, spoluzavinenie poškodenej) neuznal žalovanú právnu kvalifikáciu konania v podanej obžalobe a neuznal konanie obžalovaného ako porušenie dôležitej povinnosti.
+
+Nakoľko bolo jednoznačne mimo akúkoľvek rozumnú pochybnosť preukázané, že obžalovaný svojim konaním spôsobil predmetnú dopravnú nehodu, pri ktorej došlo u poškodenej maloletej chodkyne k ťažkej ujme na zdraví, uznal ho súd vinným zo spáchania nedbalostného prečinu ublíženia na zdraví podľa § 157 ods. 1 Trestného zákona.
+Nakoľko však v danej veci sa jedná o trestný čin na úseku dopravy, kde primáme je nutné škodu uhrádzať z poistenia motorových vozidiel, odkázal súd poškodených s uplatneným nárokom na náhradu škody na civilný proces.
+
+**Druhý rozsudok**
+
+Z vykonaného dokazovania pred súdom prvého stupňa vyplýva, že obžalovaný ako vodič motorového vozidla v čase, keď sa blížil k inkriminovanému priechodu pre chodcov, nevenoval dostatočnú pozornosť situácii na ceste a nedbal na zvýšenú opatrnosť voči chodcom, a hoci jeho rýchlosť v rozmedzí 30-40 km/h bola správnym prvkom techniky jazdy, rovnako aj smerové vedenie vozidla, jednoznačne nesprávnym prvkom v technike jazdy bola jeho oneskorená reakcia na vznik kolíznej situácie. Táto okolnosť bola technickou príčinou nehody. Súd správne vyhodnotil tento úkon obžalovaného tesne pred priechodom pre chodcov ako nesprávny. Nevenovaním dostatočnej pozornosti situácii na ceste obžalovaný zmaril svoju včasnú reakciu na chodkyňu prechádzajúcu po vyznačenom priechode pre chodcov, čím porušil stanovenie § 4 ods. 1 písm. f) zákona o cestnej premávke, keď sa plne nevenoval vedeniu vozidla a nesledoval situáciu v cestnej premávke, v dôsledku čoho nedal prednosť poškodenej chodkyni, ktorá vstúpila na vozovku a prečhádzala cez priechod pre chodcov. Tvrdenie obžalovaného, že poškodenú nevidel a na priechode pre chodcov nikto nestál a ani sa nechystal vstúpiť na vozovku, bolo vyvrátené vykonanými dôkazmi - výsluchmi svedkov mal. A. H., I. L. a V. T. Z vykonaného dokazovania celkom jednoznačne vyplynulo, že tento mal možnosť sledovať situáciu na priechode pre chodcov, obžalovaný však situáciu na vozovke a v jej okolí popísať nevedel, z čoho vyplynulo, že vedeniu svojho motorového vozidla sa náležíte nevenoval.
+
+Svojím správaním však vodičovi vozidla Mercedes Benz nevytvorila kolíznu situáciu, pretože obžalovaný I. G. bol v zmysle § 4 ods. 1 písm. t/ zákona o cestnej premávke povinný dať poškodenej prechádzajúcej cez priechod pre chodcov prednosť. A pokiaľ by neporušil povinnosti ustálené v skutkovej vete, kolízii s chodkyňou mohol zabrániť. Prokuratúra preto zastáva názor, že správanie sa poškodenej pri prechode cez priechod - opakované nepresvedčenie sa na deliacich čiarach, či môže bezpečne prejsť aj zvyšnú časť priechodu pre chodcov, nie je takým zásadným a podstatným porušením pravidiel cestnej premávky, ktoré by malo za následok nenaplnenie materiálnej stránky použitia kvalifikovanej skutkovej podstaty daného trestného činu. Vo vzťahu k porušeniu zákonných povinností dotknutými účastníkmi cestnej premávky a ich vplyvu na vznik predmetnej dopravnej nehody, súd prvého stupňa správne akceptoval verziu A/ skutkového deja, ktorú rozobral znalec z odboru cestná doprava I. M. Š., a ktorú podporujú i výpovede svedkov A. H., V. T., I. L. a nepriamo A. P., a ktorá vychádza z toho, že maloletá poškodená pred vstupom na priechod pre chodcov zastavila. Obžalovaný preto v prípade jeho včasnej reakcie intenzívnym brzdením z jeho rýchlosti 30 km/h až 35 km/h mal možnosť nehode zabrániť. Povinnosť chodcov podľa § 53 ods. 2 zákona o cestnej premávke naopak treba aplikovať na konkrétne okolnosti v cestnej premávke. Pokiaľ by sa od chodca striktne vyžadovalo vstúpiť na cestu v čase, kedy to situácia v cestnej premávke umožňuje po celý čas jeho prechodu cez priechod, pri súčasnej premávke v mestách by chodec objektívne nemohol vstúpiť na vozovku vôbec. A preto zákonodarca uložil povinnosť práve vodičom motorových vozidiel dbať na zvýšenú opatrnosť na chodcov už prechádzajúcich cez priechod pre chodcov a dať im prednosť podlá § 4 ods. 2 písm. e), § 4 ods. 2 písm. f) zákona o cestnej premávke. Účel tejto povinnosti je daný tým, že chodec je na ceste mimoriadne zraniteľný vo vzťahu k jazdiacim motorovým vozidlám. Zvýšená až zahustená premávka v mestách v súčasnosti si vyžaduje oveľa vyššiu vzájomnú ohľaduplnosť, avšak predovšetkým vodičov motorových vozidiel, ktorí sú konštrukciou vozidla chránení, k zraniteľnejším účastníkom cestnej premávky.
+
+**sankcia**
+
+Záverom obhajoba uviedla, že ak sa odvolací súd nestotožní s vyššie uvádzanou argumentáciou, dovoľuje si apelovať, aby pri meritórnom posúdení odvolania Krajský súd v Bratislave zohľadnil všetky relevantné okolnosti predmetnej trestnej veci, a to jednak spôsob spáchania skutku, okolnosti, za ktorých bol spáchaný, absentujúcu pohnútku obžalovaného, aktívne pričinenie sa obžalovaného o náhradu škody (riadne oznámenie poistnej udalosti, prijaté opatrenia smerujúce k náhrade všetkej vzniknutej škody), a to najmä v rovine poľahčujúcich okolností podľa § 36 písm. k/, Trestného zákona, či poľahčujúcej okolnosti podľa § 36 písm. j/ Trestného zákona - doterajší bezúhonný spôsob života obžalovaného (žiadne trestné stíhanie či dopravná nehoda, a to počas 50 ročnej aktívnej vodičskej praxe), ako otca (2 dcéry), starého otca (2 vnúčatá -13 r. a 2 r.) či manžela riadne si plniaceho svoje povinnosti, rešpektujúceho právny poriadok Slovenskej republiky a spoločenské normy a v neposlednom rade vzhľadom na výraznú spoluvinu poškodenej (jej nesprávne konanie), za ktorých sa vyvodenie trestnoprávnej represie voči obžalovanému javí nespravodlivé. 
+
+reakčný čas znalci počítajú od momentu, keď vodič môže rozpoznať nebezpečnosť, teda tzv. prvý krok, alebo kedy je možné z pohybu chodca usúdiť, že vstupuje do vozovky
+
+Zhrnúc uvedené krajský súd uvádza, že aj podľa názoru odvolacieho súdu bolo jednoznačne preukázané, že obžalovaný konaním opísaným v skutkovej vete rozsudku naplnil všetky zákonné znaky žalovaného prečinu tak po stránke objektívnej ako aj po stránke subjektívnej. Technické príčiny dopravnej nehody podrobne uviedli dvaja znalci, znalec pribratý do konania pracoval s dvoma variantami priebehu nehodového deja (jeden variant -výpoveď maloletej chodkyne a svedkov, druhý variant - výpoveď obžalovaného), znalec pribratý do konania obhajobou pracoval v zmysle zadanie s jedným variantom. Išlo o technické závery znalcov. Obaja sa zhodli, že obžalovaný neprekročil maximálne povolenú rýchlosť v danom úseku a v podstate sa zhodli aj na reakčnom čase, ktorý bol oneskorený. Úlohou súdu je z právneho hľadiska ustáliť príčiny vzniku dopravnej nehody, a teda, či „stačilo“ na reakciu vodiča pracovať s momentom začiatku jeho reakcie od momentu vstupu chodkyne na priechod pre chodcov.
+
+Nejde teda o osamotenú výpoveď maloletej chodkyne. K tejto alternatíve znalec I. M. Š. jednoznačne uviedol, že v ........ Ak sa v tomto okamihu nevideli, bolo to ich osobné pochybenie
+
+Obžalovaný teda nedal chodkyni na priechode pre chodcov prednosť, hoci ak by sa riadne venoval vedeniu vozidla a dostatočne sledoval situáciu v čase a mieste nehody (poznajúc daný úsek a teda vediac, že sa tam nachádza škola, do ktorej v čase nehody chodí množstvo žiakov a študentov prechádzajúc práve na danom úseku cesty cez priechod), pri včasnej reakcii na chodkyňu by zastavil s vozidlom ešte pred priechodom pre chodcov a miestom zrážky. Zároveň je potrebné konštatovať, že maloletá chodkyňa vstúpila na vozovku v čase, kedy s prihliadnutím na rýchlosť a vzdialenosť prichádzajúceho motorového vozidla obžalovaného nemohla vozovku bezpečne prejsť. Obaja participovali na vzniku kolíznej situácie, avšak s tým, že ak poškodený chodec spoluzavinil dopravnú nehodu porušením pravidiel cestnej premávky, táto skutočnosť neznamená sama osebe zánik trestnej zodpovednosti vodiča motorového vozidla, ktorý sa zavinene podieľal na vzniku dopravnej nehody a jej následkoch na zdraví poškodeného chodca. Ako správne ustálil súd prvého stupňa, táto okolnosť ovplyvňuje „len“ mieru zavinenia obvineného vodiča, ktorú možno zohľadniť pri kvalifikácii trestného činu. Ak vodič reaguje nesprávne na nebezpečnú situáciu, ktorú vyvolal iný účastník cestnej premávky porušením jej pravidiel tak, že nezabránil dopravnej nehode, hoci pri správnej (včasnej) reakcii bolo ešte možné nehode zabrániť, možno ho uznať zodpovedným za nehodu len vtedy, ak ho za voľbu nesprávneho riešenia situácie možno pričítať zavinenie. Hoci nehodu spoluzavinil nesprávnou reakciou na vzniknutú situáciu, jeho konanie nemožno posudzovať ako porušenie dôležitej povinnosti. Okresný súd správne zareagoval na dôkaznú situáciu zmenou právnej kvalifikácie konania obžalovaného oproti podanej obžalobe. V súlade s ustálenou súdnou praxou možno pripomenúť, že za porušenie dôležitej povinnosti ako obligatórneho znaku skutkovej podstaty trestného činu nemožno mechanicky pokladať porušenie akéhokoľvek ustanovenia o pravidlách cestnej premávky, ale len porušenie takej povinnosti, ktorá podstatne zvyšuje stupeň nebezpečnosti činu pre spoločnosť.
+
+Podľa ustálenej judikatúry a rozhodovacej praxe Najvyššieho súdu Slovenskej republiky je povinnosťou vodiča, ktorý za danej dopravnej situácie má dať prednosť, aby sám určil, či situácia vyžaduje a zaväzuje ho k poskytnutiu prednosti. Pre posúdenie situácie z tohto hľadiska je rozhodujúca najmä vzdialenosť vozidla, rýchlosť jazdy tohto vozidla, smer jeho ďalšej jazdy, hustota premávky, viditeľnosť, aj prehľadnosť miesta. Vodič musí mať schopnosť zodpovedne sa rozhodnúť za každej aj zložitej dopravnej situácie. V predmetnej veci pritom nešlo o zložitú dopravnú situáciu, obžalovaný nevenoval dostatočnú pozornosť dianiu na okraji vozovky pri priechode pre chodcov, napriek tomu, že na dané miesto mal dostatočný rozhľad a poznal miesto nehody, čo sám uviedol. Z jeho pohľadu sa cesta zvažovala smerom dolu, čo ešte otvorilo jeho zorné pole viac.
+K výroku o náhrade škody
+
+Okresný súd odkázal poškodených v tejto veci (zdravotnú poisťovňu aj zákonnú zástupkyňu poškodenej) s uplatnenými nárokmi na náhradu škody na civilný proces, keďže dokazovanie potrebné na ustálenie výšky škody by presiahlo potreby trestného konania.
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
 
 
 
