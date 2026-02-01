@@ -1195,9 +1195,9 @@
 > - f) je na vozidle nečitateľná alebo poškodená tabuľka s evidenčným číslom alebo táto tabuľka nie je umiestnená v súlade s týmto zákonom,
 > - g) vodič nepredloží potvrdenie o poistení zodpovednosti,
 > - h) vozidlo presahuje
->   - 1. najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
->   - 2. najväčšie technicky prípustné hmotnosti,
->   - 3. najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   - 1) najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   - 2) najväčšie technicky prípustné hmotnosti,
+>   - 3) najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
 > - i) nie sú dodržané podmienky prepravy nákladu podľa § 51 alebo podľa osobitného predpisu,
 > - j) vodič vozidla poruší ustanovenia osobitného predpisu o organizácii pracovného času v doprave,
 > - k) vozidlo nemá zaplatenú úhradu diaľničnej známky,
@@ -1231,6 +1231,7 @@
 > (13) Technické osvedčenie vozidla je oprávnený zadržať aj vojenský policajt z dôvodov podľa odseku 1 písm. a), c) až e), g) a h), ak ide o osoby, ktorých priestupky môže objasňovať Vojenská polícia; ustanovenie odseku 3 platí obdobne. Vojenský policajt odovzdá zadržané technické osvedčenie vozidla okresnému úradu.
 >
 > (14) Policajt na mieste zadrží osvedčenie o evidencii časť I alebo časť II na základe príkazu na zadržanie osvedčenia o evidencii vozidla vydaného súdnym exekútorom. Odseky 3 až 6 sa použijú primerane.
+
 
 
 
