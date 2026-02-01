@@ -1071,8 +1071,48 @@
 > - j) fotodokumentácia situácie a následkov na mieste dopravnej nehody,  
 > - k) doba príchodu policajta na miesto dopravnej nehody.
 
+## § 68 – Poskytovanie údajov z evidencie dopravných nehôd
 
+> (1) Informácie z evidencie dopravných nehôd sa poskytujú štátnym orgánom, orgánom územnej samosprávy a správcom ciest v rozsahu ich pôsobnosti. Informácie z evidencie dopravných nehôd sa poskytujú aj Národnému dopravnému informačnému centru v rozsahu a spôsobom podľa osobitného predpisu.
+>
+> (2) Každému sa v požadovanom rozsahu poskytne informácia o údajoch, ktoré sa o ňom uchovávajú v evidencii dopravných nehôd.
+>
+> (3) Informácia z evidencie dopravných nehôd sa poskytne aj vtedy, ak to ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná, alebo osobitný predpis.
+>
+> (4) Informácia z evidencie dopravných nehôd, ktorej obsah je predmetom utajovaných skutočností, sa môže poskytnúť len za podmienok ustanovených v osobitnom predpise.
+>
+> (5) Osoba, ktorej sa informácia obsahujúca osobné údaje z evidencie dopravných nehôd poskytla, smie takú informáciu použiť len na účely, na ktoré ju žiadala, a musí zabezpečiť jej ochranu.
+>
+> (6) Informácie z evidencie dopravných nehôd sa poskytujú v elektronickej forme najmenej raz za mesiac Slovenskej kancelárii poisťovateľov a Úradu pre dohľad nad zdravotnou starostlivosťou v súvislosti s plnením ich úloh podľa osobitného predpisu, a to aj bez predchádzajúceho súhlasu osoby, ktorej sa taká informácia týka.
+>
+> (7) Informácie z evidencie dopravných nehôd sa poskytujú Slovenskej kancelárii poisťovateľov v tomto rozsahu:
+> - a) meno a priezvisko alebo obchodné meno, adresa pobytu alebo sídla, rodné číslo alebo identifikačné číslo organizácie držiteľa vozidla a vlastníka vozidla,
+> - b) meno a priezvisko, adresa pobytu a rodné číslo účastníka dopravnej nehody, ak ho má pridelené, alebo dátum narodenia účastníka dopravnej nehody, ak rodné číslo nemá pridelené,
+> - c) údaj o požití alkoholu alebo inej návykovej látky vodičmi vozidiel, ktorí sa zúčastnili na dopravnej nehode,
+> - d) značka, obchodný názov, typ, dátum prvej evidencie vozidla, evidenčné číslo vozidla, evidenčné číslo osvedčenia o evidencii časť I alebo časť II alebo technického osvedčenia vozidla, farba vozidla, identifikačné číslo vozidla VIN,
+> - e) dátum, čas, miesto, opis priebehu, príčin a následkov dopravnej nehody a ich fotodokumentácia,
+> - f) obchodné meno poisťovateľa vozidla a číslo potvrdenia o poistení zodpovednosti, číslo potvrdenia o hraničnom poistení alebo číslo zelenej karty,
+> - g) orgán Policajného zboru, ktorý dopravnú nehodu vyšetroval, a číslo, pod ktorým bola vec zaevidovaná.
+>
+> (8) O dopravných nehodách podľa § 64 ods. 1 písm. a) sa poskytujú Úradu pre dohľad nad zdravotnou starostlivosťou informácie z evidencie dopravných nehôd v tomto rozsahu:
+> - a) meno a priezvisko alebo obchodné meno, adresa pobytu alebo sídla, rodné číslo alebo identifikačné číslo organizácie držiteľa vozidla a vlastníka vozidla,
+> - b) meno a priezvisko, adresa pobytu a rodné číslo alebo dátum narodenia vodiča, ktorý bol účastníkom dopravnej nehody, a usmrteného alebo zraneného účastníka dopravnej nehody,
+> - c) údaj o požití alkoholu alebo inej návykovej látky vodičmi vozidiel, ktorí sa zúčastnili na dopravnej nehode,
+> - d) značka, obchodný názov, typ, evidenčné číslo vozidla alebo identifikačné číslo vozidla VIN,
+> - e) dátum, čas, miesto, opis priebehu, príčin a následkov dopravnej nehody,
+> - f) obchodné meno poisťovateľa vozidla a číslo potvrdenia o poistení zodpovednosti, číslo potvrdenia o hraničnom poistení alebo číslo zelenej karty,
+> - g) orgán Policajného zboru, ktorý dopravnú nehodu vyšetroval, a číslo, pod ktorým bola vec zaevidovaná.
+>
+> (9) Informácie z evidencie dopravných nehôd sa v prípade dopravnej nehody vozidla prihláseného do evidencie vozidiel v Slovenskej republike poskytujú do registra prevádzkových záznamov vozidiel; informácie sa poskytujú v tomto rozsahu:
+> - a) dátum dopravnej nehody,
+> - b) značka, obchodný názov, typ vozidla, evidenčné číslo vozidla a identifikačné číslo vozidla VIN,
+> - c) následky a poškodenie vozidla po dopravnej nehode,
+> - d) informácia o tom, či dopravná nehoda mala vplyv na hlavné bezpečnostné prvky vozidla, ktorými sú zavesenie kolies, deformačné zóny, systémy airbagov, riadenie alebo brzdy,
+> - e) zobrazovaná hodnota počítadla celkovej prejdenej vzdialenosti (ďalej len „odometer“) vozidla.
 
+> ŠTVRTÁ ČASŤ
+
+> OPRÁVNENIA POLICAJTA PRI DOHĽADE NAD BEZPEČNOSŤOU A PLYNULOSŤOU CESTNEJ PREMÁVKY
 
 
 
