@@ -1195,9 +1195,9 @@
 > - f) je na vozidle nečitateľná alebo poškodená tabuľka s evidenčným číslom alebo táto tabuľka nie je umiestnená v súlade s týmto zákonom,
 > - g) vodič nepredloží potvrdenie o poistení zodpovednosti,
 > - h) vozidlo presahuje
->   -  1. najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
->   -  2. najväčšie technicky prípustné hmotnosti,
->   -  3. najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   1\. najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   2\. najväčšie technicky prípustné hmotnosti,
+>   3\. najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
 > - i) nie sú dodržané podmienky prepravy nákladu podľa § 51 alebo podľa osobitného predpisu,
 > - j) vodič vozidla poruší ustanovenia osobitného predpisu o organizácii pracovného času v doprave,
 > - k) vozidlo nemá zaplatenú úhradu diaľničnej známky,
@@ -1363,6 +1363,7 @@
 > (16) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny DE možno udeliť vodičské oprávnenie skupiny DE, len ak už je držiteľom vodičského oprávnenia skupiny D. Vodičské oprávnenie skupiny DE oprávňuje viesť motorové vozidlá skupiny DE, ako aj motorové vozidlá skupiny D1E, BE a T. Vodičské oprávnenie skupiny DE udelené podľa § 78 ods. 8 oprávňuje do dovŕšenia veku 24 rokov viesť motorové vozidlá skupiny DE, len ak je jeho držiteľ zároveň držiteľom kvalifikačnej karty vodiča; ak je jeho držiteľ zároveň držiteľom osvedčenia o zrýchlenej základnej kvalifikácii, oprávňuje do dovŕšenia veku 23 rokov viesť len motorové vozidlá skupiny DE v pravidelnej autobusovej doprave, ak trasa autobusovej linky nepresahuje 50 km.
 >
 > (17) Žiadateľovi o udelenie vodičského oprávnenia na vedenie motorových vozidiel skupiny T sa udeľuje vodičské oprávnenie skupiny T. Vodičské oprávnenie skupiny T oprávňuje viesť motorové vozidlá skupiny T, a to len na území Slovenskej republiky.
+
 
 
 
