@@ -23,6 +23,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R22** |4Asan/2/2020 | od 96 a zakaz cinnosti | Jazdna suprava kod96 | #zrusene #vratene |
 | **R23** |5Asan/4/2018 | Cervena na semafore | Vypovede policajtov | #zamietnute |
 | **R24** |5Asan/9/2018 | Predchadzanie cez dvojitu plnu | dvojita plna ciara | #zamietnute |
+| **R25** |8Sžo/102/2010 | Odmietnutie dychovej skusky | Svedok osoba blizka | #potvrdene |
 
 
 ---
@@ -2894,6 +2895,138 @@ Ak sú svedecké výpovede dvoch zakročujúcich príslušníkov polície proces
 33. O trovách konania rozhodol podľa § 467 ods. 1 S.s.p. v spojení s ustanoveniami § 167 ods. 1 a § 175 ods. 1 S.s.p. a contrario tak, že sťažovateľovi nepriznal náhradu trov konania z dôvodu neúspechu v konaní a žalovanému nárok na náhradu trov konania zo zákona nevyplýva.
 
 34. Toto rozhodnutie prijal senát Najvyššieho súdu Slovenskej republiky jednohlasne (§ 147 ods. 2 v spojení s § 139 ods. 4 S.s.p.).
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
+
+<!-- DECISION:BEGIN spis=8Sžo/102/2010 -->
+
+# Hodnotenie hodnovernosti svedeckej výpovede blízkej osoby
+
+# Rozhodnutie: R25 – Najvyšší súd Slovenskej republiky – 8Sžo/102/2010 – 2010-09-09
+## Identifikácia
+- **ID:** R25
+- **Súd:** Najvyšší súd Slovenskej republiky
+- **Spisová značka:** 8Sžo/102/2010
+- **Dátum rozhodnutia:** 2010-09-09
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** odvolacie (správne súdnictvo)
+- **Strany (anonymizované):**
+  - Žalobca: M. C.
+  - Žalovaný: Krajské riaditeľstvo Policajného zboru v Nitre
+- **Zdroj / poznámka:** Svedecká výpoveď – hodnotenie – (Policajti + priateľka obvineného)- 8Sžo_102_2010.docx
+- **Tagy:** #spravne #odvolanie #priestupok #cestna_premavka #odmietnutie_dychovej_skusky #odmietnutie_odberu_krvi #hodnotenie_dokazov #hodnovernost #svedok_osoba_blizka #§22Priestupky #§132OSP #§219OSP
+
+## Právna veta (Kľúčový záver)
+> Právna veta: Pri hodnotení dôkazov je súd povinný skúmať všetky dôkazy vo vzájomnej súvislosti a zároveň starostlivo prihliadať na všetko, čo vyšlo počas konania najavo; samotná výpoveď svedka nie je dostatočným dôkazom, ak vo vzťahu k obsahu administratívneho spisu a ďalším vykonaným dôkazom vyvoláva pochybnosti o presvedčivosti a objektivite, najmä ak ide o osobu s blízkym vzťahom k účastníkovi konania.
+> > *Doplnková právna veta:* Dôkazy súd hodnotí podľa svojej úvahy, a to každý dôkaz jednotlivo a všetky dôkazy v ich vzájomnej súvislosti; pritom starostlivo prihliada na všetko, čo vyšlo za konania najavo, včítane toho, čo uviedli účastníci. Pri hodnotení dôkazov je súd povinný skúmať všetky dôkazy vo vzájomnej súvislosti a zároveň starostlivo prihliadať na všetko, čo vyšlo počas konania najavo, preto samotná výpoveď svedkyne, ktorá v minulosti žila so žalobcom v spoločnej domácnosti, nie je dostatočným dôkazom preukazujúcim tvrdenia žalobcu, ak sú v rozpore s inými dôkazmi a administratívnym spisom. Pochybnosti o objektivite a hodnovernosti svedeckej výpovede môžu vyplynúť z partnerského vzťahu svedkyne k účastníkovi konania, ako aj z jej predchádzajúcich procesných vyjadrení v štádiu objasňovania priestupku.
+
+## Kontext prípadu 
+Žalobca sa v správnom súdnictve domáhal preskúmania zákonnosti rozhodnutia žalovaného, ktorým bolo potvrdené rozhodnutie prvostupňového správneho orgánu o uznaní viny žalobcu za priestupok proti bezpečnosti a plynulosti cestnej premávky podľa § 22 ods. 1 písm. f/, k/ zák. č. 372/1990 Zb. o priestupkoch. Podstatou skutku bolo, že žalobca ako vodič pri kontrole odmietol dychovú skúšku na zistenie alkoholu a tiež odber krvi, a súčasne nepredložil požadované doklady. Krajský súd žalobu zamietol a po doplnení dokazovania vyhodnotil výpovede príslušníkov hliadky ako presvedčivejšie než výpoveď svedkyne. Žalobca podal odvolanie s tým, že súd nesprávne vyhodnotil svedkyňu ako dôkaz. Najvyšší súd rozsudok krajského súdu potvrdil a žalobcovi nepriznal náhradu trov odvolacieho konania.
+
+
+## Argumentačná línia
+- **Žalobca:** Namietal nesprávne hodnotenie dôkazov, najmä výpovede svedkyne M. C., ktorú označil za priamu účastníčku kontroly bez subjektívneho záujmu na výsledku, pričom dôkaznú situáciu hodnotil ako „tvrdenie proti tvrdeniu“ a navrhol zrušenie rozsudku a vrátenie veci krajskému súdu.
+- **Žalovaný:** Uviedol, že súd výpoveď svedkyne vyhodnotil, no považoval výpovede príslušníkov PZ za presvedčivejšie; poukázal na blízky vzťah svedkyne k žalobcovi (osoba blízka) a na zásady správneho konania vrátane voľného hodnotenia dôkazov a povinnosti zistiť spoľahlivo skutkový stav.
+- **Súd:** Stotožnil sa s hodnotením krajského súdu, že samotná výpoveď svedkyne nie je dostatočná a v kontexte administratívneho spisu a výpovedí príslušníkov PZ vyznieva ako nepresvedčivá; prihliadol aj na okolnosti spochybňujúce objektivitu svedkyne (predchádzajúce spolužitie) a potvrdil rozsudok krajského súdu ako vecne správny.
+
+## Skutkový stav
+Dňa 25. októbra 2008 približne o 02.00 hod. žalobca viedol motorové vozidlo (Š. O.) v meste N. Z. po viacerých uliciach, pričom bol do zastavenia prenasledovaný hliadkou polície. Po zastavení pri kotolni bol kontrolovaný hliadkou PZ. Pri kontrole predložil iba občiansky preukaz, vodičský preukaz a doklady od vozidla nepredložil. Na výzvu príslušníka PZ odmietol dychovú skúšku na zistenie alkoholu a tiež odber krvi. Správne orgány to posúdili ako priestupok proti bezpečnosti a plynulosti cestnej premávky a uložili mu pokutu a zákaz činnosti viesť motorové vozidlá.
+
+## Téma a kategorizácia
+- **Téma:** správne právo – správne súdnictvo – preskúmanie rozhodnutia o priestupku v cestnej premávke
+- **Podtéma:** odmietnutie dychovej skúšky; odmietnutie odberu krvi; voľné hodnotenie dôkazov; hodnovernosť svedka – osoba blízka; preskúmanie zákonnosti rozhodnutia správneho orgánu
+- **Tagy:** #spravne #odvolanie #priestupok #cestna_premavka #odmietnutie_dychovej_skusky #odmietnutie_odberu_krvi #hodnotenie_dokazov #svedok_osoba_blizka #§22Priestupky #§132OSP #§219OSP
+
+## Právna veta / právny záver (abstrakt)
+Pri preskúmavaní zákonnosti rozhodnutia správneho orgánu je súd oprávnený hodnotiť dôkazy podľa zásady voľného hodnotenia dôkazov a musí posudzovať každý dôkaz jednotlivo aj v ich vzájomnej súvislosti. Ak výpoveď svedka vzhľadom na vzťah k účastníkovi konania vyvoláva pochybnosti o objektivite a je v rozpore alebo v napätí s ostatnými podkladmi (administratívnym spisom a konzistentnými výpoveďami iných svedkov), nemusí byť sama osebe postačujúca na spochybnenie skutkových zistení správnych orgánov. Ak súd nezistí porušenie práv účastníka a skutkový stav je spoľahlivo zistený, žalobu zamietne a odvolací súd rozhodnutie prvostupňového súdu potvrdí.
+
+## Právne vety / kľúčové závery 
+- (1) Odvolací súd potvrdí rozsudok krajského súdu, ak je vecne správny a odvolacie námietky neopodstatnené (#potvrdene).
+- (2) Pri hodnotení dôkazov súd skúma dôkazy v ich vzájomnej súvislosti a prihliada na všetko, čo vyšlo za konania najavo (§ 132 O. s. p.).
+- (3) Samotná výpoveď svedka nemusí postačovať na preukázanie tvrdení žalobcu, ak je v kontexte spisu nepresvedčivá alebo vyvoláva pochybnosti o objektivite.
+- (4) Blízky (resp. predchádzajúci partnerský/spolužijúci) vzťah svedka k účastníkovi konania môže byť relevantný pri hodnotení hodnovernosti svedeckej výpovede.
+- (5) Ak sa preukáže skutkový stav uvedený vo výroku správneho rozhodnutia a nezistí sa porušenie práv účastníka, žaloba sa zamietne (§ 250j ods. 1 O. s. p.).
+- (6) Ak žalobca nemá v odvolacom konaní úspech, náhrada trov sa mu neprizná.
+- (7) Ak svedkyňa v štádiu objasňovania priestupku využije právo nevypovedať ako blízka osoba, jej následná podrobná výpoveď pred súdom môže byť v kontexte iných dôkazov hodnotená ako účelová.
+- (8) Výpoveď svedkyne, ktorá žije so žalobcom v spoločnej domácnosti, môže vyvolávať legitímne pochybnosti o objektivite a hodnovernosti.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - zákon č. 372/1990 Zb. o priestupkoch: § 22 ods. 1 písm. f/, k/; § 52 ods. 2 (v súvislosti s podaním vysvetlenia svedka)
+  - zákon č. 315/1996 Z. z. o premávke na pozemných komunikáciách: § 3 ods. 2 písm. c/; § 4 ods. 2 písm. b/
+- **Proces:**
+  - Občiansky súdny poriadok: § 246c ods. 1; § 10 ods. 2; § 211 a nasl.; § 250ja ods. 2; § 244 ods. 1, 3; § 132; § 157 ods. 2; § 250j ods. 1; § 219 ods. 1, 2; § 224 ods. 1; § 250k ods. 1; § 156 ods. 1, 3
+- **Iné zdroje:**
+  - (prázdne)
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Správne orgány tvrdili, že žalobca viedol vozidlo, bol prenasledovaný hliadkou, pri kontrole nepredložil všetky doklady a odmietol dychovú skúšku aj odber krvi; žalobca tieto okolnosti spochybňoval najmä s poukazom na svedeckú výpoveď M. C.
+- Rozhodujúce skutkové zistenia súdu: Súd považoval za preukázané, že skutok sa stal tak, ako vyplýva z výroku správneho rozhodnutia, a že žalobca sa dopustil priestupku; výpovede príslušníkov hliadky vyhodnotil ako presvedčivejšie než výpoveď M. C.
+- Podstatné dôkazy (výber):
+  - administratívny spis žalovaného (vrátane rozhodnutí správnych orgánov)
+  - výsluch svedkov – príslušníkov hliadky (I.. D. B., I. K.)
+  - výsluch svedkyne M. C.
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Či bol skutkový stav priestupku (vrátane odmietnutia dychovej skúšky a odberu krvi) spoľahlivo zistený a preukázaný.
+2. Či krajský súd a správne orgány hodnotili dôkazy v súlade so zásadou voľného hodnotenia dôkazov a presvedčivo odôvodnili, prečo uprednostnili výpovede príslušníkov PZ.
+3. Či v priestupkovom konaní došlo k porušeniu procesných práv žalobcu ako účastníka konania.
+
+### Argumentácia súdu (výber)
+- Odvolací súd preskúmal napadnutý rozsudok a konanie, ktoré mu predchádzalo, a dospel k záveru, že odvolanie nie je dôvodné.
+- Zdôraznil zásadu voľného hodnotenia dôkazov (§ 132 O. s. p.) a požiadavku presvedčivého odôvodnenia (§ 157 ods. 2 O. s. p.).
+- Stotožnil sa s hodnotením, že samotná výpoveď M. C. nepostačuje, ak v kontexte spisu a výpovedí príslušníkov PZ pôsobí nepresvedčivo; prihliadol na okolnosti vzťahu svedkyne k žalobcovi.
+- Potvrdil rozsudok krajského súdu ako vecne správny (§ 219 ods. 1, 2 O. s. p.) a žalobcovi nepriznal náhradu trov odvolacieho konania.
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+
+
+
+
+
+
+Napadnutým rozsudkom Krajský súd v Nitre č. k. 15S/5/2009 – 52 zo dňa 29. októbra 2009 zamietol žalobu na preskúmanie zákonnosti rozhodnutia žalovaného č. p. KRP-152/DI-SK-2008 zo dňa 26. januára 2009, ktorým potvrdil rozhodnutie Okresného riaditeľstva PZ, Okresného dopravného inšpektorátu v N. Z. č. p. ORP-P- 2 8Sžo/102/2010
+
+2525/DI-B-2008 zo dňa 15. decembra 2008, ktorým bol žalobca uznaný za vinného zo spáchania priestupku proti bezpečnosti a plynulosti cestnej premávky podľa § 22 ods. 1 písm. f/, k/ zák. č. 372/1990 Zb. o priestupkoch (ďalej v texte rozsudku len „zák. o priestupkoch“), za čo mu bola uložená pokuta vo výške 12 000,00 Sk a zákaz činnosti viesť motorové vozidlá na dobu 18 mesiacov odo dňa právoplatnosti tohto rozhodnutia. Zároveň súd náhradu trov konania žalobcovi nepriznal. V dôvodoch predmetného rozsudku krajský súd uviedol, že pri preskúmavaní rozhodnutia vychádzal výlučne z obsahu podanej žaloby, ako i z obsahu administratívneho spisu žalovaného. Naviac vo veci doplnil dokazovanie o výsluch svedkov (príslušníkov hliadky a M. C.). Výpovede svedkov I.. B. a I. K. vo vzťahu k výpovedi M. C. vyhodnotil súd ako presvedčivejšie. Obaja vo veci vypočutí svedkovia jednoznačne bez zjavných vzájomných rozporov opísali priebeh a dej dopravnej situácie, na konci ktorej žalobca na výzvu príslušníka polície ako vodič sa odmietol podrobiť vyšetreniu na zistenie alkoholu. Z uvedených dôvodov súd po doplnení dokazovania, mal za preukázané, že dopravný priestupok kladený za vinu žalobcovi sa stal tak, ako to vyplýva z napadnutého rozhodnutia a žalobca sa tohto priestupku dopustil. V konaní žalovaného súd nezistil porušenie práv žalobcu ako účastníka priestupkového konania, preto žalobu podľa § 250j ods. 1 Občianskeho súdneho poriadku (ďalej v texte rozsudku len „O. s. p.“) zamietol ako nedôvodne podanú.
+
+Proti tomuto rozsudku podal žalobca v zákonnej lehote dňa 23. decembra 2009 odvolanie, v ktorom uviedol, že konajúci súd nevyhodnotil výpoveď svedkyne M. C.. Táto svedkyňa bola bez pomeru k účastníkom konania ako priama účastníčka úkonu kontroly, ktorú vykonali príslušníci PZ, vie právne relevantne vypovedať o okolnostiach významných pre rozhodnutie súdu. Ďalej uviedol, že svedkyňa v priebehu objasňovania priestupku, ako aj priamo na pojednávaní konanom pred prvostupňovým súdom veľmi podrobne, hodnoverne a jednoznačne opísala okolnosti zo dňa 25. októbra 2008, táto svedkyňa nemá žiaden 3 8Sžo/102/2010
+
+subjektívny záujem na výsledku sporu, vyslúchnuť ju ako svedkyňu žalobca navrhol výlučne z titulu jej osobnej účasti na udalosti zo dňa 25. októbra 2008. Žalobca uviedol, že výpovede svedkov I.. B. a K. na jednej strane a výpoveď svedkyne C. na strane druhej sú v postavení „tvrdenia proti tvrdeniu“. Dokonca svedkyňa C. aj na otázky právneho zástupcu žalovaného odpovedala presvedčivo a jednoznačne bez toho, aby vyvolávala pochybnosti o objektívnosti svojej vedeckej výpovede. Podľa názoru žalobcu za takéhoto dôkazného stavu neobstojí argumentácia prvostupňového súdu o presvedčivosti resp. nepresvedčivosti výpovedí. Záverom žalobca navrhol, aby odvolací súd rozsudok krajského súdu zrušil a vec vrátil tomuto súdu na ďalšie konanie.
+
+K odvolaniu sa vyjadril žalovaný v písomnom podaní doručenom súdu dňa 23. februára 2010 tak, že nie je pravdou, že konajúci súd nevyhodnotil výpoveď svedkyne C., nakoľko aj sám žalobca v odvolaní uviedol, že prvostupňový súd pri vyhodnocovaní dôkazného stavu dospel k záveru, že výpovede svedkov I.. D. B. a I.K. sú vo vzťahu k výpovedi svedkyne M. C. presvedčivejšie. Ďalej uviedol, že svedkyňa M. C. nie je celkom bez pomeru k žalobcovi, nakoľko bola prvostupňovým správnym orgánom predvolaná za účelom podania vysvetlenia k predmetnému priestupku na deň 20. novembra 2008, na ktoré sa dostavila a po riadnom poučení v zmysle ust. § 52 ods. 2 zák. o priestupkoch využila svoje právo, bez akéhokoľvek nátlaku alebo nahovárania, sa pridržiavala svojho vyjadrenia podaného na mieste kontroly dňa 25.10.2008 a uviedla, že viac k veci nechce uviesť, nakoľko so žalobcom žije v partnerskom vzťahu v spoločnej domácnosti, teda žalobca je jej osoba blízka, ktorej ujmu by pociťovala ako vlastnú, čo potvrdila svojim podpisom. Taktiež žalovaný uviedol, že právny zástupca žalovaného videl ako svedkyňa M. C. bola pred začiatkom pojednávania na Krajskom súde v Nitre viac ako v priateľskom rozhovore so žalobcom. Z uvedeného vyplýva, že výpoveď tejto svedkyne sa javí ako nie celkom presvedčivá a objektívna. 4 8Sžo/102/2010
+
+Záverom žalovaný poukázal, že základné pravidlá správneho konania sú obsiahnuté v § 3 Správneho poriadku. Medzi základné pravidlá správneho konania patrí zákonnosť, naň nadväzuje voľné hodnotenie dôkazov a použitie najvhodnejších prostriedkov. V rámci dokazovania posudzuje správny orgán dôkaznú preukaznosť jednotlivých dôkazných prostriedkov a rozhodnutie o ich osvedčení ako dôkazov. Keďže rozhodnutie správneho orgánu musí vychádzať zo spoľahlivo zisteného stavu veci, správny orgán je povinný zistiť presne a úplne skutočný stav veci a za tým účelom si obstarať potrebné podklady pre vydanie rozhodnutia. Pritom nie je viazaný len návrhmi účastníka konania. Účastník konania je povinný navrhnúť na podporu svojich tvrdení dôkazy, ktoré sú mu známe. Žalovaný sa pri rozhodovaní v predmetnej veci riadil týmito procesnými zásadami. Svoje zistenia uviedol vo svojom rozhodnutí. Pre vydanie rozhodnutia si zadovážil podklady zákonným spôsobom, podľa svojich možností a podstatu podrobne uviedol v odôvodnení predmetného rozhodnutia o odvolaní, ako aj vo svojom vyjadrení k žalobe zo dňa 11. marca 2009; pre vydanie rozhodnutia o odvolaní mal dostatok podkladov, z toho dôvodu sa rozhodol, že už nebude vykonávať ďalšie preukazovanie skutočností, ktoré by už boli zjavne nepotrebné alebo nadbytočné.
+
+Najvyšší súd Slovenskej republiky ako súd odvolací (§ 246c ods. 1 veta prvá O. s. p. v spojení s § 10 ods. 2 O. s. p.), preskúmal napadnutý rozsudok a konanie, ktoré mu predchádzalo ( podľa § 246c ods. 1 veta prvá O. s. p. v spojení s § 211 a nasl. O. s. p.) a dospel k záveru, že odvolanie nie je dôvodné.
+
+Podľa § 250ja ods. 2 O. s. p. odvolací súd rozhodne o odvolaní spravidla bez pojednávania, ak to nie je v rozpore s verejným záujmom. Na prejednanie odvolania nariadi pojednávanie, ak to považuje za potrebné, alebo ak vykonáva dokazovanie . V tejto súvislosti odvolací súd považuje za potrebné uviesť, že krajský súd v prvostupňovom konaní prejednal napadnuté rozhodnutie na nariadených pojednávaniach dňa 24. júna 2009, 14. októbra 2009, na ktorých sa žalobca zúčastnil spolu so svojim právnym zástupcom (právny zástupca sa z pojednávania zo dňa 24. jú na 2009 ospravedlnil, so súhlasom žalobcu sa pojednávalo bez jeho prítomnosti), mal možnosť sa k prejednávanej veci a vykonávaným dôkazom vyjadriť. Odvolací súd nepovažoval preto za potrebné na prejednanie veci nariaďovať pojednávanie, v odvolaní žalobca uviedol rovnaké skutočnosti, ktoré boli predmetom posúdenia v konaní pred súdom prvého stupňa a takýto postup nebol v rozpore s verejným záujmom. Deň vyhlásenia rozhodnutia bol zverejnený minimálne päť dní vopred na úradnej tabuli súdu a na internetovej stránke Najvyššieho súdu Slovenskej republiky www.supcourt.gov.sk. Rozsudok bol verejne vyhlásený dňa 09. septembra 2010 (§ 156 ods. 1 a ods. 3 O. s. p.). 
+
+Podľa § 244 ods. 1 O. s. p. v správnom súdnictve preskúmavajú súdy na základe žalôb alebo opravných prostriedkov zákonnosť rozhodnutí a postupov orgánov verejnej správy.
+
+Podľa § 244 ods. 3 O. s. p. rozhodnutiami správnych orgánov sa rozumejú rozhodnutia vydané nimi v správnom konaní, ako aj ďalšie rozhodnutia, ktoré zakladajú, menia alebo zrušujú oprávnenia a povinnosti fyzických alebo právnických osôb alebo ktorými môžu byť práva, právom chránené záujmy alebo povinnosti fyzických osôb alebo právnických osôb priamo dotknuté. Postupom správneho orgánu sa rozumie aj jeho nečinnosť.
+
+Z obsahu priložených spisov odvolací súd zistil, že rozhodnutím Okresného riaditeľstva PZ, Okresného dopravného inšpektorátu v N. Z. č. p. ORP-P-2525/DI-B- 2008 zo dňa 15. decembra 2008, bol žalobca uznaný za vinného zo spáchania priestupku proti bezpečnosti a plynulosti cestnej premávky podľa § 22 ods. 1 písm. f/, k/ zák. o priestupkoch, za čo mu bola uložená pokuta vo výške 12 000,00 Sk a zákaz činnosti viesť motorové vozidlá na dobu 18 mesiacov na tom skutkovom základe, že dňa 25. októbra 2008 v čase o 02.00 hod viedol motorové vozidlo Š. O. EČ N. v meste N. Z. smerom od baru T. cez Ul. O. na Ul. S., odkiaľ prešiel na Ul. T. a po ľavej strane chodníka prešiel s vozidlom až po križovatku Ul. T. s Ul. Š., pričom bol až po zastavenie prenasledovaný hliadkou polície a po zastavení na Ul. T. pri kotolni bol hliadkou polície kontrolovaný. Vodič pri kontrole predložil iba občiansky preukaz, vodičský preukaz a doklady od vozidla nepredložil a na výzvu príslušníka PZ sa odmietol podrobiť dychovej skúške na zistenie alkoholu a tiež odberu krvi. Týmto svojim konaním žalobca porušil § 3 ods. 2 písm. c/, § 4 ods. 2 písm. b/ zák. č. 315/1996 Z. z. o premávke na pozemných komunikáciách. Žalovaný rozhodnutím č. p. KRP-152/DI-SK-2008 zo dňa 26. januára 2009 odvolanie žalobcu zamietol a rozhodnutie prvostupňového orgánu potvrdil. V odôvodnení uviedol, že považuje námietky účastníka konania za irelevantné a účelové, so snahou vyhnúť sa právnej zodpovednosti za priestupok.
+
+Podľa § 132 O. s. p. dôkazy súd hodnotí podľa svojej úvahy, a to každý dôkaz jednotlivo a všetky dôkazy v ich vzájomnej súvislosti; pritom starostlivo prihliada na všetko, čo vyšlo za konania najavo, včítane toho, čo uviedli účastníci.
+
+Podľa § 157 ods. 2 O. s. p. v odôvodnení rozsudku súd uvedie, čoho sa navrhovateľ (žalobca) domáhal a z akých dôvodov, ako sa vo veci vyjadril odporca (žalovaný), prípadne iný účastník konania, stručne, jasne a výstižne vysvetlí, ktoré skutočnosti považuje za preukázané a ktoré nie, z ktorých dôkazov vychádzal a akými úvahami sa pri hodnotení dôkazov riadil, prečo nevykonal ďalšie navrhnuté dôkazy a ako vec právne posúdil. Súd dbá na to, aby odôvodnenie rozsudku bolo presvedčivé.
+
+Súd prvého stupňa na nariadenom pojednávaní doplnil dokazovanie o výsluch svedkov – príslušníkov hliadky I.. D. B., I. K. a svedkyne M. C., pričom pri hodnotení dôkazov vyhodnotil výpovede I.. D. B. a I. K. ako presvedčivejšie ako výpoveď M. C., s ktorým hodnotením sa stotožnil aj odvolací súd.
+
+Pri hodnotení dôkazov je súd povinný skúmať všetky dôkazy vo vzájomnej súvislosti a zároveň starostlivo prihliadať na všetko, čo vyšlo počas konania najavo, preto samotná výpoveď M. C. nie je dostatočným dôkazom preukazujúcim tvrdenia žalobcu. 
+
+Vo vzťahu k obsahu administratívneho spisu ako aj k výpovediam príslušníkov PZ je výpoveď M. C. hodnotená ako nepresvedčivá z niekoľkých dôvodov.
+
+Svedkyňa v minulosti žila so žalobcom v spoločnej domácnosti a hoci v súčasnej dobe tomu tak nie je, preto z tohto dôvodu možno mať pochybnosti o objektivite a hodnovernosti jej svedeckej výpovede.
+
+Taktiež žalobca v súdnom konaní neuviedol iné okolnosti, skutočnosti, nenavrhol vykonať iné ďalšie dôkazy, ktoré by odôvodňovali pochybnosti o hodnovernosti svedeckých výpovedí príslušníkov PZ týkajúcich sa opisu priebehu priestupku.
+Odvolací súd ďalej považuje za dôležité poukázať na časť svedeckej výpovede I.. D. B., v ktorej uviedol svoj poznatok z ďalšej neskoršej služby v súvislosti s kontrolou iného motorového vozidla, kde žalobca bol ako člen posádky vozidla, pričom radil vodičovi, aby uviedol, že on neriadil vozidlo, ale osoba jemu blízka.
+
+S poukazom na vyššie uvedené skutočnosti Najvyšší súd Slovenskej republiky sa musel stotožniť so závermi krajského súdu, ktorý mal za preukázané, že dopravný priestupok kladený za vinu žalobcovi sa stal tak, ako to vyplýva z výroku rozhodnutia prvostupňového správneho orgánu a žalobca sa tohto priestupku dopustil, preto napadnutý rozsudok ako vecne správny potvrdil podľa § 219 ods. 1, 2 O. s. p.. O náhrade trov odvolacieho konania rozhodol súd podľa § 224 ods. 1 O. s. p. v spojení s § 246c O. s. p. a § 250k ods. 1 O. s. p. tak, že žalobcovi, ktorý nemal v konaní úspech, ich náhradu nepriznal.
 
 ---ODOVODNENIE:KONIEC---
 
