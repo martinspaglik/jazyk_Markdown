@@ -13,8 +13,10 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R4** | BA-7Sa/93/2020  | Chodec mimo priechodu a nehoda | Zavinenie nehody nie je znak | #zamietnute #potvrdene |
 | **R5** | NEUVEDENE  | Celna zrazka v protismere | Rychlost 85 km/h | #neuvadza_sa |
 | **R6** | 1To/50/2022  | Zrazka chodca pri priechode | Zakaz cinnosti 7 rokov | #sprisnenie_trestu |
-
-
+| **R7** | Kompilát judikátov  | Prednosť chodcov | Absolútna vs. relatívna prednosť | #vyklad_prava |
+| **R8** | IV. ÚS 3159/15  | Princíp obmedzenej dôvery v doprave | Odbocovanie v zakaze predbiehania | #zrusene #vratene |
+| **R9** | 3Tdo/84/2021  | Nezakonne zlozenie odvolacieho sudu | Vyluceny sudca ex lege | #zrusene #vratene |
+| **R10** | NEUVEDENE  | Cuvanie na parkovisku (dieta) | Limitovana predvidatelnost | NEUVEDENE |
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
@@ -952,8 +954,6 @@ Na základe uvedeného je dovolací dôvod podľa § 371 ods. 1 písm. b) Trestn
 republiky má za to, že je nadbytočné a predčasné riešiť iné dovolacie námietky obvineného.
 Najvyšší súd Slovenskej republiky preto podľa § 386 ods. 1 Trestného poriadku vyslovil porušenie zákona, podľa § 386 ods. 2 zrušil uznesenie krajského súdu a podľa § 388 ods. 1 prikázal odvolaciemu súdu vec opätovne prerokovať a rozhodnúť.
 
-
-
 ---ODOVODNENIE:KONIEC---
 
 <!-- DECISION:END -->
@@ -986,7 +986,12 @@ Najvyšší súd ČR konštatoval, že pokiaľ vodič idúci po hlavnej ceste id
 
 # Rozhodnutie: R11
 
-# Princíp obmedzenej dôvery - Smrť dieťaťa pri cúvaní 
+# Princíp obmedzenej dôvery - Smrť dieťaťa pri cúvaní - Princíp obmedzenej dôvery a miera opatrnosti pri cúvaní v obytnej zóne
+
+## Právna veta
+> Vodič motorového vozidla môže v súlade s princípom tzv. obmedzenej dôvery spoliehať na to, že dospelé osoby dohliadajúce nad jednoročným dieťaťom v priestore parkoviska alebo obytnej zóny zabránia dieťaťu v samostatnom nekontrolovanom pohybe a vbehnutiu do jazdnej dráhy vozidla, pokiaľ z konkrétnych okolností nevyplýva opak. Trestná zodpovednosť za nedbanlivostný trestný čin vyžaduje súčasné naplnenie objektívneho hľadiska (porušenie miery opatrnosti určenej predpismi) a subjektívneho hľadiska (možnosť a schopnosť konkrétneho páchateľa predvídať vznik následku). Od vodiča nie je možné spravodlivo požadovať, aby predvídal stratu kontroly nad pohybom dieťaťa zo strany dohliadajúcich osôb len na základe skutočnosti, že sa tieto osoby v blízkosti miesta cúvania spolu rozprávajú, ak nevykazujú iné známky zjavnej nepozornosti.
+
+
 Ústavný súd ČR 2065/15 z 31.5.2016 posudzoval ústavnú sťažnosť vodiča motorového vozidla. Ten namietal svoju trestnú zodpovednosť za usmrtenie 1 ročného dieťaťa pri cúvaní v čase keď bolo pod dohľadom dvoch dospelých osôb. Odsúdený namietal porušenie svojho práva na spravodlivý proces a podal ústavnú sťažnosť. Domnieval sa, že pri cúvaní maximálne zachoval mieru opatrnosti. Ústavný súd uznal ústavnú sťažnosť za dôvodnú
 
 Trestná zodpovednosť je založená na zásade zodpovednosti za zavinenie. To znamená, že bez zavinenia niet trestného činu (nullum crimen sine culpa). Podmienkou trestnej zodpovednosti je naplnenie skutkovej podstaty trestného činu súčasťou ktorej musí byť vždy zavinenie. Zavinenie môže byť vo forme úmyslu či nedbanlivosti. V prípade usmrtenia z nedbanlivosti musia orgány činné v trestnom konaní preukázať zavinenie  vo forme vedomej alebo nevedomej nedbanlivosti. Pri posúdení, či bol čin spáchaný z nedbanlivosti je potrebné zistiť, či obvinený zachoval (zanedbal) potrebnú mieru opatrnosti. Tá je kritériom nedbanlivosti v oboch jej formách. Zanedbanie miery opatrnosti treba vyvodzovať z konkrétnych skutkových okolností. Pokiaľ došlo k škodlivému následku neznamená to automaticky, že potrebná miera opatrnosti musela byť nutne zanedbaná.
