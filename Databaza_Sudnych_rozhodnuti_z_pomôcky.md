@@ -2587,6 +2587,27 @@ Za priestupok vedenia motorového vozidla bez príslušného vodičského opráv
 <!-- DECISION:END -->
 
 
+<!-- DECISION:BEGIN spis=5Asan/4/2018 -->
+
+# Červená na semafore a hodnotenie výpovedí policajtov - Hodnotenie vierohodnosti svedeckých výpovedí policajtov pri priestupku jazdy na červenú
+
+# Rozhodnutie: R23 – Najvyšší súd Slovenskej republiky – 5Asan/4/2018 – 2020-10-06
+## Identifikácia
+- **ID:** R23
+- **Súd:** Najvyšší súd Slovenskej republiky
+- **Spisová značka:** 5Asan/4/2018
+- **Dátum rozhodnutia:** 2020-10-06
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** kasačné
+- **Strany (anonymizované):**
+  - Žalobca (sťažovateľ): F. O.
+  - Žalovaný: Krajské riaditeľstvo Policajného zboru v Žiline – Krajský dopravný inšpektorát
+- **Zdroj / poznámka:** :contentReference[oaicite:0]{index=0}
+- **Tagy:** #spravne #kasacna_staznost #priestupok #cestna_premavka #semafor #ohrozenie_chodcov #svedecka_vypoved #policajt_ako_svedok #hodnotenie_dokazov #in_dubio_pro_reo #vierohodnost #§22P3721990 #§190SSP  
+
+## ⚖️ Právna veta (Kľúčový záver)
+> Právna veta: Výpoveď príslušníka polície je dôkaz ako ktorýkoľvek iný a pre preukázanie priestupku nie je rozhodujúce, či ide o jediný dôkaz alebo skupinu dôkazov, ak nepochybne preukazujú vinu; ak bol dôkaz získaný a vykonaný v súlade so zákonom a nevznikajú pochybnosti, nie je nevyhnutné obstarávať ďalšie dôkazy, pričom zásada in dubio pro reo sa uplatní až pri existencii dôvodných pochybností o skutkovom stave.
+> >  *Doplnková právna veta:* Svedeckú výpoveď príslušníka Policajného zboru vykonávajúceho dohľad nad bezpečnosťou a plynulosťou cestnej premávky je potrebné považovať za relevantný a vierohodný dôkazný prostriedok, ak v konaní nevyjdú najavo skutočnosti spochybňujúce jeho nestrannosť alebo objektivitu. Samotná skutočnosť, že svedok je policajtom, ktorý priestupok zistil, nezakladá pochybnosť o pravdivosti jeho výpovede, nakoľko policajt nemá na výsledku konania osobný záujem a plní si zákonné povinnosti. V prípade rozporu medzi výpoveďou policajta a verziou obvineného z priestupku, ktorú nepodporujú iné dôkazy, sú správne orgány oprávnené priznať vyššiu dôkaznú silu zhodným výpovediam viacerých zasahujúcich policajtov, ak sú tieto výpovede jasné, konzistentné a logicky do seba zapadajú.
 
 
 
