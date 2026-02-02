@@ -19,6 +19,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R18** | II. ÚS 1166/23 | Zrazka cyklistu s chodkynou | Pesi zona ohleduplnost | #odmietnute |
 | **R19** | NEUVEDENÉ | Prednost na priechode pre chodcov | Oneskorena reakcia brzdenim | #uznany_vinny #odkazanie_na_civilny_proces |
 | **R20** | 6 Tdo 523/2011 | Chodec na prechode | Zastavene vozidla zakryty vyhlad | #zrusene #vratene |
+| **R21** |1Sžd/34/2011 | Nedanie prednosti v krizovatke | Ulomky a znalec | #potvrdene |
 
 
 ---
@@ -2172,7 +2173,240 @@ Nejvyšší soud tedy uzavírá, že dovolací argumentace nejvyšší státní 
 
 <!-- DECISION:END -->
 
+<!-- DECISION:BEGIN spis=1Szd/34/2011 -->
+
+# Potvrdenie viny za dopravnú nehodu v križovatke a spochybňovanie znaleckého dokazovania
+
+# Rozhodnutie: R21 – Najvyšší súd Slovenskej republiky – 1Sžd/34/2011 – 2012-05-15
+## Identifikácia
+- **ID:** R21
+- **Súd:** Najvyšší súd Slovenskej republiky
+- **Spisová značka:** 1Sžd/34/2011
+- **Dátum rozhodnutia:** 2012-05-15
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** odvolacie (správne súdnictvo)
+- **Strany (anonymizované):**
+  - Žalobca: J. M.
+  - Žalovaný: Krajské riaditeľstvo Policajného zboru v Trnave – Krajský dopravný inšpektorát
+- **Zdroj / poznámka:** NEUVEDENE
+- **Tagy:** #spravne #spravne_sudnictvo #odvolanie #priestupok #dopravna_nehoda #nedanie_prednosti #znalecke_dokazovanie #dokazne_bremeno #znalecky_posudok #krizovatka #§19Z3151996 #§22P3721990
+
+## Právna veta (Kľúčový záver)
+> Najvyšší súd musí konštatovať, že na spochybnenie prv predloženého odborného stanoviska znalca nepostačuje predloženie ďalšieho stanoviska od iného znalca. V súvislosti s možnosťou hodnoverne spochybniť úkon znaleckej činnosti konajúci senát Najvyššieho súdu poukazuje na svoju staršiu judikatúru, podľa ktorej „pri námietke, že znalecký posudok trpí vadami, Najvyšší súd konštatuje, že aj v tomto prípade sú žalobkyne zaťažené dôkazným bremenom, tzn. že musia preukázať, že znalkyňa namietaným postupom porušila štandardy znaleckej činnosti, a preto znalecký posudok je v súdnom konaní nepoužiteľný. Na základe uvedeného sa odkazuje na ustanovenie § 127 ods. 4 O.s.p. v spojení s § 29 ods. 1 písm. a) zákona č. 382/2004 Z.z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov, ktoré oprávňuje každého požiadať Ministerstvo spravodlivosti Slovenskej republiky o vypracovanie odborného posudku k uvedenej problematike.“ (m.m. rozsudok Najvyššieho súdu sp. zn. 1Sžso 36/2010 z 23.08.2011dostupný na internetovej stránke súdu). Z uvedeného vyplýva, že spochybnenie dôkazného prostriedku vyhotoveného subjektom verejného práva, napríklad odborného vyjadrenia znalca osvedčujúceho vznik dopravnej nehody, je možné vykonať iba procesne relevantným spôsobom, tzn. preukázať odbornú nemožnosť takéhoto vzniku predložením iného, hodnoverného znaleckého úkonu.
+
+## Kontext prípadu 
+Žalobca bol v priestupkovom konaní uznaný vinným zo spôsobenia dopravnej nehody nedaním prednosti v jazde na križovatke (vedľajšia cesta vs. hlavná cesta), za čo mu bola uložená pokuta 100 € a zákaz činnosti viesť motorové vozidlá na 4 mesiace. Žalovaný (odvolací správny orgán) rozhodnutie prvostupňového orgánu potvrdil. Žalobca podal žalobu na krajský súd, ktorý žalobu zamietol ako nedôvodnú. Proti rozsudku krajského súdu podal žalobca odvolanie, v ktorom opätovne spochybňoval najmä miesto zrážky, rozmiestnenie úlomkov a závery znalca. Najvyšší súd Slovenskej republiky ako odvolací súd rozsudok krajského súdu potvrdil a žalobcovi nepriznal náhradu trov konania.
+
+## Argumentačná línia
+- **Žalobca:** Namietal nesprávne určenie miesta dopravnej nehody (tvrdil, že ku zrážke malo dôjsť mimo križovatky), spochybňoval hodnovernosť odborného vyjadrenia znalca a poukazoval na možné manipulovanie so stopami (úlomkami) na mieste nehody, ako aj na údajné rozpory vo vyjadreniach znalca pri neskoršom výsluchu. Predložil aj ďalšie odborné vyjadrenie, ktorým chcel podporiť svoju verziu priebehu nehody.
+- **Žalovaný:** V konaní pred správnymi orgánmi vychádzal zo zistenia, že žalobca pri vchádzaní z vedľajšej cesty nedal prednosť vozidlu idúcemu po hlavnej ceste, čo viedlo k zrážke; oprel sa o vykonané dôkazy vrátane svedeckých výpovedí, fotodokumentácie a odborného vyjadrenia znalca. V súdnom konaní sa písomne nevyjadril (podľa obsahu rozhodnutia).
+- **Súd:** Najvyšší súd považoval odvolanie za nedôvodné, stotožnil sa so skutkovými a právnymi závermi krajského súdu a zdôraznil viazanosť odvolacími dôvodmi a požiadavku ich konkretizácie. Proklamatívne spochybňovanie úlomkov a miesta zrážky bez procesne relevantných dôkazov neakceptoval. K spochybneniu znaleckých záverov vyžadoval dôkazné prostriedky preukazujúce odborné vady; predložené ďalšie odborné vyjadrenie nevyhodnotil ako spôsobilé preukázať vady konania a rozsudok krajského súdu potvrdil.
+
+## Skutkový stav
+Dňa 14.01.2009 približne o 08.20 hod. žalobca viedol osobné motorové vozidlo a vchádzal do križovatky z vedľajšej cesty. Po hlavnej ceste prichádzalo vozidlo vedené vodičkou D. P. Došlo k zrážke vozidiel, pričom k zraneniu osôb nedošlo a alkohol u vodičov zistený nebol. Spornou otázkou bolo najmä miesto zrážky (v križovatke alebo za križovatkou) a z toho odvodená príčina nehody. Správne orgány aj krajský súd vychádzali z toho, že zrážka sa stala v križovatke a príčinou bolo nedanie prednosti v jazde zo strany žalobcu, pričom kľúčový význam prikladali fotodokumentácii a odbornému vyjadreniu znalca.
+
+## Téma a kategorizácia
+- **Téma:** správne právo – priestupky – cestná premávka – správne súdnictvo
+- **Podtéma:** dopravná nehoda; nedanie prednosti v jazde; dokazovanie znaleckým posudkom; odvolanie; dôkazné bremeno pri spochybnení znalca
+- **Tagy:** #spravne #spravne_sudnictvo #odvolanie #priestupok #dopravna_nehoda #nedanie_prednosti #znalecke_dokazovanie #dokazne_bremeno #znalecky_posudok #krizovatka #§19Z3151996 #§22P3721990
+
+## Právna veta / právny záver (abstrakt)
+V odvolacom konaní musí odvolateľ uviesť konkrétne a právne relevantné dôvody nesprávnosti napadnutého rozhodnutia; všeobecné nesúhlasné tvrdenia bez konkretizácie a bez dôkaznej podpory neobstoja. Ak účastník spochybňuje znalecký dôkaz, nesie dôkazné bremeno preukázať vady znaleckej činnosti alebo odbornú neudržateľnosť záverov procesne relevantným spôsobom; predloženie ďalšieho odborného stanoviska bez preukázania vád konania alebo porušenia štandardov znaleckej činnosti spravidla nepostačuje. Pri splnení týchto pravidiel môže odvolací súd potvrdiť rozhodnutie prvostupňového súdu, ak je vo výroku vecne správne.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Najvyšší súd ako odvolací súd potvrdil rozsudok krajského súdu, ktorým bola žaloba zamietnutá (#potvrdene).
+- (2) Odvolacie dôvody musia byť konkretizované; všeobecné námietky a polemika bez špecifikácie relevantných rozporov nie sú spôsobilé založiť úspech odvolania.
+- (3) Proklamatívne spochybnenie polohy úlomkov a miesta zrážky musí byť preukázané dôkazmi; bez nich sa súd môže oprieť o vykonané dokazovanie a závery znalca.
+- (4) Znalec je štátom aprobovaná osoba a spochybnenie jeho záverov vyžaduje procesne relevantné dôkazy o vadách alebo porušení štandardov znaleckej činnosti.
+- (5) Dodatočne predložené odborné vyjadrenie, ktoré nepreukazuje vady predchádzajúceho konania, nemusí byť spôsobilé zvrátiť skutkové a právne závery prvostupňového súdu.
+- (6) Žalobcovi nebola priznaná náhrada trov konania.
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - zákon č. 315/1996 Z.z.: § 19 ods. 1
+  - zákon č. 372/1990 Zb.: § 22 ods. 1 písm. l), § 22 ods. 2
+- **Proces:**
+  - zákon č. 71/1967 Zb. (správny poriadok): § 58 ods. 1, § 59 ods. 2
+  - zákon č. 99/1963 Zb. (O.s.p.): § 10 ods. 2, § 201, § 204 ods. 1, § 205 ods. 1, § 205 ods. 2, § 205a ods. 1, § 212 ods. 1, § 219 ods. 1, § 219 ods. 2, § 224 ods. 1, § 246c ods. 1, § 246c ods. 2, § 250j ods. 1, § 250ja ods. 2, § 250k ods. 1, § 250i ods. 1, § 250i ods. 2, § 127, § 117, § 118 ods. 3
+- **Iné zdroje:**
+  - ESĽP: Garcia Ruiz v. Španielsko (rozsudok z 21.01.1999, sťažnosť č. 30544/96)
+  - judikatúra Najvyššieho súdu SR: sp. zn. 5Sžf 55/2007; sp. zn. 1Sžso 36/2010
+  - zákon č. 382/2004 Z.z. (znalci, tlmočníci, prekladatelia) – citovaný
+  - zákon č. 757/2004 Z.z. o súdoch – citovaný
+  - zákon č. 71/1992 Zb. o súdnych poplatkoch: § 12
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Žalobca tvrdil, že ku zrážke došlo mimo križovatky a spochybňoval rozmiestnenie úlomkov a závery znalca; žalovaný vychádzal z toho, že žalobca z vedľajšej cesty nedal prednosť vozidlu na hlavnej ceste a spôsobil zrážku v križovatke.
+- Rozhodujúce skutkové zistenia súdu: Súd vychádzal zo zistení správnych orgánov a krajského súdu, že miesto nehody bolo v križovatke a príčinou bolo nedanie prednosti v jazde zo strany žalobcu; tvrdenia o manipulácii so stopami vyhodnotil ako nepreukázané/účelové.
+- Podstatné dôkazy (výber):
+  - odborné vyjadrenie/znalecký úkon Ing. M. (č. 14/2009) k príčine nehody a technickej prijateľnosti variantov
+  - fotodokumentácia miesta dopravnej nehody
+  - výpovede účastníkov a svedkov (najmä Ing. J., ďalší svedkovia podľa administratívneho spisu)
+  - administratívny spis správnych orgánov
+  - (dodatočne predložené) odborné vyjadrenie Ing. P., PhD. – vyhodnotené v odvolacom konaní
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Bolo spoľahlivo preukázané, že žalobca porušil povinnosť dať prednosť v jazde pri vchádzaní z vedľajšej cesty na hlavnú cestu?
+2. Sú námietky o inom mieste zrážky a o manipulácii so stopami (úlomkami) podložené procesne relevantnými dôkazmi?
+3. Je možné spochybniť skutkové zistenia a znalecké závery iba predložením ďalšieho odborného vyjadrenia v odvolacom konaní, a spĺňa taký dôkaz podmienky prípustnosti podľa O.s.p.?
+
+### Argumentácia súdu (výber)
+- Odvolací súd je viazaný rozsahom a dôvodmi odvolania; odvolateľ musí dôvody konkretizovať v zmysle § 205 ods. 1 O.s.p.
+- Všeobecné tvrdenia o rozpore vo vyjadreniach znalca či o vzťahu svedkov bez konkretizácie a bez relevantnej argumentácie súd nepovažoval za spôsobilé odvolacie dôvody.
+- Proklamatívne spochybnenie rozmiestnenia úlomkov bez dôkazného prostriedku súd neakceptoval a prisvedčil hodnoteniu krajského súdu opretému o znalecké zistenia a fotodokumentáciu.
+- K spochybneniu znaleckých záverov je potrebné predložiť dôkazy, ktoré odborné závery jednoznačne spochybňujú; znalec má postavenie štátom aprobovanej osoby so zodpovednosťou za riadne splnenie úlohy.
+- Dodatočné odborné vyjadrenie predložené v odvolacom konaní nebolo vyhodnotené ako preukazujúce vady predchádzajúceho konania; navyše ani samo nevylúčilo závery o mieste zrážky v prospech verzie žalobcu.
+- Najvyšší súd potvrdil rozsudok krajského súdu ako vecne správny (§ 219 ods. 1 O.s.p.) a žalobcovi nepriznal náhradu trov.
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+
+
+1. Rozhodnutím č. p.: KRP-DI-ODV-122/2010 z 28.06.2010 žalovaný ako odvolací orgán v priestupkovom konaní podľa § 58 ods. 1 a § 59 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) potvrdil odvolaním napadnuté rozhodnutie Okresného dopravného inšpektorátu OR PZ v Trnave č. p.: ORP-P-894/DI-TT-SK-2009 z 27.11.2009, ktorým bola žalobcovi podľa § 22 ods. 2 zákona č. 372/1990 Zb. o priestupkoch (ďalej na účely tohto rozsudku tiež „zák. č. 372/1990 Zb.“) uložená sankcia - pokuta vo výške 100,- € a súbežne - zákaz činnosti viesť motorové vozidlá na dobu 4 mesiace s uložením povinnosť nahradiť trovy priestupkového konania.
+
+2. Pri svojom rozhodnutí žalovaný vychádzal zo skutkového stavu, že žalobca dňa 14.1.2009 o 08.20 hod. viedol ako vodič motorové vozidlo tov. zn. Škoda Octávia, EČ: T. v Trnave na križovatke Kalinčiakova – T. Vansová, kde vchádzal do križovatky po ulici Kalinčiakovej, ktorá je označená ako vedľajšia cesta, pričom nedal prednosť v jazde motorovému vozidlu tov. zn. Peugeot 206, EČ: T., ktoré viedla ako vodička D. (1977) po ulici. T. Vansovej, ktorá je označená ako hlavná cesta, následkom čoho došlo k zrážke medzi uvedenými vozidlami. Pri nehode k zraneniu osôb nedošlo. Alkohol u vodičov zistený nebol.
+
+3. Žalovaný na základe uvedených skutočností dospel k záveru, že žalobca porušil ustanovenie § 19 ods. 1 zákona č. 315/1996 Z.z. o premávke na pozemných komunikáciách (ďalej na účely tohto rozsudku len „zák. č. 315/1996 Z.z.“), čím bol uznaný vinným zo spáchania priestupku podľa § 22 ods. 1 písm. l) zák. č. 372/1990 Zb. Podľa § 19 ods. 1 zák. č. 315/1996 Z.z. vodič, ktorý prichádza na križovatku po ceste označenej dopravnou značkou ako vedľajšia cesta, je povinný dať prednosť v jazde vozidlám prichádzajúcim po ceste označenej dopravnou značkou ako hlavná cesta. Podľa § 22 ods. 1 písm. l) zák. č. 372/1990 Z.z. priestupku sa dopustí ten, kto porušením uvedeným v písmene k) [iným konaním, než ako je uvedené v písmenách a) až h), poruší všeobecne záväzný právny predpis o bezpečnosti a plynulosti cestnej premávky] bezprostredne ohrozí bezpečnosť alebo plynulosť cestnej premávky alebo spôsobí dopravnú nehodu. 3 1Sžd/34/2011
+
+4. K námietke žalobcu, že miesto nehody bolo pri stredovej čiare, na úrovni vstupnej brány cintorína na ulici T. Vansovej, tzn. jednoznačne mimo križovatky ulíc Kalinčiakova – T. Vansovej, na základe čoho spochybňuje hodnovernosť odborného vyjadrenia Ing. L., sa žalovaný vyjadril tak, že zistený skutkový stav tomuto nezodpovedá. Zo spisového materiálu vyplýva, že asi 10 minút po nehode na základe telefonátu vodičky prišiel na miesto jej priateľ Ing. J. na terénnom vozidle s EČ: T., ktorý na mieste dopravnej nehody sa ju snažil ukľudniť. Takto čakali v jeho vozidle na príchod polície. Medzičasom bol za žalobcom, ktorého požiadal aby zotrval na mieste nehody, pretože zavolali políciu, na čo mal žalobca reagovať podráždene.
+
+5. Menovaný Ing. J. nesúhlasí s tvrdením žalobcu, že mal nejakým spôsobom manipulovať so stopami na mieste dopravnej nehody, napríklad takým spôsobom, že mal rozkopávať úlomky a črepiny smerom ku križovatke. Naopak, poškodené vozidlo tov. zn. Peugeot 206 sa nachádzalo na chodníku natočené priamo do vchodu cintorína a na naliehanie pohrebnej služby bolo vozidlo presunuté zatočením vľavo a posunuté mimo vchod rovnobežne s múrom. Až po zdokumentovaní miesta dopravnej nehody vošiel do križovatky, kde sa pozeral na úlomky vo vozidlách. Avšak ani v tomto prípade sa ich nedotýkal, nemanipuloval s nimi, resp. ich v žiadnom prípade nerozkopával, lebo bol obutý v letnej obuvi, ktorá mu bránila v cca 7 cm kašovitom snehu ich rozkopávať.
+
+6. Po preskúmaní výpovedí žalobcu (19.01.2009), resp. jeho manželky Ing. N., ktorá sa v čase predmetnej nehody s ním nachádzala vo vozidle, žalovaný zistil, že žalobca svoje tvrdenie o rozkopávaní úlomkov uviedol až 23.06.2009 a Ing. G. tú istú argumentáciu uviedla až do zápisnice o podaní oznámenia, ktorá bola spísaná 12.08.2009. Odvolací orgán preto uvedené tvrdenie vyhodnotil ako účelové.
+
+7. V priestupkovom konaní bol ustanovený znalec Ing. M., ktorému boli položené tri nasledujúce otázky: 1. Posúďte a uveďte technickú príčinu vzniku dopravnej nehody, uveďte miesto a vzájomnú polohu vozidiel v čase zrážky. 4 1Sžd/34/2011
 
 
 
+2. Posúďte pravdepodobnosť mechanizmu vzniku dopravnej nehody podľa výpovedí oboch vodičov, ako aj spolujazdkyne – manželky vodiča G. účastných na dopravnej nehode, vyjadrite sa k spôsobu jazdy oboch vodičov. 3. Vyjadrite sa k doručenému vyjadreniu vzniku dopravnej nehody vodiča JUDr. G..
 
+8. K prvej otázke znalec uviedol, že vzájomná poloha vozidiel a ich poloha na ceste v čase zrážky zodpovedá polohe, kedy vozidlo Peugeot 206 jazdí približne v strede pravého jazdného pruhu ulice T. Vansovej (súbežne s pozdĺžnou osou tejto ulice) v smere k ulici Hospodárska a vozidlo Škoda Octavia uskutočňuje výjazd z ulice Kalinčiakova na ulicu T. Vansovej smerom doprava. Na základe vzájomnej polohy vozidiel v čase zrážky a na základe miesta zrážky je možné konštatovať, že výsledky technickej analýzy nehodového deja korešpondujú so skutočnosťami, ktoré uvádza vo svojej výpovedi vodička vozidla Peugeot 206, teda že príčinou vzniku predmetnej dopravnej nehody bolo nedanie prednosti v jazde zo strany vodiča vozidla Škoda Octavia.
+
+9. K druhej otázke znalec uviedol, že mechanizmus predmetnej dopravnej nehody v zmysle skutočnosti, ktoré uvádza vodička vozidla Peugeot 206 pani P., je z technického hľadiska prijateľný. Mechanizmus vzniku predmetnej dopravnej nehody v zmysle skutočnosti, ktoré uvádza vodič vozidla škoda Octavia M. a spolujazdkyňa v tomto vozidle N.G., je z technického hľadiska neprijateľný. Vzhľadom na to je dôvodné konštatovať, že technika jazdy vodiča vozidla Škoda Octavia nebola správna, pričom nesprávnosť jeho techniky jazdy spočíva v tom, že pri vjazde do križovatky nedal prednosť v jazde vodičke vozidla Peugeot 206.
+
+10. K tretej otázke znalec uviedol, že Podrobné vyhodnotenie technickej prijateľnosti jednotlivých skutočností, ktoré uvádza JUDr. G. vo svojom vyjadrení k dopravnej nehode zo dňa 19.1.2009, je vykonané v časti 2.3 odborného vyjadrenia. Mechanizmus vzniku dopravnej nehody v zmysle skutočnosti, ktoré uvádza vodič vozidla Škoda Octavia JUDr. M. vo svojom vyjadrení k dopravnej nehode zo dňa 19.1.2009, je z technického hľadiska neprijateľný. 5 1Sžd/34/2011
+
+
+
+11. Na základe týchto skutočností žalovaný ako odvolací orgán dospel jednoznačne k záveru, že vykonané dôkazy a vykonané dokazovanie postačujú na to, aby bolo žalobcovi spoľahlivo preukázané spáchanie predmetného priestupku.
+
+II. Konanie na prvostupňovom súde
+
+12. Proti tomuto rozhodnutiu podal žalobca prostredníctvom svojho právneho zástupcu žalobu z 02.09.2010 na Krajský súd v Trnave.
+
+13. Krajský súd v Trnave ako súd prvého stupňa preskúmal napadnuté rozhodnutie a postup správnych orgánov pred jeho vydaním v rozsahu dôvodov žaloby a žalobu ako nedôvodnú zamietol.
+
+14. Krajský súd vychádzal zo skutkového stavu zachyteného v administratívnom spise, najmä zo zhodných vyjadrení uvedených vo výpovediach svedkov Ing. M. a Ing. J., ktorí zhodne lokalizovali miesto dopravnej nehody do križovatky ul. Kalinčiakova - T. Vansovej. Podľa krajského súdu miesto dopravnej nehody bolo zdokumentované aj príslušníkmi polície a fotodokumentáciou nachádzajúcou sa v spisovom materiáli.
+
+15. Takisto krajský súd v odôvodnení zdôraznil význam odborného vyjadrenia č. 14/2009 podaného Ing. M., znalcom z odboru doprava cestná, odvetvia technický stav cestných vozidiel, ktorý za príčinu vzniku predmetnej dopravnej nehody označil konanie žalobcu, tzn. nedanie prednosti vjazde zo strany vodiča Škoda Octavia (žalobcu).
+
+16. Uvedený znalec podľa krajského súdu konštatuje, že mechanizmus vzniku predmetnej dopravnej nehody v zmysle skutočnosti, ktoré uvádza vodička vozidla Peugeot 206 D.P., je technického hľadiska prijateľný, čo sa však nedá povedať o opise mechanizmu vzniku predmetnej dopravnej nehody v intenciách výpovede žalobcu a jeho manželky N., tzn. že nehoda sa nestala na križovatke ul. Kalinčiakova - T. Vansovej, ale až za touto križovatkou. Tento mechanizmus dopravnej nehody znalec označil ako z technického hľadiska neprijateľný. 6 1Sžd/34/2011
+
+
+
+17. Vo vzťahu k námietke žalobcu týkajúcej sa možného manipulovania so stopami dopravnej nehody, krajský súd s odkazom na priloženú fotodokumentáciu a odborné stanovisko znalca uviedol, že z fotodokumentácie z miesta dopravnej nehody jednoznačne vyplýva, že stopa č. 1 zachycuje zhluk úlomkov laku a plastov z obidvoch vozidiel, ktorý je typický pre miesto, v ktorom dochádza k vzájomnému oddeleniu vozidiel na konci zrážky. Premiestnenie takéhoto zhluku úlomkov kopaním je z technického hľadiska vylúčené.
+
+18. Námietku žalobcu, že znalec počas konfrontácie uviedol, že nesprávnosť jazdy vodiča vozidla Škoda - Octávia nespočíva v ničom, krajský súd po vyhodnotení textu odmietol ako jednostranne skresľujúcu argumentáciu zo strany žalobcu.
+
+19. Opravným uznesením z 01. júla 2011 č.k. 14S/60/2010-57 krajský súd opravil časť odôvodnenia napadnutého rozsudku v časti o pomere hlasov.
+
+III. Odvolanie žalovaného/žalobcu/stanoviská A) 20. Vo včas podanom odvolaní zo dňa 24.6.2011 (č. l. 55) proti rozsudku prvostupňového súdu žalobca vyjadril nesúhlas s vyhodnotením miesta, kde sa stala dopravná nehoda. V súvislosti s týmto zdôraznil vzťah svedkov k prejednávanej veci a ďalej to, že znalec si odporoval pri neskoršom výsluchu.
+
+21. Žalobca najmä poukázal na význam polohy úlomkov z havarovaných vozidiel, pričom v súvislosti s ich rozmiestnením vyslovil svoje jednoznačné pochybnosti, že predmetné úlomky, tak ako boli na ceste umiestnené, sa toto nemohlo udiať v dôsledku nárazu v malej rýchlosti, ale dostali sa do značnej vzdialenosti od seba „nejakou“ inou silou.
+
+22. V súvislosti s uvedeným žalobca citoval časť odôvodenia rozsudku krajského súdu, podľa ktorého premiestnenie takéhoto zhluku úlomkov kopaním je z technického hľadiska vylúčené, a súčasne poukázal na to, že pri konfrontácii medzi ním a znalcom, znalec na položené otázky nevedel odpovedať. 7 1Sžd/34/2011
+
+
+
+23. Ďalej žalobca poukázal aj na to, že znalec na položenú otázku, v čom spočívala nesprávnosť jeho jazdy, neodpovedal. Takisto zdôraznil tú skutočnosť, že tak, ako to bolo zakreslené, sa dopravné nehoda nestala a že znalec sa nezaoberal tým, že nepozornosť jazdy spolu so zlými poveternostnými podmienkami mali za následok dopravnú nehodu.
+
+24. Záverom žalobca s požiadavkou, aby sa odvolací súd oboznámil s logickým stavom vzniknutým v čase dopravnej nehody podľa stanoviska žalobcu, konfrontoval ho s jeho objasnením, ako prišlo k posunu úlomkov a prečo sa vozidlo nachádzalo tam, kde bolo zakreslené, požadoval zrušenie rozsudku krajského súdu a vrátenie veci žalovanému správnemu orgánu na ďalšie konanie.
+
+B)
+
+25. Napriek výzve krajského súdu z 08. júla 2011 (č. l. 62) na písomné vyjadrenie k pripojenej fotokópii odvolania žalobcu sa vyjadrenie žalovaného v súdnom spise nenachádza. Na základe uvedeného Najvyšší súd Slovenskej republiky dospel k záveru, že Krajské riaditeľstvo Policajného zboru v Trnave nepovažovalo za potrebné sa aktívne zapojiť do súdneho konania.
+
+C) 26. Podaním doručeným na Najvyšší súd Slovenskej republiky dňa 11.10.2011 doručil právny zástupca žalobcu odborné vyjadrenie znalca Ing. P., PhD., s adresou M. k dopravnej nehode, ku ktorej došlo dňa 14.01.2009, na križovatke ulíc Kalinčiakovej a T. Vansovej v obci Trnava. V tomto podaní právny zástupca žalobcu poukázal na to, že uvedené odborné vyjadrenie jednoznačne vyvracia nelogičnosť vyjadrení znalca z prípravného konania tak, ako to napádali už v podaných odvolaniach, vyjadreniach a osobne pri konfrontácii. Tiež uviedol, že nevie, prečo nebol už v štádiu priestupkového konania do veci pribratý kontrolný znalec.
+
+27. V uvedenom znaleckom úkone bola úloha znalca zadávateľom (tzn. žalobcom) vymedzená 2 nasledovnými otázkami: 1.Vyhodnoťte technickú príčinu predmetnej dopravnej nehody. 8 1Sžd/34/2011
+
+
+
+2.Posúďte technickú prijateľnosť výpovede vodiča vozidla Škoda Octavia.
+
+28. Znalec v predmetnom odbornom posudku na základe deformácií, resp. určitých poškodení obidvoch vozidiel, ktoré vznikli v dôsledku ich vzájomného silového pôsobenia, ich následného pohybu po zrážke (obr. na str. 14 až 17) a mechanizmu vzniku poškodenia jednotlivých vozidiel, stanovil tak vzájomnú polohu vozidiel (obr. č. 1 a 3) ako aj polohu miesta zrážky (obr. 2). Súčasne znalec ako technicky menej logický a preto aj menej pravdepodobnejší označil variant C pohybu vozidla Škoda Octavia, vychádzajúci z tvrdenia pasažierov tohto vozidla, že v okamihu zrážky stálo dlhý čas (cca 10 s).
+
+29. V odpovedi na prvú otázku znalec konštatoval, že (súd cituje relevantný text odborného vyjadrenia) „Z technického hľadiska nie je možné zistiť, či vozidlo Škoda Octavia v okamihu zrážky stálo, alebo sa pohybovalo malou rýchlosťou (do cca 10 km/h). Ak vozidlo Škoda Octavia v okamihu zrážky stálo – v takomto prípade nie je možné zistiť aký čas uplynul, od okamihu zastavenia tohto vozidla, po okamih zrážky vozidiel. Tento čas je však podstatný a rozhodujúci pre vyhodnotenie príčiny predmetnej dopravnej nehody. ... V predmetnom prípade z technického hľadiska nie je možné ustáliť, ktorý z uvedených variantov (A, B, alebo C) nastal. Možno iba vyhodnocovať technickú logickosť daných variantov. Variant A a B sa javia ako technicky logické a preto pravdepodobnejšie, oproti variantu C. “
+
+30. Pri druhej otázke znalec uviedol, že „Jednotlivé skutočnosti uvádzané vo výpovedi vodiča vozidla Škoda Octavia sú z technického hľadiska prijateľné, okrem uvádzaného miesta zrážky. Z technického hľadiska nie je prijateľné, aby k zrážke došlo vo vzdialenosti cca 30 m za križovatkou.“
+
+31. Obdobne ako je uvedené vyššie (bod č. 25) ani v prípade výzvy Najvyššieho súdu Slovenskej republiky zo 17.10.2011 na písomné vyjadrenie k pripojenej fotokópii odborného vyjadrenia znalca Ing. P., PhD. nebolo v stanovenej lehote do súdneho spisu doručené, a po 9 1Sžd/34/2011
+
+
+
+telefonickom preverení Najvyšší súd Slovenskej republiky opätovne dospel k záveru, že Krajské riaditeľstvo Policajného zboru v Trnave nepovažovalo za potrebné sa aktívne zapojiť do súdneho konania.
+
+IV. Právne názory odvolacieho súdu
+
+32. Najvyšší súd Slovenskej republiky (ďalej len „Najvyšší súd“) ako odvolací súd (§ 10 ods. 2 O.s.p.) preskúmal napadnutý rozsudok v rozsahu a z dôvodov uvedených v odvolaní podľa § 212 v spojení s § 246c ods. 2 zákona č. 99/1963 Zb. Občiansky súdny poriadok (ďalej v texte rozsudku len „O.s.p.“). Po zistení, že odvolanie bolo podané oprávnenou osobou v zákonnej lehote (§ 204 ods. 1 O.s.p.) a že ide o rozsudok, proti ktorému je podľa ustanovenia § 201 v spoj. s ust. § 250j ods. 1 O.s.p. odvolanie prípustné, vo veci v zmysle dôvodov uvedených v § 250ja ods. 2 O.s.p. nenariadil pojednávanie a po neverejnej porade senátu (§ 3 ods. 9 zákona č. 757/2004 Z.z. o súdoch) dospel k záveru, že odvolanie nie je dôvodné, pretože napadnutý rozsudok je vo výroku vecne správny, a preto ho po preskúmaní dôležitosti odvolacích dôvodov postupom uvedeným v § 219 ods. 1 O.s.p. potvrdil.
+
+33. Najvyšší súd sa celkom stotožňuje so skutkovými závermi krajského súdu v tom rozsahu, ako si ich osvojil zo zistení uvedených žalovaným správnym orgánom. Na druhej strane podstatou odvolania ako aj žaloby, ktorou sa žalobca domáha preskúmania rozhodnutia žalovaného, je skutková otázka, či možné nejasnosti týkajúce sa zistenia skutkového stavu znalcom a namietané žalobcom na základe nielen jeho subjektívnych pocitov ale aj predloženého, v poradí druhého odborného stanoviska, spochybňujú dostatočným spôsobom skutkový stav. Práve tento právny rámec aj vymedzuje potrebné medze skutkového zistenia.
+
+34. Predovšetkým Najvyšší súd musí po vyhodnotení závažnosti odvolacích dôvodov vo vzťahu k napadnutému rozsudku krajského súdu a vo vzťahu k obsahu súdneho a pripojeného administratívneho spisu Najvyšší súd s prihliadnutím na ust. § 219 ods. 2 v spoj. s § 246c ods. 1 O.s.p. konštatovať, že nezistil dôvod na to, aby sa odchýlil 10 1Sžd/34/2011
+
+
+
+od logických argumentov a relevantných právnych záverov spolu so správnou citáciou dotknutých právnych noriem obsiahnutých v odôvodnení napadnutého rozsudku krajského súdu, ktoré vytvárajú dostatočné právne východiská pre vyslovenie výroku napadnutého rozsudku. Preto sa s ním stotožňuje v prevažujúcom rozsahu a aby nadbytočne neopakoval pre účastníkov známe fakty prejednávanej veci spolu s právnymi závermi krajského súdu, Najvyšší súd sa v svojom odôvodnení následne obmedzí iba na rekapituláciu niektorých vybraných bodov odôvodnenia napadnutého rozsudku a doplnenia svojich odlišných zistení a záverov zistených v odvolacom konaní (§ 219 ods. 2 O.s.p. umožňuje odvolaciemu súdu doplniť odôvodnenie prvostupňového súdu o ďalšie dôvody) v zmysle hore načrtnutej otázky.
+
+35. Najvyšší súd konštatuje, že základným odvolacím dôvodom je v zmysle argumentácie právneho zástupcu (výsluchy svedkov, ktorí však vo veci mali vzťah; najpodstatnejšou skutočnosťou je, kde sa stala dopravná nehoda; podstatné vo veci sú úlomky, ktoré boli na mieste nájdené; a pod.) to, že súd prvého stupňa dospel na základe vykonaných dôkazov k nesprávnym skutkovým zisteniam (§ 205 ods. 2 písm. d/ O.s.p.), a súčasne spochybňuje výsledky znaleckej činnosti.
+
+36. Vo vzťahu k formulácii odvolacích dôvodov Najvyšší súd uvádza, že ich záväznosť a obsah je najmä vymedzený v ustanoveniach § 205 ods. 1, § 205a ods. 1 a § 212 O.s.p. Podľa § 205 ods. 1 O.s.p. v odvolaní sa má popri všeobecných náležitostiach (§ 42 ods. 3) uviesť, proti ktorému rozhodnutiu smeruje, v akom rozsahu sa napáda, v čom sa toto rozhodnutie alebo postup súdu považuje za nesprávny a čoho sa odvolateľ domáha. Podľa § 205a ods. 1 O.s.p. skutočnosti alebo dôkazy, ktoré neboli uplatnené pred súdom prvého stupňa, sú pri odvolaní proti rozsudku alebo uzneseniu vo veci samej odvolacím dôvodom len vtedy, ak a) sa týkajú podmienok konania, vecnej príslušnosti súdu, vylúčenia sudcu (prísediaceho) alebo obsadenia súdu, b) má byť nimi preukázané, že v konaní došlo k vadám, ktoré mohli mať za následok nesprávne rozhodnutie vo veci samej, c) odvolateľ nebol riadne poučený podľa § 120 ods. 4, d) ich účastník konania bez svojej viny nemohol označiť alebo predložiť do rozhodnutia súdu prvého stupňa. 11 1Sžd/34/2011
+
+
+
+Podľa § 212 ods. 1 O.s.p. odvolací súd je rozsahom a dôvodmi odvolania viazaný.
+
+Nakoľko žalobca nespadá do skupiny výnimiek uvedených v § 212 ods. 2 O.s.p., je Najvyšší súd jeho odvolacími dôvodmi v tomto konaní viazaný.
+
+37. Ďalej vo vzťahu k vymedzeniu odvolacích dôvodov Najvyšší súd upozorňuje na svoju staršiu judikatúru, podľa ktorej „S právom účastníka podať odvolanie proti meritórnemu rozsudku prvostupňovému súdu je nerozlučne spojená jeho povinnosť v odvolaní presne v zmysle usmernenia obsiahnutého v § 205 ods. 1 O.s.p. špecifikovať právne nedostatky napadnutého rozsudku prvostupňového súdu (tzn. v čom sa napadnutý rozsudok alebo postup súdu považuje za nesprávny), ktorých rozsah je striktne vymedzený v ust. § 205 ods. 2 O.s.p. Naopak ako na neprípustné so samotnou myšlienkou odvolacieho súdneho konania je potrebné nazerať na to odvolaná alebo jeho časť, v ktorej účastník v nekonkrétnej a súčasnej vo všeobecnej rovine polemizuje s nedostatky správneho rozhodnutia, avšak z týchto svojich úvah nevyvodzuje, v rozpore so zásadou hospodárností súdneho konania, argumenty o nesprávnosti odvolaním napadnutého rozsudku alebo o vadách v postupe prvostupňového súdu. Pripustením takéhoto konania by sa vlastne zmarila hlavná úloha súdov, ktorá spočíva v náprave nezákonného stavu v primeranej lehote.“ (m.m. rozsudok Najvyššieho súdu sp. zn. 5Sžf 55/2007 z 13.05.2008 – dostupné na internetovej stránke).
+
+38. Žalobca v súvislosti so svojim odvolacím dôvodom vyjadril iba všeobecne formulovaný nesúhlas s vyhodnotením miesta, kde sa stala dopravná nehoda, a tiež zdôraznil vzťah svedkov k prejednávanej veci a ďalej to, že znalec si odporoval pri neskoršom výsluchu. Avšak svoju základnú povinnosť konkretizovať odvolací dôvod v zmysle hore citovanej judikatúry, tzn. v čom konkrétne si znalec odporoval, prečo je táto skutočnosť relevantná pre zistenie skutkového stavu, ďalej prečo sa žalobca domnieva, že pre vzťah svedkov k prejednávanej veci by ich svedectvo malo mať inú vypovedaciu hodnotu, si nesplnil. Preto nemôže Najvyšší súd uvedenú argumentáciu za odvolacie dôvody a preto sa s nimi ani nemôže zaoberať. 12 1Sžd/34/2011
+
+
+
+39. Takisto spochybňovanie zadokumentovanej polohy úlomkov z havarovaných vozidiel, pričom v súvislosti s ich rozmiestnením žalobca vyslovil svoje jednoznačné pochybnosti, že predmetné úlomky, tak ako boli na ceste umiestnené, tak toto sa nemohlo udiať v dôsledku nárazu v malej rýchlosti, ale dostali sa do značnej vzdialenosti od seba „nejakou“ inou silou, je iba proklamačným vyhlásením, ktoré musí byť zo strany žalobcu preukázané dôkazným prostriedkom. Nakoľko tak žalobca nevykonal, Najvyšší súd prisvedčil argumentácii krajského súdu, ktorý vychádzal z odpovedí a zistení znalca Ing. M.L..
+
+40. K tým odvolacím dôvodom žalobcu, ktoré spoločne spochybňovali verbálne vyjadrenia znalca Ing. M.L., poukazuje Najvyšší súd na postavenie, úlohu a zodpovednosť znalca v súdnom konaní (bližšie zákon č. 382/2004 Z.z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov ako aj § 127 O.s.p.). Znalec je štátom aprobovanou osobou, ktorej ustanovením do konkrétneho súdneho konania vzniká zodpovednosť za riadne a včasné splnenie zadanej znaleckej úlohy pod sankciou poriadkového, administratívneho alebo trestného postihu, ak si svoju povinnosť nesplní alebo inak zmarí základnú úlohu súdu pri poskytovaní spravodlivosti. Potom, pokiaľ žalobca chcel spochybniť závery znalca (premiestnenie takéhoto zhluku úlomkov kopaním je z technického hľadiska vylúčené), resp. poukazoval na to, že pri konfrontácii medzi ním a znalcom, znalec na položené otázky nevedel odpovedať, bolo jeho povinnosťou predložiť k týmto tvrdeniam také dôkazné prostriedky, ktoré by jednoznačne odborné závery znalca spochybnili.
+
+41. Najmä k tomu, či znalec bol povinný na otázky žalobcu odpovedať, resp. ako sa mal znalec správať počas konfrontácie so žalobcom, musí Najvyšší súd zdôrazniť, že v zmysle základného procesného pravidla ovládajúceho priebeh pojednávania, tzn. aj vykonanie výsluchu samotného (§ 127 ods. 1 a § 117 a § 118 ods. 3 O.s.p.) znalec na otázky položené účastníkmi neodpovedá, pokiaľ otázky smerujú k poznaniu, ktoré konajúci súd nepovažuje za nutné zistiť, resp. objasniť. Navyše otázky smerujúce na znalca počas procesu dokazovania sú limitované iba snahou objasniť technickú, odbornú alebo inak nejasnú argumentáciu znalca ním použitú pri splnení úlohy znalca; zakázané sú otázky kapciózne a sugestívne. Otázky 13 1Sžd/34/2011
+
+
+
+s iným obsahom môžu už od znalca vyžadovať výkon znaleckej činnosti, tzn. že sú základom pre znaleckú úlohu. Potom, ak je zo strany konajúceho súdu na znalcovi požadované vykonanie ďalšej znaleckej úlohy, musí mu súd na jej splnenie vytvoriť podmienky, tzn. najmä písomné zadanie a primerané časové obdobie.
+
+42. Najvyšší súd tiež poukazuje na ustálenú judikatúru Európskeho súdu pre ľudské práva (najmä vec: Garcia Ruiz v. Španielsko‚ rozsudok z 21.01.1999, sťažnosť č. 30544/96), prostredníctvom ktorej sa nastolila trvalá požiadavku vysporiadať sa so všetkými relevantnými argumentmi účastníka konania, ktorú nie je možné vykladať v tom duchu, že krajský súd bol povinný minimálne v rozsahu argumentácie žalobcu (v danej veci veľmi detailným spôsobom vyjadrená) sa s každým argumentom žalobcu rovnako podrobne zaoberať. Naopak, v súlade so zásadou procesnej hospodárnosti a koncentračným princípom správneho súdnictva vyjadreným v medziach žaloby (§ 6 v spojení s § 250j ods. 1 O.s.p.) krajský súd analyzoval a na zistené žalobné dôvody dostatočným spôsobom poskytol žalobcovi odpoveď.
+
+43. Vo vzťahu k odbornému vyjadreniu znalca Ing. P., PhD. Najvyšší súd s poukazom na vyššie citované (bod č. 36) ustanovenie § 205a ods. 1 písm. b) O.s.p., že ide o dôkazný prostriedok, ktoré nebol uplatnený pred súdom prvého stupňa, a preto sú pri odvolaní proti napadnutému rozsudku krajského súdu vo veci samej odvolacím dôvodom iba vtedy, pokiaľ ním má byť preukázané, že v predchádzajúcom konaní došlo k vadám, ktoré mohli mať za následok nesprávne rozhodnutie vo veci samej. Najvyšší súd však v uvedenom odbornom vyjadrení nenašiel ani náznak toho, že by sa v ňom signalizovali takéto vady pri zisťovaní skutkového stavu. Znalec, predovšetkým pri odpovedi na prvú otázku vyslovil znalecký záver (body č. 29 a 30), že nie je možné ustáliť, či vozidlo žalobcu v okamihu zrážky stálo alebo sa pohybovalo malou rýchlosťou (do cca 10 km/h, avšak ako najmenej pravdepodobný mechanizmus dopravnej nehody označil priebeh dopravnej nehody opísanej žalobcom. Navyše v odpovedi na druhú otázku znalec priamo vylúčil možnosť, aby miesto zrážky bolo lokalizované vo vzdialenosti cca 30 m za križovatkou. 14 1Sžd/34/2011
+
+
+
+44. Ďalej Najvyšší súd musí konštatovať, že na spochybnenie prv predloženého odborného stanoviska znalca nepostačuje predloženie ďalšieho stanoviska od iného znalca. V súvislosti s možnosťou hodnoverne spochybniť úkon znaleckej činnosti konajúci senát Najvyššieho súdu poukazuje na svoju staršiu judikatúru, podľa ktorej „pri námietke, že znalecký posudok trpí vadami, Najvyšší súd konštatuje, že aj v tomto prípade sú žalobkyne zaťažené dôkazným bremenom, tzn. že musia preukázať, že znalkyňa namietaným postupom porušila štandardy znaleckej činnosti, a preto znalecký posudok je v súdnom konaní nepoužiteľný. Na základe uvedeného sa odkazuje na ustanovenie § 127 ods. 4 O.s.p. v spojení s § 29 ods. 1 písm. a) zákona č. 382/2004 Z.z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov, ktoré oprávňuje každého požiadať Ministerstvo spravodlivosti Slovenskej republiky o vypracovanie odborného posudku k uvedenej problematike.“ (m.m. rozsudok Najvyššieho súdu sp. zn. 1Sžso 36/2010 z 23.08.2011- dostupný na internetovej stránke súdu).
+
+45. Z uvedeného vyplýva, že spochybnenie dôkazného prostriedku vyhotoveného subjektom verejného práva, napríklad odborného vyjadrenia znalca osvedčujúceho vznik dopravnej nehody, je možné vykonať iba procesne relevantným spôsobom, tzn. preukázať odbornú nemožnosť takéhoto vzniku predložením iného, hodnoverného znaleckého úkonu
+
+46. Na základe zisteného skutkového stavu, uvedených právnych skutočností, po vyhodnotení námietok žalobcu a stanoviska žalovaného ako aj s prihliadnutím na závery obsiahnuté v svojich predchádzajúcich rozhodnutiach, najmä už v citovaných rozhodnutiach sp.zn. 1 Sžso 36/2010 a 5 Sžf 55/2007, pri ktorých Najvyšší súd nezistil žiaden relevantný dôvod, aby sa od nich odchýlil (napríklad zásadná zmena právneho prostredia, zistenie odlišného skutkového stavu alebo prijatie protichodného zjednocovacieho stanoviska), s osvojením si argumentácie krajského súdu postupom podľa § 219 ods. 2 O.s.p. rozhodol tak, ako je uvedené vo výroku rozsudku.
+
+47. O trovách odvolacieho súdneho konania rozhodol Najvyšší súd podľa § 224 ods. 1 v spojitosti s § 250k ods. 1 O.s.p., podľa ktorého iba úspešný žalobca má právo na úplnú náhradu trov tohto konania. 15 1Sžd/34/2011
+
+
+
+48. Najvyšší súd v prejednávanej veci v súlade s ust. § 250ja ods. 2 O.s.p. rozhodol bez pojednávania, lebo nezistil, že by týmto postupom bol porušený verejný záujem (vo veci prebehlo na prvom stupni súdne pojednávanie, pričom účastníkom bola daná možnosť sa ho zúčastniť), nešlo o vec v zmysle § 250i ods. 2 O.s.p. (úprava priestupkového konania je spojená s verejnoprávnymi vzťahmi), v konaní nebolo potrebné v súlade s ust. § 250i ods. 1 O.s.p. vykonať dokazovanie a z iných dôvodov nevznikla potreba pojednávanie nariadiť.
+
+49. V prejednávanej veci Najvyšší súd Slovenskej republiky v oblasti ukladania alebo rušenia súdnych poplatkov v zmysle § 12 zák. č. 71/1992 Zb. o súdnych poplatkoch nevyužil svoje oprávnenie.
+
+Podľa § 12 ods. 1 veta druhá zák. č. 71/1992 Zb. o súdnych poplatkoch je odvolací súd oprávnený rozhodnúť vo veciach poplatkov za konanie na odvolacom súde.
+
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
