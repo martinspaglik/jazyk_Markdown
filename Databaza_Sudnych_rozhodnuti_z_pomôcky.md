@@ -11,6 +11,10 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R2** | 25 Cdo 308/2018 | Predchádzanie a Odbočovanie | Limitovana predvidatelnost | #odmietnutie_dovolania |
 | **R3** | 2Asan/7/2020 | Predchadzanie pred krizovatkou priestupok| Spoluzavinenie pravne irelevantne | #zamietnute |
 | **R4** | BA-7Sa/93/2020  | Chodec mimo priechodu a nehoda | Zavinenie nehody nie je znak | #zamietnute #potvrdene |
+| **R5** | NEUVEDENE  | Celna zrazka v protismere | Rychlost 85 km/h | #neuvadza_sa |
+| **R6** | 1To/50/2022  | Zrazka chodca pri priechode | Zakaz cinnosti 7 rokov | #sprisnenie_trestu |
+
+
 | **R13** | 3To/65/2020 | Priechod pre chodcov a maloleta | Oneskorena reakcia vodica | #zamietnute |
 | **R14** | 6 Tdo 587/2015 | Spoluzavinenie pri DN na krizovatke | Prednost vs rychlost | #postupene #velky_senat |
 | **R15** | 4Cdo/197/2022 | Vylucne zavinenie chodca | Nahla prekazka chodca | #zamietnute #velky_senat |
@@ -482,7 +486,8 @@ Odvolací súd rozhodoval o odvolaniach prokurátora a obžalovaného proti rozs
 - **Tagy:** #usmrtenie #dopravna_nehoda #chodec #zakaz_cinnosti #odvolanie #primeranost_trestu #§149TZ #Tr_por
 
 ## Právna veta / právny záver (abstrakt)
-Pri ukladaní trestu zákazu činnosti vodiča za dopravný trestný čin s následkom smrti musí súd dôsledne vychádzať z účelu trestu (§ 34 Tr. zák.) a z povahy porušenej povinnosti vodiča, najmä ak k zrážke došlo v bezprostrednej blízkosti priechodu pre chodcov, kde sa vyžaduje zvýšená opatrnosť voči zraniteľným účastníkom. Ak je trest zákazu činnosti neprimerane mierny vzhľadom na okolnosti skutku a prevenciu, odvolací súd môže oddeliteľný výrok o tomto treste zrušiť a uložiť prísnejší trest, aj pri nezmenených výrokoch o vine a iných trestoch.
+> Pri ukladaní trestu zákazu činnosti vodiča za dopravný trestný čin s následkom smrti musí súd dôsledne vychádzať z účelu trestu (§ 34 Tr. zák.) a z povahy porušenej povinnosti vodiča, najmä ak k zrážke došlo v bezprostrednej blízkosti priechodu pre chodcov, kde sa vyžaduje zvýšená opatrnosť voči zraniteľným účastníkom. Ak je trest zákazu činnosti neprimerane mierny vzhľadom na okolnosti skutku a prevenciu, odvolací súd môže oddeliteľný výrok o tomto treste zrušiť a uložiť prísnejší trest, aj pri nezmenených výrokoch o vine a iných trestoch.
+> > *Doplnková právna veta:* Ak znalec z odboru dopravy konštatuje v znaleckom posudku nesprávne použitie komunikácie zo strany poškodenej chodkyne (pohyb mimo priechodu), ide o technický záver, ktorý nezbavuje súd povinnosti vykonať samostatné právne posúdenie miesta a okolností nehody. Zrážka chodkyne v bezprostrednej blízkosti priechodu pre chodcov (cca 4 metre) zakladá povinnosť vodiča dbať na zvýšenú opatrnosť podľa zákona o cestnej premávke, nakoľko ide o pásmo, ktoré má chodcovi garantovať mieru bezpečia blízku priechodu. Pri ukladaní trestu zákazu činnosti za usmrtenie chodca v takomto priestore musí súd zohľadniť nielen technické zavinenie, ale aj generálnu a individuálnu prevenciu, pričom neprimerane mierny trest (v tomto prípade 5 rokov) neplní účel Trestného zákona a vyžaduje sprísnenie v odvolacom konaní.
 
 ## Právne vety / kľúčové závery 
 - (1) Ak je výrok o treste zákazu činnosti oddeliteľný, odvolací súd môže pri nezmenených výrokoch o vine, treste odňatia slobody a náhrade škody zrušiť len tento výrok a uložiť nový zákaz činnosti.
