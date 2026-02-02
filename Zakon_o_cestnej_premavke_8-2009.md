@@ -1183,11 +1183,11 @@
 
 > (1) Policajt je oprávnený zadržať osvedčenie o evidencii časť I alebo časť II alebo evidenčný doklad od vozidla vydaný v cudzine, ak
 > - a) vozidlo
->   - (1) nie je spôsobilé na prevádzku v cestnej premávke,
->   - (2) nie je technicky spôsobilé na prevádzku v cestnej premávke,
->   - (3) má pozastavenú prevádzku,
->   - (4) je vyradené z evidencie,
->   - (5) je vyradené z cestnej premávky,
+>   1. nie je spôsobilé na prevádzku v cestnej premávke,
+>   2 nie je technicky spôsobilé na prevádzku v cestnej premávke,
+>   3. má pozastavenú prevádzku,
+>   4. je vyradené z evidencie,
+>   5. je vyradené z cestnej premávky,
 > - b) vodič nepreukázal, že vozidlo bolo v ustanovenej lehote podrobené technickej kontrole alebo emisnej kontrole,
 > - c) údaje v ňom uvedené nie je možné identifikovať,
 > - d) je podozrenie, že sa v ňom neoprávnene urobili zmeny alebo že je neplatné,
@@ -1195,9 +1195,9 @@
 > - f) je na vozidle nečitateľná alebo poškodená tabuľka s evidenčným číslom alebo táto tabuľka nie je umiestnená v súlade s týmto zákonom,
 > - g) vodič nepredloží potvrdenie o poistení zodpovednosti,
 > - h) vozidlo presahuje
->   - 1) najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
->   - 2) najväčšie technicky prípustné hmotnosti,
->   - 3) najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   1. najväčšie povolené rozmery a vozidlo nemá povolenie na zvláštne užívanie ciest,
+>   2. najväčšie technicky prípustné hmotnosti,
+>   3. najväčšie povolené hmotnosti a vozidlo nemá povolenie na zvláštne užívanie ciest,
 > - i) nie sú dodržané podmienky prepravy nákladu podľa § 51 alebo podľa osobitného predpisu,
 > - j) vodič vozidla poruší ustanovenia osobitného predpisu o organizácii pracovného času v doprave,
 > - k) vozidlo nemá zaplatenú úhradu diaľničnej známky,
