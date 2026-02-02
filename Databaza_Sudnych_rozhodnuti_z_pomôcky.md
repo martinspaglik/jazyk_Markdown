@@ -2377,3 +2377,35 @@ Podľa § 12 ods. 1 veta druhá zák. č. 71/1992 Zb. o súdnych poplatkoch je o
 ---ODOVODNENIE:KONIEC---
 
 <!-- DECISION:END -->
+
+<!-- DECISION:BEGIN spis=4Asan/2/2020 -->
+
+# Jazdna suprava bez kodu 96 a rozsah zakazu cinnosti - Neprimeranosť sankcie zákazu činnosti pri dodatočnom získaní vodičského oprávnenia a moderačné právo súdu
+
+# Rozhodnutie: R22 – Najvyšší súd SR – 4Asan/2/2020 – 2020-09-10
+## Identifikácia
+- **ID:** R22
+- **Súd:** Najvyšší súd SR
+- **Spisová značka:** 4Asan/2/2020
+- **Dátum rozhodnutia:** 2020-09-10
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** kasačné
+- **Strany (anonymizované):**
+  - Žalobca: E. Z.
+  - Žalovaný: Krajské riaditeľstvo Policajného zboru v Banskej Bystrici, Krajský dopravný inšpektorát
+- **Zdroj / poznámka:** :contentReference[oaicite:0]{index=0}
+- **Tagy:** #spravne #kasacna_staznost #priestupok #cestna_premavka #jazdna_suprava #vodicske_opravnenie #harmonizovany_kod_96 #zakaz_cinnosti #sankcna_moderacia #proporcionalita #§22P3721990 #§198SSP
+  
+## Právna veta (Kľúčový záver)
+> Zákonodarca vyslovene ustanovil, že za priestupky podľa § 22 ods. 1 písm. a) až c) zákona o priestupkoch sa uloží (súčasne) pokuta a zákaz činnosti. … zákon o priestupkoch neupravuje možnosť uloženia sankcie zákazu činnosti viesť motorové vozidlo len určitej skupiny. … Podľa § 198 ods. 2 SSP, správny súd môže podľa odseku 1 rozhodnúť len tak, ako mohol podľa osobitného predpisu rozhodnúť orgán verejnej správy.“ Zákon o priestupkoch neupravuje možnosť uloženia sankcie zákazu činnosti viesť motorové vozidlo len určitej skupiny. Zákon o priestupkoch v § 14 ods. 1 ustanovuje všeobecne, že zákaz činnosti možno uložiť len za priestupky uvedené v osobitnej časti tohto zákona alebo v inom zákone a na čas v nich ustanovený, najdlhšie na päť rokov, ak ide o činnosť, ktorú páchateľ vykonáva v pracovnom alebo v inom obdobnom pomere alebo na ktorú treba povolenie alebo súhlas štátneho orgánu, a ak páchateľ spáchal priestupok touto činnosťou alebo v súvislosti s ňou, pričom v odseku 4 § 14 hovorí o upustení zvyšku zákazu činnosti viesť motorové vozidlo.
+
+>>  Doplnková právna veta: Sankcia zákazu činnosti má najmä preventívny charakter a jej účelom je zabrániť možnému opakovaniu páchania priestupku. Kasačný súd sa stotožnil s názorom žalovaného, že uložením sankcie zákazu činnosti týkajúceho sa len vedenia jazdnej súpravy, by nebol splnený úmysel zákonodarcu sprísniť represívny charakter ukladania sankcií pre páchateľov priestupkov, ktoré spadajú do skupiny najprísnejšie postihovaných a svojimi účinkami môžu najviac ohroziť bezpečnosť a plynulosť cestnej premávky, a tým aj záujem spoločnosti.
+
+
+
+
+
+
+
+
+
