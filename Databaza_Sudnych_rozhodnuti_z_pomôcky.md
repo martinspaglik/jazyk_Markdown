@@ -33,6 +33,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R26** |10Asan/31/2019 | Vypoved policajtov v priestupku | Svedectvo policajtov a foto | #zamietnute |
 | **R27** |BA-4Sa/41/2019 | Jazda na cervenu a svedkovia policajti | Vypoved policajta a e-schranka | #zamietnute |
 | **R28** |1Tdo/27/2023 | Hodnovernost kajucnikov v dovolani | Benefit svedka| #odmietnute |
+| **R29** |0T/37/2018 | Zakaz cinnosti a kategoria V | Jednonapravovy traktor bez VO | #oslobodenie |
 
 ---
 
@@ -3560,6 +3561,108 @@ Proti tomuto rozhodnutiu opravný prostriedok nie je prípustný.
 
 <!-- DECISION:END -->
 
+
+<!-- DECISION:BEGIN spis=0T/37/2018 -->
+
+# Jednonápravový malotraktor kategórie V a zákaz činnosti viesť motorové vozidlá (Vedenie jednonápravového malotraktora počas zákazu činnosti viesť motorové vozidlá)
+
+# Rozhodnutie: R29 – Okresný súd Revúca – 0T/37/2018 – NEUVEDENÉ
+## Identifikácia
+- **ID:** R29
+- **Súd:** Okresný súd Revúca
+- **Spisová značka:** 0T/37/2018
+- **Dátum rozhodnutia:** NEUVEDENÉ
+- **Typ rozhodnutia:** rozsudok
+- **Stupeň:** prvostupňové
+- **Strany (anonymizované):**
+  - Obžalovaný: G. H.
+- **Zdroj / poznámka:** 0T/37/2018 – Rozsudok Okresného súdu Revúca
+- **Tagy:** #trestne #prvostupnove #zakaz_cinnosti #vodicske_opravnenie #kategoria_V #jednonapravovy_traktor #malotraktor #marenie_vykonu_uradneho_rozhodnutia #vyklad_zakona #§61TZ #§285TP #§14Priestupky #oslobodenie  
+
+## ⚖️ Právna veta (Kľúčový záver)
+> Právna veta: Zakázať možno (okrem zamestnania, povolania alebo funkcie) len takú činnosť, ktorej vykonávanie je podmienené získaním osobitného povolenia, resp. činnosť, ktorej podmienky výkonu upravuje osobitný predpis, resp. činnosť, ktorej vykonávanie podlieha povoleniu alebo súhlasu štátneho orgánu; z toho vyplýva, že porušiť uložený zákaz činnosti možno len vykonávaním tej istej činnosti a nie vykonávaním inej činnosti, ktorá takýmto povolením podmienená nie je. Ak na vedenie určitého druhu vozidla nie je predpísané žiadne vodičské (ani iné) oprávnenie, vedením takéhoto vozidla nemožno porušiť zákaz činnosti spočívajúci v zákaze viesť motorové vozidlá; skutok potom nie je trestným činom a obžalovaný musí byť spod obžaloby oslobodený.
+> Právna veta 2: Podstata trestu zákazu činnosti spočíva v zákaze výkonu takej činnosti, na ktorú treba osobitné povolenie alebo ktorej podmienky výkonu upravuje osobitný predpis. Porušiť uložený zákaz činnosti viesť motorové vozidlá možno len vykonávaním takej činnosti, ktorá je podmienená získaním vodičského oprávnenia. Keďže na vedenie ostatných cestných vozidiel kategórie „V“, medzi ktoré patrí aj jednonápravový traktor s prívesom spĺňajúci stanovené technické parametre (dĺžka do 4 m, šírka do 1,6 m, hmotnosť do 1,5 t a rýchlosť do 20 km/h), nie je predpísané žiadne vodičské oprávnenie, vedením takéhoto vozidla obvinený neporušuje uložený zákaz činnosti viesť motorové vozidlá, a to ani v prípade, ak je toto vozidlo vybavené motorom. 
+_____
+
+## Kontext prípadu (1–15 viet)
+Obžalovaný G. H. bol v priestupkovom konaní uznaný vinným za vedenie podomácky vyrobeného traktora a prípojného vozidla bez schválenia na cestnú premávku a zároveň bez vodičského oprávnenia, za čo mu bola uložená pokuta a zákaz činnosti viesť motorové vozidlá na 54 mesiacov (05.01.2016 – 05.07.2020). V čase trvania tohto zákazu mal dňa 27.09.2018 viesť v obci O. po ceste III. triedy č. 2835 jednonápravový traktor s prívesom zn. VARI XP-200 bez evidenčného čísla. Súd riešil, či takéto vedenie vozidla predstavuje porušenie uloženého zákazu činnosti, ak ide o „ostatné vozidlo“ kategórie V, na ktoré sa vodičské oprávnenie nevyžaduje. Po výklade účelu a rozsahu trestu zákazu činnosti a po posúdení kategorizácie vozidiel súd dospel k záveru, že vedením jednonápravového traktora s prívesom (spĺňajúceho parametre podľa vyhlášky) obžalovaný nevykonával činnosť podmienenú osobitným povolením. Skutok preto nie je trestným činom a súd obžalovaného oslobodil podľa § 285 písm. b) Trestného poriadku.
+
+Obžalovaný G. H. bol stíhaný za prečin marenia výkonu úradného rozhodnutia. Skutok mal spočívať v tom, že viedol podomácky vyrobený malotraktor s prívesom v čase, keď mal uložený zákaz činnosti viesť motorové vozidlá (uložený v predchádzajúcom priestupkovom konaní). Obžalovaný jazdil po miestnej komunikácii v obci O. Súd v rámci dokazovania skúmal technické parametre vozidla a legislatívnu úpravu kategórií vozidiel. Zistilo sa, že predmetný malotraktor spĺňa podmienky kategórie „V“ (ostatné vozidlá), na ktorých vedenie zákon nevyžaduje vodičské oprávnenie. Súd aplikoval logický výklad, podľa ktorého zákaz činnosti dopadá len na činnosti podmienené povolením. Keďže na malotraktor netreba vodičský preukaz, obžalovaný nemohol porušiť zákaz „viesť motorové vozidlá“ v zmysle trestného postihu. Výsledkom bolo oslobodenie obžalovaného spod obžaloby.
+_____
+
+## 🗣️ Argumentačná línia
+- **Obžaloba:** Obžaloba kládla obžalovanému za vinu, že počas trvania zákazu činnosti viesť motorové vozidlá viedol po pozemnej komunikácii jednonápravový motorový traktor s prívesom (jazdnú súpravu) a tým porušil uložený zákaz činnosti.
+- **Obhajoba:** NEUVEDENÉ
+- **Súd:** Súd vyložil, že zákaz činnosti možno uložiť a porušiť len vo vzťahu k činnosti, ktorá je podmienená osobitným povolením (napr. vodičským oprávnením), pričom pravidlá cestnej premávky nie sú „podmienkami výkonu činnosti“ v tomto zmysle. Keďže na vedenie ostatných vozidiel kategórie V nie je predpísané vodičské oprávnenie a jednonápravový traktor s prívesom pri splnení limitov podľa vyhlášky do tejto kategórie patrí, jeho vedením nemožno porušiť zákaz viesť motorové vozidlá. Skutok preto nie je trestným činom a obžalovaný bol oslobodený (§ 285 písm. b) TP).
+_____
+
+## 📝 Skutkový stav
+Dňa 09.12.2015 bolo v priestupkovom konaní rozhodnuté, že G. H. dňa 13.10.2015 v obci Kameňany viedol jazdnú súpravu z podomácky vyrobeného traktora a podomácky vyrobeného prípojného vozidla bez evidenčných čísel, ktorú nebolo možné prevádzkovať v cestnej premávke, a to bez vodičského oprávnenia. Rozhodnutie nadobudlo právoplatnosť 05.01.2016 a bol mu uložený zákaz činnosti viesť motorové vozidlá na 54 mesiacov (do 05.07.2020). Dňa 27.09.2018 o 15:45 hod. mal obžalovaný v obci O. po miestnej komunikácii (cesta III. triedy č. 2835) viesť jednonápravový motorový traktor s prívesom zn. VARI XP-200 bez evidenčného čísla. Z dokazovania vyplynulo, že súprava spĺňala limity pre prevádzku bez vodičského oprávnenia podľa § 34 vyhlášky č. 134/2018 Z. z. (dĺžka 3600 mm, šírka 1337 mm, hmotnosť 770 kg, rýchlosť 13 km/h). Súd uzavrel, že takéto vozidlo patrí medzi „ostatné vozidlá“ kategórie V, na ktorých vedenie sa vodičské oprávnenie nevyžaduje, a preto skutok nie je trestným činom.
+_____
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – zákaz činnosti – výklad rozsahu zákazu viesť motorové vozidlá
+- **Podtéma:** porušenie zákazu činnosti; vodičské oprávnenie ako podmienka činnosti; kategorizácia vozidiel (kategória V); jednonápravový traktor s prívesom; oslobodenie spod obžaloby
+- **Tagy:** #trestne #prvostupnove #zakaz_cinnosti #vodicske_opravnenie #kategoria_V #jednonapravovy_traktor #vyklad_zakona #§61TZ #§285TP #§14Priestupky #oslobodenie  (bez diakritiky)
+
+## Právna veta / právny záver (abstrakt)
+Zákaz činnosti možno uložiť a porušiť iba vo vzťahu k činnosti, ktorej výkon je viazaný na osobitné povolenie alebo na splnenie osobitných podmienok upravených predpisom; porušením zákazu nie je výkon inej činnosti, na ktorú sa takéto povolenie nevyžaduje. Ak právna úprava nepredpisuje vodičské oprávnenie pre vedenie „ostatných vozidiel“ kategórie V, vedením vozidla patriaceho do tejto kategórie nemožno porušiť zákaz činnosti spočívajúci v zákaze viesť motorové vozidlá; skutok potom nie je trestným činom a obžalovaný sa oslobodí podľa § 285 písm. b) TP.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Zákaz činnosti sa vzťahuje len na činnosť, na ktorú treba osobitné povolenie alebo ktorej podmienky výkonu upravuje osobitný predpis; porušenie je možné iba vykonávaním tej istej zakázanej činnosti.
+- (2) Vodičské oprávnenie je „podmienkou výkonu činnosti“ vedenia motorového vozidla; pravidlá cestnej premávky sú pravidlami realizácie účasti v premávke, nie podmienkami výkonu činnosti v zmysle zákazu činnosti.
+- (3) Pre „ostatné vozidlá“ kategórie V nie je predpísané vodičské oprávnenie; vozidlá zaradené do kategórie V sa posudzujú rovnako.
+- (4) Jednonápravový traktor s prívesom spĺňajúci limity podľa § 34 vyhlášky č. 134/2018 Z. z. patrí medzi ostatné vozidlá kategórie V a možno ho viesť bez vodičského oprávnenia.
+- (5) Vedením takéhoto vozidla obžalovaný nemohol porušiť zákaz činnosti viesť motorové vozidlá; skutok nie je trestným činom a obžalovaný bol oslobodený (§ 285 písm. b) TP).
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - Trestný zákon: § 61 ods. 1
+  - Zákon č. 372/1990 Zb. o priestupkoch: § 14 ods. 1; § 22 ods. 1 písm. c), písm. k)
+  - Zákon č. 725/2004 Z. z.: § 21 ods. 2 písm. a)
+  - Zákon č. 8/2009 Z. z. o cestnej premávke: § 4 ods. 2 písm. b); § 76
+  - Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke: § 3 ods. 4 písm. g); § 4 ods. 1; § 4 ods. 8 písm. f)
+  - Vyhláška č. 134/2018 Z. z.: § 34
+- **Proces:**
+  - Trestný poriadok: § 285 písm. b)
+- **Iné zdroje:**
+  - 
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obžalovanému bol uložený zákaz činnosti viesť motorové vozidlá (05.01.2016 – 05.07.2020) na podklade priestupkového rozhodnutia; dňa 27.09.2018 mal počas trvania zákazu viesť jednonápravový traktor s prívesom po pozemnej komunikácii.
+- Rozhodujúce skutkové zistenia súdu: Jednonápravový traktor s prívesom zn. VARI XP-200 spĺňal limity podľa § 34 vyhlášky č. 134/2018 Z. z. (dĺžka, šírka, hmotnosť, rýchlosť) a patrí medzi ostatné vozidlá kategórie V, na ktoré sa vodičské oprávnenie nevyžaduje.
+- Podstatné dôkazy (výber):
+  - Rozhodnutie o priestupku ORPZ-RA-OPDP62-308/2015-SK zo dňa 09.12.2015 (právoplatné 05.01.2016) a údaj o trvaní zákazu činnosti
+  - Zistené technické parametre jazdnej súpravy VARI XP-200 (dĺžka, šírka, hmotnosť, rýchlosť)
+  - Právna kvalifikácia kategórie vozidla podľa zákona č. 106/2018 Z. z. a § 34 vyhlášky č. 134/2018 Z. z.
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Či zákaz činnosti „viesť motorové vozidlá“ dopadá aj na vedenie „ostatných vozidiel“ kategórie V, na ktoré sa vodičské oprávnenie nevyžaduje.
+2. Či jednonápravový traktor s prívesom spĺňal parametre podľa § 34 vyhlášky č. 134/2018 Z. z. a patrí do kategórie V podľa zákona č. 106/2018 Z. z.
+3. Či vedením takéhoto vozidla počas zákazu činnosti možno naplniť porušenie zákazu činnosti a trestnoprávnu zodpovednosť, alebo ide o skutok, ktorý nie je trestným činom.
+
+### Argumentácia súdu (výber)
+- Zákaz činnosti sa môže týkať len činnosti, ktorej výkon je viazaný na osobitné povolenie alebo osobitné podmienky upravené predpisom; porušiť ho možno len vykonávaním tej istej zakázanej činnosti.
+- Podmienkou výkonu činnosti vedenia motorových vozidiel je vodičské oprávnenie; pravidlá cestnej premávky sú pravidlá realizácie účasti v premávke, nie „podmienky výkonu“ v zmysle zákazu činnosti.
+- Pre ostatné vozidlá kategórie V nie je predpísané vodičské oprávnenie (§ 76 zákona č. 8/2009 Z. z.), preto ide o činnosť vykonateľnú aj bez povolenia.
+- Jednonápravový traktor s prívesom pri splnení limitov podľa § 34 vyhlášky č. 134/2018 Z. z. patrí do kategórie V; jeho vedením nemožno porušiť zákaz viesť motorové vozidlá v zmysle uloženého zákazu činnosti.
+- Skutok kladený obžalobou za vinu nie je trestným činom; obžalovaný bol oslobodený podľa § 285 písm. b) TP.
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+
+Podomácky vyrobený malotraktor – dostal Zákaz činnosti (nešlo o vozidlo na ktoré treba VO)
+(0T/37/2018 – Rozsudok Okresného súdu Revúca) 
+
+Podstata pojmu trest zákazu činnosti spočíva v zákaze výkonu zamestnania, povolania alebo funkcie alebo takej činnosti, na ktorú treba osobitné povolenie alebo ktorej podmienky výkonu upravuje osobitný predpis (§ 61 ods. 1 Trestného zákona, pričom viac-menej rovnako obsah pojmu trest zákazu činnosti vymedzuje aj § 14 ods. 1 zákona č. 372/1990 Zb. ako zákaz činnosti, ktorú páchateľ vykonáva v pracovnom alebo v inom obdobnom pomere alebo na ktorú treba povolenie alebo súhlas štátneho orgánu). Zakázať teda možno (okrem zamestnania, povolania alebo funkcie) len takú činnosť, ktorej vykonávanie je podmienené získaním osobitného povolenia, resp. činnosť, ktorej podmienky výkonu upravuje osobitný predpis, resp. činnosť, ktorej vykonávanie podlieha povoleniu alebo súhlasu štátneho orgánu. Z toho potom na základe pravidiel formálnej logiky vyplýva, že porušiť uložený zákaz činnosti možno takisto len vykonávaním tej istej činnosti (ktorej vykonávanie je podmienené získaním osobitného povolenia, ktorej podmienky výkonu upravuje osobitný predpis, ktorej vykonávanie podlieha povoleniu alebo súhlasu štátneho orgánu) a nie aj vykonávaním inej činnosti, ktorá nie je podmienená získaním osobitného povolenia, ktorej podmienky výkonu neupravuje osobitný predpis, alebo ktorej vykonávanie nepodlieha povoleniu alebo súhlasu štátneho orgánu.
+
+Získanie osobitného povolenia (súhlasu), resp. naplnenie podmienok výkonu určitej činnosti, po splnení ktorých je možné určitú činnosť vykonávať, je potrebné odlišovať od pravidiel upravujúcich priamu realizáciu tejto činnosti. V podmienkach vedenia motorových vozidiel to znamená, že podmienkou výkonu činnosti je získanie príslušného vodičského oprávnenia. Pravidlá cestnej premávky nie sú podmienkami výkonu činnosti vodiča, ale pravidlami, ktoré musí dodržiavať každý účastník cestnej premávky (napr. povinnosť jazdiť vpravo, dať prednosť v jazde a pod. ale aj povinnosť podľa § 4 ods. 2 písm. b) zákona č. 8/2009 Z. z.) po splnení podmienok spočívajúcich v získaní vodičského oprávnenia pri prevádzke spôsobilého vozidla spĺňajúceho predpísané podmienky. Uvedené vyplýva napr. z toho, že pravidlá cestnej premávky ukladajú povinnosti aj chodcom alebo cyklistom, pričom cyklista idúci na bicykli sa tiež považuje za vodiča. Napriek tomu činnosť chodca alebo cyklistu nie je takou činnosťou, ktorú by bolo možné zakázať, pretože na výkon činnosti chodca ani cyklistu nie je potrebné vodičské, ani iné napr. „chodecké“ alebo „cyklistické“ oprávnenie a pre výkon tejto činnosti nie sú stanovené žiadne osobitné podmienky, pri splnení ktorých by chodec alebo cyklista mohli vstúpiť do premávky. Preto porušovanie povinností chodca alebo cyklistu v premávke na pozemných komunikáciách je možné sankcionovať iba peňažným trestom ale nie trestom zákazu činnosti (chodca alebo cyklistu).
+
+  
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
 
 
 
