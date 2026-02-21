@@ -3396,6 +3396,98 @@ V. Právne posúdenie
 <!-- DECISION:END -->
 
 
+<!-- DECISION:BEGIN spis=1Tdo/27/2023 -->
+
+# Dovolanie odmietnuté: limity preskúmania výpovedí kajúcnikov a práva na obhajobu
+
+# Rozhodnutie: R28 – Najvyšší súd SR – 1Tdo/27/2023 – 2023-10-11
+## Identifikácia
+- **ID:** R28
+- **Súd:** Najvyšší súd SR
+- **Spisová značka:** 1Tdo/27/2023
+- **Dátum rozhodnutia:** 2023-10-11
+- **Typ rozhodnutia:** uznesenie
+- **Stupeň:** dovolacie
+- **Strany (anonymizované):**
+  - Obvinený (dovolateľ): H. M.
+  - Poškodený: F.
+  - Poškodený: O.
+- **Zdroj / poznámka:** 
+- **Tagy:** #trestne #dovolanie #lupaz #kajucnik #pravo_na_obhajobu #odovodnenie #spravodlivy_proces #viazanost_dovolacieho_sudu #§188TZ #§371TP #§382TP #odmietnute :contentReference[oaicite:0]{index=0}
+
+## ⚖️ Právna veta (Kľúčový záver)
+> Právna veta: Povinnosť súdu odôvodniť svoje rozhodnutie nemožno interpretovať v tom zmysle, že by zahŕňalo podrobnú odpoveď na každý argument strany konania; podstatnou je povinnosť súdu vyhodnotiť a v odôvodení rozhodnutia zareagovať na hlavné námietky účastníka konania a riadne posúdiť tvrdenia, argumenty a dôkazy predložené stranou konania. Dovolací súd nemôže skúmať hodnotenie dôkazov ani meniť správnosť a úplnosť skutku zisteného súdmi nižších stupňov; nemožno sa preto účinne domáhať naplnenia dovolacieho dôvodu podľa § 371 ods. 1 písm. c) Trestného poriadku len preto, že dovolateľ nesúhlasí s rozsahom dokazovania a hodnotením dôkazov vykonaným podľa § 2 ods. 10 a § 2 ods. 12 Trestného poriadku. :contentReference[oaicite:1]{index=1}
+_____
+
+## Kontext prípadu (1–15 viet)
+Okresný súd Bratislava II uznal obvineného H. M. za vinného z obzvlášť závažného zločinu lúpeže (§ 188 Trestného zákona) a uložil mu trest odňatia slobody 5 rokov, ochranný dohľad a povinnosť nahradiť škodu poškodeným spoločnostiam. Krajský súd v Bratislave uznesením zamietol odvolanie obvineného ako nedôvodné (§ 319 Trestného poriadku). Obvinený podal dovolanie s odkazom na § 371 ods. 1 písm. c) Trestného poriadku, namietajúc najmä nedostatočné vysporiadanie sa súdov s výpoveďami spolupracujúcich svedkov („kajúcnikov“) a s ich „benefitmi“. Najvyšší súd SR po preskúmaní procesných podmienok a obsahu námietok dospel k záveru, že uplatnený dovolací dôvod naplnený nebol, keďže dovolanie smeruje primárne proti skutkovým záverom a hodnoteniu dôkazov. Dovolanie preto podľa § 382 písm. c) Trestného poriadku odmietol. :contentReference[oaicite:2]{index=2}
+
+_____
+
+## 🗣️ Argumentačná línia
+- **Obžaloba:** Prokurátor vo vyjadrení uviedol, že skutkový stav bol zistený spoľahlivo a námietky dovolateľa sú prevažne opakovaním výhrad proti dokazovaniu a jeho hodnoteniu. Zdôraznil, že odvolací súd sa s „benefitmi“ spolupracujúcich svedkov vysporiadal, a že skúmanie ďalších konaní vedených voči svedkom je nad rámec relevantného dokazovania; navrhol dovolanie odmietnuť podľa § 382 písm. c) Trestného poriadku. :contentReference[oaicite:3]{index=3}
+- **Obhajoba:** Dovolateľ namietal zásadné porušenie práva na obhajobu tým, že súdy sa podľa neho dostatočne nevysporiadali s otázkou vierohodnosti výpovedí spolupracujúcich svedkov („kajúcnikov“) a s výhodami, ktoré mali získať. Tvrdil, že súdy údajne nekriticky prevzali ich tvrdenia a neposkytli náležitú odpoveď na jeho námietky, čím malo dôjsť k nepreskúmateľnosti rozhodnutí. :contentReference[oaicite:4]{index=4}
+- **Súd:** Najvyšší súd SR zdôraznil mimoriadny charakter dovolania a viazanosť dovolacieho prieskumu dovolacími dôvodmi, pričom dovolací súd nie je oprávnený revídovať skutkové zistenia a hodnotenie dôkazov vykonané súdmi nižších stupňov. Konštatoval, že námietky dovolateľa sú skutkovej povahy a súdy nižších stupňov sa s nimi dostatočne, presvedčivo a nearbitrárne vysporiadali, vrátane osobitného posúdenia výpovedí spolupracujúcich svedkov. Dovolanie preto odmietol podľa § 382 písm. c) Trestného poriadku. :contentReference[oaicite:5]{index=5}
+
+_____
+
+## 📝 Skutkový stav
+Presne nezisteného dňa v roku 2008, pred 30. decembrom 2008, mal obvinený H. M. na základe informácií od doposiaľ neznámej osoby zamestnanej v spoločnosti F. informovať obvineného H. J. o spôsobe, čase a približnej výške hotovosti pravidelne odvážanej zo spoločnosti F., čím mal poskytnúť „tip“ na lúpež. Dňa 30. decembra 2008 okolo 17:15 hod. mala skupina osôb po predchádzajúcej dohode zablokovať motorové vozidlo prevážajúce finančnú hotovosť pri areáli spoločnosti F. v Bratislave, namieriť na posádku krátke strelné zbrane a odcudziť športovú tašku s hotovosťou. Po čine sa mali páchatelia presunúť na ďalšie miesta, manipulovať s evidenčnými číslami vozidiel a rozdeliť si získané peniaze. Časť odcudzenej hotovosti (cca 8.300 Eur) mala byť vyčlenená a odovzdaná aj obvinenému H. M. (a neustálenej osobe – zamestnancovi spoločnosti F.) ako odmena za poskytnutie tipu. :contentReference[oaicite:6]{index=6}
+
+_____
+
+## Téma a kategorizácia
+- **Téma:** trestné právo – mimoriadny opravný prostriedok (dovolanie) – právo na obhajobu
+- **Podtéma:** obzvlášť závažný zločin lúpeže; výpovede spolupracujúcich svedkov (kajúcnikov); štandard odôvodnenia rozhodnutia; limity dovolacieho prieskumu
+- **Tagy:** #trestne #dovolanie #lupaz #kajucnik #pravo_na_obhajobu #odovodnenie #spravodlivy_proces #viazanost_dovolacieho_sudu #§188TZ #§371TP #§382TP #odmietnute  (bez diakritiky)
+
+## Právna veta / právny záver (abstrakt)
+V dovolacom konaní nemožno pod dovolací dôvod „zásadného porušenia práva na obhajobu“ subsumovať nesúhlas dovolateľa so skutkovými zisteniami a hodnotením dôkazov súdmi nižších stupňov; dovolací súd je viazaný limitmi dovolania a nepreskúmava „kvalitatívnu správnosť“ hodnotenia dôkazov. Povinnosť súdu odôvodniť rozhodnutie sa napĺňa odpoveďou na hlavné námietky strany, nie povinnosťou reagovať na každý jednotlivý argument.
+
+## Právne vety / kľúčové závery (max 3–6 bodov)
+- (1) Dovolanie je mimoriadny opravný prostriedok určený len na nápravu taxatívne vymedzených závažných chýb, nie na opätovnú revíziu skutkových zistení. :contentReference[oaicite:7]{index=7}
+- (2) Právo na obhajobu podľa § 371 ods. 1 písm. c) Trestného poriadku je naplnené len pri zásadnom porušení, nie pri samotnej nespokojnosti s hodnotením dôkazov. :contentReference[oaicite:8]{index=8}
+- (3) Povinnosť odôvodnenia rozhodnutia vyžaduje reakciu na hlavné námietky strany; nevyžaduje odpoveď na každý argument. :contentReference[oaicite:9]{index=9}
+- (4) Dovolací súd nemôže v konaní o dovolaní obvineného preskúmavať hodnotenie dôkazov a meniť skutkové zistenia súdov nižších stupňov. :contentReference[oaicite:10]{index=10}
+- (5) V posudzovanej veci súdy nižších stupňov dostatočne a presvedčivo odôvodnili, prečo uverili výpovediam spolupracujúcich svedkov; dovolanie bolo preto odmietnuté podľa § 382 písm. c) Trestného poriadku. :contentReference[oaicite:11]{index=11}
+
+## Použité ustanovenia
+- **Hmotné právo:**
+  - Trestný zákon: § 188; § 138; § 38; § 39; § 48; § 76; § 78 (ďalšie: NEUVEDENÉ)
+- **Proces:**
+  - Trestný poriadok: § 382; § 371; § 377; § 368; § 369; § 372; § 373; § 374; § 385; § 319; § 287; § 2 ods. 9; § 2 ods. 10; § 2 ods. 12 (ďalšie: NEUVEDENÉ)
+- **Iné zdroje:**
+  - Judikatúra a rozhodnutia citované v odôvodnení: R 120/2012; R 68/2008; nálezy ÚS SR (sp. zn. III. ÚS 339/08, II. ÚS 197/07, II. ÚS 78/05, IV. ÚS 252/04; IV. ÚS 546/2020); ESĽP (Van Hurk v Holandsko; Ruiz Torija v Španielsko; Donadze v Gruzínsko) :contentReference[oaicite:12]{index=12}
+
+## Skutkový stav (stručne, vecne)
+- Kľúčové skutkové tvrdenia: Obvinený H. M. mal poskytnúť „tip“ na lúpež prevážanej hotovosti zo spoločnosti F.; následne mala skupina osôb dňa 30.12.2008 hotovosť násilím odcudziť a časť výťažku mala byť odovzdaná aj H. M. ako odmena. :contentReference[oaicite:13]{index=13}
+- Rozhodujúce skutkové zistenia súdu: Súd prvej inštancie uznal H. M. vinným a odvolací súd jeho odvolanie zamietol; dovolací súd skutkové závery nerevidoval a posudzoval len uplatnený dovolací dôvod. :contentReference[oaicite:14]{index=14}
+- Podstatné dôkazy (výber):
+  - výpovede spolupracujúcich svedkov („kajúcnikov“) (H. J., J. S., J. P., C. C.) :contentReference[oaicite:15]{index=15}
+  - výpovede poškodených K. P. a A. S. (posádka vozidla prevážajúceho hotovosť) :contentReference[oaicite:16]{index=16}
+  - list/výpoveď svedka V. a námietky k jeho významu :contentReference[oaicite:17]{index=17}
+
+## Právne posúdenie (jadro)
+### Kľúčové otázky
+1. Predstavuje namietané „nedostatočné vysporiadanie sa“ s výpoveďami spolupracujúcich svedkov zásadné porušenie práva na obhajobu podľa § 371 ods. 1 písm. c) Trestného poriadku?
+2. Je dovolací súd oprávnený v dovolaní obvineného preskúmavať skutkové zistenia a hodnotenie dôkazov súdmi nižších stupňov?
+3. Aký je štandard odôvodnenia rozhodnutia z pohľadu odpovede na námietky strany konania v kontexte spravodlivého procesu?
+
+### Argumentácia súdu (výber)
+- Dovolanie je mimoriadny opravný prostriedok; dovolacie dôvody sú užšie než dôvody odvolania a dovolací súd je viazaný dôvodmi dovolania. :contentReference[oaicite:18]{index=18}
+- Právo na obhajobu je naplnené len pri zásadnom porušení; samotná nespokojnosť s hodnotením dôkazov dovolací dôvod nezakladá. :contentReference[oaicite:19]{index=19}
+- Povinnosť odôvodnenia rozhodnutia neznamená povinnosť odpovedať na každý argument, ale vysporiadať hlavné námietky; na podklade takého postupu sa posudzuje spravodlivosť konania ako celku. :contentReference[oaicite:20]{index=20}
+- Dovolací súd nemôže skúmať hodnotenie dôkazov ani meniť skutkové zistenia; skutkové námietky nemožno „obchádzať“ cez § 371 ods. 1 písm. c) Trestného poriadku. :contentReference[oaicite:21]{index=21}
+- V posudzovanej veci súdy nižších stupňov dostatočne a presvedčivo vysvetlili, prečo uverili výpovediam svedkov a prečo nešlo o arbitrárnosť; dovolanie preto bolo odmietnuté. :contentReference[oaicite:22]{index=22}
+
+## Odôvodnenie (vložiť celý text)
+---ODOVODNENIE:ZACIATOK---
+Najvyšší súd SR najprv preskúmal procesné podmienky dovolania a konštatoval jeho formálnu prípustnosť a splnenie zákonných náležitostí. Zdôraznil, že dovolanie je mimoriadny opravný prostriedok určený len na nápravu najzávažnejších procesných a hmotnoprávnych chýb, pričom dovolacie dôvody sú taxatívne vymedzené a užšie než v odvolacom konaní. Vysvetlil viazanosť dovolacieho súdu dôvodmi dovolania a to, že podstatné sú vecné argumenty dovolateľa, nie ich formálne označenie. K dôvodu podľa § 371 ods. 1 písm. c) Trestného poriadku uviedol, že právo na obhajobu je základným atribútom spravodlivého procesu, avšak dovolací dôvod naplní len zásadné porušenie tohto práva. Rozviedol štandard práva na riadne odôvodnenie rozhodnutia: súd musí reagovať na hlavné námietky, nie na každý argument, a tak sa posudzuje spravodlivosť konania ako celku. Súčasne uviedol, že dovolací súd nemôže skúmať hodnotenie dôkazov ani meniť skutkové zistenia súdov nižších stupňov, okrem zákonom výnimočne stanovenej situácie. Najvyšší súd konštatoval, že dovolacie námietky obvineného sú v jadre skutkové, smerujú proti skutkovým záverom a hodnoteniu výpovedí spolupracujúcich svedkov („kajúcnikov“) a ich motivácii. Zdôraznil, že skutkové preskúmanie nie je v dovolaní obvineného prípustné a nemožno ho dosiahnuť ani „obchádzaním“ cez dovolací dôvod porušenia práva na obhajobu. Po oboznámení sa s rozhodnutiami okresného a krajského súdu uzavrel, že súdy nižších stupňov dostatočne a presvedčivo odôvodnili skutkové závery, vrátane dôvodov, prečo uverili výpovediam svedkov, a že nejde o nekritické prevzatie tvrdení spolupracujúcich osôb. Konštatoval, že odvolací súd reagoval na námietky obvineného a že rozhodnutia nie sú arbitrárne ani nepreskúmateľné. Záverom najvyšší súd uviedol, že dovolací dôvod podľa § 371 ods. 1 písm. c) Trestného poriadku naplnený nebol, a preto dovolanie odmietol podľa § 382 písm. c) Trestného poriadku; proti rozhodnutiu nie je prípustný opravný prostriedok. :contentReference[oaicite:23]{index=23}
+---ODOVODNENIE:KONIEC---
+
+<!-- DECISION:END -->
+
+
 
 
 
