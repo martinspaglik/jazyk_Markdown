@@ -35,7 +35,7 @@ _Verzia: 1.0 | Aktualizované: [2026-01-31]_
 | **R28** |1Tdo/27/2023 | Hodnovernost kajucnikov v dovolani | Benefit svedka| #odmietnute |
 | **R29** |0T/37/2018 | Zakaz cinnosti a kategoria V | Jednonapravovy traktor bez VO | #oslobodenie |
 | **R30** |6Asan/10/2019 | Riadne predvolanie v priestupku | Predvolanie dva dni vopred | #zrusene #vratene |
-| **R31** |3S/31/2023 | Nepriame dokazy pri dopravnej nehode a expertíza | Neuzavrety retazec dokazov | utek z miesta dopravnej nehody | #zrusene #vratene |
+| **R31** |3S/31/2023 | Nepriame dokazy pri dopravnej nehode a expertíza | Neuzavrety retazec dokazov utek z miesta dopravnej nehody | #zrusene #vratene |
 
 ---
 
