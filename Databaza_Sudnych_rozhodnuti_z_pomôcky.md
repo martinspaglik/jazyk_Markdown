@@ -1,5 +1,5 @@
 # Databáza súdnych rozhodnutí z pomôcky
-_Verzia: 1.0 | Aktualizované: [2026-01-31]_
+_Verzia: 1.0 | Aktualizované: [2026-03-19]_
 
 ---
 
