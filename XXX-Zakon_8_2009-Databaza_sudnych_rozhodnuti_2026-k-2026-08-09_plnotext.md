@@ -214,632 +214,134 @@ Rešeršná anotácia. Pred doslovnou citáciou, použitím právnej vety alebo 
 
 **Zdroj plného textu:** používateľom sprístupnený súbor `Telefonovanie_Najvyssi_Spravny_sud_Bratislava-4Stk-15-2025.docx`.
 
-NAJVYŠŠÍ
+| | | 
+| --- | --- |
+| Súd:| Najvyšší správny súd SR |
+| Spisová značka: | 4Stk/15/2025 |
+| Identifikačné číslo súdneho spisu:|	1016201984 |
+| Dátum vydania rozhodnutia: |	22. 01. 2026 |
+| Meno a priezvisko sudcu, VSÚ: |	JUDr. Monika Valašiková |
+| ECLI: | ECLI:SK:NSSSR:2026:1016201984.1 |
 
-SPRÁVNY SÚD
+** ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY** 
 
-SLOVENSKEJ REPUBLIKY
-
-ECLI:SK.:NSSSR:2026:1016201984.1
-
-4Stk/15/2025
-
-IČS:1016201984
-
-ROZSUDOK
-
-V MENE SLOVENSKEJ REPUBLIKY
-
-Najvyšší správny súd Slovenskej republiky v senáte zloženom z predsedníčky senátu JUDr. Moniky Valašikovej, PhD., LL.M. a členov senátu prof. JUDr. PhDr. Petra Potáscha, PhD. a JUDr. Vlastimila Pavlikovského; v právnej veci žalobcu (sťažovateľ): Ing. Daniel nar- MMHM’ trvalé bytom	HMBHHioiBliOVanému:
-
-Krajské riaditeľstvo policajného zboru v Bratislave, Krajský dopravný inšpektorát, so sídlom Spitálska 14, Bratislava, o preskúmanie zákonnosti rozhodnutia žalovaného č. KRPZ-BA-KDI21-94/2016-P zo dňa 23.08.2016, v konaní o kasačnej sťažnosti žalobcu proti právoplatnému rozsudku Správneho súdu v Bratislave č. k. 14Sa/l 1/2023 - 118 zo dňa
-
-mája 2025, takto
-
-rozhodol:
-
-Kasačná sťažnosť sa z a m i e t a.
+Najvyšší správny súd Slovenskej republiky v senáte zloženom z predsedníčky senátu JUDr. Moniky Valašikovej, PhD., LL.M. a členov senátu prof. JUDr. PhDr. Petra Potáscha, PhD. a JUDr. Vlastimila Pavlikovského, v právnej veci žalobcu (sťažovateľ): J.. F. H., nar. XX.XX.XXXX, trvale bytom K. XX, A., proti žalovanému: Krajské riaditeľstvo policajného zboru v Bratislave, Krajský dopravný inšpektorát, so sídlom Špitálska 14, Bratislava, o preskúmanie zákonnosti rozhodnutia žalovaného č. KRPZ-BAKDI21-94/2016-P zo dňa 23.08.2016, v konaní o kasačnej sťažnosti žalobcu proti právoplatnému rozsudku Správneho súdu v Bratislave č. k. 14Sa/11/2023 - 118 zo dňa 13. mája 2025, takto
+**r o z h o d o l :**
+Kasačná sťažnosť sa zamieta.
 
 Účastníkom konania sa nárok na náhradu trov kasačného konania nepriznáva.
+**o d ô v o d n e n i e :**
 
-Odôvodnenie
+**I. Konanie pred správnym súdom**
 
-Konanie pred správnym súdom
+1. Krajský súd v Bratislave rozsudkom č. k. 6Sa/63/2016-48 zo dňa 16.02.2022 zrušil rozhodnutie žalovaného č. KRPZ-BA-KDI21-94/2016-P zo dňa 23.08.2016 napadnuté správnou žalobou a vec vrátil žalovanému na ďalšie konanie. Dôvodom zrušenia žalobou napadnutého rozhodnutia podľa § 191 ods. 1 písm. d/ a e/ SSP bolo, že podľa správneho súdu zistenie skutkového stavu bolo nedostačené pre riadne posúdenie veci a tiež, že rozhodnutie žalovaného bolo nepreskúmateľné pre nedostatok dôvodov. 
 
-Krajský súd v Bratislave rozsudkom č. k. 6Sa/63/2016-48 zo dňa 16.02.2022 zrušil rozhodnutie žalovaného č. KRPZ-BA-KDI21-94/2016-P zo dňa 23.08.2016 napadnuté správnou žalobou a vec vrátil žalovanému na ďalšie konanie. Dôvodom zrušenia žalobou napadnutého rozhodnutia podľa § 191 ods. 1 písm. d/ a e/ SSP bolo, že podľa správneho súdu zistenie skutkového stavu bolo nedostačené pre riadne posúdenie veci a tiež, že rozhodnutie žalovaného bolo nepreskúmateľné pre nedostatok dôvodov.
+2. Proti rozsudku správneho súdu podal žalovaný kasačnú sťažnosť, o ktorej rozhodol Najvyšší správny súd Slovenskej republiky ako súd kasačný rozsudkom č. k. 4Stk/12/2022-87 zo dňa 02.08.2023, rozsudok krajského súdu zrušil a vec vrátil Správnemu súdu v Bratislave na ďalšie konanie. Kasačný súd zaviazal správny súd, aby jednoznačne vymedzil objektívnu stránku priestupku, z ktorého bol žalobca uznaný vinným, aby verifikoval, či skutkové okolnosti veci boli dostatočne preukázané/zistené, vyhodnotil dokazovanie vykonané v správnom konaní, zaoberal sa dostatočnosťou zistenia skutkových okolností veci, vysporiadal sa s tým, či výpovede príslušníkov Policajného zboru, z ktorých orgány verejnej správy vychádzali, sú pre vec právne relevantné a svoje právne závery riadne odôvodnil. 
 
-Proti rozsudku správneho súdu podal žalovaný kasačnú sťažnosť, o ktorej rozhodol Najvyšší správny súd Slovenskej republiky ako súd kasačný rozsudkom č. k. 4Stk/l 2/2022-87 zo dňa 02.08.2023, rozsudok krajského súdu zrušil a vec vrátil Správnemu súdu v Bratislave na ďalšie konanie. Kasačný súd zaviazal správny súd, aby jednoznačne vymedzil objektívnu
+3. Správny súd v Bratislave (ďalej aj „správny súd“) rozsudkom č. k. 14Sa/11/2023 - 118 zo dňa 13. mája 2025 podľa § 190 zákona č. 162/2015 Z. z. Správneho súdneho poriadku (ďalej aj „SSP“) zamietol žalobu, ktorou sa žalobca domáhal preskúmania a následne zrušenia rozhodnutia žalovaného. 
 
-Cislu spisu	Porč.záznamu	Cislo záznamu	Dátum prijatia	ľonna originálu
+4. Správny súd vymedzil objektívnu stránku posudzovaného priestupku, konkrétne sa venoval výkladu pojmu „použitie“ telefónneho prístroja na účely § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z.  o cestnej premávke (ďalej aj ako „zákon č. 8/2009 Z. z.“) v znení účinnom v rozhodnom čase. Podľa názoru správneho súdu pojem „používať telefónny prístroj“ v sebe zahŕňa nielen vykonávanie určitých aktívnych činností, ako je telefonovanie alebo používanie mobilných aplikácií, ale aj uchopenie a držanie telefónneho prístroja v ruke napríklad za účelom overenia, z akého dôvodu došlo k aktivácii podsvietenia obrazovky telefónneho prístroja (napr. pri doručení textovej správy alebo signalizácii prichádzajúcehotelefonického hovoru). V tom momente totiž dochádza jednak k rozptýleniu pozornosti vodiča a jednak k zníženiu až znemožneniu použitia ruky, ktorou vodič telefónny prístroj drží, na vedenie motorového vozidla, a tým k významnému obmedzeniu možnosti bezprostredného reagovania na prípadnú zmenu v dopravnej situácii. Tým dochádza k zníženiu bezpečnosti cestnej premávky a zvýšeniu rizika vzniku napríklad kolíznych situácii, na ktoré vodič, ktorý drží v ruke telefónny prístroj, nemusí byť schopný adekvátne reagovať. Inak povedané, pojem „používať telefónny prístroj“ v sebe zahŕňa tak samotné držanie telefónneho prístroja, ako aj aktívne využívanie funkcií telefónneho prístroja (s výnimkou činností zákonom povolených, ako je použitie systému „voľné ruky“). Správny súd vzhľadom na uvedené skutočnosti ustálil, že držanie telefónneho prístroja vodičom počas vedenia motorového vozidla je činnosťou, ktorá napĺňa znaky priestupku uvedeného v § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. v znení účinnom v čase spáchania priestupku. 
 
-006-1568 2026	8 5.2026	hodnoverná elektronická
+5. K námietke žalobcu, že správne orgány postavili svoje rozhodnutia len na výpovediach policajtov, pričom neexistuje žiaden obrazový ani zvukový záznam preukazujúci spáchanie priestupku, správy súd poukázal na to, že je predvídateľné, že pokiaľ nie je tento typ priestupku zdokumentovaný objektívnym spôsobom (videozáznam, fotografia), rozhodnutie správneho orgánu sa opiera najmä o výpoveď príslušníkov Policajného zboru SR. V bežných situáciách nie tento priestupok osobitne dokumentovaný (videozáznam, fotografia) a vierohodné svedectvo policajtov spravidla predstavuje dostatočný dôkaz o jeho spáchaní. Pokiaľ vodič rozporuje spáchanie priestupku, je potrebné policajtov vypočuť ako svedkov, k čomu v predmetnom správnom konaní došlo. 
 
+6. K otázke dôveryhodnosti výpovede policajtov ako svedkov správny súd poukázal na rozsudok Najvyššieho súdu SR sp. zn. 10 Sžd/5/2014 zo dňa 28.05.2014, v ktorom Najvyšší súd uvádza: „Výpoveď príslušníka polície je dôkaz ako ktorýkoľvek iný, nemá ani väčšiu ani menšiu procesnú váhu, než ktorýkoľvek iný dôkaz. Ak je vykonaný riadnym procesným spôsobom - v súlade so zákonom a jeho obsah nie je v rozpore s inými tvrdeniami preukazujúcimi ako ku skutku došlo, nie je možné ho spochybňovať iba preto, že príslušník polície voči podozrivému z priestupku zakročuje ako prvý a je v zásade v jeho záujme usvedčiť priestupcu zo spáchania priestupku. Až v prípade, ak je inými dôkazmi preukázané neobjektívne a prípadne zaujaté tvrdenie príslušníka polície o ním dokumentovanom skutku, je potrebné v súlade so zákonom o priestupkoch a Správnym poriadkom zadovažovať a vykonať ďalšie dôkazy.“ V rozsudku Najvyššieho súdu SR, sp. zn. 1 Sžd/39/2012 zo dňa 20.02.2014 Najvyšší súd konštatoval: „Najvyšší súd sa taktiež domnieva, že pre preukázanie spáchania priestupku nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme výpovede príslušníka polície alebo obvineného z priestupku, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu priestupcu. Za súčasnej konštrukcie objasňovania priestupkov nemožno očakávať objasnenie akéhokoľvek priestupku najmä v doprave, bez výpovede, či výpovedí zakročujúcich príslušníkov polície, ktorí sú zo zákona o policajnom zbore nielen zakročujúcimi orgánmi voči priestupcom, ale podľa § 35 ZoP i svedkami páchania priestupkov. Ich vylúčenie z konania, ako úradných osôb prítomných pri páchaní priestupku, pre neobjektívnosť však žiadny zákon neumožňuje automaticky len preto, že pri páchaní priestupku zakročovali, ale objektívnosť a obsah ich výpovede hodnotí správny orgán rozhodujúci o priestupku v prvom i druhom stupni, rovnako ako ostatné dôkazy, pokiaľ boli vo veci zabezpečené. Výpovede príslušníkov polície nemajú žiadne zvláštne postavenie medzi ostatnými dôkazmi v priestupkovom konaní. Vzhľadom na to, že sú však často jediné musia byť hodnotené veľmi dôsledne.“ 
 
+7. Pokiaľ žalobca spochybňoval výhľadové možnosti príslušníkov policajnej hliadky, správny súd na základe skutočností, ktoré vyplývajú z administratívneho spisu, nemal pochybnosti, že policajti mohli vidieť konanie, ktoré bolo následne vyhodnotené ako priestupok. Obaja príslušníci policajnej hliadky zhodne uviedli, že žalobca držal v pravej ruke mobilný telefón, ktorého obrazovka bola rozsvietená. Uvedené pozorovali cez pravé predné okno na strane spolujazdca za šera a resp. tmy (s ohľadom na ročné obdobie a čas, pričom je dôvodné predpokladať, že v tme bola svietiaca obrazovka telefónneho prístroja viditeľnejšia), dobrej viditeľnosti (bez obmedzenia zrážkami a/alebo hmlou) a zo vzdialenosti s dostatočným rozhľadom. Nezrovnalosť, na ktorú poukazoval žalobca, teda či dianie v motorovom vozidle žalobcu pozorovali počas manévru predchádzania (ktorý podľa uvedenia jedného z príslušníkov policajnej hliadky trval určitý čas) alebo boli určitý čas na jeho úrovni a potom ho predbehli (ako uviedol druhý z príslušníkov policajnej hliadky), nie je nevyhnutne protirečivá, keďže počas predchádzania sa motorové vozidlá v istom momente nachádzajú na rovnakej úrovni, pričom dĺžka tohto momentu závisí od rýchlosti, ktorú obe vozidla v tomto momente dosahujú. 
 
+8. Správny súd poukázal tiež na rozhodnutie Najvyššieho správneho súdu SR, sp. zn. 3 As 98/2020 zo dňa 27.07.2022, podľa ktorého „držanie telefónu za jazdy je na rozdiel od niektorých iných dopravných priestupkov (napríklad určenie konkrétneho prekročenia maximálnej rýchlosti) pozorovateľné voľným okom a nie sú k jeho odhaleniu potrebné odborné znalosti ani zvláštne vybavenie; svedecká výpoveďzasahujúcich policajtov tak môže byť sama o sebe vierohodným dôkazom bez predloženia ďalšieho dôkazu.“ Výpoveď príslušníkov policajnej hliadky v spojení s ďalšími skutočnosťami, ktoré vyplývajú z administratívneho spisu, je dostatočným podkladom pre záver, že žalobca sa dopustil skutku, ktorý mu bol kladený za vinu a správne orgány nepochybili, ak na základe týchto dôkazov rozhodli o vine žalobcu za spáchanie priestupku. 
 
+**II. Kasačná sťažnosť, vyjadrenie** 
 
-IZ'f'XWT A '	k
+9. Proti rozsudku správneho súdu podal žalobca v procesnom postavení sťažovateľa (ďalej len „sťažovateľ“) kasačnú sťažnosť, ktorú formálne odôvodnil z dôvodov podľa § 440 ods. 1 písm. f), g) a i) SSP a navrhoval, aby kasačný súd zrušil rozsudok správneho súdu a vec mu vrátil na ďalšie konanie a rozhodnutie. 
 
-X 4Stk/l 5/2025 " L
+10. Sťažovateľ tvrdil, že podľa jeho názoru správny súd rozhodoval spor žalobcu a žalovaného postupom podľa Civilného sporového poriadku a procesný postup správneho súdu v tejto veci akoby ani nebol výkonom správneho súdnictva s poukazom na § 2 ods. 1 a ods. 2 SSP. V napadnutom rozsudku sa to prejavuje najmä formuláciou vlastných skutkových záverov správneho súdu o konaní sťažovateľa, resp. o rozhodných skutkových okolnostiach, ktoré mali naplniť znaky skutkovej podstaty priestupku. Formulácia vlastných skutkových záverov správnym súdom je však následkom primárneho procesného pochybenia správneho súdu, pričom správny súd v rozsudku dokonca uvádza, že zisťoval skutkový stav. Správny súd však s poukazom na § 197 SSP skutkový stav nezisťuje, správny súd vychádza zo skutkového stavu zisteného správnym orgánom. 
 
-stránku priestupku, z ktorého bol žalobca uznaný vinným, aby verifikoval, či skutkové okolnosti veci boli dostatočne preukázané/zistené, vyhodnotil dokazovanie vykonané v správnom konaní, zaoberal sa dostatočnosťou zistenia skutkových okolností veci, vysporiadal sa s tým, či výpovede príslušníkov Policajného zboru, z ktorých orgány verejnej správy vychádzali, sú pre vec právne relevantné a svoje právne závery riadne odôvodnil.
+11. Za neštandardný považoval sťažovateľ myšlienkový postup správneho súdu, keď najprv určil objektívnu stránku priestupku, výklad pojmu „používať telefóny prístroj“, do ktorého všeobecne subsumoval právne nesprávne a v rozpore so základnými zásadami priestupkového zákona objektívne vnímateľné konanie osoby spočívajúce v „držaní telefónneho prístroja v ruke“ a až následne zisťoval, či skutkové okolnosti uvedené v administratívnom spise umožňujú správnemu súdu konanie sťažovateľa právne kvalifikovať ako tento priestupok.
 
-Správny súd v Bratislave (ďalej aj „správny súd“) rozsudkom č. k. 14Sa/l 1/2023 - 118 zo dňa 13. mája 2025 podľa § 190 zákona č. 162/2015 Z. z. Správneho súdneho poriadku (ďalej aj „SSP“) zamietol žalobu, ktorou sa žalobca domáhal preskúmania a následne zrušenia rozhodnutia žalovaného.
+12. Sťažovateľ poukázal na to, že nebol uznaný za vinného zo spáchania priestupku z dôvodu, že držal telefón v ruke, ale z dôvodu, že obsluhoval mobilný telefón. Podľa jeho názoru správny súd nahradzoval činnosť žalovaného a zo skutkových zistení sám ustálil skutkovú podstatu predmetného priestupku, že nebolo pochybností o tom, že sťažovateľ držal telefónny prístroj v ruke a že administratívny spis poskytuje dostatočné podklady pre záver, že žalobca sa dopustil skutku, ktorý mu bol kladený za vinu a správne orgány nepochybili, ak na základe týchto dôkazov rozhodli o vine žalobcu za spáchanie priestupku. V uvedenom postupe videl sťažovateľ porušenie zásady nullum crimen sine lege. Sťažovateľ zopakoval, že nebol zo spáchania priestupku správnym orgánom uznaný vinným na tom skutkovom základe, že držal telefónny prístroj v ruke, ale že ho aj obsluhoval. Správny súd však okolnosť obsluhovania telefónneho prístroja sám nezisťoval a ani neverifikoval, či správny orgán pri ustálení tejto skutkovej okolnosti ako skutkovej okolnosti, ktorá mala naplniť objektívnu stránku predmetného priestupku postupoval v súlade s právom. 
 
-Správny súd vymedzil objektívnu stránku posudzovaného priestupku, konkrétne sa venoval výkladu pojmu „použitie“ telefónneho prístroja na účely § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. o cestnej premávke (ďalej aj ako „zákon č. 8/2009 Z. z. “) v znení účinnom v rozhodnom čase. Podľa názoru správneho súdu pojem „používať telefónny prístroj“ v sebe zahŕňa nielen vykonávanie určitých aktívnych činností, ako je telefonovanie alebo používanie mobilných aplikácií, ale aj uchopenie a držanie telefónneho prístroja v ruke napríklad za účelom overenia, z akého dôvodu došlo k aktivácii podsvietenia obrazovky telefónneho prístroja (napr. pri doručení textovej správy alebo signalizácii prichádzajúceho telefonického hovoru). V tom momente totiž dochádza jednak k rozptýleniu pozornosti vodiča a jednak k zníženiu až znemožneniu použitia ruky, ktorou vodič telefónny prístroj drží, na vedenie motorového vozidla, a tým k významnému obmedzeniu možnosti bezprostredného reagovania na prípadnú zmenu v dopravnej situácii. Tým dochádza k zníženiu bezpečnosti cestnej premávky a zvýšeniu rizika vzniku napríklad kolíznych situácii, na ktoré vodič, ktorý drží v ruke telefónny prístroj, nemusí byť schopný adekvátne reagovať. Inak povedané, pojem „používať telefónny prístroj“ v sebe zahŕňa tak samotné držanie telefónneho prístroja, ako ai aktívne využívanie funkcií telefónneho prístroja (s výnimkou činností zákonom povolených, ako je použitie systému „voľné ruky“). Správny súd vzhľadom na uvedené skutočnosti ustálil, že držanie telefónneho prístroja vodičom počas vedenia motorového vozidla je činnosťou, ktorá napĺňa znaky priestupku uvedeného v § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. v znení účinnom v čase spáchania priestupku.
+13. Sťažovateľ namietal, že správny súd porušil zákaz retroaktivity. Pri určení objektívnej stránky priestupku prejedávaného správnym orgánom podľa zákona účinného v čase údajného spáchania priestupku (pojmu „používať“) použil resp. aplikoval neskorší zákon. Správny súd opomenul, že znenie skutkovej podstaty predmetného priestupku podľa zákona účinného v čase tvrdeného spáchania priestupku bolo súčasťou zákona 8/2009 Z. z. od jeho prijatia v r. 2009 a teda, že zákon musel byť pripravovaný najneskôr v roku 2008. V tom čase sa pod telefónnym prístrojom považovali iné zariadenia ako dnes a v zásade to boli „tehly“ určené na telefonovanie. Za skutočnosť, že technický pokrok predbehol legislatívu nemôže niesť zodpovednosť za omeškanie zákonodarcu a byť bratý za zodpovednosť za konanie, ktoré jednak podľa vlastnej výpovede v administratívnom konaní, nevykonal spôsobom aký mu bol dávaný za vinu a jednak, ktoré nemohlo byť priestupkovo postihnuteľné vzhľadom na znenie zákona v čase údajného spáchania priestupku. Nie je však úlohou sťažovateľa v tejto sťažnosti suplovať úvahy správneho súdu, avšak procesná skutočnosť, že správny súd v súlade s rozsudkom kasačného súdu č. k. 4Stk/12/2022-87 zo dňa 02.08.2023 pri výklade pojmu „použitie“ telefónneho prístroja na účely § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. v znení účinnom v rozhodnom čase aplikoval neskorší zákon, je jednoducho neudržateľná. Má za to, že aj v tomto spočíva nesprávnosť právnehoposúdenia veci správnym súdom, čo zakladá existenciu kasačného dôvodu podľa § 440 ods. 1 písm. g) SSP. 
 
-K námietke žalobcu, že správne orgány postavili svoje rozhodnutia len na výpovediach policajtov, pričom neexistuje žiaden obrazový ani zvukový záznam preukazujúci spáchanie priestupku, správy súd poukázal na to, že je predvídateľné, že pokiaľ nie je tento typ priestupku zdokumentovaný objektívnym spôsobom (videozáznam, fotografia), rozhodnutie správneho orgánu sa opiera najmä o výpoveď príslušníkov Policajného zboru SR. V bežných situáciách nie tento priestupok osobitne dokumentovaný (videozáznam, fotografia) a vierohodné svedectvo policajtov spravidla predstavuje dostatočný dôkaz o jeho spáchaní. Pokiaľ vodič rozporuje spáchanie priestupku, je potrebné policajtov vypočuť ako svedkov, k čomu v predmetnom správnom konaní došlo.
+14. Žalovaný vo vyjadrení ku kasačnej sťažnosti zo dňa 14. 08. 2025 uviedol, že zo záverov výpovedí príslušníkov zasahujúcej hliadky Policajného zboru bolo náležite zistené a objasnené, že žalobca pri vedení motorového vozidla držal v pravej ruke telefón. Správny súd nemohol verifikovať výpoveď žalobcu, ktorý popiera spáchanie skutku len tvrdeniami, že nepoužíval mobilný telefón, keďže správny orgán vykonal dokazovanie v súlade s ustanovením § 34 ods. 5 správneho poriadku. 
 
-K otázke dôveryhodnosti výpovede policajtov ako svedkov správny súd poukázal na rozsudok Najvyššieho súdu SR sp. zn. 10 Sžd/5/2014 zo dňa 28.05.2014, v ktorom Najvyšší súd uvádza: „Výpoveď príslušníka polície je dôkaz ako ktorýkoľvek iný, nemá ani väčšiu ani menšiu procesnú váhu, než ktorýkoľvek iný dôkaz. Ak je vykonaný riadnym procesným spôsobom - v súlade so zákonom a jeho obsah nie je v rozpore s inými tvrdeniami preukazujúcimi ako ku skutku došlo, nie je možné ho spochybňovať iba preto, že príslušník polície voči podozrivému z priestupku zakročuje ako prvý a je v zásade v jeho záujme usvedčiť prieš tupcu zo spáchania priestupku. Až v prípade, ak je inými dôkazmi preukázané
+15. Podľa názoru žalovaného správny orgán vo svojom rozhodnutí uviedol, o ktoré konkrétne dôkazy ide a v akom zmysle vzájomne sa podporujúc vytvárajú jeden celok. Pre preukázanie spáchania priestupku nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme listiny alebo výpovede príslušníka polície, iného svedka alebo obvineného z priestupku, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu priestupcu. Za súčasnej konštrukcie objasňovania priestupkov nemožno očakávať objasnenie akéhokoľvek priestupku najmä v doprave, bez výpovede, či výpovedí zakročujúcich príslušníkov polície. 
 
-Číslo spisu	Por.č.záznamu	Číslo záznamu	Dátum prijatia	Forma originálu
+16. Správny orgán nemal dôvod spochybňovať tvrdenia policajtov, ktorí dokumentovali priestupok a považoval ich výpovede za hodnoverné a postačujúce pre rozhodnutie vo veci. Výpoveď príslušníka polície je dôkaz ako ktorýkoľvek iný, nemá ani väčšiu ani menšiu procesnú váhu, než ktorýkoľvek iný dôkaz. Ak je vykonaný riadnym procesným spôsobom v súlade so zákonom a jeho obsah nie je v rozpore s inými tvrdeniami preukazujúcimi ako ku skutku došlo, nie je možné ho spochybňovať iba preto, že príslušník polície voči podozrivému z priestupku zakročuje ako prvý a je v zásade v jeho záujme usvedčiť priestupcu zo spáchania priestupku. Až v prípade, ak je inými dôkazmi preukázané neobjektívne a prípadne zaujaté tvrdenie príslušníka polície o ním dokumentovanom skutku, je potrebné v súlade so zákonom o priestupkoch a správnym poriadkom zadovažovať a vykonať ďalšie dôkazy. Pri porovnaní výpovedí dvoch členov policajnej hliadky je zrejmé, že tieto ich výpovede sú v rozhodujúcich bodoch zhodné. Správny orgán vychádzal z úplne a nepochybne zisteného skutkového stavu preukazovaného v podstatnej časti zhodnými výpoveďami dvoch príslušníkov polície. 
 
-006J568/2036	8.5.2026	hodnoverná elektronická
+III. Konanie na kasačnom súde 
 
+17. Najvyšší správny súd Slovenskej republiky ako súd kasačný (ďalej aj „kasačný súd“) preskúmal rozsudok správneho súdu v medziach sťažnostných bodov (§ 438 ods. 2, § 445 ods. 1 písm. c), ods. 2 SSP), pričom po zistení, že kasačná sťažnosť bola podaná oprávnenou osobou v zákonnej lehote (§ 442 ods.1, § 443 ods. 1 SSP) a že ide o rozhodnutie, proti ktorému je kasačná sťažnosť prípustná (§ 439 ods. 1 SSP) vo veci v zmysle § 445 SSP nenariadil pojednávanie a po neverejnej porade senátu dospel k záveru, že kasačná sťažnosť nie je dôvodná. 
 
+18. Z obsahu administratívneho spisu mal kasačný súd za preukázané, že rozhodnutím č. ORP-P-128/ BAIV-ODI1-2016 zo dňa 30.06.2016 správny orgán prvého stupňa Okresné riaditeľstvo policajného zboru v Bratislave IV, Okresný dopravný inšpektorát podľa ustanovenia § 52 ods. 2 písm. a) a § 55 ods. 3 zákona č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (ďalej len „zákon o priestupkoch“) rozhodol, že sťažovateľ je vinný zo spáchania priestupku podľa § 22 ods. 1 písm. l) zákona o priestupkoch. Priestupku sa mal dopustiť tým, že ako účastník cestnej premávky porušil § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z., keď dňa 16.02.2016 v čase o cca 20.59 hod. viedol motorové vozidlo zn. A. U.X, ev. č.: A.XXXL. v Bratislave po diaľnici D1 v smere na D2, kde v km 5,500 počas vedenia vozidla používal telefónny prístroj. Za tento priestupok mu správny orgán prvého stupňa uložil podľa § 22 ods. 2 písm. g) zákona o priestupkoch pokutu vo výške 30 eur a zaviazal ho uhradiť trovy konania vo výške 16 eur (ďalej len „prvostupňové rozhodnutie“). 
 
+19. Proti prvostupňovému rozhodnutiu podal sťažovateľ odvolanie, o ktorom rozhodol žalovaný rozhodnutím č. KRPZ-BA-KDI21-94/2016-P zo dňa 23.08.2016 odvolanie žalobcu zamietol a prvostupňové rozhodnutie potvrdil. V odôvodnení rozhodnutia uviedol, že význam slova „používať“ neznamená výlučne telefonovať, ale aj používať telefón aj na iné činnosti zahrnuté pod týmto slovom (napr. fotografovať, čítať text, hrať hry, nahrávať zvukový alebo zvukovo-obrazový záznam a pod.). Používanie mobilného telefónu bolo preukázané najmä výpoveďami svedkov (dvojčlennej policajnej hliadky Policajného zboru). Iné osoby prítomné neboli. V danom prípade bolo dokazovanie vykonané v dostatočnom rozsahu a nebolo potrebné vykonať ďalšie dôkazy napr. dôkazy pochádzajúce z technického prostriedku, keďže správny orgán nemal pochybnosti o zistenom skutkovom stave. Výpovede oboch policajtov boli hodnoverné a postačujúce pre rozhodnutie vo veci. Uloženú sankciu považoval žalovaný za primeranú.
 
+IV. Právne predpisy, právne názory kasačného súdu 
 
-i . ' i
+20. Podľa § 4 ods. 1 písm. c) zákona č. 8/2009 Z. z. vodič je povinný venovať sa plne vedeniu vozidla a sledovať situáciu v cestnej premávke. 
 
-‘ 4Stk/15/2025
+21. Podľa § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. vodič nesmie počas vedenia vozidla používať telefónny prístroj okrem telefonovania s použitím systému „voľné ruky“ alebo vykonávať inú obdobnú činnosť, ktorá nesúvisí s vedením vozidla; to neplatí pre vodiča vozidla ozbrojených síl Slovenskej republiky (ďalej len „ozbrojené sily“), ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, obecnej polície, Hasičského a záchranného zboru, ostatných hasičských jednotiek, Horskej záchrannej služby, záchrannej zdravotnej služby, banskej záchrannej služby, Vojenského spravodajstva a Slovenskej informačnej služby pri plnení svojich úloh. 
 
-neobjektívne a prípadne zaujaté tvrdenie príslušníka polície o ním dokumentovanom skutku, je potrebné v súlade so zákonom o priestupkoch a Správnym poriadkom zadovažovať a vykonať ďalšie dôkazy.“ V rozsudku Najvyššieho súdu SR, sp. zn. 1 Sžd/39/2012 zo dňa 20.02.2014 Najvyšší súd konštatoval: „Najvyšší súd sa taktiež domnieva, že pre preukázanie spáchania priestupku nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme výpovede príslušníka polície alebo obvineného z priestupku, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu priestupcu. Za súčasnej konštrukcie objasňovania priestupkov nemožno očakávať objasnenie akéhokoľvek priestupku najmä v doprave, bez výpovede, či výpovedí zakročujúcich príslušníkov polície, ktorí sú zo zákona o policajnom zbore nielen zakročujúcimi orgánmi voči priestupcom, ale podľa § 35 ZoP i svedkami páchania priestupkov. Ich vylúčenie z konania, ako úradných osôb prítomných pri páchaní priestupku, pre neobjektívnosť však žiadny zákon neumožňuje automaticky len preto, že pri páchaní priestupku zakročovali, ale objektívnosť a obsah ich výpovede hodnotí správny orgán rozhodujúci o priestupku v pivom i druhom stupni, rovnako ako ostatné dôkazy, pokiaľ boli vo veci zabezpečené. Výpovede príslušníkov polície nemajú žiadne zvláštne postavenie medzi ostatnými dôkazmi v priestupkovom konaní. Vzhľadom na to, že sú však často jediné musia byť hodnotené veľmi dôsledne. “
+22. Podľa § 137 ods. 1 zákona č. 8/2009 Z. z. porušenie povinností ustanovených týmto zákonom sa považuje za porušenie všeobecne záväzných právnych predpisov o bezpečnosti a plynulosti cestnej premávky. 
 
-1. Pokiaľ žalobca spochybňoval výhľadové možnosti príslušníkov policajnej hliadky, správny súd na základe skutočností, ktoré vyplývajú z administratívneho spisu, nemal pochybnosti, že policajti mohli vidieť konanie, ktoré bolo následne vyhodnotené ako priestupok. Obaja príslušníci policajnej hliadky zhodne uviedli, že žalobca držal v pravej ruke mobilný telefón, ktorého obrazovka bola rozsvietená. Uvedené pozorovali cez pravé predné okno na strane spolujazdca za šera a resp. tmy (s ohľadom na ročné obdobie a čas, pričom je dôvodné predpokladať, že v tme bola svietiaca obrazovka telefónneho prístroja viditeľnejšia), dobrej viditeľnosti (bez obmedzenia zrážkami a/alebo hmlou) a zo vzdialenosti s dostatočným rozhľadom. Nezrovnalosť, na ktorú poukazoval žalobca, teda či dianie v motorovom vozidle žalobcu pozorovali počas manévru predchádzania (ktorý podľa uvedenia jedného z príslušníkov policajnej hliadky trval určitý čas) alebo boli určitý čas na jeho úrovni a potom ho predbehli (ako uviedol druhý z príslušníkov policajnej hliadky), nie je nevyhnutne protirečivá, keďže počas predchádzania sa motorové vozidlá v istom momente nachádzajú na rovnakej úrovni, pričom dĺžka tohto momentu závisí od rýchlosti, ktorú obe vozidla v tomto momente dosahujú.
+23. Podľa 2 ods. 1 zákona o priestupkoch priestupkom je zavinené konanie, ktoré porušuje alebo ohrozuje záujem spoločnosti a je za priestupok výslovne označené v tomto alebo v inom zákone, ak nejde o iný správny delikt postihnuteľný podľa osobitných právnych predpisov, alebo o trestný čin. 
 
-Správny súd poukázal tiež na rozhodnutie Najvyššieho správneho súdu SR, sp. zn. 3 As 98/2020 zo dňa 27.07.2022, podľa ktorého „fažanie telefónu za jazdy je na rozdiel od niektorých iných dopravných priestupkov (napríklad určenie konkrétneho prekročenia maximálnej rýchlosti) pozorovateľné voľným okom a nie sú k jeho odhaleniu potrebné odborné znalosti ani zvláštne vybavenie; svedecká výpoveď zasahujúcich policajtov tak môže byť sama o sebe vierohodným dôkazom bez predloženia ďalšieho dôkazu. “ Výpoveď príslušníkov policajnej hliadky v spojení s ďalšími skutočnosťami, ktoré vyplývajú z administratívneho spisuje dostatočným podkladom pre záver, že žalobca sa dopustil skutku, ktorý mu bol kladený za vinu a správne orgány nepochybili, ak na základe týchto dôkazov rozhodli o vine žalobcu za spáchanie priestupku.
+24. Podľa § 22 ods. 2 písm. l) zákona o priestupkoch priestupku proti bezpečnosti a plynulosti cestnej premávky sa dopustí ten, kto iným konaním, ako sa uvádza v písmenách a) až k), poruší všeobecne záväzný právny predpis o bezpečnosti a plynulosti cestnej premávky. 
 
-Dátum prijatia
+25. Podľa § 22 ods. 2 písm. g) zákona o priestupkoch za priestupok podľa odseku 1 písm. l) možno uložiť pokutu do 100 eur. 
 
-8.5.2026
+26. Kasačný súd preskúmal rozsudok správneho súdu ako aj konanie, ktoré mu predchádzalo, a to najmä z toho pohľadu, či sa správny súd vysporiadal so všetkými zásadnými námietkami uvedenými v žalobe ako aj s námietkami uvedenými v zrušujúcom rozsudku kasačného súdu. Najvyšší správny súd SR po opakovanom preskúmaní, po oboznámení sa s rozsahom a dôvodmi kasačnej sťažnosti proti napadnutému rozsudku správneho súdu konštatoval, že nezistil žiaden dôvod na to, aby sa odchýlil od logických argumentov a relevantných právnych záverov obsiahnutých v odôvodnení napadnutého rozsudku. 
 
-Číslo záznamu
+27. Tieto závery spolu so správnou citáciou dotknutých právnych noriem vytvárajú dostatočné právne východiská pre vyslovenie výroku napadnutého rozsudku, preto sa s nimi senát Najvyššieho správneho súdu v celom rozsahu stotožnil považujúc právne posúdenie veci správnym súdom za vecne správne. 
 
-0061568'2026
+28. Podľa sťažovateľa postup správneho súdu nebol výkonom správneho súdnictva, ale postupom podľa Civilného sporového poriadku, pretože správny súd formuloval vlastné právne závery a zisťoval skutkový stav. Sťažovateľ poukázal na časť odôvodnenia napadnutého rozsudku, v ktorom správny súd uviedol: „Pri zisťovaní skutkového stavu správny súd vychádzal zo žalovaným predloženého administratívneho spisu.“ 
 
-Číslo spisu
+29. K tomuto sťažovateľovmu tvrdeniu je potrebné uviesť, že jednak nie je presné a ani nezodpovedá skutočnosti. Sťažovateľ postavil svoje tvrdenie o tom, že správny súd v rozpore so zákonom nahrádzal činnosť správneho orgánu, na z kontextu vytrhnutej vete. Celý odsek odôvodnenia napadnutého rozsudku znie: „Súd napadnuté rozhodnutie preskúmal v medziach žalobných bodov, prihliadajúc na ustanovenie § 195 SSP, vrátane konania, ktoré predchádzalo jeho vydaniu, pričom vychádzal zo skutkového a právneho stavu, ktorý tu bol v čase vydania napadnutého rozhodnutia (§ 119 a § 135 ods. 1 SSP). Pri zisťovaní skutkového stavu správny súd vychádzal zo žalovaným predloženého administratívneho spisu.“ 
 
-Por.č.záznamu
+30. Z odôvodnenia rozsudku a ani z listín v súdnom spise nevyplýva, že by správny súd zadovažoval pre zistenie skutkového stavu akýkoľvek nový podklad. Správny súd reálne nezisťoval skutkový stav, ale v skutočnosti sa oboznámil s podkladmi, ktoré slúžili správnym orgánom na rozhodnutie vo veci, pričom ho v intenciách žalobných námietok, medzi ktorými bola i výhrada k spoľahlivo zistenému skutkovému stavu, porovnal s opisom uvedeným v napadnutých rozhodnutiach. 
 
-Forma originálu
+31. Správny súd sťažovateľom tvrdeným spôsobom neporušil žiadnu zo svojich povinností a neprekročil rámec prieskumu zákonnosti rozhodnutia orgánu verejnej správy, o ktorom účastník administratívneho konania (sťažovateľ) tvrdil, že ním boli jeho pravá alebo pravom chránene´ záujmy porušené alebo priamo dotknuté a poskytol jeho právam alebo pravom chráneným záujmom v intenciách zákona (SSP) adekvátnu súdnu ochranu. 
 
-hodnoverná elektronická
+32. Kasačný súd dodáva, že v podmienkach konania o správnej žalobe vo veciach správneho trestania na rozdiel od konania o všeobecnej správnej žalobe má správny súd plnú jurisdikciu. To znamená nie len to, že s poukazom na § 195 a § 198 SSP nie je za podmienok ustanovených zákonom viazaný rozsahom a dôvodmi žaloby a že mu zákon umožňuje preskúmať skutkový stav a rozhodnúť ako by mohol podlá osobitného predpisu rozhodnúťˇ organ verejnej správy, ale s poukazom na § 197 SSP mu je tiež umožnené doplniťˇ dokazovanie vykonané orgánom verejnej správy. Môže tak urobiť z vlastného podnetu alebo na návrh účastníka konania, ktorým však nie je viazaný. 
 
+33. Sťažovateľ sa v ďalšej kasačnej námietke nestotožnil so správnym súdom v otázke výkladu ustanovenia § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. Nesúhlasil s tým, že správny súd pod zákonnú formuláciu „používať telefóny prístroj“ subsumoval konanie osoby spočívajúce v „držaní telefónneho prístroja v ruke“. Argumentoval, že správny súd pri určení objektívnej stránky priestupku prejedávaného správnym orgánom podľa zákona účinného v čase údajného spáchania priestupku (pojmu „používať“) aplikoval neskorší zákon. Znenie skutkovej podstaty predmetného priestupku podľa zákona účinného v čase tvrdeného spáchania priestupku bolo súčasťou zákona 8/2009 Z. z. od jeho prijatia v r. 2009, pričom v tom čase sa pod telefónnym prístrojom považovali iné zariadenia ako dnes a v zásade to boli „tehly“ určené na telefonovanie. 
 
+34. Sťažovateľ sa snažil spochybňovať závery o tom, že svojim konaním porušil ustanovenie § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. tvrdením, že úmysel zákonodarcu nebolo postihovať len držanie telefónu bez uskutočnenia telefónneho hovoru, ale že pod pojmom používať telefóny prístroj mohol mať zákonodarca na mysli len telefonovanie, keďže na iné činnosti (používanie) nebolo v čase prijatia zákona toto zariadenie využiteľné. 
 
+35. Sťažovateľ sa prvotne mýlil v tvrdení, že v období prijímania právnej úpravy účinnej aj v čase spáchania skutku mohol mať zákonodarca pri formulovaní ustanovenia § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. pod pojmom používať telefóny prístroj na mysli len telefonovanie, keďže v tomto období na iné účely nebol telefónny prístroj použiteľný. V čase prijímania zákona č. 8/2009 Z. z. boli bežnou súčasťou života smartfóny (napr. Iphone 3G, Sony Ericsson 800P, Nokia N70, HTC TyTN II). Prvý smartfón bol na trh uvedený už v roku 1994. V čase prijatia zákona č. 8/2009 Z. z. bol už známy operačný systém IOS a Windows. Okrem telefonovania sa telefónne zariadenia používali aj na mnohé iné aktivity rovnako ako dnes. Už v tom čase boli etablované mnohé z dnešných aplikácií (sms, internet, mail, AppStore, kalendár, fotoaparát, počasie, hodiny, poznámky, kalkulačka, GPS). Vyvracia sa tým sťažovateľom ponúkaný zužujúci výklad relevantnej právnej normy. 
 
+36. Kasačný súd dodáva, že ani samotný sťažovateľ neargumentoval v konaní tvrdením, že počas jazdy v pravej ruke držal (použijúc sťažovateľom uvedené označenie) „tehlu“ určenú jedine na telefonovanie. Zároveň sťažovateľ dôkazne nevyvrátil svedeckými výpoveďami podložený záver, že počas jazdy držal v pravej ruke mobilný telefón a že tento telefón bol s rozsvieteným displejom v prevádzke. 
 
-r
+37. V ďalšom sa kasačný súd nestotožnil ani s námietkou sťažovateľa, že správny súd pod zákonnú formuláciu „používať telefóny prístroj“ nesprávne subsumoval konanie osoby spočívajúce v „držaní telefónneho prístroja v ruke“. 
 
-4Stk/15/2025
+38. Ako vyplýva z dôkazov zabezpečených správnym orgánom, sťažovateľ nie len držal počas vedenia vozidla telefón, ale tomuto telefónu svietil displej, teda bol v prevádzke, čím vodiča rozptyľoval. 
 
-II. Kasačná sťažnosť, vyjadrenie
+39. Účastník cestnej premávky je povinný dodržiavať pravidlá cestnej premávky ustanovené v tomto zákone, je povinný správať sa disciplinovane a ohľaduplne tak, aby neohrozil bezpečnosť alebo plynulosť cestnej premávky. Vodič vozidla je predovšetkým povinný venovať sa plne vedeniu vozidla a sledovať situáciu v cestnej premávke. Nepochybným významom zákonného zákazu podľa § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. je zabrániť vodičovi vedúcemu motorové vozidlo vykonávať také činnosti, ktoré rozptyľujú jeho pozornosť a znižujú koncentráciu pri riadení vozidla. 
 
-Proti rozsudku správneho súdu podal žalobca v procesnom postavení sťažovateľa (ďalej len „sťažovateľ“) kasačnú sťažnosť, ktorú formálne odôvodnil z dôvodov podľa § 440 ods. 1 písm. f), g) a i) SSP a navrhoval, aby kasačný súd zrušil rozsudok správneho súdu a vec mu vrátil na ďalšie konanie a rozhodnutie.
+40. Zákonodarca striktne vymedzil, že vodič smie počas jazdy telefonovať len s použitím systému „voľné ruky“. Okrem tejto činnosti vodič telefónny prístroj nesmie používať žiadnym iným spôsobom, pokiaľ to nesúvisí s vedením vozidla. Pokiaľ zákonodarca v ustanovení § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. vodičovi počas vedenia vozidla zakazuje  „používať telefónny prístroj“, potom vychádzajúc z (vyššie vysvetleného) zmyslu a účelu právnej úpravy, táto formulácia v sebe normatívne zahŕňa aj uchopenie telefónneho prístroja a jeho držanie v ruke alebo manipuláciu s telefónnym prístrojom. 
 
-Sťažovateľ tvrdil, že podľa jeho názoru správny súd rozhodoval spor žalobcu a žalovaného postupom podľa Civilného sporového poriadku a procesný postup správneho súdu v tejto veci akoby ani nebol výkonom správneho súdnictva s poukazom na § 2 ods. 1 a ods. 2 SSP. V napadnutom rozsudku sa to prejavuje najmä formuláciou vlastných skutkových záverov správneho súdu o konaní sťažovateľa, resp. o rozhodných skutkových okolnostiach, ktoré mali naplniť znaky skutkovej podstaty priestupku. Formulácia vlastných skutkových záverov správnym súdom je však následkom primárneho procesného pochybenia správneho súdu, pričom správny súd v rozsudku dokonca uvádza, že zisťoval skutkový stav. Správny súd však s poukazom na § 197 SSP skutkový stav nezisťuje, správny súd vychádza zo skutkového stavu zisteného správnym orgánom.
+41. V podmienkach súdenej veci to znamená, že je zakázané vziať telefónny prístroj do ruky, držať ho a pri tom aktivovať jeho displej. Vodič používajúci telefón, hoci aj len z dôvodu overenia jeho funkčnosti alebo kvôli kontrole hlásení zobrazených na displeji, kedy drží telefónny prístroj v ruke, obmedzuje svoj reakčný čas a možnosť bezprostredne reagovať na prípadnú zmenu v dopravnej situácii. V dôsledku toho dochádza k zníženiu bezpečnosti cestnej premávky a k zvýšeniu rizika vzniku kolíznych situácii, na ktoré vodič, takto rozptyľujúci svoju pozornosť, nemusí byť schopný adekvátne reagovať. U sťažovateľa sa viditeľne znížená pozornosť pri riadení vozidla prejavila svedkami pozorovanou jazdou zo strany na stranu a prejazdom cez jazdné pruhy.
 
-Za neštandardný považoval sťažovateľ myšlienkový postup správneho súdu, keď najprv určil objektívnu stránku priestupku, výklad pojmu „používať telefóny prístroj“, do ktorého všeobecne subsumoval právne nesprávne a v rozpore so základnými zásadami priestupkového zákona objektívne vnímateľné konanie osoby spočívajúce v „držaní telefónneho prístroja v ruke“ a až následne zisťoval, či skutkové okolnosti uvedené v administratívnom spise umožňujú správnemu súdu konanie sťažovateľa právne kvalifikovať ako tento priestupok.
+42. S ohľadom na vyššie uvedené kasačný súd neprisvedčil ani tvrdeniam sťažovateľa, že správny súd porušil zákaz retroaktivity a zásadu nullum crimen sine lege opísaným v ods. 12 a 13 odôvodnenia tohto rozhodnutia. 
 
-Sťažovateľ poukázal na to, že nebol uznaný za vinného zo spáchania priestupku z dôvodu, že držal telefón v ruke, ale z dôvodu, že obsluhoval mobilný telefón. Podľa jeho názoru správny súd nahradzoval činnosť žalovaného a zo skutkových zistení sám ustálil skutkovú podstatu predmetného priestupku, že nebolo pochybností o tom, že sťažovateľ držal telefónny prístroj v ruke a že administratívny spis poskytuje dostatočné podklady pre záver, že žalobca sa dopustil skutku, ktorý mu bol kladený za vinu a správne orgány nepochybili, ak na základe týchto dôkazov rozhodli o vine žalobcu za spáchanie priestupku. V uvedenom postupe videl sťažovateľ porušenie zásady nullum crimen sine lege. Sťažovateľ zopakoval, že nebol zo spáchania priestupku správnym orgánom uznaný vinným na tom skutkovom základe, že držal telefónny prístroj v ruke, ale že ho aj obsluhoval. Správny súd však okolnosť obsluhovania telefónneho prístroja sám nezisťoval a ani neverifikoval, či správny orgán pri ustálení tejto skutkovej okolnosti ako skutkovej okolnosti, ktorá mala naplniť objektívnu stránku predmetného priestupku postupoval v súlade s právom.
+43. Pokiaľ ide o namietané nedostatočné zistenie skutkového stavu, kasačný súd pripomína, že účelom deliktuálneho konania vo všeobecnosti je objektívne zistiť, či došlo k spáchaniu deliktu (v danom prípade priestupku), kto ho spáchal a akú sankciu je potrebné páchateľovi uložiť. Orgány prejednávajúce správne delikty sú povinné čo najúplnejšie zistiť podklady pre rozhodnutie tak, aby neboli žiadne dôvodné pochybnosti o prejednávanej veci, pričom pochybnosti o spáchanom skutku sa v deliktuálnom konaní vykladajú v prospech obvineného. Objasniť správny delikt znamená okrem iného spoľahlivo zistiť a ustáliť všetky jeho typové znaky, teda znaky skutkovej podstaty správneho deliktu. 
 
-Sťažovateľ namietal, že správny súd porušil zákaz retroaktivity. Pri určení objektívnej stránky priestupku prejedávaného správnym orgánom podľa zákona účinného v čase údajného spáchania priestupku (pojmu „používaťj použil resp. aplikoval neskorší zákon. Správny súd opomenul, že znenie skutkovej podstaty predmetného priestupku podľa zákona účinného v čase tvrdeného spáchania priestupku bolo súčasťou zákona 8/2009 Z. z. od jeho prijatia v r. 2009 a teda, že zákon musel byť pripravovaný najneskôr v roku 2008. V tom čase sa pod telefónnym prístrojom považovali iné zariadenia ako dnes a v zásade to boli „tehly“ určené na telefonovanie. Za skutočnosť, že technický pokrok predbehol legislatívu nemôže niesť zodpovednosť za omeškanie zákonodarcu a byť bratý za zodpovednosť za konanie, ktoré jednak podľa vlastnej výpovede v administratívnom konaní, nevykonal spôsobom aký mu bol dávaný za vinu a jednak, ktoré nemohlo byť priestupkovo postihnuteľné vzhľadom na znenie zákona
+44. Ak bol zistený skutkový stav v priebehu objasňovania správneho deliktu a dokazovania vykonaného správnym orgánom, jeho úlohou je vyhodnotiť dôkazy v prospech i v neprospech obvineného a vyhodnotením vykonaných dôkazov na základe voľného hodnotenia dôkazov rozhodnúť, či vykonané dôkazy sú dostatočné pre preukázanie zodpovednosti za správny delikt. Pre preukázanie spáchania správneho deliktu nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme výpovede alebo listiny, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu. 
 
-Číslo spisu
+45. Za dôkaz môže slúžiť všetko, čo môže prispieť k náležitému objasneniu veci, ak to bolo získané zákonným spôsobom. Všetky v administratívnom konaní vykonané dôkazy sú v zásade rovnocenné a bez rozdielu slúžia ako podklad pre rozhodnutie vo veci. Sťažovateľom spochybňované výpovede príslušníkov polície sú riadnym dôkazom. Je bez právneho významu, že príslušník polície pôvodne zakročoval voči podozrivému z priestupku a dokumentoval prejednávaný skutok. Pokiaľ sa nepreukáže opak, policajt nemá mať prečo osobný záujem na výsledku deliktuálneho konania a ako svedok je o skutočnostiach, o ktorých sa v súvislosti s prejednávanou vecou dozvedel, viazaný povinnosťou vypovedať pravdu a nič nezamlčať. Je na správnom orgáne, aby výpovede policajtov porovnal s inými dôkazmi a zároveň všetky dôkazy posúdil podľa svojho subjektívneho presvedčenia hodnotil jednotlivo a v ich vzájomnej súvislosti, nie len v súlade so zákonom, ale i v súlade s pravidlami logiky. 
 
-Por.č.záznamu
+46. Svedok N.. V. B. v konaní pred správnym orgánom vypovedal, že dňa 16.02.2016 v čase približne o 20:59 hod. ako šofér idúc spolu s kolegom W.. C. E. v služobnom vozidle v ľavom pruhu po diaľnici D1 v smere na D2 v km 5,500. V pravom pruhu sa pohybovalo vozidlo A. ev. č. A.XXXL., ktoré jazdilo medzi čiarami. Nadobudli podozrenie, že vodič motorového vozidla je pod vplyvom alkoholu. Ďalej uviedol, že mal dobrý rozhľad a videl na vzdialenosť 3,2 metra, ako šofér (sťažovateľ) drží v pravej ruke telefón s rozsvieteným displejom. Svedok W.. C. E. v konaní pred správnym orgánom vypovedal, dňa 16.02.2016 v čase približne o 20:59 hod. ako spolujazdec idúc spolu s kolegom N.. V. B. v služobnom vozidle v ľavom pruhu po diaľnici D1 v smere na D2 v km 5,500. Pred výjazdom na Prístavný most si pri predbiehaní vozidla A. ev. č. A.XXXL. jazdiaceho v pravom jazdnom pruhu všimli, že vodič tohto vozidla (sťažovateľ) drží v ruke telefón, na ktorom svietil displej. 
 
-Číslo záznamu
+47. Výpovede oboch policajtov boli hodnoverné a v skutočnostiach rozhodných pre ustálenie skutku si neprotirečili a udalosti pozorované svedkami opisovali skutkovo zhodne. Líšili sa len v nepodstatných detailoch. Z výpovedí svedkov vyplynulo, že sťažovateľ spáchal skutok tak, ako je opísaný orgánmi verejnej moci v ich rozhodnutiach a neboli zistené žiadne okolnosti, ktoré by spochybňovali ich vierohodnosť. 
 
-0064->68,2026
+48. Na tomto mieste je vhodné uviesť, že dôkazné bremeno je povinná uniesť tá osoba, ktorá v administratívnom konaní prišla s určitým tvrdením. Ak nepreukáže svoje tvrdenia dôveryhodným spôsobom, správny orgán nie je povinný hľadať dôkazy, ktoré vyvracajú ním tvrdené a na základe dôkazov preukázané skutočnosti. Sťažovateľ nevyvrátil tvrdenie správnych orgánov, nepredložil dôkazy proti preukázaným zisteniam. Naopak podľa názoru kasačného súdu, žalovaný správny orgán dostatočne preukázal skutočnosť, že v posudzovanom prípade sťažovateľ dňa 16.02.2016 v čase o cca 20.59 hod. viedol motorové vozidlo zn. A. U.X ev. č.: A.XXXL. v Bratislave po diaľnici D1 v smere na D2, kde v km 5,500 počas vedenia vozidla používal telefónny prístroj, čím ako účastník cestnej premávky porušil § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. a dopustil sa priestupku podľa § 22 ods. 1 písm. l) zákona o priestupkoch. 
 
-Dátum prijatia
+49. Kasačný súd rovnako ako správny súd nemali žiaden relevantný dôvod spochybňovať skutkové či právne závery žalobou napadnutého rozhodnutia. Žalovaný a prvostupňový správny orgán vo svojich rozhodnutiach zhrnuli pochybenia žalobcu, vysvetlili, na základe akých skutočností k svojmu záveru dospeli a prezentovali aj svoje úvahy ohľadom výšky uloženej sankcie. K námietke sťažovateľa ohľadne porušenia jeho procesných práv, kasačný súd udáva, že z obsahu prvostupňového aj druhostupňového administratívneho rozhodnutia je zrejmé, že žalovaný správny orgán sa v dostatočnej miere vyrovnal s námietkami sťažovateľa, pričom ich aj primerane odôvodnil. U sťažovateľa neboli porušené jeho procesné práva, mal počas celého správneho konania možnosť predkladať argumentáciu a dôkazy na podporu svojich stanovísk, vznášať námietky a navrhovať dôkazy. Na základe vyššie uvedených skutočností možno konštatovať, že práva žalobcu v administratívnom konaní neboli akýmkoľvek spôsobom porušené a napadnuté rozhodnutia prvostupňového aj druhostupňového správneho orgánu boli vecne správne a zákonné. Rovnaký záver je možné konštatovať aj ohľadom rozsudku Správneho súdu v Bratislave. 
 
-8.5.2026
+50. Súd obranu sťažovateľa považoval za irelevantnú. Z vyššie citovaných ustanovení zákona o cestnej premávke vyplýva, že vodič je povinný počas vedenia vozidla zdržať sa akéhokoľvek konania, ktoré by znižovalo jeho schopnosť bezpečne viesť motorové vozidlo. Zákon zakazuje vodičovi akýmkoľvek spôsobom obsluhovať mobilný telefón. Podľa názoru kasačného súdu nie je rozhodujúce, či vodič telefonoval, písal správu alebo s ním vykonával inú činnosť, ale skutočnosť, že vodič mal v ruke mobilný telefón počas vedenia vozidla, čo ho obmedzuje vo vedení vozidla a znižuje jeho pozornosť. 
 
-Forma originálu
+51. Na základe vyššie uvedených skutočností Najvyšší správny súd SR podľa § 461 SSP kasačnú sťažnosť zamietol. 52. O trovách súdneho konania rozhodol Najvyšší správny súd SR podľa ust. § 467 ods. 1, § 167 ods.1 tak, že sťažovateľovi náhradu trov kasačného konania nepriznal a žalovanému ich náhrada je možná len za splnenia podmienok uvedených v ust. § 168 SSP, ktoré nenastali. 53. Toto rozhodnutie prijal senát Najvyššieho správneho súdu Slovenskej republiky pomerom hlasov 3 : 0 (§ 463 SSP v spojení s § 139 ods. 4 SSP). Poučenie: Proti tomuto rozsudku   n i e   j e   prípustný opravný prostriedok.
 
-hodnoverná elektronická
-
-
-
-
-
-5
-
-
-
-v čase údajného spáchania priestupku. Nie je však úlohou sťažovateľa v tejto sťažnosti suplovať úvahy správneho súdu, avšak procesná skutočnosť, že správny súd v súlade s rozsudkom kasačného súdu č. k. 4Stk/12/2022-87 zo dňa 02.08.2023 pri výklade pojmu „použitie“ telefónneho prístroja na účely § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. v znení účinnom v rozhodnom čase aplikoval neskorší zákon, je jednoducho neudržateľná. Má za to, že aj v tomto spočíva nesprávnosť právneho posúdenia veci správnym súdom, čo zakladá existenciu kasačného dôvodu podľa § 440 ods. 1 písm. g) SSP.
-
-Žalovaný vo vyjadrení ku kasačnej sťažnosti zo dňa 14. 08. 2025 uviedol, že zo záverov výpovedí príslušníkov zasahujúcej hliadky Policajného zboru bolo náležíte zistené a objasnené, že žalobca pri vedení motorového vozidla držal v pravej ruke telefón. Správny súd nemohol verifikovať výpoveď žalobcu, ktorý popiera spáchanie skutku len tvrdeniami, že nepoužíval mobilný telefón, keďže správny orgán vykonal dokazovanie v súlade s ustanovením § 34 ods. 5 správneho poriadku.
-
-Podľa názoru žalovaného správny orgán vo svojom rozhodnutí uviedol, o ktoré konkrétne dôkazy ide a v akom zmysle vzájomne sa podporujúc vytvárajú jeden celok. Pre preukázanie spáchania priestupku nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme listiny alebo výpovede príslušníka polície, iného svedka alebo obvineného z priestupku, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu priestupcu. Za súčasnej konštrukcie objasňovania priestupkov nemožno očakávať objasnenie akéhokoľvek priestupku najmä v doprave, bez výpovede, či výpovedí zakročujúcich príslušníkov polície.
-
-Správny orgán nemal dôvod spochybňovať tvrdenia policajtov, ktorí dokumentovali priestupok a považoval ich výpovede za hodnoverné a postačujúce pre rozhodnutie vo veci. Výpoveď príslušníka polície je dôkaz ako ktorýkoľvek iný, nemá ani väčšiu ani menšiu procesnú váhu, než ktorýkoľvek iný dôkaz. Ak je vykonaný riadnym procesným spôsobom v súlade so zákonom a jeho obsah nie je v rozpore s inými tvrdeniami preukazujúcimi ako ku skutku došlo, nie je možné ho spochybňovať iba preto, že príslušník polície voči podozrivému z priestupku zakročuje ako prvý a je v zásade v jeho záujme usvedčiť priestupcu zo spáchania priestupku. Až v prípade, ak je inými dôkazmi preukázané neobjektívne a prípadne zaujaté tvrdenie príslušníka polície o ním dokumentovanom skutku, je potrebné v súlade so zákonom o priestupkoch a správnym poriadkom zadovažovať a vykonať ďalšie dôkazy. Pri porovnaní výpovedí dvoch členov policajnej hliadky je zrejmé, že tieto ich výpovede sú v rozhodujúcich bodoch zhodné. Správny orgán vychádzal z úplne a nepochybne zisteného skutkového stavu preukazovaného v podstatnej časti zhodnými výpoveďami dvoch príslušníkov polície.
-
-Konanie na kasačnom súde
-
-Najvyšší správny súd Slovenskej republiky ako súd kasačný (ďalej aj „kasačný súd“) preskúmal rozsudok správneho súdu v medziach sťažnostných bodov (§ 438 ods. 2, § 445 ods. 1 písm. c), ods. 2 SSP), pričom po zistení, že kasačná sťažnosť bola podaná oprávnenou osobou v zákonnej lehote (§ 442 ods.l, § 443 ods. 1 SSP) a že ide o rozhodnutie, proti ktorému je kasačná sťažnosť prípustná (§ 439 ods. 1 SSP) vo veci v zmysle § 445 SSP nenariadil pojednávanie a po neverejnej porade senátu dospel k záveru, že kasačná sťažnosť nie je dôvodná.
-
-Z obsahu administratívneho spisu mal kasačný súd za preukázané, že rozhodnutím č. ORP-P-128/BAIV-ODI1-2016 zo dňa 30.06.2016 správny orgán prvého stupňa Okresné riaditeľstvo policajného zboru v Bratislave IV, Okresný dopravný inšpektorát podľa
-
-Číslo spisu
-
-Porč.záznamu
-
-Číslo záznamu
-
-0064568/2026
-
-Dátum prijatia
-
-8.5.2026
-
-Fonna originálu
-
-hodnoverná elektronická
-
-
-
-
-
-T
-
-6	4Stk/l 5/2025 " k
-
-ustanovenia § 52 ods. 2 písm. a) a § 55 ods. 3 zákona č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (ďalej len „zákon o priestupkoch“) rozhodol, že sťažovateľ je vinný zo spáchania priestupku podľa § 22 ods. 1 písm. 1) zákona o priestupkoch. Priestupku sa mal dopustiť tým, že ako účastník cestnej premávky porušil § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z., keď dňa 16.02.2016 v čase o cca 20.59 hod. viedol motorové vozidlo zn. BMW X6, ev. č.:	v Bratislave po diaľnici Dl v smere na D2, kde v km 5,500 počas vedenia
-
-vozidla používal telefónny prístroj. Za tento priestupok mu správny orgán prvého stupňa uložil podľa § 22 ods. 2 písm. g) zákona o priestupkoch pokutu vo výške 30 eur a zaviazal ho uhradiť trovy konania vo výške 16 eur (ďalej len „prvostupňové rozhodnutie “).
-
-Proti prvostupňovému rozhodnutiu podal sťažovateľ odvolanie, o ktorom rozhodol žalovaný rozhodnutím č. KRPZ-B A-KDI21 -94/2016-P zo dňa 23.08.2016 odvolanie žalobcu zamietol a prvostupňové rozhodnutie potvrdil. V odôvodnení rozhodnutia uviedol, že význam slova „používať“ neznamená výlučne telefonovať, ale aj používať telefón aj na iné činnosti zahrnuté pod týmto slovom (napr. fotografovať, čítať text, hrať hry, nahrávať zvukový alebo zvukovo-obrazový záznam a pod.). Používanie mobilného telefónu bolo preukázané najmä výpoveďami svedkov (dvojčlennej policajnej hliadky Policajného zboru). Iné osoby prítomné neboli. V danom prípade bolo dokazovanie vykonané v dostatočnom rozsahu a nebolo potrebné vykonať ďalšie dôkazy napr. dôkazy pochádzajúce z technického prostriedku, keďže správny orgán nemal pochybnosti o zistenom skutkovom stave. Výpovede oboch policajtov boli hodnoverné a postačujúce pre rozhodnutie vo veci. Uloženú sankciu považoval žalovaný za primeranú.
-
-Právne predpisy, právne názory kasačného súdu
-
-Podľa § 4 ods. 1 písm. c) zákona č. 8/2009 Z. z. vodič je povinný venovať sa plne vedeniu vozidla a sledovať situáciu v cestnej premávke.
-
-Podľa § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. vodič nesmie počas vedenia vozidla používať telefónny prístroj okrem telefonovania s použitím systému „voľné ruky“ alebo vykonávať inú obdobnú činnosť, ktorá nesúvisí s vedením vozidla; to neplatí pre vodiča vozidla ozbrojených síl Slovenskej republiky (ďalej len „ozbrojené sily“), ozbrojených bezpečnostných zborov, ozbrojených zborov, Vojenskej polície, obecnej polície, Hasičského a záchranného zboru, ostatných hasičských jednotiek, Horskej záchrannej služby, záchrannej zdravotnej služby, banskej záchrannej služby, Vojenského spravodajstva a Slovenskej informačnej služby pri plnení svojich úloh.
-
-Podľa § 137 ods. 1 zákona č. 8/2009 Z. z. porušenie povinností ustanovených týmto zákonom sa považuje za porušenie všeobecne záväzných právnych predpisov o bezpečnosti a plynulosti cestnej premávky.
-
-Podľa 2 ods. 1 zákona o priestupkoch priestupkom je zavinené konanie, ktoré porušuje alebo ohrozuje záujem spoločnosti a je za priestupok výslovne označené v tomto alebo v inom zákone, ak nejde o iný správny delikt postihnuteľný podľa osobitných právnych predpisov, alebo o trestný čin.
-
-Podľa § 22 ods. 2 písm. 1) zákona o priestupkoch priestupku proti bezpečnosti a plynulosti cestnej premávky sa dopustí ten, kto iným konaním, ako sa uvádza v písmenách a) až k), poruší všeobecne záväzný právny predpis o bezpečnosti a plynulosti cestnej premávky.
-
-Podľa § 22 ods. 2 písm. g) zákona o priestupkoch za priestupok podľa odseku 1 písm. 1) možno uložiť pokutu do 100 eur.
-
-Číslo spisu
-
-Por.č.záznamu
-
-Číslo záznamu
-
-0064568/2026
-
-Dátum prijatia
-
-8.5.2026
-
-Forma originálu
-
-hodnoverná elektronická
-
-
-
-
-
-Kasačný súd preskúmal rozsudok správneho súdu ako aj konanie, ktoré mu predchádzalo, a to najmä z toho pohľadu, či sa správny súd vysporiadal so všetkými zásadnými námietkami uvedenými v žalobe ako aj s námietkami uvedenými v zrušujúcom rozsudku kasačného súdu. Najvyšší správny súd SR po opakovanom preskúmaní, po oboznámení sa s rozsahom a dôvodmi kasačnej sťažnosti proti napadnutému rozsudku správneho súdu konštatoval, že nezistil žiaden dôvod na to, aby sa odchýlil od logických argumentov a relevantných právnych záverov obsiahnutých v odôvodnení napadnutého rozsudku.
-
-Tieto závery spolu so správnou citáciou dotknutých právnych noriem vytvárajú dostatočné právne východiská pre vyslovenie výroku napadnutého rozsudku, preto sa s nimi senát Najvyššieho správneho súdu v celom rozsahu stotožnil považujúc právne posúdenie veci správnym súdom za vecne správne.
-
-Podľa sťažovateľa postup správneho súdu nebol výkonom správneho súdnictva, ale postupom podľa Civilného sporového poriadku, pretože správny súd formuloval vlastné právne závery a zisťoval skutkový stav. Sťažovateľ poukázal na časť odôvodnenia napadnutého rozsudku, v ktorom správny súd uviedol: „Pri zisťovaní skutkového stavu správny súd vychádzal zo žalovaným predloženého administratívneho spisu. “
-
-K tomuto sťažovateľovmu tvrdeniu je potrebné uviesť, že jednak nie je presné a ani nezodpovedá skutočnosti. Sťažovateľ postavil svoje tvrdenie o tom, že správny súd v rozpore so zákonom nahrádzal činnosť správneho orgánu, na z kontextu vytrhnutej vete. Celý odsek odôvodnenia napadnutého rozsudku znie: „Súd napadnuté rozhodnutie preskúmal v medziach žalobných bodov, prihliadajúc na ustanovenie §195 SSP, vrátane konania, ktoré predchádzalo jeho vydaniu, pričom vychádzal zo skutkového a právneho stavu, ktorý tu bol v čase vydania
-
-napadnutého rozhodnutia (§ 119 a § 135 ods. 1 SSP). Pri zisťovaní skutkového stavu správny súd vychádzal zo žalovaným predloženého administratívneho spisu. “
-
-Z odôvodnenia rozsudku a ani z listín v súdnom spise nevyplýva, že by správny súd zadovažoval pre zistenie skutkového stavu akýkoľvek nový podklad. Správny súd reálne nezisťoval skutkový stav, ale v skutočnosti sa oboznámil s podkladmi, ktoré slúžili správnym orgánom na rozhodnutie vo veci, pričom ho v intenciách žalobných námietok, medzi ktorými bola i výhrada k spoľahlivo zistenému skutkovému stavu, porovnal s opisom uvedeným v napadnutých rozhodnutiach.
-
-Správny súd sťažovateľom tvrdeným spôsobom neporušil žiadnu zo svojich povinností a neprekročil rámec prieskumu zákonnosti rozhodnutia orgánu verejnej správy, o ktorom účastník administratívneho konania (sťažovateľ) tvrdil, že ním boli jeho práva alebo právom chránené záujmy porušené alebo priamo dotknuté a poskytol jeho právam alebo právom chráneným záujmom v intenciách zákona (SSP) adekvátnu súdnu ochranu.
-
-Kasačný súd dodáva, že v podmienkach konania o správnej žalobe vo veciach správneho trestania na rozdiel od konania o všeobecnej správnej žalobe má správny súd plnú jurisdikciu. To znamená nie len to, že s poukazom na § 195 a § 198 SSP nie je za podmienok ustanovených zákonom viazaný rozsahom a dôvodmi žaloby a že mu zákon umožňuje preskúmať skutkový stav a rozhodnúť ako by mohol podľa osobitného predpisu rozhodnúť orgán verejnej správy, ale s poukazom na § 197 SSP mu je tiež umožnené doplniť dokazovanie vykonané orgánom verejnej správy. Môže tak urobiť z vlastného podnetu alebo na návrh účastníka konania, ktorým však nie je viazaný.
-
-Sťažovateľ sa v ďalšej kasačnej námietke nestotožnil so správnym súdom v otázke výkladu ustanovenia § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. Nesúhlasil s tým, že správny súd pod zákonnú formuláciu „používať telefóny prístroj“ subsumoval konanie osoby
-
-Číslo spisu
-
-Por.č.záznamu
-
-Číslo záznamu
-
-006-/56&<?0.?6
-
-Dátum prijatia
-
-S.5.2026
-
-Forma originálu
-
-hodnoverná elektronická
-
-
-
-
-
-F
-
-'	'	i x
-
-8	4Stk/15/2025
-
-spočívajúce v „držaní telefónneho prístroja v ruke“. Argumentoval, že správny súd pri určení objektívnej stránky priestupku prejedávaného správnym orgánom podľa zákona účinného v čase údajného spáchania priestupku (pojmu „používať“) aplikoval neskorší zákon. Znenie skutkovej podstaty predmetného priestupku podľa zákona účinného v čase tvrdeného spáchania priestupku bolo súčasťou zákona 8/2009 Z. z. od jeho prijatia v r. 2009, pričom v tom čase sa pod telefónnym prístrojom považovali iné zariadenia ako dnes a v zásade to boli „tehly“ určené na telefonovanie.
-
-Sťažovateľ sa snažil spochybňovať závery o tom, že svojim konaním porušil ustanovenie § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. tvrdením, že úmysel zákonodarcu nebolo postihovať len držanie telefónu bez uskutočnenia telefónneho hovoru, ale že pod pojmom používať telefóny prístroj mohol mať zákonodarca na mysli len telefonovanie, keďže na iné činnosti (používanie) nebolo v čase prijatia zákona toto zariadenie využiteľné.
-
-Sťažovateľ sa prvotne mýlil v tvrdení, že v období prijímania právnej úpravy účinnej aj v čase spáchania skutku mohol mať zákonodarca pri formulovaní ustanovenia § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. pod pojmom používať telefóny prístroj na mysli len telefonovanie, keďže v tomto období na iné účely nebol telefónny prístroj použiteľný. V čase prijímania zákona č. 8/2009 Z. z. boli bežnou súčasťou života smartfóny (napr. Iphone 3G, Sony Ericsson 800P, Nokia N70, HTC TyTN II). Prvý smartfón bol na trh uvedený už v roku 1994. V čase prijatia zákona č. 8/2009 Z. z. bol už známy operačný systém IOS a Windows. Okrem telefonovania sa telefónne zariadenia používali aj na mnohé iné aktivity rovnako ako dnes. Už v tom čase boli etablované mnohé z dnešných aplikácií (sms, internet, mail, AppStore, kalendár, fotoaparát, počasie, hodiny, poznámky, kalkulačka, GPS). Vyvracia sa tým sťažovateľom ponúkaný zužujúci výklad relevantnej právnej normy.
-
-Kasačný súd dodáva, že ani samotný sťažovateľ neargumentoval v konaní tvrdením, že počas jazdy v pravej ruke držal (použijúc sťažovateľom uvedené označenie) „tehlu“ určenú jedine na telefonovanie. Zároveň sťažovateľ dôkazné nevyvrátil svedeckými výpoveďami podložený záver, že počas jazdy držal v pravej ruke mobilný telefón a že tento telefón bol s rozsvieteným displejom v prevádzke.
-
-V ďalšom sa kasačný súd nestotožnil ani s námietkou sťažovateľa, že správny súd pod zákonnú formuláciu „používať telefóny prístroj“ nesprávne subsumoval konanie osoby spočívajúce v „ držaní telefónneho prístroja v ruke “.
-
-Ako vyplýva z dôkazov zabezpečených správnym orgánom, sťažovateľ nie len držal počas vedenia vozidla telefón, ale tomuto telefónu svietil displej, teda bol v prevádzke, čím vodiča rozptyľoval.
-
-Účastník cestnej premávky je povinný dodržiavať pravidlá cestnej premávky ustanovené v tomto zákone, je povinný správať sa disciplinovane a ohľaduplne tak, aby neohrozil bezpečnosť alebo plynulosť cestnej premávky. Vodič vozidla je predovšetkým povinný venovať sa plne vedeniu vozidla a sledovať situáciu v cestnej premávke. Nepochybným významom zákonného zákazu podľa § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. je zabrániť vodičovi vedúcemu motorové vozidlo vykonávať také činnosti, ktoré rozptyľujú jeho pozornosť a znižujú koncentráciu pri riadení vozidla.
-
-Zákonodarca striktne vymedzil, že vodič smie počas jazdy telefonovať len s použitím systému „voľné ruky“. Okrem tejto činnosti vodič telefónny prístroj nesmie používať žiadnym iným spôsobom, pokiaľ to nesúvisí s vedením vozidla. Pokiaľ zákonodarca v ustanovení § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. vodičovi počas vedenia vozidla zakazuje „používať telefónny prístroj “, potom vychádzajúc z (vyššie vysvetleného) zmyslu a účelu právnej úpravy,
-
-Cislo spisu	Por. č.záznamu	Cislo záznamu	Dátum prijatia	Forma originálu
-
-0064568/2026	8.5.2026	hodnoverná elektronická
-
-
-
-
-
-~ f . .
-
-' i '
-
-9	4Stk/í 5/2025	'
-
-táto formulácia v sebe normatívne zahŕňa aj uchopenie telefónneho prístroja a jeho držanie v ruke alebo manipuláciu s telefónnym prístrojom.
-
-V podmienkach súdenej veci to znamená, že je zakázané vziať telefónny prístroj do ruky, držať ho a pri tom aktivovať jeho displej. Vodič používajúci telefón, hoci ai len z dôvodu overenia jeho funkčnosti alebo kvôli kontrole hlásení zobrazených na displeji, kedy drží telefónny prístroj v ruke, obmedzuje svoj reakčný čas a možnosť bezprostredne reagovať na prípadnú zmenu v dopravnej situácii. V dôsledku toho dochádza k zníženiu bezpečnosti cestnej premávky ak zvýšeniu rizika vzniku kolíznych situácii, na ktoré vodič, takto rozptyľujúci svoju pozornosť, nemusí byť schopný adekvátne reagovať. U sťažovateľa sa viditeľne znížená pozornosť pri riadení vozidla prejavila svedkami pozorovanou jazdou zo strany na stranu a prejazdom cez jazdné pruhy.
-
-S ohľadom na vyššie uvedené kasačný súd neprisvedčil ani tvrdeniam sťažovateľa, že správny súd porušil zákaz retroaktivity a zásadu nullum crimen sine lege opísaným v ods. 12 a 13 odôvodnenia tohto rozhodnutia.
-
-Pokiaľ ide o namietané nedostatočné zistenie skutkového stavu, kasačný súd pripomína, že účelom deliktuálneho konania vo všeobecnosti je objektívne zistiť, či došlo k spáchaniu deliktu (v danom prípade priestupku), kto ho spáchal a akú sankciu je potrebné páchateľovi uložiť. Orgány prejednávajúce správne delikty sú povinné čo najúplnejšie zistiť podklady pre rozhodnutie tak, aby neboli žiadne dôvodné pochybnosti o prejednávanej veci, pričom pochybnosti o spáchanom skutku sa v deliktuálnom konaní vykladajú v prospech obvineného. Objasniť správny delikt znamená okrem iného spoľahlivo zistiť a ustáliť všetky jeho typové znaky, teda znaky skutkovej podstaty správneho deliktu.
-
-Ak bol zistený skutkový stav v priebehu objasňovania správneho deliktu a dokazovania vykonaného správnym orgánom, jeho úlohou je vyhodnotiť dôkazy v prospech i v neprospech obvineného a vyhodnotením vykonaných dôkazov na základe voľného hodnotenia dôkazov rozhodnúť, či vykonané dôkazy sú dostatočné pre preukázanie zodpovednosti za správny delikt. Pre preukázanie spáchania správneho deliktu nezáleží na tom, či je preukázaný jediným alebo skupinou dôkazov, či vo forme výpovede alebo listiny, ak taký dôkaz alebo dôkazy nepochybne preukazujú vinu.
-
-Za dôkaz môže slúžiť všetko, čo môže prispieť k náležitému objasneniu veci, ak to bolo získané zákonným spôsobom. Všetky v administratívnom konaní vykonané dôkazy sú v zásade rovnocenné a bez rozdielu slúžia ako podklad pre rozhodnutie vo veci. Sťažovateľom spochybňované výpovede príslušníkov polície sú riadnym dôkazom. Je bez právneho významu, že príslušník polície pôvodne zakročoval voči podozrivému z priestupku a dokumentoval prejednávaný skutok. Pokiaľ sa nepreukáže opak, policajt nemá mať prečo osobný záujem na výsledku deliktuálneho konania a ako svedok je o skutočnostiach, o ktorých sa v súvislosti s prejednávanou vecou dozvedel, viazaný povinnosťou vypovedať pravdu a nič nezamlčať. Je na správnom orgáne, aby výpovede policajtov porovnal s inými dôkazmi a zároveň všetky dôkazy posúdil podľa svojho subjektívneho presvedčenia hodnotil jednotlivo a v ich vzájomnej súvislosti, nie len v súlade so zákonom, ale i v súlade s pravidlami logiky.
-
-Svedok npor. Michal Sedláček v konaní pred správnym orgánom vypovedal, že dňa
-
-16.02.2016 v čase približne o 20:59 hod. ako šofér idúc spolu s kolegom ppráp. Tomášom Cifrom v služobnom vozidle v ľavom pruhu po diaľnici Dl v smere na D2 v km 5,500. V pravom pruhu sa pohybovalo vozidlo BMV ev. č.	ktoré jazdilo medzi čiarami.
-
-Nadobudli podozrenie, že vodič motorového vozidla je pod vplyvom alkoholu. Ďalej uviedol, že mal dobrý rozhľad a videl na vzdialenosť 3,2 metra, ako šofér (sťažovateľ) drží v pravej ruke
-
-Číslo záznamu
-
-006-1568/2026
-
-Číslo spisu
-
-Por.č.záznamu
-
-Forma originálu
-
-hodnoverná elektronická
-
-Dátum prijatia
-
-8.5.2026
-
-
-
-
-
-10
-
-
-
-telefón s rozsvieteným displejom. Svedok ppráp. Tomáš Cifra v konaní pred správnym orgánom vypovedal, dňa 16.02.2016 v čase približne o 20:59 hod. ako spolujazdec idúc spolu s kolegom npor. Michalom Sedláčekom v služobnom vozidle v ľavom pruhu po diaľnici Dl v smere na D2 v km 5,500. Pred výjazdom na Prístavný most si pri predbiehaní vozidla BMV ev. č.	jazdiaceho v pravom jazdnom pruhu všimli, že vodič tohto vozidla
-
-(sťažovateľ) drží v ruke telefón, na ktorom svietil displej.
-
-Výpovede oboch policajtov boli hodnoverné a v skutočnostiach rozhodných pre ustálenie skutku si neprotirečili a udalosti pozorované svedkami opisovali skutkovo zhodne. Líšili sa len v nepodstatných detailoch. Z výpovedí svedkov vyplynulo, že sťažovateľ spáchal skutok tak, ako je opísaný orgánmi verei’nei moci v ich rozhodnutiach a neboli zistené žiadne okolnosti, ktoré by spochybňovali ich vierohodnosť.
-
-Na tomto mieste je vhodné uviesť, že dôkazné bremeno je povinná uniesť tá osoba, ktorá v administratívnom konaní prišla s určitým tvrdením. Ak nepreukáže svoje tvrdenia dôveryhodným spôsobom, správny orgán nie je povinný hľadať dôkazy, ktoré vyvracajú ním tvrdené a na základe dôkazov preukázané skutočnosti. Sťažovateľ nevyvrátil tvrdenie správnych orgánov, nepredložil dôkazy proti preukázaným zisteniam. Naopak podľa názoru kasačného súdu, žalovaný správny orgán dostatočne preukázal skutočnosť, že v posudzovanom prípade sťažovateľ dňa 16.02.2016 v čase o cca 20.59 hod. viedol motorové vozidlo zn. BMW X6 ev. č.: HHMHH v Bratislave po diaľnici Dl v smere na D2, kde v km 5,500 počas vedenia vozidla používal telefónny prístroj, čím ako účastník cestnej premávky porušil § 4 ods. 2 písm. m) zákona č. 8/2009 Z. z. a dopustil sa priestupku podľa § 22 ods. 1 písm. 1) zákona o priestupkoch.
-
-Kasačný súd rovnako ako správny súd nemali žiaden relevantný dôvod spochybňovať skutkové či právne závery žalobou napadnutého rozhodnutia. Žalovaný a prvostupňový správny orgán vo svojich rozhodnutiach zhrnuli pochybenia žalobcu, vysvetlili, na základe akých skutočností k svojmu záveru dospeli a prezentovali aj svoje úvahy ohľadom výšky uloženej sankcie. K námietke sťažovateľa ohľadne porušenia jeho procesných práv, kasačný súd udáva, že z obsahu prvostupňového aj druhostupňového administratívneho rozhodnutia je zrejmé, že žalovaný správny orgán sa v dostatočnej miere vyrovnal s námietkami sťažovateľa, pričom ich aj primerane odôvodnil. U sťažovateľa neboli porušené jeho procesné práva, mal počas celého správneho konania možnosť predkladať argumentáciu a dôkazy na podporu svojich stanovísk, vznášať námietky a navrhovať dôkazy. Na základe vyššie uvedených skutočností možno konštatovať, že práva žalobcu v administratívnom konaní neboli akýmkoľvek spôsobom porušené a napadnuté rozhodnutia prvostupňového aj druhostupňového správneho orgánu boli vecne správne a zákonné. Rovnaký záver je možné konštatovať aj ohľadom rozsudku Správneho súdu v Bratislave.
-
-Súd obranu sťažovateľa považoval za irelevantnú. Z vyššie citovaných ustanovení zákona o cestnej premávke vyplýva, že vodič je povinný počas vedenia vozidla zdržať sa akéhokoľvek konania, ktoré by znižovalo jeho schopnosť bezpečne viesť motorové vozidlo. Zákon zakazuje vodičovi akýmkoľvek spôsobom obsluhovať mobilný telefón. Podľa názoru kasačného súdu nie je rozhodujúce, či vodič telefonoval, písal správu alebo s ním vykonával inú činnosť, ale skutočnosť, že vodič mal v ruke mobilný telefón počas vedenia vozidla, čo ho obmedzuje vo vedení vozidla a znižuje jeho pozornosť.
-
-Na základe vyššie uvedených skutočností Najvyšší správny súd SR podľa § 461 SSP kasačnú sťažnosť zamietol.
-
-Dátum prijatia
-
-8.5.2026
-
-Číslo spisu
-
-Por.č.záznamu
-
-Číslo záznamu
-
-00645Ó8/2026
-
-Forma originálu
-
-hodnoverná elektronická
-
-
-
-
-
-r
-
-K I J r*I ZA
-
-4Stk/15/2025
-
-O trovách súdneho konania rozhodol Najvyšší správny súd SR podľa ust. § 467 ods. 1, § 167 ods.l tak, že sťažovateľovi náhradu trov kasačného konania nepriznal a žalovanému ich náhrada je možná len za splnenia podmienok uvedených v ust. § 168 SSP, ktoré nenastali.
-
-Toto rozhodnutie prijal senát Najvyššieho správneho súdu Slovenskej republiky pomerom hlasov 3 : 0 (§ 463 SSP v spojení s § 139 ods. 4 SSP).
-
-Poučenie: Proti tomuto rozsudku nie je prípustný opravný prostriedok.
-
-V Bratislave 22. januára 2026
-
-JUDr. Monika Valašiková, PhD., LL.M.
-predsedníčka senátu
-podpísané elektronicky
-
-prof. JUDr. PhDr. Peter Potásch, PhD.
-
-člen senátu
-podpísané elektronicky
-
-JUDr. Vlastimil Pavlikovský
-člen senátu (sudca spravodajca)
-podpísané elektronicky
-
-Za správnosť vyhotovenia:
-
-Mgr. Jana Matúšová
-
-Číslo spisu
-
-Por.č.záznanw
-
-Číslo záznamu
-
-0064568/2026
-
-Dátum prijatia
-
-8.5.2026
-
-Forma originálu
-
-hodnoverná elektronická
-
-
-
-
-
-NAJVYŠŠÍ
-
-SPRÁVNY SÚD
-
-SLOVENSKEJ REPUBLIKY
-
-ECLI:SK:NSSSR:2026:1016201984.2
-
-4Stk/15/2025
-
-IČS: 1016201984
-
-OPRAVNÉ UZNESENIE
-
-Najvyšší správny súd Slovenskej republiky v senáte zloženom z predsedníčky senátu JUDr. Moniky Valašikovej, PhD., LL.M. a členov senátu prof. JUDr. PhDr. Petra Potáscha, PhD. a JUDr. Vlastimila Pavlikovského, v právnej veci žalobcu (sťažovateľ): Ing. Daniel 11:11 - HHHH' trvalé bytom	HHHHH^HHH^H^^úpený
-
-Advokátskou kanceláriou Chmelo, s.r.o., so sídlom Námestie 1. mája 1121/14, Piešťany, proti žalovanému: Krajské riaditeľstvo policajného zboru v Bratislave, Krajský dopravný inšpektorát, so sídlom Spitálska 14, Bratislava, o preskúmanie zákonnosti rozhodnutia žalovaného č. KRPZ-BA-KDI21 -94/2016-P zo dňa 23.08.2016, v konaní o kasačnej sťažnosti žalobcu proti právoplatnému rozsudku Správneho súdu v Bratislave č. k. 14Sa/l 1/2023 - 118 zo dňa 13. mája 2025, takto
-
-rozhodol:
-
-Najvyšší správny súd Slovenskej republiky opravuje záhlavie rozsudku sp. zn. 4Stk/l5/202 zo dňa 22. januára 2026 tak, že za označenie žalobcu (sťažovateľa) sa vkladá: „právne zastúpený Advokátskou kanceláriou Chmelo, s.r.o., so sídlom Námestie 1. mája 1121/14, Piešťany ".
-
-Odôvodnenie
-
-Najvyšší správny súd Slovenskej republiky (ďalej aj „Najvyšší správny súd“ alebo „kasačný súd“) v konaní o kasačnej sťažnosti žalobcu proti rozsudku Správneho súdu v Bratislave č. k. 14Sa/l 1/2023 - 118 zo dňa 13. mája 2025 rozhodol rozsudkom sp. zn. 4Stk/l 5/2025 zo dňa 22. januára 2026 tak, že kasačnú sťažnosť zamietol a účastníkom konania nárok na náhradu trov kasačného konania nepriznal.
-
-Podľa § 452 ods. 1 Správneho súdneho poriadku (ďalej aj „SSP“) na konanie na kasačnom súde sa primerane použijú ustanovenia druhej časti tohto zákona, ak tento zákon neustanovuje inak.
-
-Podľa § 143 SSP správny súd kedykoľvek aj bez návrhu opraví v rozsudku chyby v písaní a počítaní, ako aj iné zrejmé nesprávnosti. O oprave vydá opravné uznesenie, ktoré doručí osobám uvedeným v § 142 ods. 1.
-
-Podľa § 139 ods. 1 SSP v písomnom vyhotovení rozsudku sa po slovách „V mene Slovenskej republiky“ uvedie označenie správneho súdu, mená a priezviská sudcov rozhodujúcich vo veci, presné označenie účastníkov konania a ich zástupcov, účasť prokurátora, označenie prejednávanej veci, znenie výroku, odôvodnenie, poučenie
-
-Forma originálu
-
-hodnoverná elektronická
-
-Cislo spisu
-
-/'or č. záznamu
-
-('išlo záznamu
-
-0064568 2026
-
-Dátum prijatia
-
-8 52026
-
-
-
-
-
-2
-
-4Stk/15/2025'
-
-o prípustnosti kasačnej sťažnosti, o lehote na podanie kasačnej sťažnosti, o náležitostiach kasačnej sťažnosti, o povinnom zastúpení advokátom v kasačnom konaní alebo o neprípustnosti opravného prostriedku, deň a miesto vyhlásenia.
-
-Správny súd v Bratislave vrátil spis kasačnému súdu, nakoľko v záhlaví rozhodnutia kasačného súdu absentovalo označenie právneho zástupcu žalobcu (sťažovateľa).
-
-Vzhľadom na vyššie uvedené a s poukazom na citované zákonné ustanovenia kasačný súd vydal opravné uznesenie, ktorým opravil zrejmú nesprávnosť v záhlaví rozsudku sp. zn. 4Stk/l 5/2025 zo dňa 22. januára 2026 v časti označenia právneho zástupcu žalobcu, ktorá vznikla pri písomnom vyhotovovaní rozsudku a vykonal opravu tak, ako to vyplýva z enunciátu tohto uznesenia.
-
-Toto rozhodnutie prijal senát kasačného súdu pomerom hlasov 3 : 0 (§ 139 ods. 4 veta prvá SSP v spojení s § 147 ods. 2 SSP).
-
-Poučenie: Proti tomuto uzneseniu nie je prípustný opravný prostriedok.
-
-V Bratislave 19. marca 2026
-
-JUDr. Monika Valašiková, PhD., LL.M.
-
-predsedníčka senátu
-podpísané elektronicky
-
-prof. JUDr. PhDr. Peter Potásch, PhD.
-
-člen senátu
-podpísané elektronicky
-
-JUDr. Vlastimil Pavlikovský
-
-člen senátu
-
-podpísané elektronicky
-
-Za správnosť vyhotovenia:
-
-Mgr. Jana Matúšová
-
-
-
-Číslo záznamu
-
-006-1568'2026
-
-Fonna originálu
-
-hodnoverná elektronická
-
-Dátum prijatia
-
-8.5.2026
-
-Číslo spisu
-
-Por.č.záznamu
-
-
-
-
-
-9
-
- NAJVYŠŠÍ SPRÁVNY SÚD
-
-SLOVENSKEJ REPUBLIKY
-
-ECJ J:SK:NSSSR:2026:1016201984.3
-
-4Stk/15/2025
-
-IČS: 1016201984
-
-OPRAVNÉ UZNESENIE
-
-Najvyšší správny súd Slovenskej republiky v senáte zloženom z predsedníčky senátu JUDr. Moniky Valašikovej, PhD., LL.M. a členov senátu prof. JUDr. PhDr. Petra Potáscha, PhD. a JUDr. Vlastimila Pavlikovského, v právnej veci žalobcu (sťažovateľ): Ing. Daniel
-
-nar. trvuHBum	^^^^^^^^m/nf/stúpený
-
-Advokátskou kanceláriou Chmelo, s.r.o., so sídlom Námestie 1. mája 1121/14, Piešťany, proti žalovanému: Krajské riaditeľstvo policajného zboru v Bratislave, Krajský dopravný inšpektorát, so sídlom Špitálska 14, Bratislava, o preskúmanie zákonnosti rozhodnutia žalovaného č. KRPZ-BA-KDI21 -94/2016-P zo dňa 23.08.2016, v konaní o kasačnej sťažnosti žalobcu proti právoplatnému rozsudku Správneho súdu v Bratislave č. k. 14Sa/l 1/2023 - 118 zo dňa 13. mája 2025, takto
-
-rozhodol:
-
-Najvyšší správny súd Slovenskej republiky opravuje výrok opravného uznesenia sp. zn. 4Stk/l 5/2025 zo dňa 19. marca 2026 tak, že označenie rozsudku správne znie: „sp. zn. 4Stk/l5/2025 zo dňa 22. januára 2026“.
-
-Odôvodnenie
-
-Najvyšší správny súd Slovenskej republiky (ďalej aj „Najvyšší správny súd“ alebo „kasačný súd“) v konaní o kasačnej sťažnosti žalobcu proti rozsudku Správneho súdu v Bratislave č. k. 14Sa/l 1/2023 - 118 zo dňa 13. mája 2025 rozhodol rozsudkom sp. zn. 4Stk/l 5/2025 zo dňa 22. januára 2026 tak, že kasačnú sťažnosť zamietol a účastníkom konania nárok na náhradu trov kasačného konania nepriznal.
-
-Podľa § 452 ods. 1 Správneho súdneho poriadku (ďalej aj „SSPj na konanie na kasačnom súde sa primerane použijú ustanovenia druhej časti tohto zákona, ak tento zákon neustanovuje inak.
-
-Podľa § 143 SSP správny súd kedykoľvek aj bez návrhu opraví v rozsudku chyby v písaní a počítaní, ako aj iné zrejmé nesprávnosti. O oprave vydá opravné uznesenie, ktoré doručí osobám uvedeným v § 142 ods. 1.
-
-(’ísJo záznamu
-
-006J 56 k 2026
-
-Cisio spisu
-
-ľor č.záznamu
-
-Dátum prijatia
-
-U. 5 2026
-
-Fonna originálu
-
-hodno i crnii clck ironická
-
-
-
-
-
-2	4Stk/15/2025
-
-Podľa § 139 ods. 1 SSP v písomnom vyhotovení rozsudku sa po slovách „V mene Slovenskej republiky“ uvedie označenie správneho súdu, mená a priezviská sudcov rozhodujúcich vo veci, presné označenie účastníkov konania a ich zástupcov, účasť prokurátora, označenie prejednávanej veci, znenie výroku, odôvodnenie, poučenie o prípustnosti kasačnej sťažnosti, o lehote na podanie kasačnej sťažnosti, o náležitostiach kasačnej sťažnosti, o povinnom zastúpení advokátom v kasačnom konaní alebo o neprípustnosti opravného prostriedku, deň a miesto vyhlásenia.
-
-Správny súd v Bratislave vrátil spis kasačnému súdu, nakoľko výrok opravného uznesenia obsahoval neúplnú spisovú značku rozsudku kasačného súdu a dospel k záveru, že správny súd opravu tejto zrejmej nesprávnosti sám vykonať nemôže.
-
-Vzhľadom na vyššie uvedené a s poukazom na citované zákonné ustanovenia kasačný súd vydal opravné uznesenie, ktorým opravil zrejmú nesprávnosť vo výroku opravného uznesenia sp. zn. 4Stk/l 5/2025 zo dňa 19. marca 2026 v časti označenia rozsudku Najvyššieho správneho súdu, ktorá vznikla pri písomnom vyhotovovaní opravného uznesenia a vykonal opravu tak, ako to vyplýva z enunciátu tohto uznesenia.
-
-Toto rozhodnutie prijal senát kasačného súdu pomerom hlasov 3 : 0 (§ 139 ods. 4 veta prvá SSP v spojení s § 147 ods. 2 SSP).
-
-Poučenie: Proti tomuto uzneseniu nie je prípustný opravný prostriedok.
-
-V Bratislave 23. apríla 2026
-
-JUDr. Monika Valašiková, PhD., LL.M.
-
-predsedníčka senátu
-podpísané elektronicky
-
-prof. JUDr. PhDr. Peter Potásch, PhD.
-
-člen senátu
-
-podpísané elektronicky
-
-JUDr. Vlastimil Pavlikovský
-
-členka senátu
-podpísané elektronicky
-
-Za správnosť vyhotovenia:
-
-Mgr. Jana Matúšová
-
-Číslo záznamu
-
-006-1568/2026
-
-Forma originálu
-
-hodno t erná elektronická
-
-Dátum prijatia
-
-8.5.2026
-
-Číslo spisu
-
-Por.č.záznamu
 
 <!-- DECISION:END id=R2 -->
 
