@@ -102,7 +102,7 @@ Vhodné zaradiť medzi rozhodnutia k objektívnej zodpovednosti a procesným ná
 Úplný text bol doplnený zo zdrojového dokumentu uvedeného pri tomto zázname. Znenie bolo prevzaté z použiteľnej textovej vrstvy alebo zo spoľahlivo zobrazeného verejného textu; nebolo domýšľané ani dopĺňané neovereným OCR.
 
 ## Úplný súvislý prepis
-
+|---|---|
 | Súd: | Správny súd v Banskej Bystrici |
 | Spisová značka:| 3S/41/2024 |
 | Identifikačné číslo súdneho spisu:|   0824100631 |
