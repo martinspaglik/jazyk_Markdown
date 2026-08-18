@@ -102,22 +102,24 @@ Vhodné zaradiť medzi rozhodnutia k objektívnej zodpovednosti a procesným ná
 Úplný text bol doplnený zo zdrojového dokumentu uvedeného pri tomto zázname. Znenie bolo prevzaté z použiteľnej textovej vrstvy alebo zo spoľahlivo zobrazeného verejného textu; nebolo domýšľané ani dopĺňané neovereným OCR.
 
 ## Úplný súvislý prepis
+
 |---|---|
-| Súd: | Správny súd v Banskej Bystrici |
-| Spisová značka:| 3S/41/2024 |
-| Identifikačné číslo súdneho spisu:|   0824100631 |
-| Dátum vydania rozhodnutia:| 14. 01. 2026 |
-| Meno a priezvisko sudcu, VSÚ: | JUDr. Ing. Matúš Škarbala | 
+|Súd:|Správny súd v Banskej Bystrici|
+|Spisová značka:|3S/41/2024|
+|Identifikačné číslo súdneho spisu:|0824100631|
+|Dátum vydania rozhodnutia:|14. 01. 2026|
+|Meno a priezvisko sudcu, VSÚ:|JUDr. Ing. Matúš Škarbala| 
 | ECLI: | ECLI:SK:SpSBB:2026:0824100631.3 |
 
 
+**ROZSUDOK V MENE**
+**SLOVENSKEJ REPUBLIKY**
 
-                        ROZSUDOK V MENE
-SLOVENSKEJ REPUBLIKY
-Správny súd v Banskej Bystrici, v senáte zloženom z predsedu senátu JUDr. Ing. Matúša Škarbalu (sudca spravodajca) a členov senátu JUDr. Silvie Zdráhalovej Rúfusovej a JUDr. Andrey Soukupovej v právnej veci žalobcu: BalaKub s. r. o., so sídlom Haanova 2601/46, 851 04 Bratislava - mestská časť Petržalka, IČO: 51 726 807 (do 17.11.2025 Alpha Transport s.r.o., so sídlom Michalská 477/1, 059 18 Spišské Bystré), právne zastúpeného: JUDr. Ladislav Mikloš, advokát, so sídlom Tyršovo nábrežie 7, 040 01 Košice, IČO: 31 309 909, proti žalovanému: Okresné riaditeľstvo Policajného zboru v Liptovskom Mikuláši, Okresný dopravný inšpektorát, so sídlom Komenského 841, 031 01 Liptovský Mikuláš, IČO: 00 151 866, o preskúmanie zákonnosti opatrenia – upovedomenia žalovaného č. ORPZ-LM-ODI2SD-47/2024 zo dňa 24.06.2024, takto
-r o z h o d o l :
+Správny súd v Banskej Bystrici, v senáte zloženom z predsedu senátu JUDr. Ing. Matúša Škarbalu (sudca spravodajca) a členov senátu JUDr. Silvie Zdráhalovej Rúfusovej a JUDr. Andrey Soukupovej v právnej veci žalobcu: BalaKub s. r. o., so sídlom Haanova 2601/46, 851 04 Bratislava - mestská časť Petržalka, IČO: 51 726 807 (do 17.11.2025 Alpha Transport s.r.o., so sídlom Michalská 477/1, 059 18 Spišské Bystré), právne zastúpeného: JUDr. Ladislav Mikloš, advokát, so sídlom Tyršovo nábrežie 7, 040 01 Košice, IČO: 31 309 909, proti žalovanému: Okresné riaditeľstvo Policajného zboru v Liptovskom Mikuláši, Okresný dopravný inšpektorát, so sídlom Komenského 841, 031 01 Liptovský Mikuláš, IČO: 00 151 866, o preskúmanie zákonnosti opatrenia – upovedomenia žalovaného č. ORPZ-LM-ODI2SD-47/2024 zo dňa 24.06.2024, takto rozhodol:
+
 I. Správny súd z r u š u j e opatrenie – upovedomenie žalovaného Okresného riaditeľstva Policajného zboru v Liptovskom Mikuláši, Okresný dopravný inšpektorát č. ORPZ-LM-ODI2-SD-47/2024 zo dňa 24.06.2024 a vec v r a c i a žalovanému na ďalšie konanie. II. Žalobcovi p r i z n á v a voči žalovanému právo na úplnú náhradu dôvodne vynaložených trov konania
 o d ô v o d n e n i e :
+
 1. Okresné riaditeľstvo Policajného zboru v Liptovskom Mikuláši, Okresný dopravný inšpektorát (ďalej aj ako „žalovaný“) dňa 10.06.2024, ako správny orgán podľa § 139d ods. 1 zákona č. 8/2009 Z.z. o cestnej premávke a o zmene a doplnení niektorých prepisov v znení neskorších predpisov (ďalej aj ako „zákon o cestnej premávke“) vydal Rozkaz o uložení pokuty za správny delikt č. ORPZ-LMODI2-SD-47/2024 (ďalej aj ako „rozkaz“), v ktorom uložil podľa § 46 a § 47 zákona č. 71/1967 Zb. o správnom konaní v znení neskorších predpisov (ďalej aj ako „Správny poriadok“) a podľa § 139a ods. 4 písm. l) zákona o cestnej 2 3S/41/2024 premávke žalobcovi ako držiteľovi motorového vozidla evidenčného čísla: A., značky: B. C. D., pokutu vo výške 600 Eur za porušenie ustanovenia § 6a písm. b) zákona o cestnej premávke, ktorého sa dopustil žalobca tým, že ako držiteľ motorového vozidla evidenčného čísla: A., dňa 30.05.2024 v čase o 6:50 hod., diaľnica D1, km 304, v smere jazdy Poprad – Liptovský Mikuláš, porušil povinnosť zabezpečiť, aby pri prevádzkovaní motorového vozidla boli dodržiavané pravidlá cestnej premávky podľa § 16 zákona o cestnej premávke. Porušením tejto povinnosti bola ohrozená bezpečnosť cestnej premávky. V rozkaze bol žalobca riadne poučený o práve podať odpor proti rozkazu podľa § 139d ods. 2 zákona o cestnej premávke v lehote 15 dní odo dňa jeho doručenia správnemu orgánu, ktorý tento rozkaz vydal. 
 
 2. Proti rozkazu podal žalobca odpor zo dňa 14.06.2024, v ktorom uviedol, že navrhuje rozkaz zrušiť a konanie zastaviť, čo odôvodnil tým, že rozkaz trpí viacerými hmotnoprávnymi a procesnoprávnymi vadami: 1. Z rozkazu nie je zrejmé, že by správny orgán vypočítal hodnotu prekročenia rýchlosti, po zohľadnení prípustnej zákonnej tolerancie podľa bodu 4.2 Prílohy č. 34 k Vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 161/2019 Z.z. o meradlách a metrologickej kontrole v znení neskorších predpisov (ďalej aj ako „Vyhláška č. 161/2019 Z.z.“), teda výrok rozkazu je nezrozumiteľný a nepreskúmateľný; 2. správny orgán nepostupoval pri výpočte množstva prekročených kilometrov za hodinu správne a teda aj nesprávne použil príslušný právny predpis na uloženie výšky pokuty, čo spôsobuje nezrozumiteľnosť a nepreskúmateľnosť rozkazu; 3. Záznam o spáchaní správneho deliktu neobsahuje zákonné náležitosti v zmysle bodu 3.1.6 Prílohy č. 34 k Vyhláške č. 161/2019 Z.z., preto nemôže byť zákonným dôkazom, a ani vo výroku rozkazu nie je uvedené presné miesto spáchania správneho deliktu a údaj v ňom uvedený nie je presným a jednoznačným dôkazom, na ktorom presnom mieste v čase o 6:50:16 hod. vozidlo práve malo ísť rýchlosťou 196 km/hod.; 4. Fotodokumentácia vyhotovený príslušníkom policajného zboru je absolútne nečitateľná a nepreskúmateľná, preto nespĺňa náležitosti zákonného dôkazu, nie je z nej zrejmý typ vozidla, značka vozidla, farba vozidla a najmä ani evidenčné číslo vozidla v čase merania, teda v čase označenia meraného vozidla meracím krížom, namerané vozidlo nemuselo byť jeho a skutok je zadokumentovaný tak, že môže dôjsť k zámene s iným skutkom; 5. Uhol merania medzi smerom vysielaného lúča a smerom jazdy vozidla bol taký veľký, že spôsobil neobjektívnosť a nepresnosť merania rýchlosti daného vozidla. 
