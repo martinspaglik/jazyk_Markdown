@@ -103,6 +103,7 @@ Vhodné zaradiť medzi rozhodnutia k objektívnej zodpovednosti a procesným ná
 
 ## Úplný súvislý prepis
 
+| | |
 |---|---|
 |Súd:|Správny súd v Banskej Bystrici|
 |Spisová značka:|3S/41/2024|
