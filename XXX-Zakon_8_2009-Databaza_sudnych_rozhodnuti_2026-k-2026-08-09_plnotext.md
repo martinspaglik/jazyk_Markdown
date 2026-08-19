@@ -608,8 +608,9 @@ ECLI:                                ECLI:SK:KSTT:2026:2124201211.1
 
 
 
-                         ROZSUDOK V MENE
-                       SLOVENSKEJ REPUBLIKY
+                         **ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY**
+
+                         
 Krajský súd v Trnave v senáte zloženom z predsedníčky senátu: Mgr. Lucia Mizerová a sudcov: JUDr.
 Erika Tischlerová a JUDr. Peter Duman, v právnej veci žalobcu: A. B., nar. XX.XX.XXXX, adresa C.
 XXXX/X, D., zastúpeného advokátom: JUDr. Marcel Ružarovský, so sídlom A. Žarnova 11C, Trnava,
