@@ -607,8 +607,7 @@ Meno a priezvisko sudcu, VSÚ:        Mgr. Lucia Mizerová
 ECLI:                                ECLI:SK:KSTT:2026:2124201211.1
 
 
-
-                         **ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY**
+**ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY**
 
                          
 Krajský súd v Trnave v senáte zloženom z predsedníčky senátu: Mgr. Lucia Mizerová a sudcov: JUDr.
@@ -621,8 +620,7 @@ Okresného súdu Trnava č. k. 11C/20/2024-111 zo dňa 2. januára 2025 – žal
 výroku II. a výroku IV. o trovách konania a žalovaného voči vyhovujúcemu výroku I. a výroku IV. o trovách
 konania, takto
 
-
-                                             rozhodol:
+**rozhodol:**
 
 
 I. Odvolací súd napadnutý rozsudok súdu prvej inštancie v zamietajúcom výroku II. a v časti
@@ -630,15 +628,13 @@ vyhovujúceho výroku I. o uloženie povinnosti žalovanému zaplatiť žalobcov
 úrokom z omeškania vo výške 9,50 % ročne zo sumy 757,20 eura od 16.12.2023 do zaplatenia, do 15
 dní od právoplatnosti rozsudku p o t v r d z u j e .
 
-II. Vo zvyšku vyhovujúci výrok I. m e n í tak, že žaloba sa vo zvyšku              zamieta.
+II. Vo zvyšku vyhovujúci výrok I. m e n í tak, že žaloba sa vo zvyšku **zamieta**.
 
 III. Žalovanému p r i z n á v a voči žalobcovi nárok na náhradu trov prvoinštančného a odvolacieho
 konania v rozsahu 40 %.
 
 
-                                          odôvodnenie:
-
-
+**odôvodnenie:**
 
 
 1. Napadnutým rozsudkom súd prvej inštancie výrokom I. žalovanému uložil povinnosť zaplatiť žalobcovi
@@ -998,7 +994,9 @@ zaplatiť žalobcovi sumu 757,20 eura spolu s úrokom z omeškania vo výške 9,
 eura od 16.12.2023 do zaplatenia, do 15 dní od právoplatnosti rozsudku, podľa § 387 ods. 1 ako vecne
 správne potvrdiť a vo zvyšku vyhovujúci výrok I. podľa § 388 CSP zmeniť tak, že žaloba sa vo zvyšku
 zamieta.
-20. Pretože výrok III. rozsudku súdu prvej inštancie o vrátení preddavku na trovy dokazovania, nebol
+
+
+20. Pretože výrok III. rozsudku súdu prvej inštancie o vrátení preddavku na trovy dokazovania, nebol
 napadnutý odvolaním, nie je predmetom prieskumu odvolacieho súdu.
 
 21. Predmetom prieskumu odvolacieho súdu s poukazom na odôvodnenie napadnutého rozhodnutia,
@@ -1300,13 +1298,7 @@ právoplatnosti rozhodnutia, ktorým sa konanie skončí, samostatným uznesení
 47. Senát odvolacieho súdu toto rozhodnutie prijal pomerom hlasov 3:0.
 
 
-Poučenie:
-
-
--2-
-28Co/43/2025
-28Co/43/2025-
-2124201211
+*Poučenie:*
 Proti rozhodnutiu odvolacieho súdu je prípustné dovolanie, ak to zákon pripúšťa (§ 419 CSP).
 Dovolanie je prípustné proti každému rozhodnutiu odvolacieho súdu vo veci samej alebo ktorým sa
 konanie končí, ak
@@ -1419,8 +1411,8 @@ ECLI:                                ECLI:SK:KSBB:2026:6125011003.1
 
 
 
-                        ROZSUDOK V MENE
-                      SLOVENSKEJ REPUBLIKY
+**ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY**
+
 Krajský súd v Banskej Bystrici v senáte zloženom z predsedu senátu JUDr. Štefana Nováka, LL.M. a
 sudcov JUDr. Bc. Viktora Marka, PhD a Mgr. Ivany Datlovej, v trestnej veci obžalovaného A. B., pre zločin
 neoprávneného prechovávania omamnej látky a psychotropnej látky podľa § 171 ods. 2, ods. 4 písm. b)
@@ -1428,8 +1420,7 @@ Trestného zákona a iné, na verejnom zasadnutí dňa 8. apríla 2025 o odvolan
 prokurátora Okresnej prokuratúry Brezno, proti rozsudku Okresného súdu Banská Bystrica, pracovisko
 Brezno sp. zn. 9T/95/2025-417 zo dňa 27. januára 2026 takto
 
-
-                                            rozhodol:
+**rozhodol:**
 
 
 Podľa § 321 ods. 1 písm. d), ods. 2 Trestného poriadku z r u š u j e rozsudok Okresného súdu Banská
@@ -1438,7 +1429,7 @@ o trestoch a o ochrannom liečení.
 
 Rozhodujúc sám podľa § 322 ods. 3 Trestného poriadku
 
-odsudzuje
+**odsudzuje**
 
 obžalovaného A. B., nar. XX.XX.XXXX v B., trvalo bytom C. XXX/XX, B., t.č. ÚVV a ÚVTOS Banská
 Bystrica,
@@ -1466,12 +1457,7 @@ Podľa § 73 ods. 2 písm. c), § 74 ods. 1 Trestného zákona obžalovanému uk
 protitoxikomanické liečenie ústavnou formou.
 Výrok o vine v napadnutom rozsudku okresného súdu zostáva týmto zrušením nedotknutý.
 
-
-                                        odôvodnenie:
-
-
-8                                   5To/2/2026
-
+**odôvodnenie:**
 
 Rozsudkom Okresného súdu Banská Bystrica, pracovisko Brezno sp. zn. 9T/95/2025-417 zo dňa
 27. januára 2026 bol obžalovaný A. B. uznaný za vinného v bode 1/ z prečinu ohrozenia pod
@@ -1803,14 +1789,8 @@ výrokovej časti tohto rozsudku.
 Rozhodnutie bolo prijaté senátom Krajského súdu v Banskej Bystrici jednomyseľne (§ 163 ods. 4
 Trestného poriadku).
 
-
-Poučenie:
-
-
-1                                    5To/2/2026
-
-
 Proti tomuto rozhodnutiu ďalší riadny opravný prostriedok nie je prípustný.
+
 
 <!-- DECISION:END id=R5 -->
 
@@ -1854,21 +1834,19 @@ Meno a priezvisko sudcu, VSÚ:        JUDr. Zoltán Valentovič, PhD.
 ECLI:                                ECLI:SK:MSBA1:2026:1125014571.3
 
 
-
-                         ROZSUDOK V MENE
-                       SLOVENSKEJ REPUBLIKY
+**ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY**
+                       
 Mestský súd Bratislava I samosudcom JUDr. Zoltánom Valentovičom, PhD., v trestnej veci obžalovaného
 F. P., pre prečin ublíženia na zdraví podľa § 157 ods. 1, ods. 2 písm. a) Trestného zákona na hlavnom
 pojednávaní konanom 28. 01. 2026 v Bratislave, takto
 
-
-                                             rozhodol:
+**rozhodol:**
 
 
 Obžalovaný:
 F. P. narodený XX. XX. XXXX v Bratislave, trvale bytom V. X/XXXX, Bratislava
 
-s a u z n á v a v i n n ý m, ž e
+sa uznáva vinným, ž e
 
 obžalovaný dňa 15.10.2024 v čase o 19:40 hod., v Bratislave na križovatke ulíc Vrakunská - Komárovská
 - Podunajská, viedol osobné motorové vozidlo zn. Škoda Fabia, ev.č.: B., po ulici Vrakunská, v Bratislave,
